@@ -128,26 +128,17 @@ export function translateToUrdu(query) {
 }
 
 /**
- * Apply current activeFilters to the rendered book cards in the DOM.
+ * Trigger a library re-render after filter state has changed.
+ * The filter logic now lives inside renderLibrary() via getFilteredBooks(), so
+ * this function's job is to update the filter-clear button visibility and invoke
+ * the onUpdate callback (which callers wire to renderLibrary).
  * Accepts an optional onUpdate callback so callers (main.js) can trigger
  * a re-render without creating a circular import into rendering.js.
  * @param {(() => void) | undefined} [onUpdate]
  */
 export function applyFilters(onUpdate) {
-  const cards = document.querySelectorAll('#library-grid .card');
-  let anyHidden = false;
-  cards.forEach(card => {
-    const slug = card.dataset.slug;
-    const meta = getMeta(slug);
-    const name = (displayName(slug) + ' ' + slug).toLowerCase();
-    const show =
-      (!state.activeFilters.text || name.includes(state.activeFilters.text) || meta.author.toLowerCase().includes(state.activeFilters.text)) &&
-      (!state.activeFilters.author || meta.author === state.activeFilters.author) &&
-      (!state.activeFilters.category || meta.category === state.activeFilters.category) &&
-      (!state.activeFilters.tag || (meta.tags || []).includes(state.activeFilters.tag));
-    card.style.display = show ? '' : 'none';
-    if (!show) anyHidden = true;
-  });
-  document.getElementById('filter-clear').classList.toggle('hidden', !anyHidden);
+  const af = state.activeFilters;
+  const anyActive = !!(af.text || af.author || af.category || af.tag);
+  document.getElementById('filter-clear').classList.toggle('hidden', !anyActive);
   if (onUpdate) onUpdate();
 }

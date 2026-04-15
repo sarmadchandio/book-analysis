@@ -61,36 +61,21 @@ export function urduBarChart(canvasId, labels, values, color, label) {
 
 // ─── Library View ───
 
+/** Number of book cards to render per virtual-scroll batch. */
+const BATCH = 12;
+
 /**
- * Render the full library view: stat cards, book grid, and comparison charts.
+ * Build the HTML string for a single book card.
+ * @param {object} b - Book entry from state.booksIndex.books
+ * @param {number} i - Index used for cover color cycling
+ * @returns {string}
  */
-export function renderLibrary() {
-  const books = state.booksIndex.books;
-
-  const grid = document.getElementById('library-stats');
-  const agg = [
-    { v: books.length, l: 'Books', tip: 'Total books in the library' },
-    { v: books.reduce((s, b) => s + b.total_pages, 0).toLocaleString(), l: 'Pages', tip: 'Total pages across all books' },
-    { v: books.reduce((s, b) => s + b.total_words, 0).toLocaleString(), l: 'Words', tip: 'Total word count across all books' },
-    { v: books.reduce((s, b) => s + b.unique_tokens, 0).toLocaleString(), l: 'Unique Tokens', tip: 'Distinct meaningful words (stop words removed)' },
-  ];
-  const statAccents = ['#6B6BDE', '#B8B5F5', '#F2B630', '#1a1a1a'];
-  grid.innerHTML = agg.map((s, i) => `
-    <div class="card cursor-help" data-tip="${s.tip}" style="border-left:4px solid ${statAccents[i % statAccents.length]}">
-      <div class="card-body text-center">
-        <div class="stat-value">${s.v}</div>
-        <div class="stat-label">${s.l}</div>
-      </div>
-    </div>
-  `).join('');
-
-  const cardsGrid = document.getElementById('library-grid');
-  cardsGrid.innerHTML = books.map((b, i) => {
-    const meta = getMeta(b.name);
-    const coverColor = state.COVER_COLORS[i % state.COVER_COLORS.length];
-    const isLightCover = coverColor === '#D4D2FA' || coverColor === '#F2B630' || coverColor === '#B8B5F5';
-    const coverTextColor = isLightCover ? '#1a1a1a' : '#fff';
-    return `
+function bookCardHTML(b, i) {
+  const meta = getMeta(b.name);
+  const coverColor = state.COVER_COLORS[i % state.COVER_COLORS.length];
+  const isLightCover = coverColor === '#D4D2FA' || coverColor === '#F2B630' || coverColor === '#B8B5F5';
+  const coverTextColor = isLightCover ? '#1a1a1a' : '#fff';
+  return `
     <div class="card card-hover cursor-pointer" data-slug="${b.name}" onclick="openBook('${b.name}')">
       <div style="background:${coverColor};padding:20px 16px;position:relative;min-height:100px;">
         <svg style="position:absolute;inset:0;width:100%;height:100%;opacity:0.15"><line x1="0" y1="0" x2="100%" y2="100%" stroke="${coverTextColor}" stroke-width="1.5"/><line x1="100%" y1="0" x2="0" y2="100%" stroke="${coverTextColor}" stroke-width="1.5"/></svg>
@@ -106,18 +91,130 @@ export function renderLibrary() {
         </div>
       </div>
     </div>`;
-  }).join('');
+}
 
-  // Comparison chart
+/**
+ * Return the subset of books that match the current activeFilters.
+ * Returns all books when no filter is active.
+ * @returns {Array<object>}
+ */
+function getFilteredBooks() {
+  const books = state.booksIndex.books;
+  const af = state.activeFilters;
+  if (!af.text && !af.author && !af.category && !af.tag) return books;
+  return books.filter(b => {
+    const meta = getMeta(b.name);
+    const name = (displayName(b.name) + ' ' + b.name).toLowerCase();
+    return (
+      (!af.text || name.includes(af.text) || meta.author.toLowerCase().includes(af.text)) &&
+      (!af.author || meta.author === af.author) &&
+      (!af.category || meta.category === af.category) &&
+      (!af.tag || (meta.tags || []).includes(af.tag))
+    );
+  });
+}
+
+/**
+ * Render the full library view: stat cards, book grid (with IntersectionObserver virtual
+ * scroll when book count > BATCH and no filters active), and comparison charts.
+ *
+ * Virtual scroll behaviour:
+ *  - BATCH=12 cards rendered immediately; a sentinel <div> is appended to the grid.
+ *  - IntersectionObserver (rootMargin: '200px') watches the sentinel and appends the
+ *    next BATCH when it enters the viewport.
+ *  - When all cards are rendered the observer is disconnected and the sentinel removed.
+ * Filter bypass: when any activeFilter is non-empty, all matching cards are rendered
+ * synchronously and no observer is created.
+ * Short-list bypass: when books.length <= BATCH the grid is also rendered synchronously.
+ */
+export function renderLibrary() {
+  const allBooks = state.booksIndex.books;
+
+  // ── Stat cards (always rendered synchronously) ──
+  const statsGrid = document.getElementById('library-stats');
+  const agg = [
+    { v: allBooks.length, l: 'Books', tip: 'Total books in the library' },
+    { v: allBooks.reduce((s, b) => s + b.total_pages, 0).toLocaleString(), l: 'Pages', tip: 'Total pages across all books' },
+    { v: allBooks.reduce((s, b) => s + b.total_words, 0).toLocaleString(), l: 'Words', tip: 'Total word count across all books' },
+    { v: allBooks.reduce((s, b) => s + b.unique_tokens, 0).toLocaleString(), l: 'Unique Tokens', tip: 'Distinct meaningful words (stop words removed)' },
+  ];
+  const statAccents = ['#6B6BDE', '#B8B5F5', '#F2B630', '#1a1a1a'];
+  statsGrid.innerHTML = agg.map((s, i) => `
+    <div class="card cursor-help" data-tip="${s.tip}" style="border-left:4px solid ${statAccents[i % statAccents.length]}">
+      <div class="card-body text-center">
+        <div class="stat-value">${s.v}</div>
+        <div class="stat-label">${s.l}</div>
+      </div>
+    </div>
+  `).join('');
+
+  // ── Book grid ──
+  // Tear down any prior IntersectionObserver before rebuilding the grid.
+  if (state.currentLibraryObserver) {
+    state.currentLibraryObserver.disconnect();
+    state.currentLibraryObserver = null;
+  }
+
+  const cardsGrid = document.getElementById('library-grid');
+  cardsGrid.innerHTML = '';
+
+  const books = getFilteredBooks();
+
+  // Determine if any filter is currently active.
+  const af = state.activeFilters;
+  const filtersActive = !!(af.text || af.author || af.category || af.tag);
+
+  // Bypass virtual scroll: render all matching cards synchronously.
+  if (filtersActive || books.length <= BATCH) {
+    cardsGrid.innerHTML = books.map((b, i) => bookCardHTML(b, i)).join('');
+  } else {
+    // Virtual scroll path — render first BATCH, then observe sentinel.
+    let offset = 0;
+
+    const appendBatch = () => {
+      const slice = books.slice(offset, offset + BATCH);
+      for (let j = 0; j < slice.length; j++) {
+        const tpl = document.createElement('template');
+        tpl.innerHTML = bookCardHTML(slice[j], offset + j).trim();
+        cardsGrid.appendChild(tpl.content.firstElementChild);
+      }
+      offset += slice.length;
+    };
+
+    appendBatch();
+
+    const sentinel = document.createElement('div');
+    sentinel.style.gridColumn = '1 / -1';
+    sentinel.style.height = '1px';
+    cardsGrid.appendChild(sentinel);
+
+    const observer = new IntersectionObserver((entries) => {
+      if (!entries[0].isIntersecting) return;
+      if (offset >= books.length) {
+        observer.disconnect();
+        sentinel.remove();
+        state.currentLibraryObserver = null;
+        return;
+      }
+      appendBatch();
+      // Keep sentinel at the very end of the grid.
+      cardsGrid.appendChild(sentinel);
+    }, { rootMargin: '200px' });
+
+    observer.observe(sentinel);
+    state.currentLibraryObserver = observer;
+  }
+
+  // ── Comparison charts (always use the full book list, not filtered) ──
   destroyChart('chart-lib-comparison');
   const ctx1 = document.getElementById('chart-lib-comparison').getContext('2d');
   state.charts['chart-lib-comparison'] = new Chart(ctx1, {
     type: 'bar',
     data: {
-      labels: books.map(b => displayName(b.name)),
+      labels: allBooks.map(b => displayName(b.name)),
       datasets: [
-        { label: 'Total Words', data: books.map(b => b.total_words), backgroundColor: state.COLORS[0] + '88' },
-        { label: 'Unique Words', data: books.map(b => b.unique_words), backgroundColor: state.COLORS[1] + '88' },
+        { label: 'Total Words', data: allBooks.map(b => b.total_words), backgroundColor: state.COLORS[0] + '88' },
+        { label: 'Unique Words', data: allBooks.map(b => b.unique_words), backgroundColor: state.COLORS[1] + '88' },
       ]
     },
     options: {
@@ -134,12 +231,12 @@ export function renderLibrary() {
   state.charts['chart-lib-richness'] = new Chart(ctx2, {
     type: 'bar',
     data: {
-      labels: books.map(b => displayName(b.name)),
+      labels: allBooks.map(b => displayName(b.name)),
       datasets: [{
         label: 'Lexical Richness',
-        data: books.map(b => (b.lexical_richness * 100).toFixed(1)),
-        backgroundColor: books.map((_, i) => state.COLORS[i % state.COLORS.length] + '88'),
-        borderColor: books.map((_, i) => state.COLORS[i % state.COLORS.length]),
+        data: allBooks.map(b => (b.lexical_richness * 100).toFixed(1)),
+        backgroundColor: allBooks.map((_, i) => state.COLORS[i % state.COLORS.length] + '88'),
+        borderColor: allBooks.map((_, i) => state.COLORS[i % state.COLORS.length]),
         borderWidth: 1,
       }]
     },

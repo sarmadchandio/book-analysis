@@ -17,6 +17,7 @@
  *   entityData: Record<string, any>,
  *   topicsCache: Record<string, any>,
  *   activeFilters: { text: string, author: string, category: string, tag: string },
+ *   currentLibraryObserver: IntersectionObserver | null,
  *   COLORS: string[],
  *   COVER_COLORS: string[],
  *   URDU_FONT: string,
@@ -47,6 +48,8 @@ export const state = {
   topicsCache: {},
   /** @type {{ text: string, author: string, category: string, tag: string }} */
   activeFilters: { text: '', author: '', category: '', tag: '' },
+  /** @type {IntersectionObserver | null} */
+  currentLibraryObserver: null,
 
   // ─── Constants (kept on state to minimize imports downstream) ───
   COLORS: ['#6B6BDE', '#B8B5F5', '#F2B630', '#1a1a1a', '#D4D2FA', '#ec4899', '#06b6d4', '#84cc16'],

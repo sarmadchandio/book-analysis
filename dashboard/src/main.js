@@ -215,23 +215,23 @@ function initFilters() {
     el.textContent = tag;
     el.addEventListener('click', () => {
       state.activeFilters.tag = state.activeFilters.tag === tag ? '' : tag;
-      applyFilters();
+      applyFilters(renderLibrary);
     });
     tagsDiv.appendChild(el);
   });
 
   document.getElementById('filter-text').addEventListener('input', e => {
     state.activeFilters.text = e.target.value.toLowerCase();
-    applyFilters();
+    applyFilters(renderLibrary);
   });
-  authorSel.addEventListener('change', e => { state.activeFilters.author = e.target.value; applyFilters(); });
-  catSel.addEventListener('change', e => { state.activeFilters.category = e.target.value; applyFilters(); });
+  authorSel.addEventListener('change', e => { state.activeFilters.author = e.target.value; applyFilters(renderLibrary); });
+  catSel.addEventListener('change', e => { state.activeFilters.category = e.target.value; applyFilters(renderLibrary); });
   document.getElementById('filter-clear').addEventListener('click', () => {
     state.activeFilters = { text: '', author: '', category: '', tag: '' };
     document.getElementById('filter-text').value = '';
     document.getElementById('filter-author').value = '';
     document.getElementById('filter-category').value = '';
-    applyFilters();
+    applyFilters(renderLibrary);
   });
 }
 
