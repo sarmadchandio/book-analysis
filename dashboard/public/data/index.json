@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "name": "ankhain",
+      "total_pages": 135,
+      "total_chars": 69206,
+      "total_words": 14553,
+      "unique_words": 2725,
+      "total_tokens": 8425,
+      "unique_tokens": 2632,
+      "avg_words_per_page": 107.8,
+      "lexical_richness": 0.3124
+    },
+    {
+      "name": "deewan-e-ghalib",
+      "total_pages": 50,
+      "total_chars": 12013,
+      "total_words": 2527,
+      "unique_words": 1036,
+      "total_tokens": 1605,
+      "unique_tokens": 955,
+      "avg_words_per_page": 50.5,
+      "lexical_richness": 0.595
+    },
+    {
+      "name": "murda-ankhain",
+      "total_pages": 141,
+      "total_chars": 144573,
+      "total_words": 31109,
+      "unique_words": 4971,
+      "total_tokens": 17207,
+      "unique_tokens": 4853,
+      "avg_words_per_page": 220.6,
+      "lexical_richness": 0.282
+    }
+  ]
+}

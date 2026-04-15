@@ -1,0 +1,55 @@
+{
+  "people": [
+    {"urdu": "غالب", "english": "Ghalib (Mirza Ghalib)", "type": "poet"},
+    {"urdu": "اسد", "english": "Asad (Ghalib's pen name)", "type": "poet"},
+    {"urdu": "قیس", "english": "Qais (Majnun)", "type": "character"},
+    {"urdu": "مجنوں", "english": "Majnun", "type": "character"},
+    {"urdu": "یوسف", "english": "Yusuf (Joseph)", "type": "reference"},
+    {"urdu": "یعقوب", "english": "Yaqub (Jacob)", "type": "reference"},
+    {"urdu": "رضواں", "english": "Rizwan (Guardian of Paradise)", "type": "reference"},
+    {"urdu": "ملک الموت", "english": "Malak al-Maut (Angel of Death)", "type": "reference"},
+    {"urdu": "شیفتہ", "english": "Sheftah (poet contemporary)", "type": "poet"}
+  ],
+  "places": [
+    {"urdu": "صحرا", "english": "Desert", "type": "location"},
+    {"urdu": "چمن", "english": "Garden", "type": "location"},
+    {"urdu": "خلد", "english": "Paradise", "type": "location"},
+    {"urdu": "مصر", "english": "Egypt", "type": "city"},
+    {"urdu": "طور", "english": "Mount Sinai", "type": "location"},
+    {"urdu": "مسجد", "english": "Mosque", "type": "location"},
+    {"urdu": "خرابات", "english": "Tavern/Ruins", "type": "location"}
+  ],
+  "themes": [
+    {"urdu": "دل", "english": "Heart", "count_hint": "high"},
+    {"urdu": "عشق", "english": "Love/Passion", "count_hint": "high"},
+    {"urdu": "غم", "english": "Grief/Sorrow", "count_hint": "high"},
+    {"urdu": "یاد", "english": "Memory", "count_hint": "high"},
+    {"urdu": "مے / شراب", "english": "Wine", "count_hint": "medium"},
+    {"urdu": "شمع", "english": "Candle/Flame", "count_hint": "medium"},
+    {"urdu": "آئینہ", "english": "Mirror", "count_hint": "medium"},
+    {"urdu": "ہجراں", "english": "Separation", "count_hint": "medium"},
+    {"urdu": "جنون", "english": "Madness of love", "count_hint": "low"},
+    {"urdu": "خدا", "english": "God", "count_hint": "medium"},
+    {"urdu": "تقدیر", "english": "Fate/Destiny", "count_hint": "low"}
+  ],
+  "relationships": [
+    {"from": "غالب", "to": "اسد", "type": "same_person", "label": "pen names"},
+    {"from": "غالب", "to": "عشق", "type": "theme_of", "label": "central theme"},
+    {"from": "غالب", "to": "غم", "type": "theme_of", "label": "central theme"},
+    {"from": "قیس", "to": "صحرا", "type": "located_in", "label": "wandered in"},
+    {"from": "قیس", "to": "مجنوں", "type": "same_person", "label": "same figure"},
+    {"from": "یوسف", "to": "یعقوب", "type": "family", "label": "father-son"},
+    {"from": "یوسف", "to": "مصر", "type": "located_in", "label": "sent to"},
+    {"from": "رضواں", "to": "خلد", "type": "located_in", "label": "guardian of"},
+    {"from": "دل", "to": "عشق", "type": "theme_of", "label": "seat of"},
+    {"from": "دل", "to": "غم", "type": "theme_of", "label": "bears"},
+    {"from": "مے", "to": "خرابات", "type": "located_in", "label": "found in"},
+    {"from": "مسجد", "to": "خرابات", "type": "contrast", "label": "orthodoxy vs freedom"},
+    {"from": "شمع", "to": "عشق", "type": "theme_of", "label": "symbol of"},
+    {"from": "آئینہ", "to": "دل", "type": "theme_of", "label": "reflects"},
+    {"from": "ہجراں", "to": "یاد", "type": "theme_of", "label": "triggers"},
+    {"from": "غالب", "to": "شیفتہ", "type": "mentioned_with", "label": "contemporaries"},
+    {"from": "غالب", "to": "ملک الموت", "type": "mentioned_with", "label": "defied"},
+    {"from": "مجنوں", "to": "جنون", "type": "theme_of", "label": "embodiment of"}
+  ]
+}
