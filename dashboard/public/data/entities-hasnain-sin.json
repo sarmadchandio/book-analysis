@@ -11,60 +11,117 @@
       "type": "family"
     },
     {
+      "urdu": "Shamshad Hasnain",
+      "english": "Shamshad Hasnain (father, dedicatee)",
+      "type": "family"
+    },
+    {
+      "urdu": "Hagar",
+      "english": "Hagar (biblical figure)",
+      "type": "reference"
+    },
+    {
+      "urdu": "God",
+      "english": "God (addressee)",
+      "type": "reference"
+    },
+    {
       "urdu": "James Rawlings",
       "english": "James Rawlings (editor)",
       "type": "editor"
     },
     {
-      "urdu": "William Blake",
-      "english": "William Blake (reference)",
+      "urdu": "Annie Ernaux",
+      "english": "Annie Ernaux (reading list)",
       "type": "reference"
     },
     {
       "urdu": "Czeslaw Milosz",
-      "english": "Czeslaw Milosz (reference)",
+      "english": "Czeslaw Milosz (reading list)",
       "type": "reference"
     },
     {
-      "urdu": "Annie Ernaux",
-      "english": "Annie Ernaux (reference)",
+      "urdu": "William Blake",
+      "english": "William Blake (reading list)",
+      "type": "reference"
+    },
+    {
+      "urdu": "Lucille Clifton",
+      "english": "Lucille Clifton (footnote)",
+      "type": "reference"
+    },
+    {
+      "urdu": "Lubna Safi",
+      "english": "Lubna Safi (footnote)",
       "type": "reference"
     }
   ],
-  "places": [],
+  "places": [
+    {
+      "urdu": "Amrika",
+      "english": "America (as 'amrika', transliterated)",
+      "type": "country"
+    }
+  ],
   "themes": [
     {
-      "urdu": "Desire",
-      "english": "Desire & Pleasure",
-      "count_hint": "high"
-    },
-    {
       "urdu": "Sin",
-      "english": "Sin & Morality",
+      "english": "Sin & Transgression",
       "count_hint": "high"
     },
     {
-      "urdu": "Mortality",
-      "english": "Mortality & the Body",
+      "urdu": "God",
+      "english": "God & Faith",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Body",
+      "english": "Body & Desire",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Water",
+      "english": "Water, Bathing & the Shower",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Femininity",
+      "english": "Femininity & Girlhood",
       "count_hint": "high"
     },
     {
       "urdu": "Mother",
-      "english": "Mother & Domestic Space",
-      "count_hint": "high"
-    },
-    {
-      "urdu": "Literature",
-      "english": "Reading & Literary Inheritance",
+      "english": "Mother & Domestic Sound",
       "count_hint": "medium"
     },
     {
-      "urdu": "Solitude",
-      "english": "Solitude & Window-gazing",
+      "urdu": "Exile",
+      "english": "Exile & 'Amrika'",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Dream",
+      "english": "Dreams & Groping for God",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Silence",
+      "english": "Silence & Grief",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Prayer",
+      "english": "Ghazal, Prayer & Address",
       "count_hint": "medium"
     }
   ],
   "relationships": [
+    {
+      "from": "Javeria Hasnain",
+      "to": "God",
+      "type": "addresses",
+      "label": "confrontation"
+    },
     {
       "from": "Javeria Hasnain",
       "to": "Amma",
@@ -73,21 +130,27 @@
     },
     {
       "from": "Javeria Hasnain",
-      "to": "William Blake",
-      "type": "influence",
-      "label": "reading"
+      "to": "Shamshad Hasnain",
+      "type": "family",
+      "label": "in memoriam"
     },
     {
       "from": "Javeria Hasnain",
-      "to": "Annie Ernaux",
-      "type": "influence",
-      "label": "reading"
+      "to": "Hagar",
+      "type": "writes_about",
+      "label": "Hagar's Complaint"
     },
     {
       "from": "Javeria Hasnain",
-      "to": "Czeslaw Milosz",
-      "type": "influence",
-      "label": "reading"
+      "to": "Amrika",
+      "type": "exiled_in",
+      "label": "absence"
+    },
+    {
+      "from": "Body",
+      "to": "Sin",
+      "type": "thematic",
+      "label": "body as sin"
     }
   ]
 }

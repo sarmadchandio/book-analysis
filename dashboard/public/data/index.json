@@ -1,124 +1,16 @@
 {
   "books": [
     {
-      "name": "4628-meer-taqi-meer-hauyatt-aur-shaury",
-      "language": "ur",
-      "total_pages": 639,
-      "total_chars": 748718,
-      "total_words": 164115,
-      "unique_words": 16562,
-      "total_tokens": 97672,
-      "unique_tokens": 16429,
-      "avg_words_per_page": 256.8,
-      "lexical_richness": 0.1682
-    },
-    {
-      "name": "ankhain",
-      "language": "ur",
-      "total_pages": 135,
-      "total_chars": 69206,
-      "total_words": 14553,
-      "unique_words": 2725,
-      "total_tokens": 8425,
-      "unique_tokens": 2632,
-      "avg_words_per_page": 107.8,
-      "lexical_richness": 0.3124
-    },
-    {
-      "name": "aria-aber-good-girl",
-      "language": "en",
-      "total_pages": 361,
-      "total_chars": 514212,
-      "total_words": 94270,
-      "unique_words": 9956,
-      "total_tokens": 45035,
-      "unique_tokens": 9769,
-      "avg_words_per_page": 261.1,
-      "lexical_richness": 0.2169
-    },
-    {
-      "name": "deewan-e-ghalib",
-      "language": "ur",
-      "total_pages": 50,
-      "total_chars": 12013,
-      "total_words": 2527,
-      "unique_words": 1036,
-      "total_tokens": 1605,
-      "unique_tokens": 955,
-      "avg_words_per_page": 50.5,
-      "lexical_richness": 0.595
-    },
-    {
-      "name": "deewan-e-meer",
-      "language": "ur",
-      "total_pages": 210,
-      "total_chars": 90152,
-      "total_words": 18470,
-      "unique_words": 4009,
-      "total_tokens": 16007,
-      "unique_tokens": 3923,
-      "avg_words_per_page": 88.0,
-      "lexical_richness": 0.2451
-    },
-    {
-      "name": "deewan-e-meer-by-meer-taqi-meer-urduinpage-com",
-      "language": "ur",
-      "total_pages": 342,
-      "total_chars": 133754,
-      "total_words": 25343,
-      "unique_words": 4284,
-      "total_tokens": 15172,
-      "unique_tokens": 4159,
-      "avg_words_per_page": 74.1,
-      "lexical_richness": 0.2741
-    },
-    {
       "name": "hasnain-sin",
       "language": "en",
-      "total_pages": 11,
-      "total_chars": 16532,
-      "total_words": 2911,
-      "unique_words": 1036,
-      "total_tokens": 1522,
-      "unique_tokens": 929,
-      "avg_words_per_page": 264.6,
-      "lexical_richness": 0.6104
-    },
-    {
-      "name": "jenny-xie-eye-level",
-      "language": "en",
-      "total_pages": 57,
-      "total_chars": 44625,
-      "total_words": 7740,
-      "unique_words": 2560,
-      "total_tokens": 4282,
-      "unique_tokens": 2422,
-      "avg_words_per_page": 135.8,
-      "lexical_richness": 0.5656
-    },
-    {
-      "name": "kulliyat-e-meer-farhang-meer-taqi-meer",
-      "language": "ur",
-      "total_pages": 27,
-      "total_chars": 44496,
-      "total_words": 8115,
-      "unique_words": 2739,
-      "total_tokens": 6565,
-      "unique_tokens": 2661,
-      "avg_words_per_page": 300.6,
-      "lexical_richness": 0.4053
-    },
-    {
-      "name": "masnavi-dariya-e-ishq-meer-taqi-meer-ebooks-3",
-      "language": "ur",
-      "total_pages": 12,
-      "total_chars": 5413,
-      "total_words": 1218,
-      "unique_words": 714,
-      "total_tokens": 800,
-      "unique_tokens": 645,
-      "avg_words_per_page": 101.5,
-      "lexical_richness": 0.8063
+      "total_pages": 21,
+      "total_chars": 15671,
+      "total_words": 2809,
+      "unique_words": 1035,
+      "total_tokens": 1453,
+      "unique_tokens": 928,
+      "avg_words_per_page": 133.8,
+      "lexical_richness": 0.6387
     }
   ]
 }
