@@ -1,6 +1,15 @@
 {
   "book": "ankhain",
   "n_clusters": 7,
+  "cluster_labels": {
+    "0": "Mortality and Prayer",
+    "1": "Homeland and Exile",
+    "2": "Honor and Confinement",
+    "3": "Night Lamps and Prose-Poem",
+    "4": "Stolen Colors",
+    "5": "Loneliness and Literary Critique",
+    "6": "Motherhood and Hunger"
+  },
   "points": [
     {
       "page_num": 0,

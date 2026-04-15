@@ -1,0 +1,3522 @@
+{
+  "stats": {
+    "name": "deewan-e-meer",
+    "total_pages": 210,
+    "total_chars": 90152,
+    "total_words": 18470,
+    "unique_words": 4009,
+    "total_tokens": 16007,
+    "unique_tokens": 3923,
+    "avg_words_per_page": 88.0,
+    "lexical_richness": 0.2451
+  },
+  "word_freq": [
+    {
+      "word": "جي",
+      "count": 399
+    },
+    {
+      "word": "تي",
+      "count": 263
+    },
+    {
+      "word": "مير",
+      "count": 251
+    },
+    {
+      "word": "آهي",
+      "count": 237
+    },
+    {
+      "word": "کي",
+      "count": 224
+    },
+    {
+      "word": "الله",
+      "count": 221
+    },
+    {
+      "word": "خان",
+      "count": 213
+    },
+    {
+      "word": "غلام",
+      "count": 204
+    },
+    {
+      "word": "غزل",
+      "count": 190
+    },
+    {
+      "word": "تالپر",
+      "count": 185
+    },
+    {
+      "word": "دیوان",
+      "count": 161
+    },
+    {
+      "word": "دل",
+      "count": 158
+    },
+    {
+      "word": "سان",
+      "count": 152
+    },
+    {
+      "word": "میر",
+      "count": 151
+    },
+    {
+      "word": "مون",
+      "count": 150
+    },
+    {
+      "word": "نه",
+      "count": 139
+    },
+    {
+      "word": "تون",
+      "count": 122
+    },
+    {
+      "word": "كان",
+      "count": 113
+    },
+    {
+      "word": "به",
+      "count": 102
+    },
+    {
+      "word": "هي",
+      "count": 98
+    },
+    {
+      "word": "اسان",
+      "count": 96
+    },
+    {
+      "word": "كي",
+      "count": 87
+    },
+    {
+      "word": "تنهنجي",
+      "count": 85
+    },
+    {
+      "word": "هن",
+      "count": 83
+    },
+    {
+      "word": "اي",
+      "count": 82
+    },
+    {
+      "word": "منهنجي",
+      "count": 76
+    },
+    {
+      "word": "كري",
+      "count": 74
+    },
+    {
+      "word": "ته",
+      "count": 71
+    },
+    {
+      "word": "درد",
+      "count": 67
+    },
+    {
+      "word": "هر",
+      "count": 63
+    },
+    {
+      "word": "هو",
+      "count": 62
+    },
+    {
+      "word": "كذهن",
+      "count": 59
+    },
+    {
+      "word": "بي",
+      "count": 56
+    },
+    {
+      "word": "آه",
+      "count": 55
+    },
+    {
+      "word": "اچي",
+      "count": 54
+    },
+    {
+      "word": "نم",
+      "count": 51
+    },
+    {
+      "word": "كر",
+      "count": 51
+    },
+    {
+      "word": "مان",
+      "count": 50
+    },
+    {
+      "word": "تا",
+      "count": 49
+    },
+    {
+      "word": "پنهنجي",
+      "count": 48
+    },
+    {
+      "word": "ديوان",
+      "count": 48
+    },
+    {
+      "word": "ئي",
+      "count": 47
+    },
+    {
+      "word": "پئي",
+      "count": 45
+    },
+    {
+      "word": "كنهن",
+      "count": 44
+    },
+    {
+      "word": "محبت",
+      "count": 44
+    },
+    {
+      "word": "جون",
+      "count": 44
+    },
+    {
+      "word": "چو",
+      "count": 44
+    },
+    {
+      "word": "كو",
+      "count": 43
+    },
+    {
+      "word": "رات",
+      "count": 43
+    },
+    {
+      "word": "اچ",
+      "count": 43
+    },
+    {
+      "word": "كا",
+      "count": 40
+    },
+    {
+      "word": "وري",
+      "count": 39
+    },
+    {
+      "word": "محبوب",
+      "count": 39
+    },
+    {
+      "word": "آهن",
+      "count": 38
+    },
+    {
+      "word": "يار",
+      "count": 38
+    },
+    {
+      "word": "ها",
+      "count": 37
+    },
+    {
+      "word": "اوهان",
+      "count": 36
+    },
+    {
+      "word": "محمد",
+      "count": 35
+    },
+    {
+      "word": "چا",
+      "count": 35
+    },
+    {
+      "word": "ياد",
+      "count": 35
+    },
+    {
+      "word": "پيو",
+      "count": 35
+    },
+    {
+      "word": "كيئن",
+      "count": 34
+    },
+    {
+      "word": "من",
+      "count": 33
+    },
+    {
+      "word": "وفا",
+      "count": 33
+    },
+    {
+      "word": "سواء",
+      "count": 32
+    },
+    {
+      "word": "ويو",
+      "count": 32
+    },
+    {
+      "word": "حسن",
+      "count": 31
+    },
+    {
+      "word": "غم",
+      "count": 31
+    },
+    {
+      "word": "دي",
+      "count": 29
+    },
+    {
+      "word": "ردیف",
+      "count": 29
+    },
+    {
+      "word": "كلهن",
+      "count": 29
+    },
+    {
+      "word": "عشق",
+      "count": 29
+    },
+    {
+      "word": "مركي",
+      "count": 29
+    },
+    {
+      "word": "هك",
+      "count": 28
+    },
+    {
+      "word": "ناهي",
+      "count": 27
+    },
+    {
+      "word": "تيو",
+      "count": 27
+    },
+    {
+      "word": "لي",
+      "count": 26
+    },
+    {
+      "word": "الفت",
+      "count": 26
+    },
+    {
+      "word": "یار",
+      "count": 25
+    },
+    {
+      "word": "جنهن",
+      "count": 24
+    },
+    {
+      "word": "پيار",
+      "count": 24
+    },
+    {
+      "word": "رديف",
+      "count": 24
+    },
+    {
+      "word": "كتي",
+      "count": 24
+    },
+    {
+      "word": "اج",
+      "count": 24
+    },
+    {
+      "word": "تنهنجو",
+      "count": 24
+    },
+    {
+      "word": "ناز",
+      "count": 23
+    },
+    {
+      "word": "منهنجو",
+      "count": 22
+    },
+    {
+      "word": "جن",
+      "count": 22
+    },
+    {
+      "word": "كرن",
+      "count": 22
+    },
+    {
+      "word": "تئي",
+      "count": 22
+    },
+    {
+      "word": "وي",
+      "count": 22
+    },
+    {
+      "word": "بلا",
+      "count": 22
+    },
+    {
+      "word": "منا",
+      "count": 22
+    },
+    {
+      "word": "کان",
+      "count": 21
+    },
+    {
+      "word": "كئي",
+      "count": 21
+    },
+    {
+      "word": "كيو",
+      "count": 21
+    },
+    {
+      "word": "آهين",
+      "count": 21
+    },
+    {
+      "word": "كتاب",
+      "count": 20
+    },
+    {
+      "word": "پل",
+      "count": 20
+    },
+    {
+      "word": "حسين",
+      "count": 20
+    }
+  ],
+  "page_stats": [
+    {
+      "page": 0,
+      "words": 18,
+      "tokens": 18
+    },
+    {
+      "page": 1,
+      "words": 21,
+      "tokens": 21
+    },
+    {
+      "page": 2,
+      "words": 62,
+      "tokens": 57
+    },
+    {
+      "page": 3,
+      "words": 27,
+      "tokens": 25
+    },
+    {
+      "page": 4,
+      "words": 0,
+      "tokens": 0
+    },
+    {
+      "page": 5,
+      "words": 234,
+      "tokens": 219
+    },
+    {
+      "page": 6,
+      "words": 289,
+      "tokens": 258
+    },
+    {
+      "page": 7,
+      "words": 192,
+      "tokens": 169
+    },
+    {
+      "page": 8,
+      "words": 189,
+      "tokens": 174
+    },
+    {
+      "page": 9,
+      "words": 214,
+      "tokens": 194
+    },
+    {
+      "page": 10,
+      "words": 61,
+      "tokens": 55
+    },
+    {
+      "page": 11,
+      "words": 15,
+      "tokens": 15
+    },
+    {
+      "page": 12,
+      "words": 0,
+      "tokens": 0
+    },
+    {
+      "page": 13,
+      "words": 94,
+      "tokens": 79
+    },
+    {
+      "page": 14,
+      "words": 78,
+      "tokens": 69
+    },
+    {
+      "page": 15,
+      "words": 99,
+      "tokens": 84
+    },
+    {
+      "page": 16,
+      "words": 163,
+      "tokens": 137
+    },
+    {
+      "page": 17,
+      "words": 132,
+      "tokens": 112
+    },
+    {
+      "page": 18,
+      "words": 68,
+      "tokens": 58
+    },
+    {
+      "page": 19,
+      "words": 115,
+      "tokens": 98
+    },
+    {
+      "page": 20,
+      "words": 91,
+      "tokens": 83
+    },
+    {
+      "page": 21,
+      "words": 91,
+      "tokens": 77
+    },
+    {
+      "page": 22,
+      "words": 79,
+      "tokens": 66
+    },
+    {
+      "page": 23,
+      "words": 77,
+      "tokens": 62
+    },
+    {
+      "page": 24,
+      "words": 79,
+      "tokens": 70
+    },
+    {
+      "page": 25,
+      "words": 72,
+      "tokens": 60
+    },
+    {
+      "page": 26,
+      "words": 93,
+      "tokens": 82
+    },
+    {
+      "page": 27,
+      "words": 90,
+      "tokens": 72
+    },
+    {
+      "page": 28,
+      "words": 73,
+      "tokens": 63
+    },
+    {
+      "page": 29,
+      "words": 103,
+      "tokens": 77
+    },
+    {
+      "page": 30,
+      "words": 88,
+      "tokens": 69
+    },
+    {
+      "page": 31,
+      "words": 80,
+      "tokens": 68
+    },
+    {
+      "page": 32,
+      "words": 71,
+      "tokens": 59
+    },
+    {
+      "page": 33,
+      "words": 104,
+      "tokens": 91
+    },
+    {
+      "page": 34,
+      "words": 91,
+      "tokens": 78
+    },
+    {
+      "page": 35,
+      "words": 70,
+      "tokens": 62
+    },
+    {
+      "page": 36,
+      "words": 68,
+      "tokens": 62
+    },
+    {
+      "page": 37,
+      "words": 106,
+      "tokens": 102
+    },
+    {
+      "page": 38,
+      "words": 101,
+      "tokens": 93
+    },
+    {
+      "page": 39,
+      "words": 69,
+      "tokens": 64
+    },
+    {
+      "page": 40,
+      "words": 76,
+      "tokens": 67
+    },
+    {
+      "page": 41,
+      "words": 73,
+      "tokens": 59
+    },
+    {
+      "page": 42,
+      "words": 69,
+      "tokens": 60
+    },
+    {
+      "page": 43,
+      "words": 84,
+      "tokens": 69
+    },
+    {
+      "page": 44,
+      "words": 83,
+      "tokens": 71
+    },
+    {
+      "page": 45,
+      "words": 86,
+      "tokens": 81
+    },
+    {
+      "page": 46,
+      "words": 68,
+      "tokens": 62
+    },
+    {
+      "page": 47,
+      "words": 80,
+      "tokens": 70
+    },
+    {
+      "page": 48,
+      "words": 87,
+      "tokens": 79
+    },
+    {
+      "page": 49,
+      "words": 69,
+      "tokens": 63
+    },
+    {
+      "page": 50,
+      "words": 90,
+      "tokens": 75
+    },
+    {
+      "page": 51,
+      "words": 89,
+      "tokens": 67
+    },
+    {
+      "page": 52,
+      "words": 80,
+      "tokens": 71
+    },
+    {
+      "page": 53,
+      "words": 76,
+      "tokens": 67
+    },
+    {
+      "page": 54,
+      "words": 85,
+      "tokens": 63
+    },
+    {
+      "page": 55,
+      "words": 77,
+      "tokens": 58
+    },
+    {
+      "page": 56,
+      "words": 79,
+      "tokens": 67
+    },
+    {
+      "page": 57,
+      "words": 81,
+      "tokens": 63
+    },
+    {
+      "page": 58,
+      "words": 102,
+      "tokens": 85
+    },
+    {
+      "page": 59,
+      "words": 96,
+      "tokens": 86
+    },
+    {
+      "page": 60,
+      "words": 72,
+      "tokens": 61
+    },
+    {
+      "page": 61,
+      "words": 89,
+      "tokens": 77
+    },
+    {
+      "page": 62,
+      "words": 80,
+      "tokens": 67
+    },
+    {
+      "page": 63,
+      "words": 79,
+      "tokens": 71
+    },
+    {
+      "page": 64,
+      "words": 85,
+      "tokens": 75
+    },
+    {
+      "page": 65,
+      "words": 80,
+      "tokens": 64
+    },
+    {
+      "page": 66,
+      "words": 93,
+      "tokens": 86
+    },
+    {
+      "page": 67,
+      "words": 103,
+      "tokens": 91
+    },
+    {
+      "page": 68,
+      "words": 87,
+      "tokens": 77
+    },
+    {
+      "page": 69,
+      "words": 76,
+      "tokens": 68
+    },
+    {
+      "page": 70,
+      "words": 76,
+      "tokens": 61
+    },
+    {
+      "page": 71,
+      "words": 65,
+      "tokens": 53
+    },
+    {
+      "page": 72,
+      "words": 72,
+      "tokens": 69
+    },
+    {
+      "page": 73,
+      "words": 73,
+      "tokens": 68
+    },
+    {
+      "page": 74,
+      "words": 76,
+      "tokens": 66
+    },
+    {
+      "page": 75,
+      "words": 98,
+      "tokens": 89
+    },
+    {
+      "page": 76,
+      "words": 106,
+      "tokens": 75
+    },
+    {
+      "page": 77,
+      "words": 79,
+      "tokens": 69
+    },
+    {
+      "page": 78,
+      "words": 77,
+      "tokens": 65
+    },
+    {
+      "page": 79,
+      "words": 75,
+      "tokens": 67
+    },
+    {
+      "page": 80,
+      "words": 80,
+      "tokens": 72
+    },
+    {
+      "page": 81,
+      "words": 97,
+      "tokens": 86
+    },
+    {
+      "page": 82,
+      "words": 83,
+      "tokens": 64
+    },
+    {
+      "page": 83,
+      "words": 97,
+      "tokens": 86
+    },
+    {
+      "page": 84,
+      "words": 69,
+      "tokens": 64
+    },
+    {
+      "page": 85,
+      "words": 87,
+      "tokens": 66
+    },
+    {
+      "page": 86,
+      "words": 96,
+      "tokens": 83
+    },
+    {
+      "page": 87,
+      "words": 75,
+      "tokens": 63
+    },
+    {
+      "page": 88,
+      "words": 76,
+      "tokens": 68
+    },
+    {
+      "page": 89,
+      "words": 89,
+      "tokens": 72
+    },
+    {
+      "page": 90,
+      "words": 95,
+      "tokens": 76
+    },
+    {
+      "page": 91,
+      "words": 77,
+      "tokens": 72
+    },
+    {
+      "page": 92,
+      "words": 111,
+      "tokens": 87
+    },
+    {
+      "page": 93,
+      "words": 89,
+      "tokens": 83
+    },
+    {
+      "page": 94,
+      "words": 77,
+      "tokens": 71
+    },
+    {
+      "page": 95,
+      "words": 76,
+      "tokens": 68
+    },
+    {
+      "page": 96,
+      "words": 82,
+      "tokens": 78
+    },
+    {
+      "page": 97,
+      "words": 99,
+      "tokens": 80
+    },
+    {
+      "page": 98,
+      "words": 92,
+      "tokens": 75
+    },
+    {
+      "page": 99,
+      "words": 76,
+      "tokens": 70
+    },
+    {
+      "page": 100,
+      "words": 69,
+      "tokens": 60
+    },
+    {
+      "page": 101,
+      "words": 84,
+      "tokens": 72
+    },
+    {
+      "page": 102,
+      "words": 87,
+      "tokens": 77
+    },
+    {
+      "page": 103,
+      "words": 79,
+      "tokens": 65
+    },
+    {
+      "page": 104,
+      "words": 79,
+      "tokens": 65
+    },
+    {
+      "page": 105,
+      "words": 69,
+      "tokens": 60
+    },
+    {
+      "page": 106,
+      "words": 99,
+      "tokens": 87
+    },
+    {
+      "page": 107,
+      "words": 90,
+      "tokens": 73
+    },
+    {
+      "page": 108,
+      "words": 89,
+      "tokens": 77
+    },
+    {
+      "page": 109,
+      "words": 91,
+      "tokens": 84
+    },
+    {
+      "page": 110,
+      "words": 95,
+      "tokens": 89
+    },
+    {
+      "page": 111,
+      "words": 87,
+      "tokens": 78
+    },
+    {
+      "page": 112,
+      "words": 80,
+      "tokens": 72
+    },
+    {
+      "page": 113,
+      "words": 88,
+      "tokens": 76
+    },
+    {
+      "page": 114,
+      "words": 85,
+      "tokens": 76
+    },
+    {
+      "page": 115,
+      "words": 91,
+      "tokens": 82
+    },
+    {
+      "page": 116,
+      "words": 87,
+      "tokens": 73
+    },
+    {
+      "page": 117,
+      "words": 84,
+      "tokens": 74
+    },
+    {
+      "page": 118,
+      "words": 110,
+      "tokens": 99
+    },
+    {
+      "page": 119,
+      "words": 72,
+      "tokens": 55
+    },
+    {
+      "page": 120,
+      "words": 61,
+      "tokens": 48
+    },
+    {
+      "page": 121,
+      "words": 106,
+      "tokens": 93
+    },
+    {
+      "page": 122,
+      "words": 92,
+      "tokens": 59
+    },
+    {
+      "page": 123,
+      "words": 126,
+      "tokens": 92
+    },
+    {
+      "page": 124,
+      "words": 69,
+      "tokens": 61
+    },
+    {
+      "page": 125,
+      "words": 60,
+      "tokens": 54
+    },
+    {
+      "page": 126,
+      "words": 98,
+      "tokens": 72
+    },
+    {
+      "page": 127,
+      "words": 90,
+      "tokens": 86
+    },
+    {
+      "page": 128,
+      "words": 80,
+      "tokens": 63
+    },
+    {
+      "page": 129,
+      "words": 73,
+      "tokens": 67
+    },
+    {
+      "page": 130,
+      "words": 93,
+      "tokens": 82
+    },
+    {
+      "page": 131,
+      "words": 80,
+      "tokens": 72
+    },
+    {
+      "page": 132,
+      "words": 101,
+      "tokens": 82
+    },
+    {
+      "page": 133,
+      "words": 88,
+      "tokens": 78
+    },
+    {
+      "page": 134,
+      "words": 75,
+      "tokens": 67
+    },
+    {
+      "page": 135,
+      "words": 92,
+      "tokens": 86
+    },
+    {
+      "page": 136,
+      "words": 85,
+      "tokens": 79
+    },
+    {
+      "page": 137,
+      "words": 80,
+      "tokens": 71
+    },
+    {
+      "page": 138,
+      "words": 71,
+      "tokens": 61
+    },
+    {
+      "page": 139,
+      "words": 64,
+      "tokens": 59
+    },
+    {
+      "page": 140,
+      "words": 101,
+      "tokens": 94
+    },
+    {
+      "page": 141,
+      "words": 69,
+      "tokens": 64
+    },
+    {
+      "page": 142,
+      "words": 91,
+      "tokens": 84
+    },
+    {
+      "page": 143,
+      "words": 97,
+      "tokens": 86
+    },
+    {
+      "page": 144,
+      "words": 96,
+      "tokens": 86
+    },
+    {
+      "page": 145,
+      "words": 87,
+      "tokens": 81
+    },
+    {
+      "page": 146,
+      "words": 94,
+      "tokens": 82
+    },
+    {
+      "page": 147,
+      "words": 79,
+      "tokens": 66
+    },
+    {
+      "page": 148,
+      "words": 84,
+      "tokens": 72
+    },
+    {
+      "page": 149,
+      "words": 84,
+      "tokens": 68
+    },
+    {
+      "page": 150,
+      "words": 96,
+      "tokens": 85
+    },
+    {
+      "page": 151,
+      "words": 84,
+      "tokens": 71
+    },
+    {
+      "page": 152,
+      "words": 81,
+      "tokens": 63
+    },
+    {
+      "page": 153,
+      "words": 81,
+      "tokens": 67
+    },
+    {
+      "page": 154,
+      "words": 92,
+      "tokens": 80
+    },
+    {
+      "page": 155,
+      "words": 100,
+      "tokens": 93
+    },
+    {
+      "page": 156,
+      "words": 84,
+      "tokens": 71
+    },
+    {
+      "page": 157,
+      "words": 66,
+      "tokens": 59
+    },
+    {
+      "page": 158,
+      "words": 67,
+      "tokens": 59
+    },
+    {
+      "page": 159,
+      "words": 72,
+      "tokens": 64
+    },
+    {
+      "page": 160,
+      "words": 100,
+      "tokens": 93
+    },
+    {
+      "page": 161,
+      "words": 76,
+      "tokens": 62
+    },
+    {
+      "page": 162,
+      "words": 79,
+      "tokens": 72
+    },
+    {
+      "page": 163,
+      "words": 92,
+      "tokens": 79
+    },
+    {
+      "page": 164,
+      "words": 73,
+      "tokens": 65
+    },
+    {
+      "page": 165,
+      "words": 108,
+      "tokens": 88
+    },
+    {
+      "page": 166,
+      "words": 84,
+      "tokens": 63
+    },
+    {
+      "page": 167,
+      "words": 67,
+      "tokens": 61
+    },
+    {
+      "page": 168,
+      "words": 97,
+      "tokens": 82
+    },
+    {
+      "page": 169,
+      "words": 97,
+      "tokens": 81
+    },
+    {
+      "page": 170,
+      "words": 90,
+      "tokens": 80
+    },
+    {
+      "page": 171,
+      "words": 72,
+      "tokens": 68
+    },
+    {
+      "page": 172,
+      "words": 93,
+      "tokens": 78
+    },
+    {
+      "page": 173,
+      "words": 119,
+      "tokens": 108
+    },
+    {
+      "page": 174,
+      "words": 95,
+      "tokens": 86
+    },
+    {
+      "page": 175,
+      "words": 97,
+      "tokens": 89
+    },
+    {
+      "page": 176,
+      "words": 108,
+      "tokens": 96
+    },
+    {
+      "page": 177,
+      "words": 81,
+      "tokens": 76
+    },
+    {
+      "page": 178,
+      "words": 83,
+      "tokens": 73
+    },
+    {
+      "page": 179,
+      "words": 101,
+      "tokens": 95
+    },
+    {
+      "page": 180,
+      "words": 77,
+      "tokens": 71
+    },
+    {
+      "page": 181,
+      "words": 64,
+      "tokens": 56
+    },
+    {
+      "page": 182,
+      "words": 82,
+      "tokens": 71
+    },
+    {
+      "page": 183,
+      "words": 76,
+      "tokens": 73
+    },
+    {
+      "page": 184,
+      "words": 94,
+      "tokens": 86
+    },
+    {
+      "page": 185,
+      "words": 97,
+      "tokens": 94
+    },
+    {
+      "page": 186,
+      "words": 78,
+      "tokens": 64
+    },
+    {
+      "page": 187,
+      "words": 89,
+      "tokens": 80
+    },
+    {
+      "page": 188,
+      "words": 79,
+      "tokens": 65
+    },
+    {
+      "page": 189,
+      "words": 85,
+      "tokens": 76
+    },
+    {
+      "page": 190,
+      "words": 63,
+      "tokens": 54
+    },
+    {
+      "page": 191,
+      "words": 69,
+      "tokens": 60
+    },
+    {
+      "page": 192,
+      "words": 88,
+      "tokens": 74
+    },
+    {
+      "page": 193,
+      "words": 99,
+      "tokens": 85
+    },
+    {
+      "page": 194,
+      "words": 82,
+      "tokens": 70
+    },
+    {
+      "page": 195,
+      "words": 94,
+      "tokens": 78
+    },
+    {
+      "page": 196,
+      "words": 71,
+      "tokens": 58
+    },
+    {
+      "page": 197,
+      "words": 88,
+      "tokens": 70
+    },
+    {
+      "page": 198,
+      "words": 68,
+      "tokens": 57
+    },
+    {
+      "page": 199,
+      "words": 112,
+      "tokens": 99
+    },
+    {
+      "page": 200,
+      "words": 81,
+      "tokens": 78
+    },
+    {
+      "page": 201,
+      "words": 50,
+      "tokens": 48
+    },
+    {
+      "page": 202,
+      "words": 52,
+      "tokens": 45
+    },
+    {
+      "page": 203,
+      "words": 64,
+      "tokens": 59
+    },
+    {
+      "page": 204,
+      "words": 56,
+      "tokens": 52
+    },
+    {
+      "page": 205,
+      "words": 46,
+      "tokens": 41
+    },
+    {
+      "page": 206,
+      "words": 145,
+      "tokens": 121
+    },
+    {
+      "page": 207,
+      "words": 233,
+      "tokens": 182
+    },
+    {
+      "page": 208,
+      "words": 214,
+      "tokens": 165
+    },
+    {
+      "page": 209,
+      "words": 197,
+      "tokens": 171
+    }
+  ],
+  "bigrams": [
+    {
+      "word1": "الله",
+      "word2": "خان",
+      "count": 203
+    },
+    {
+      "word1": "غلام",
+      "word2": "الله",
+      "count": 200
+    },
+    {
+      "word1": "خان",
+      "word2": "تالپر",
+      "count": 182
+    },
+    {
+      "word1": "میر",
+      "word2": "غلام",
+      "count": 118
+    },
+    {
+      "word1": "دیوان",
+      "word2": "میر",
+      "count": 113
+    },
+    {
+      "word1": "مير",
+      "word2": "غلام",
+      "count": 75
+    },
+    {
+      "word1": "تالپر",
+      "word2": "مير",
+      "count": 73
+    },
+    {
+      "word1": "مون",
+      "word2": "کي",
+      "count": 62
+    },
+    {
+      "word1": "مير",
+      "word2": "غزل",
+      "count": 52
+    },
+    {
+      "word1": "تالپر",
+      "word2": "غزل",
+      "count": 49
+    },
+    {
+      "word1": "دیوان",
+      "word2": "مير",
+      "count": 40
+    },
+    {
+      "word1": "ديوان",
+      "word2": "مير",
+      "count": 35
+    },
+    {
+      "word1": "هن",
+      "word2": "جي",
+      "count": 24
+    },
+    {
+      "word1": "ردیف",
+      "word2": "غزل",
+      "count": 23
+    },
+    {
+      "word1": "رديف",
+      "word2": "غزل",
+      "count": 22
+    },
+    {
+      "word1": "كان",
+      "word2": "سواء",
+      "count": 21
+    },
+    {
+      "word1": "كر",
+      "word2": "تون",
+      "count": 19
+    },
+    {
+      "word1": "مون",
+      "word2": "سان",
+      "count": 17
+    },
+    {
+      "word1": "اي",
+      "word2": "مير",
+      "count": 16
+    },
+    {
+      "word1": "اسان",
+      "word2": "کي",
+      "count": 16
+    },
+    {
+      "word1": "دل",
+      "word2": "کي",
+      "count": 15
+    },
+    {
+      "word1": "خان",
+      "word2": "ٹالپر",
+      "count": 14
+    },
+    {
+      "word1": "دل",
+      "word2": "جي",
+      "count": 14
+    },
+    {
+      "word1": "اسان",
+      "word2": "جي",
+      "count": 13
+    },
+    {
+      "word1": "تي",
+      "word2": "پئي",
+      "count": 13
+    },
+    {
+      "word1": "جون",
+      "word2": "كالهيون",
+      "count": 13
+    },
+    {
+      "word1": "آهي",
+      "word2": "ته",
+      "count": 12
+    },
+    {
+      "word1": "دل",
+      "word2": "تي",
+      "count": 12
+    },
+    {
+      "word1": "تالپر",
+      "word2": "رديف",
+      "count": 12
+    },
+    {
+      "word1": "نه",
+      "word2": "كر",
+      "count": 12
+    },
+    {
+      "word1": "اسان",
+      "word2": "تي",
+      "count": 12
+    },
+    {
+      "word1": "اوهان",
+      "word2": "جي",
+      "count": 10
+    },
+    {
+      "word1": "كنهن",
+      "word2": "کي",
+      "count": 10
+    },
+    {
+      "word1": "تالپر",
+      "word2": "ردیف",
+      "count": 10
+    },
+    {
+      "word1": "تالپر",
+      "word2": "میر",
+      "count": 9
+    },
+    {
+      "word1": "جي",
+      "word2": "جي",
+      "count": 9
+    },
+    {
+      "word1": "تون",
+      "word2": "هجين",
+      "count": 9
+    },
+    {
+      "word1": "نه",
+      "word2": "آهي",
+      "count": 9
+    },
+    {
+      "word1": "مير",
+      "word2": "صاحب",
+      "count": 7
+    },
+    {
+      "word1": "ٹالپر",
+      "word2": "مير",
+      "count": 7
+    },
+    {
+      "word1": "تون",
+      "word2": "نه",
+      "count": 7
+    },
+    {
+      "word1": "تا",
+      "word2": "كذهن",
+      "count": 7
+    },
+    {
+      "word1": "اسان",
+      "word2": "مير",
+      "count": 7
+    },
+    {
+      "word1": "توبه",
+      "word2": "توبه",
+      "count": 7
+    },
+    {
+      "word1": "جي",
+      "word2": "آهي",
+      "count": 7
+    },
+    {
+      "word1": "مير",
+      "word2": "ردیف",
+      "count": 7
+    },
+    {
+      "word1": "كي",
+      "word2": "كي",
+      "count": 7
+    },
+    {
+      "word1": "وجو",
+      "word2": "منهن",
+      "count": 7
+    },
+    {
+      "word1": "جي",
+      "word2": "خوشبو",
+      "count": 7
+    },
+    {
+      "word1": "ٿو",
+      "word2": "ته",
+      "count": 6
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "الله",
+        "label": "الله",
+        "frequency": 221
+      },
+      {
+        "id": "خان",
+        "label": "خان",
+        "frequency": 213
+      },
+      {
+        "id": "غلام",
+        "label": "غلام",
+        "frequency": 204
+      },
+      {
+        "id": "تالپر",
+        "label": "تالپر",
+        "frequency": 185
+      },
+      {
+        "id": "غزل",
+        "label": "غزل",
+        "frequency": 190
+      },
+      {
+        "id": "مير",
+        "label": "مير",
+        "frequency": 251
+      },
+      {
+        "id": "دیوان",
+        "label": "دیوان",
+        "frequency": 161
+      },
+      {
+        "id": "میر",
+        "label": "میر",
+        "frequency": 151
+      },
+      {
+        "id": "مون",
+        "label": "مون",
+        "frequency": 150
+      },
+      {
+        "id": "کي",
+        "label": "کي",
+        "frequency": 224
+      },
+      {
+        "id": "آهي",
+        "label": "آهي",
+        "frequency": 237
+      },
+      {
+        "id": "جي",
+        "label": "جي",
+        "frequency": 399
+      },
+      {
+        "id": "تي",
+        "label": "تي",
+        "frequency": 263
+      },
+      {
+        "id": "هن",
+        "label": "هن",
+        "frequency": 83
+      },
+      {
+        "id": "ديوان",
+        "label": "ديوان",
+        "frequency": 48
+      },
+      {
+        "id": "دل",
+        "label": "دل",
+        "frequency": 158
+      },
+      {
+        "id": "اسان",
+        "label": "اسان",
+        "frequency": 96
+      },
+      {
+        "id": "ردیف",
+        "label": "ردیف",
+        "frequency": 29
+      },
+      {
+        "id": "كان",
+        "label": "كان",
+        "frequency": 113
+      },
+      {
+        "id": "نه",
+        "label": "نه",
+        "frequency": 139
+      },
+      {
+        "id": "ته",
+        "label": "ته",
+        "frequency": 71
+      },
+      {
+        "id": "كي",
+        "label": "كي",
+        "frequency": 87
+      },
+      {
+        "id": "سواء",
+        "label": "سواء",
+        "frequency": 32
+      },
+      {
+        "id": "تون",
+        "label": "تون",
+        "frequency": 122
+      },
+      {
+        "id": "كر",
+        "label": "كر",
+        "frequency": 51
+      },
+      {
+        "id": "سان",
+        "label": "سان",
+        "frequency": 152
+      },
+      {
+        "id": "رديف",
+        "label": "رديف",
+        "frequency": 24
+      },
+      {
+        "id": "تنهنجي",
+        "label": "تنهنجي",
+        "frequency": 85
+      },
+      {
+        "id": "اي",
+        "label": "اي",
+        "frequency": 82
+      },
+      {
+        "id": "پئي",
+        "label": "پئي",
+        "frequency": 45
+      },
+      {
+        "id": "اوهان",
+        "label": "اوهان",
+        "frequency": 36
+      },
+      {
+        "id": "جون",
+        "label": "جون",
+        "frequency": 44
+      },
+      {
+        "id": "كالهيون",
+        "label": "كالهيون",
+        "frequency": 20
+      },
+      {
+        "id": "منهنجي",
+        "label": "منهنجي",
+        "frequency": 76
+      },
+      {
+        "id": "هي",
+        "label": "هي",
+        "frequency": 98
+      }
+    ],
+    "edges": [
+      {
+        "from": "الله",
+        "to": "خان",
+        "weight": 205
+      },
+      {
+        "from": "خان",
+        "to": "غلام",
+        "weight": 202
+      },
+      {
+        "from": "الله",
+        "to": "غلام",
+        "weight": 201
+      },
+      {
+        "from": "تالپر",
+        "to": "خان",
+        "weight": 186
+      },
+      {
+        "from": "الله",
+        "to": "تالپر",
+        "weight": 178
+      },
+      {
+        "from": "تالپر",
+        "to": "غلام",
+        "weight": 174
+      },
+      {
+        "from": "خان",
+        "to": "غزل",
+        "weight": 170
+      },
+      {
+        "from": "خان",
+        "to": "مير",
+        "weight": 166
+      },
+      {
+        "from": "الله",
+        "to": "مير",
+        "weight": 162
+      },
+      {
+        "from": "تالپر",
+        "to": "غزل",
+        "weight": 160
+      },
+      {
+        "from": "غلام",
+        "to": "مير",
+        "weight": 158
+      },
+      {
+        "from": "دیوان",
+        "to": "غلام",
+        "weight": 156
+      },
+      {
+        "from": "الله",
+        "to": "دیوان",
+        "weight": 155
+      },
+      {
+        "from": "خان",
+        "to": "دیوان",
+        "weight": 153
+      },
+      {
+        "from": "تالپر",
+        "to": "مير",
+        "weight": 151
+      },
+      {
+        "from": "الله",
+        "to": "غزل",
+        "weight": 147
+      },
+      {
+        "from": "خان",
+        "to": "میر",
+        "weight": 136
+      },
+      {
+        "from": "غلام",
+        "to": "میر",
+        "weight": 132
+      },
+      {
+        "from": "الله",
+        "to": "میر",
+        "weight": 132
+      },
+      {
+        "from": "دیوان",
+        "to": "میر",
+        "weight": 115
+      },
+      {
+        "from": "تالپر",
+        "to": "میر",
+        "weight": 109
+      },
+      {
+        "from": "مون",
+        "to": "کي",
+        "weight": 75
+      },
+      {
+        "from": "غزل",
+        "to": "مير",
+        "weight": 75
+      },
+      {
+        "from": "آهي",
+        "to": "جي",
+        "weight": 65
+      },
+      {
+        "from": "تي",
+        "to": "جي",
+        "weight": 58
+      },
+      {
+        "from": "جي",
+        "to": "جي",
+        "weight": 58
+      },
+      {
+        "from": "غزل",
+        "to": "غلام",
+        "weight": 57
+      },
+      {
+        "from": "جي",
+        "to": "هن",
+        "weight": 50
+      },
+      {
+        "from": "دیوان",
+        "to": "مير",
+        "weight": 43
+      },
+      {
+        "from": "ديوان",
+        "to": "غلام",
+        "weight": 43
+      },
+      {
+        "from": "الله",
+        "to": "ديوان",
+        "weight": 43
+      },
+      {
+        "from": "جي",
+        "to": "دل",
+        "weight": 41
+      },
+      {
+        "from": "خان",
+        "to": "ديوان",
+        "weight": 40
+      },
+      {
+        "from": "ديوان",
+        "to": "مير",
+        "weight": 38
+      },
+      {
+        "from": "جي",
+        "to": "کي",
+        "weight": 36
+      },
+      {
+        "from": "اسان",
+        "to": "جي",
+        "weight": 33
+      },
+      {
+        "from": "جي",
+        "to": "مير",
+        "weight": 32
+      },
+      {
+        "from": "تي",
+        "to": "دل",
+        "weight": 29
+      },
+      {
+        "from": "تي",
+        "to": "مون",
+        "weight": 28
+      },
+      {
+        "from": "اسان",
+        "to": "تي",
+        "weight": 28
+      },
+      {
+        "from": "دل",
+        "to": "کي",
+        "weight": 28
+      },
+      {
+        "from": "ردیف",
+        "to": "غزل",
+        "weight": 28
+      },
+      {
+        "from": "آهي",
+        "to": "تي",
+        "weight": 27
+      },
+      {
+        "from": "آهي",
+        "to": "كان",
+        "weight": 26
+      },
+      {
+        "from": "جي",
+        "to": "غزل",
+        "weight": 26
+      },
+      {
+        "from": "اسان",
+        "to": "کي",
+        "weight": 26
+      },
+      {
+        "from": "خان",
+        "to": "ردیف",
+        "weight": 26
+      },
+      {
+        "from": "جي",
+        "to": "نه",
+        "weight": 25
+      },
+      {
+        "from": "آهي",
+        "to": "ته",
+        "weight": 24
+      },
+      {
+        "from": "جي",
+        "to": "كي",
+        "weight": 24
+      },
+      {
+        "from": "سواء",
+        "to": "كان",
+        "weight": 24
+      },
+      {
+        "from": "تون",
+        "to": "نه",
+        "weight": 24
+      },
+      {
+        "from": "الله",
+        "to": "ردیف",
+        "weight": 24
+      },
+      {
+        "from": "تون",
+        "to": "كر",
+        "weight": 24
+      },
+      {
+        "from": "تي",
+        "to": "سان",
+        "weight": 23
+      },
+      {
+        "from": "جي",
+        "to": "سان",
+        "weight": 23
+      },
+      {
+        "from": "تي",
+        "to": "کي",
+        "weight": 23
+      },
+      {
+        "from": "خان",
+        "to": "رديف",
+        "weight": 23
+      },
+      {
+        "from": "تالپر",
+        "to": "رديف",
+        "weight": 23
+      },
+      {
+        "from": "رديف",
+        "to": "غزل",
+        "weight": 23
+      },
+      {
+        "from": "آهي",
+        "to": "نه",
+        "weight": 22
+      },
+      {
+        "from": "سان",
+        "to": "مون",
+        "weight": 22
+      },
+      {
+        "from": "آهي",
+        "to": "هن",
+        "weight": 21
+      },
+      {
+        "from": "الله",
+        "to": "رديف",
+        "weight": 21
+      },
+      {
+        "from": "جي",
+        "to": "مون",
+        "weight": 20
+      },
+      {
+        "from": "تنهنجي",
+        "to": "تي",
+        "weight": 20
+      },
+      {
+        "from": "اي",
+        "to": "مير",
+        "weight": 19
+      },
+      {
+        "from": "تي",
+        "to": "تي",
+        "weight": 19
+      },
+      {
+        "from": "تون",
+        "to": "تي",
+        "weight": 19
+      },
+      {
+        "from": "تون",
+        "to": "جي",
+        "weight": 19
+      },
+      {
+        "from": "تي",
+        "to": "پئي",
+        "weight": 19
+      },
+      {
+        "from": "اوهان",
+        "to": "جي",
+        "weight": 19
+      },
+      {
+        "from": "تالپر",
+        "to": "ردیف",
+        "weight": 19
+      },
+      {
+        "from": "جون",
+        "to": "كالهيون",
+        "weight": 19
+      },
+      {
+        "from": "تي",
+        "to": "منهنجي",
+        "weight": 18
+      },
+      {
+        "from": "آهي",
+        "to": "دیوان",
+        "weight": 18
+      },
+      {
+        "from": "مير",
+        "to": "کي",
+        "weight": 18
+      },
+      {
+        "from": "مون",
+        "to": "نه",
+        "weight": 18
+      },
+      {
+        "from": "جي",
+        "to": "هي",
+        "weight": 18
+      },
+      {
+        "from": "تي",
+        "to": "نه",
+        "weight": 18
+      }
+    ]
+  },
+  "search_pages": [
+    {
+      "page_num": 0,
+      "text": "﻿________________\n\n\n\nدیوان میر\n\n:مصنف\n\nمیر غلام اللہ خان تالپر \"مير\"\n\nناشر\n\nبزم تالپرادب مور جهنگو - كنزي ضلع ترپارکر\n\nسند",
+      "image_path": "books/deewan-e-meer/images/page_0000.jpg"
+    },
+    {
+      "page_num": 1,
+      "text": "﻿________________\n\n\n\nدیوان میر\n\nمصنف\n\nسیر غلام الله خان تالپر\n\nمرتب\n\n\"}\n\n་་\n\nپریتم پياسي \"\n\nناشر\n\nبزم تالپر ادب مور جهنگو\" كنري ترپارکر سنڈ",
+      "image_path": "books/deewan-e-meer/images/page_0001.jpg"
+    },
+    {
+      "page_num": 2,
+      "text": "﻿________________\n\n\n\nب]\n\nدیوان مير غلام الله خان تالپر\n\nكتاب :\n\nمصنف :\n\nنگران :\n\nمرتب : چپائیندز :\n\nمیهندو\n\nدفعو\n\nنوعیت\n\n:\n\n:\n\n:\n\nتعداد\n\n:\n\nاشاعتی سال:\n\nقیمت :\n\nمصنف جا حق ۽ واسطا قائم\n\nدیوان مير\n\nمير غلام الله خان تالپر - صور جهنگو باكتر مير امان الله خان تالپر\n\nپریتم \" پياسي *\n\nبزم ٹالپر ادب مور جهنگو كنري ترپارکر سند\n\nنیو گرین پر نرس صدر حیدرآباد\n\nپهريون\n\nشاعري\n\nهک هزار\n\nأكتوبر 1990ع\n\n40-00\n\nDEWAN - MIR\n\nSindhi book of Poetry by\n\nMir Ghulam ullah khan Talpur \"Mor Jhango\" Published by Buzam Talpur Adab \"MorJhango\"\n\nKunri Tharparkar Sindh",
+      "image_path": "books/deewan-e-meer/images/page_0002.jpg"
+    },
+    {
+      "page_num": 3,
+      "text": "﻿________________\n\n\n\nانتساب\n\nكيم پنهنجي پياري ۽ محترم والد الحاج مير\n\nسابق ايم - ايل - اي .\n\nسابق پارليامينتري سيكريتري\n\nسابق صدر ترپارکر لوكل بورد جي؟\n\nنـالي\n\nاحمد خان\n\nقاليد",
+      "image_path": "books/deewan-e-meer/images/page_0003.jpg"
+    },
+    {
+      "page_num": 4,
+      "text": "﻿",
+      "image_path": "books/deewan-e-meer/images/page_0004.jpg"
+    },
+    {
+      "page_num": 5,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n-]\n\n[\"\n\nمهاگ\n\nعموماً مها كنهن ،دانشور وذي ليكك يا ولي شاعر كان لكايو ويندو آهي. اها احسن روایت بدستور قائم آهي ان هوندي به هي تعارفي حروف سان پان لکي رهيو آهيان إن خيال كان تم منهنجو تعارف مون كان وديك بيو كير بم بهتر نموني نتو كرائي سگهي. باقي رهي راه ي مشورو اهو جو هر قاري جنهن جي قابلیت ذوق پسند ضرور مختلف هوندي سو جڏهن به چاهي پنهنجي راه جو اظهار كت به كري سكهي تو. هي كتاب ديوان سير غلام الله خان تالپر \"مير\" ابتدائي كوشش آهي جنهن م علم عروض\n\nكتاب\n\nمنهنجي\n\nمنهنجي\n\nچنار\n\nعلمي\n\nدي\n\nغلطين\n\nكان انحراف نيو كري سگهجی دیوان جا تمام مرحلا مون پنهنجي ذاتي - پسند ناپسند به کوشش تي استوار كيا آهن. شاعري جو كوبر اچان تك استاد ناهي بس شوق ؟ كتاب ئي رهنما رهيا آهن. ظاهر آهي ان قسم كوشش كي خاميون رهجي ويون هونديون جن و التي درست كرن جو موقعو ملندو. منهنجي ولادت سند ستاره میرپور خاص آخري تالپر جي حكمران مير شير محمد خان تالپر جي خاندان بر 1948ع-4-9 تي بمقام گون میر شیر محمد خان تالپر میر شیر محمد خان تالپر - ميرپور خاص بر تي. منهنجو خانداني شجرو هن ريت آهي. مير غلام الله خان تالپر ولد الحاج مير احمد خان ٹالپر ولد سرکار سرکار میر حاجي عبد الله خان تالپر ولد شهزاده میر حاجي نبي بخش خان تالپر ولد\n\nهز\n\nهای نیس شیر",
+      "image_path": "books/deewan-e-meer/images/page_0005.jpg"
+    },
+    {
+      "page_num": 6,
+      "text": "﻿________________\n\n\n\nو]\n\nدیوان میر غلام الله خان تالـ تالپر \"\n\nمیر\n\nهزهای نیس شیر سند ستاره هند والي ميرپور خاص مير شیر محمد خان تالپر. ولد والي ميرپور خاص مير علي مراد خان تالپر ولد بانی حکومت میرپور خاص ستاره جنگ میر پاروخان ٹالپر . شجره لکی جو هتي سچاٹپ کرائن آهي نه كي پنهنجي وڏائي ۽ اعلي نسبي جو پرچار كرث آهي. من كتاب افادیت چاهي عام كتاب كان مختلف\n\nادبي\n\nنم به هيجي یکن میر پور خاص جي رائل فيملي بر من نوعيت جو هي پهريون كتاب آهي هن کان اب كوب صاحب ديوان نالپر ناهي. منهنجي ولادت ك اهري خاندان بني جت رب پاک جو فضل و کرم هر سو غالب هئو. جيئن ته آئون گھر پنهنجي م پهريون اولاد هئس. انكري منهنجي پالنا ودي ناز و نعم سان تي فقط منهنجي سار سنپال لامست خادمائون رکيون اهري شفقت محبت ۽ پيار پري نظر مونکي\n\n་\n\nانتر میدیت تم\n\nتك\n\nويون والدين جي لاپرواهی مغرور ی خود غرض بنائي چيو. منهنجي تعليم فقط رهي مون پرائمري تعليم جي ابتدا پنهنجي محسن استاد رئيس الهداد خان مري بلوچ كان پنهنجي ابائی گوت : كئي. ان بعد سيكندري تعليم ميرپور خاص گورنمنت \"حمایت السلام\" ع نور محمد ء\n\nمر\n\nجي\n\nهای اسکول ۽ حيدرآباد جي هاء اسكول مان حاصل كئى كجهم وقت سچل سائنس كاليج با ثلاجي سيكشن بر پڑھیں لیکن مون تعليم مكمل مسلم با سائنس كاليج حيدرآباد بر كئي. بابا سائين جو خيال هو ته اعلي تعليم حاصل كيان يا سندس نقش قدم تي هلي ايم- ايل - اي - تیان پارليامينتري سيكريتري تيان يا لوكل بورد جو پريزيدنت تيان ليكن مان شاعر تي ويس. مونكي فخر آهي تم آئون شاعر آهيان هک حساس فرد جو اگر چاهي ته پنهنجي\n\n·\n\nتاثیر سان زماني جي رگ رگ پر سرائيت كري وچي،\n\nلطيف",
+      "image_path": "books/deewan-e-meer/images/page_0006.jpg"
+    },
+    {
+      "page_num": 7,
+      "text": "﻿________________\n\n\n\n}}\n\nدیوان میر غلام الله خان تالپر مير ]\n\nمون لاء\n\n.\n\n;]\n\nایاز سلاح بنجي وچي اگر ايترو نم تم ان كاروان جي : گرد سفر بنجي رهان مان اجكلهم پنهنجي کاروبار سان گل سماجي ۽ سوشل كم به كندو رهان تو بسترکت ترپارکر کائونسل جو سیمبر به آهیان وسیع دوستيون آهن دوست كجهم آهن. ترپارکر م تالير كاز لام جدوجهد كرن منهنجي وندر به آشي سخنوري مون 1963ع شروع ڪئي آهي. ۽ هي كتاب 1990ع ۾ شايع كرايو آثم. ان بعد بیو مجموعه کلام پیش کندس. جنهن بر نوان غزل - كافيون - بيت - دوهيرا - قطعات رباعيون هونديون . مان شاعري بر جدت پسندي نئي مضمون ۽ موضوع جو قائل آهيان. ایندژ كتاب وتيك موزون ۽ جامع هوندو. مان آخر عرض كندس تم هي كتاب منهنجي ابتدائي شعر\n\nكان\n\nفقط\n\nتي مبني قارئین جي راء مون لاء لائق إصلاح هوندي. مان اوهان راه جو هر وقت انتظار : احترام كندو رهندس. پریتم ”پياسي هك سنو انسان نئون شاعر ۽ سيكنډري استاد\n\nجي\n\nجي\n\nحیثیت و هو منهنجو پانهن آئون سندس تورائتو آهيان جنهن منهنجو شوق ودايو\n\nآهي.\n\nدیوان\n\nجي ترتيب كار\n\nېيلي\n\nآهي.\n\nان سلسلي و مددگار رهيو.\n\nدعاگو\n\nسیر غلام الله خان تالپر\n\nمور جهنگو فارم كنري ترپارکر.",
+      "image_path": "books/deewan-e-meer/images/page_0007.jpg"
+    },
+    {
+      "page_num": 8,
+      "text": "﻿________________\n\n\n\nح]\n\n[ ديوان غلام الله خان تالپر \"\n\nہے اکر\n\nمير\n\nصاحب جي\n\nحسن\n\nآئون پنهنجي پهرين ملاقات مرئي سلوک جو گرویده بنجي ويس. ڪيترين ئي ملاقاتن و مير صاحب سان شعر و شاعري بابت ڪچهريون ليون. انهي دوران صاحب پنهنجو مجموع كلام جو مسودو ڈیکاریو جو سندن كاروباري ۽ سماجي مصروفيات سبب چھجٹ پر دیر پني تيو. مون نسل بعد مير بعد میر صاحب کي مشورو ڏنو ته هن .\n\nمير\n\nجي\n\nباقي\n\nرهن تا مكمل كيو\n\nجي نالي سان شايع كرايو\n\nتقریباً تمام ردیف موجود آهن، تم عن مجموعي كي \"ديوان ان سلسلي مون كلام كي ترتيب دين ۽ شايع كرن پر لاء مكمل تعاون جو یقین دياريو مير صاحب منهنجي مشوره مجيو ؟ جلد رهيل رديف مكمل كري أنا جن کي مون ترتيب وارسيت كړي پريس حوالي كيو. جيئن ته آئون خود به پنهنجي اسكول ډيوني سبب مصروف هئس، ان هوندي چپائي جي نگراني لاه كلهن خود كذهن پام جوئترام كي موكليندو هئس .\n\nمون کي افسوس آهي باوجود کوشش پروننگ جي جون خاميون رهجي ويون. جن جي پورائی لاء \"پل نامون \" ين ذنو اتمه پڑهندو حضرات گذارش آهي ته ديوان کي پڑھی کان آگ \"پل نامي کي ضرور دسن.\n\nكي",
+      "image_path": "books/deewan-e-meer/images/page_0008.jpg"
+    },
+    {
+      "page_num": 9,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n[ط\n\nآهو سپ\n\nصاحب مير\n\nكتاب بابت جيكي مون کي لكثو هو كجهم مير صاحب پنهنجي مهاگ پر لکي چيو آهي. جو كلام بيحد خوبين سان پريل آهي ته تمثيل نگاري جو به كمال آهي، پر هك كالهم جنهن لام مير صاحب خود به لكيو آهي ته علم عروض\" تم علم عروض جون چند غلطيون تي سگهن ٿيون. كنهن حد تك محسوس تين تيون. انهن لاء آئون ايترو چوندس تم من ابتدائي كوشش پر انهن کي در گذر کرن : التي بهتري جي امید رکی مناسب تيندو.\n\nسي\n\nمون كي عن كتاب جي چھجن سان اها خوشي\n\nهر\n\nآهي\n\nجو میرپور خاص جي مالكائي تالپرن بر اهرو به سالیون پیدا تيو جيكو نه رگو شاعر آهي باك \"صاحب دیوان» پل آهي.\n\nصاحب اسان دير\n\nمنهنجي سامهون ترپارکر ضلعي جي كافي شاعرن جا مجموعه موجود آهن جن کي ڏسندي آئون چئي سگهان ٿو ته جي ترپارکر ضلعي جو پهريون \"صاحب دیوان» شاعر آهي جا گالهم اسان لا اعزاز جوگي ؟ قابل فخر آهي. هن دور بر جتي خبر ناهي چامان چا ”اوت بتانگ\" كلام جا مجموعه چیجن پیار میر صاحب جي كلام كي وري به نيك فال سمجهجي تو .\n\nهن كان بوه به مير صاحب كلام جا مجموعا\n\nج-ي\n\nپیش كنداسون. كين دعا كيون تاتى الله سائين اچان به",
+      "image_path": "books/deewan-e-meer/images/page_0009.jpg"
+    },
+    {
+      "page_num": 10,
+      "text": "﻿________________\n\n\n\nي ]\n\nدیوان میر غلام الله خان ٹالپر مير\n\nقلم کي رواني بخشي جيئن پنهنجي علم و ادب سان پلاري يت تلي جي سپ پ کان پياري پون ترپارکر جو مان متاهون\n\nكري ۽ سندس قلم سند\n\nكندو رهي.\n\nجي\n\nادب جي\n\nپیاسن\n\nجي\n\nپیاس دور\n\nصوفي فقير\n\nأكتوبر 1990ع\n\nدعاگو\n\nپریتم \" پياسي\n\nپوست آفيس صوفي فقير\n\nوايا دورو نارو ترپارکر سند.",
+      "image_path": "books/deewan-e-meer/images/page_0010.jpg"
+    },
+    {
+      "page_num": 11,
+      "text": "﻿________________\n\n\n\nاي\n\nمير\n\nكت كوژين نه ديوان نهي وين\n\nتعريف لكن ايذي حسين محب يار جي",
+      "image_path": "books/deewan-e-meer/images/page_0011.jpg"
+    },
+    {
+      "page_num": 12,
+      "text": "﻿",
+      "image_path": "books/deewan-e-meer/images/page_0012.jpg"
+    },
+    {
+      "page_num": 13,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر میر]\n\nردية (الف)\n\nغزل\n\n(خدا جي (تعريف)\n\nپنھنجي دامان محبت بر لكايـــو مـولا غم الم آهي گھٹو مون کي ستايــو مـــولا.\n\nعاصين جو نم اوهان ريء كو سهارو آهي، بيو كتي آهي كنارو تم بدايو مولا. تي خطامون كان برابر آ خطادار آهیان مهر پنهنجي سان خطائن کي مايو مولا. كي\n\nهای تو بهم تو كيان پنهنجي ناهن كان وري هان توفیق جو همت مون ذي وتايو مولا\n\n\"\n\nمجبور تي لاچار تي پهتو آ تــي ان كي كا خوشخبري ستايو مولا.\n\nياجهم جي\n\n1]",
+      "image_path": "books/deewan-e-meer/images/page_0013.jpg"
+    },
+    {
+      "page_num": 14,
+      "text": "﻿________________\n\n\n\n[2\n\nديوان مير غلام الله خان تالپر\n\nغزل\n\n(حضور صلي الله عليه وسلم جن جي تعريف)\n\nآذار آ اژیـــن جـــــو محبوب مصطفي\n\nT\n\nمحبوب\n\nمرين جو محبوب مصطفي.\n\nكهري ثنا\n\nخدا جي ويهي\n\nلكان.\n\nآنور اکژین جو محبوب مصطفي.\n\nكافي آهي حشر\n\nچر\n\nمحمد رسول عربي\n\nوسيلو آهي سين جو محبوب مصطفي.\n\nهر غم دوا آهي صلوات محمد\n\nجي\n\nجي\n\nچی چند آدلين جو محبوب مصطفي.\n\nاي مير شل نوازي انوار كرم سان عاصين جو محبوب مصطفي.\n\nشافي",
+      "image_path": "books/deewan-e-meer/images/page_0014.jpg"
+    },
+    {
+      "page_num": 15,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nهــو چشم جفا کار نه غمخوار تئي هي زندگي به مون کي نه درکار تئي هـ\n\nمان كيترو خالي ۽ گم نام هجان هـ\n\nنا.\n\nجي شوخ كج ادا سان نه پيار تئي هــــا.\n\nكت هئي پلا اسان\n\nجي\n\nجيكر نه من جي\n\nهن\n\nدل جي\n\nگھٹي\n\nقیمت\n\nدل سان واپار تئي هـــا.\n\nكان سواء منهنجي جنون جو خدا هنو ن درد لادوا هئو نه دلفگار تنـي هـــا.\n\nاي \"مير\"\n\nهن سواء كت ننگ و نام هو\n\nها كت غم نصيب تئي درد آشكار تئي ها.\n\n3]",
+      "image_path": "books/deewan-e-meer/images/page_0015.jpg"
+    },
+    {
+      "page_num": 16,
+      "text": "﻿________________\n\n\n\n\"\n\n[ديوان مير غلام الله خان تالپر \".\n\n[4\n\nغزل\n\nهي رات كيئن كتيها جيكر نم تون هجين ها. كا ياد پئي فني ها جيكر ني تون هجين ها وينو ان تي آئون دروازي كي نسان هـــا كا خاك پئي لتي ها جيكر نم تون هجين هـــا. اکين مان اشك وهندا دامن كي ريج كن ها, کو زخم بج چتي ها جيڪر نه تون هجين هـــــا. وسري وجي ها كائن دنيا لكي هـــا دائـــن كو سور بيو ستي ها جيڪر نه تون هجين هـــــا.\n\nبازي هـــــي محبت جي رسمن سان هـ هي\n\nدنيا وچي\n\nكتي\n\nبغاوت ها جيكر تم تون هجين ها.\n\nشايد مري وچان ها تو كان سواء جاني ها. اک نه كو پتي ها جيكر نه تون هجين\n\nهي\n\nBindi\n\nدنيـــا جـــو درد ديئي سينو سجونتيو آ سو درد كيئن گهتي ها جيڪر نه تون هجين ها.\n\nهر\n\nذهن\n\nجو بس هك وات ئي وجي\n\nها\n\nگالھ پئي تي ها جيگر نه تون هجين هـــا.",
+      "image_path": "books/deewan-e-meer/images/page_0016.jpg"
+    },
+    {
+      "page_num": 17,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر مير ]\n\nعشق بم جيك\n\nغزل\n\nن تیا آزار آخر\n\nبرهم يجيكي ن تیا بیمار آخر\n\nويوقني سک چین آخر نند آدامي آخر ننه آدامي وئي هلي لوكي جيكي نه تيا لاچار آخر\n\nخون دل آخر مليو محبوب پنهنجي لب\n\nوي\n\nسونهن بم جيكي نے تيا سينگار آخر لي ويـ\n\nرات لي\n\nدردم\n\nكتي ءٍ دينهن جو تارا ذنـــا\n\nتیا دیدار آخر تـــــي ويـــــاء\n\nلنا ويا تار تار اٹھا لیا ار تار اٹیا نیا سپ وار وار نيهن و جيكي نه تيا نروار آخر لـــي ويـــــاء دل كچي دنيا تان وئي غم تو گھر بار جی قرب ير جيكي نه ٿيا كم كار آخر لـي ويــــاء محبوبن و آخر سكي جوروجفا كي نہ لیا تيار آخر لـــي ويـــــاء\n\n?\n\n5]",
+      "image_path": "books/deewan-e-meer/images/page_0017.jpg"
+    },
+    {
+      "page_num": 18,
+      "text": "﻿________________\n\n\n\nلا\n\n[ ديوان مير غلام الله خان تالپر\n\nغزل\n\nحسن وارا تكي چكا هــــــونـــــدا زخم كيئي سهي چكا هـــــونـ\n\nمون کي در در رلائي منهنجا پرین\n\nمنهنجو در در پـ\n\nچکا هوندا.\n\nجيئن هتي آه مــــان پريان وينو\n\nتيئن هو آهون يري چكا هوندا.\n\nخطا عشق جي خطا آهي\n\nهان ان کي مچي\n\nهوندا.\n\nمون کي الفت\n\nهر\n\nدرد دئي\n\nكيدا\n\nبي\n\nچين کي\n\nهوندا.",
+      "image_path": "books/deewan-e-meer/images/page_0018.jpg"
+    },
+    {
+      "page_num": 19,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر \"مير\"]\n\nزندگی\n\nهر\n\nغزل\n\nبي مقصد و مهجور اهم تو كان سوا\n\nطرح پر درد آرنجور آ تو كان سواء\n\nدي\n\nتون نه آهين زندگي دركار مون ناهي تي. خوشي کائی پیئن سپ دور آ توکان سوا.\n\nهر\n\nهي حسين پر شکوه دنيا زهر وانگي تي لكي. پور جوین . بدن تیو چور آ توکان سوا.\n\nهر خوشي جي بدلي غم هر لطف عيوض درد مون سدا سھٹا کیو منظور آ تو كان سواء فصل گل گل بر دل جي حالت دیگران آهي پرين دس وري بيرن جھليو بور آ تو كان سواء هي هوائي دشمنن شاید آزائـ\n\nي\n\nآ سچی\n\nاج كلهم خوش وتي مسرور آ تو كان سواء\n\n7]",
+      "image_path": "books/deewan-e-meer/images/page_0019.jpg"
+    },
+    {
+      "page_num": 20,
+      "text": "﻿________________\n\n\n\n募\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nتنهنجي چهري کي صبح زلفن کي شام سمجهون ثا, اسان تم دنيا کي تنهنجو ئي نام سمجهون تاء شکست سمجهون ٿا، جيكر كرون تا نظرن مان مرك تنهنجي کي پنهنجو انعام سمجهون تـــــاء نهنجي ونسا\n\nكي\n\nنا سمجهون فرص محبت جو\n\nتنهنجي جفاكي محظ تلخ جام سمجهون ثا.\n\nپنهنجي\n\nفغان کی نا سمجھون پنهنجي كوتاهي\n\nتنهنجي سزا کي حسين گل لام سمجهون تاء\n\nاوهان\n\nجي\n\nجي\n\nاگيان بلا كنهن جي يا اميري آ،\n\n\" ་\n\nاسان تـ تر\n\n::\n\nبه تنهنجو غلام سمجهون ثا.\n\n[8",
+      "image_path": "books/deewan-e-meer/images/page_0020.jpg"
+    },
+    {
+      "page_num": 21,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nكذهن ته پورو اسان جو سوال کر سهنا كذهن ته پنهنجي وفائن جو پال کر سهئا.\n\nكذهن تم مركي هليو آ اخي اسان جي تي كذهن دل تمنا جو خيال كر سهثا.\n\nجي\n\nكذهن ته ناز كري زلف مون تي كولي يد كذهن تم منهنجي اميدن جو سال کر سهئا. كذهن ته منهنجي تڑپ کي ملي سكون پيارا, كذهن ته پنهنجي پرن سان حلال كر سهئا. كذهن تم \"مير\" جي محبت جو رک پرم سائین كذهن تم پورا تمنا جا خال كر سهنا.\n\n9]",
+      "image_path": "books/deewan-e-meer/images/page_0021.jpg"
+    },
+    {
+      "page_num": 22,
+      "text": "﻿________________\n\n\n\n[10\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nسرین شوق دل ڈسٹ جاركون تا چر كني خيال من بر ملی جا ركون تا.\n\nديوار زماني جـــــي\n\nجي وچ پر آئــــي\n\nاسان ذوق ان کي تدن جا ركون تا.\n\nاچو: اچو یاروس\n\nتصور اوهان جي\n\nآ اوهان جي\n\nاچی جا ركون تا.\n\nكذهن من وصل جو وري وائ پیارا فكر دل تنهنجي تين جا ركون تا.\n\nكذهن مير وت محب مهمان بیندا اسان دیپ باري اگن جا ركون تا.",
+      "image_path": "books/deewan-e-meer/images/page_0022.jpg"
+    },
+    {
+      "page_num": 23,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nحوادث بي كران پاگل كيو آ, چوان كنهن کي ته مون سان دل كيو\n\nيري نالہ پئي جا یار ها\n\nآ.\n\nچــــــــــن غارت انهي بلبل كيو آ.\n\nاسان\n\nجي بي زبانـــــــي\n\nخفاآ\n\nچوي دنيا پئي تــــو غـــل كيو آ.\n\nī\n\nالفت بني ازهر قاتل\n\nشوق ذي مائل كيو آ.\n\nكنهن جي\n\nاندي\n\nهر\n\nاسان\n\nیر وضعداري کي\n\nجي\n\nكنين جي صورت اچي سائل كيو\n\nآ.\n\n11]",
+      "image_path": "books/deewan-e-meer/images/page_0023.jpg"
+    },
+    {
+      "page_num": 24,
+      "text": "﻿________________\n\n\n\n[12\n\nدیوان\n\nمير غلام الله خان تالپر \"میر\n\nغزل\n\nاسان درد پر پل دعائون كريون تا سهي سب جفائون وفائون كريون ثا.\n\nبلا درد دشمن تم آهي آهي اسان\n\nجو\n\nاچي ٿو ته ان جون كلائون كريون ٿا.\n\nA\n\nوصل جون اميدون ركي يار دل جدائي جون پوريون سزائون كريون ٿا.\n\nچي نه پون زخم تنهنجي جفـا جــــا انهي خوف كان نم دوائون كريون تا.\n\nبدي \"مير\" جون من پكارون وثين تون انهي شوق پر بس صدائون كريون تا.",
+      "image_path": "books/deewan-e-meer/images/page_0024.jpg"
+    },
+    {
+      "page_num": 25,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر مير ]\n\nغزل\n\nاجوكي زمـــانـ زماني : الفت كتي آ ركي محب آهن محبت كثي أ. آهن درد دوکمه بیا سور سامهون چپن تي جا آهي حقيقت كثي أ. سكي دل\n\nفي جنهن هي محبت لكم يارو سا محبت كمي آمي چاهت كتي آ.\n\nآهي كوز جو ء كيت جو زمانو\n\nوفا\n\nحسينن کي فرصت كتي آ.\n\nدعا\n\nبنجي\n\nدوستي آ\n\nكجيين :\n\nالفت\n\nجحي عادت كني\n\nآ.\n\n13]",
+      "image_path": "books/deewan-e-meer/images/page_0025.jpg"
+    },
+    {
+      "page_num": 26,
+      "text": "﻿________________\n\n\n\n[14\n\nدیوان غلام الله خان تالپر \".\n\nمير\n\nغزل\n\nيا فاصلا مرد تنهنجي و\n\nبياري هـي بــــ\n\nنیا سلسلا\n\nچو پلان\n\nچو پلا\n\nکول اکريون غزالي اي مهنا سچ\n\nتو تغافل سان كيا زلزلا\n\nچو پلا\n\nوع دا پنهنجا آخر پریا چو اچ چن تــ پائي تي تيا بلبلا چو بلا. وني ولي پاٹ کي گهري مجبوري آ، كيني در پيش تيا مرحلا چو پلا\n\nمانهن کي لگو تي وڏو پوکې اچ\n\nجن انهن لاء تيا مشغلا چو بلا.\n\nتنهنجي\n\nآغوش\n\nبر هـو رهيو \"مير\"\n\nاچ\n\nچئو طرف تيا كني غلغلا\n\nچو بلا.",
+      "image_path": "books/deewan-e-meer/images/page_0026.jpg"
+    },
+    {
+      "page_num": 27,
+      "text": "﻿________________\n\n\n\nدیوان\n\nمیر غلام الله خان تالپر مير ]\n\nغزل\n\n[\"\n\nهائي\n\nهجر جو حال بدائن بسم ذکيو آ\n\nليكن درد دل کی دہائی بہ ڈکیو آ.\n\nگمنامين كان خوف وني تو گھٹو مگر\n\nرسوائن بر پير کي پائن بـــ ڈکیو آ.\n\nدهليز محبت تي قدم شوق جـــو ركي هائي انهي کي پويان هتانن به ذکيو آ.\n\nپابند كذهن جا دل نه رهي رسم و راه جي آواره ان كي راه تي لائن بہ ذکیو آ. ناهي فقط هي غم تم ويو \"مير هو بلجی آتم ستمگر کي پلائٹ بہ ڈکیو آ.\n\n15]",
+      "image_path": "books/deewan-e-meer/images/page_0027.jpg"
+    },
+    {
+      "page_num": 28,
+      "text": "﻿________________\n\n\n\n[16\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nدرد چاريندي شام گذري آ توکي ساريندي شــام گـذري آ.\n\nرات جو حال كهرو توکي زيان مون کي ماريندي شام گذري آ.\n\nسور کهڑا شب فراق جا چئون نير هاريندي شام گذري آ. كندين های حشر رات پرین ن ناريندي شام گذري آ\n\nنو سواء شراب شوق كتي زهر پياريندي شام گذري .\n\nنو سواء كي سما دبير جي شام وير واريندي شام گذری آه",
+      "image_path": "books/deewan-e-meer/images/page_0028.jpg"
+    },
+    {
+      "page_num": 29,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر \"مير\"]\n\n17]\n\n[\"\n\nغزل\n\nنه گل و آهي خوشبوه ن مج بر روشني آ ت و كان سواء اهري حالت زندگي آ.\n\nچر\n\nنه كو نامبر ملي تو نه ئي باد صبا گذري تو كان سواء سپ جي مون سان تي دشمني آ.\n\nا حال چوان تو کی محبوب جدائي جو\n\nحال\n\nجدي\n\nاكيني توکي ته آگهي\n\nآ.\n\nبي چين نظر آهـي بـــي چين فكر آهي،\n\nهر سوچ بي يقين آ هر کاله بـــي وسـي\n\nآ.\n\nدي\n\nمير\n\n་\n\nچه هر نفي جي هن سان تي ويئي دوستي\n\nسواء تنهنجي هين زندگي تو گهاري,\n\nآ.",
+      "image_path": "books/deewan-e-meer/images/page_0029.jpg"
+    },
+    {
+      "page_num": 30,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالي\n\nغزل\n\nير به راحت آن\n\nغم ئي غم آ خوشي كان فرصت آ.\n\nས\n\nالفت جو تیر اهرو آ\n\nزخم هـــر هك سان تي محبت\n\n་\n\n.F\n\nنالو كت هو اسان جي هستي جـــــو\n\nثي جنون اسان\n\nشهرت آ. جي\n\nآهــــــن\n\nداغ اهرا فراق جا دل تي چن گلن سان پري كا جنت آ.\n\nزلف جا پیچ جس عدن جون گليون كيدي خوشبوء آ كيدي فرحت آ.\n\nهن\n\nبه سندس وٹی تو گھٹو\n\nسان هر طرح جي تي نسبت آ.\n\n[18",
+      "image_path": "books/deewan-e-meer/images/page_0030.jpg"
+    },
+    {
+      "page_num": 31,
+      "text": "﻿________________\n\n\n\n19]\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nلبن سان ملائي ويـــو لال لب آ,\n\nجنون جو اهو ئي تم تازو سبب\n\nسچٹ سال سورهن .\n\nآ\n\nپیر پاتو\n\nاه\n\nقیامت آ برپا غضب تيو غضب آ.\n\nتي تقريب تازي ملن جي مني ان\n\nتي اپريل نئون به اجوكي عجب\n\nهو مهتاب بنتجي اگئ تي اچي ويو\n\nآه\n\nچراغان چراغان سموري تي شب شب آ.\n\nاسان \"مير\" قدمن تي مر آ جهكايو\n\nاگیان یار\n\nجي\n\nحسب آ نسب آ. چا\n\nC",
+      "image_path": "books/deewan-e-meer/images/page_0031.jpg"
+    },
+    {
+      "page_num": 32,
+      "text": "﻿________________\n\n\n\n[ 20\n\nدیوان میر غلام الله خان تالپر \"مير\"\n\nغزل\n\nوصل وارن منجهائي ماريو آ من مون ورنہ گھٹو ڈتاریو آ.\n\nمنهنجي\n\nرشك كائي نه ڪيئن دل چند كنهن بام تي آپاريو آ.\n\nكاش تيئن منهنجي زندگي سنوري, سهي جيئن زلف کي سنواريو آ. چا بلا هجر چا آفت آ وصل مون گھٹو بحث ان کی ناریو آ. جو كذهن \"مير\" نہ پئي وسري سگھيو, سو وڏي ويـــر مـون وساريو آه",
+      "image_path": "books/deewan-e-meer/images/page_0032.jpg"
+    },
+    {
+      "page_num": 33,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nایڈو ياد توكي كريان تو پیارا جيدا عرش تي هي دسين هو ستارا.\n\nايدو ياد منهنجي اندر بر تون آهين\n\nجيدا كنهن متي تي آمن وار كارا.\n\nایڈو تو وئين مون کي محبوب منهنجا جيدا تا ولــن وت بسنتي نظارا. ايدي آس آهـي مـــن لاء تنهنجي بذل جيئن ڪو چاهي ندي جا كنارا. جيئن طوفان و لهرون ہے آرزش و گرمي تيئن آهن اوهان لئی اندر پر اوپارا. جيئن تازو قري لاء پريشان آهي، جيئن پائي ري ماهي بري تي شوكارا. ایڈو \"مير\" ساري تو سھٹا اوهان کي جيئن برسات سارين سانگي ويچارا.\n\n21]",
+      "image_path": "books/deewan-e-meer/images/page_0033.jpg"
+    },
+    {
+      "page_num": 34,
+      "text": "﻿________________\n\n\n\n[22\n\n[ ديوان مير غلام الله خان نالهر\n\nردیف\n\nرخ روشن تا\n\nغزل\n\nچمن واه زلفن جا نصیب\n\nقريب لب تا رهن واه گلن جا نصيب.\n\nاسان ته خاک نقش پا به تی نه سگھیاسین اوهان جهوزي . هنيا تن واه گلن جا نصيب.\n\nاسان منسوب نہ تیاسین اوهان سان يار كذهن بيت تنهنجي بر رهن تا سر و سمن جا نصيب. اسان کي ديد نم تنهنجي نصيب\n\nدلبر\n\nاگن تي آئين گهمي تيا صحن جــــا نصيب.\n\nاسان کی سھٹا مقدر آه و درد ملیا .\n\nاهي ني\n\n་\n\nهمیشه تیا عاشقن جا نصيب.",
+      "image_path": "books/deewan-e-meer/images/page_0034.jpg"
+    },
+    {
+      "page_num": 35,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر سير ]\n\nغزل\n\nوري بدگماني جو کھڑو سبب هي نئي مهرباني جو كهرو سبب. کوٹ چاک آیا حزين دل کي آهيو ايدي جانفشاني جو كهرو سبب.\n\nوري زخم چو\n\nتا دیو چاک دل تي\n\nانهي بي نشاني جو كيرو سبب.\n\nوري\n\nر\n\nملایو پیا چو عدو سان\n\nانهی هم زباني جو كيرو سبب.\n\nوري ياد آيو آهي \"مير\" چا لئي\n\nانهي قدرداني جــــــو\n\nكهرو\n\n23]",
+      "image_path": "books/deewan-e-meer/images/page_0035.jpg"
+    },
+    {
+      "page_num": 36,
+      "text": "﻿________________\n\n\n\n[24\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nآهون دانهون كري أباري شب توبه توبه كري گذاري شب.\n\nرات پر غم جو درد جو احساس\n\nكيني بي بي\n\nجنهن جي\n\nدرد هئي سا كاري شب\n\nهك هك گهري قيامت هئي،\n\nزهر جو يك كري اتاري شب. هان كو چند كو نه تارو آ رات پر مون سچي نهاري شب.\n\nهي رات عجب رات هئي. ته دشمن ذني اداري شب.",
+      "image_path": "books/deewan-e-meer/images/page_0036.jpg"
+    },
+    {
+      "page_num": 37,
+      "text": "﻿________________\n\n\n\nدبوان میر غلام الله خان تالپر \". مير ]\n\nرديف \"پ\"\n\nغزل\n\nكئي دشمن پچار آهي وري تركي پيو اچ پپ، خزان بعد بهار آهي وري تركي پيو اچ پې. اچي پيو قافلو شاید غم هجران سندو یارو طرف هر هك غبار آهي وري تركي پيو آج پې. بدگمان تي اچ ته نه مون کي جڏي ويو آ، نظر لي اشكبار آهي وري ترکي پيو اچ پپ.\n\nهو\n\nدكان دل جو\n\nمالک چا ويي پيو شهر پنهنجي مان, چو ویران شي بزار آهي وري تركي پيو اچ پې.\n\nاسان ترک محبت \" مير كئي آهي ته پوء چا لئي كنهن جو انتظار آهي وري تركي پيو اچ پې.\n\nعي\n\n25]",
+      "image_path": "books/deewan-e-meer/images/page_0037.jpg"
+    },
+    {
+      "page_num": 38,
+      "text": "﻿________________\n\n\n\n[26\n\nسچن کلفت\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nجي شيري کان چگي .\n\nمحبت\n\nدي\n\nردی رب\n\nآهي رب.\n\nپلائن كان منا تنهنجي مني دعوت جي\n\nگھٹا شه زور شهزادا تكا دعوت دئي مون کي سدا الفت جي آهي رب.\n\nقبولي يار مون تنهنجي\n\nپلي کو سادگي پنهنجي منجهان سمجهي كم نه سمجهي، جدائي هجر كان بهتر سچی قربت جـــي آهي رب.\n\nوفا جی جنین پر\n\nآ خوشبو حيا\n\nجي\n\nچاشني\n\nآهي.\n\nسني سيني طعامن كان اها رغبت جي آهي رب.\n\nآریـــا آهــــي جتي اي\n\nنفرت آن\n\nلكي ان بادشاهي كان چگي غربت جي آهي رب.\n\nالواحة 3 بعد",
+      "image_path": "books/deewan-e-meer/images/page_0038.jpg"
+    },
+    {
+      "page_num": 39,
+      "text": "﻿________________\n\n\n\nديوان مير غلام الله خان تالپر مير ]\n\nغزل\n\nسوچ تي هر\n\nگمان تي\n\n')\n\nآمي\n\nآپ\n\nآب.\n\nآهین\n\nدل\n\nجي ويران مكان تي\n\nآه تی تي چو خفا تيو\n\nرس تے هو\n\nآسمان تي آهي آب.\n\nان سان دنيا جو کارخانو هلي تي حاوي جهان تي آهي آب.\n\nان كري پئي فغان اندر مان اتي غالب فغان تي آهي آب.\n\nتي\n\nان لاء پيو نظارو وٹي طاري سمان تي آب.\n\n27]",
+      "image_path": "books/deewan-e-meer/images/page_0039.jpg"
+    },
+    {
+      "page_num": 40,
+      "text": "﻿________________\n\n\n\n\"\n\n[ ديوان مير غلام الله خان تالپر\n\nرديف \"پ\"\n\nغزل\n\nزمانی جا سھٹا دغاباز سپ\n\nنا حسین\n\nهتي\n\nجا جفا باز سپ\n\nمان كهڑا ادائن جا نالا ونان\n\nتي قاتل اسان جا پیا ناز سپ. اكيون هي ابرو هي زلف هي لب تیا دل جھپٹ لئي آهن باز سپ.\n\nهي\n\nتي مجنون وياسين اسان عشق . و یا اسان کان ادا ساز سب.\n\nرسي\n\n་\n\nاسان \"مير\" الفت گھٹي ئي لكاني\n\nکلي پيا زماني تي هي راز سپ.\n\n[28",
+      "image_path": "books/deewan-e-meer/images/page_0040.jpg"
+    },
+    {
+      "page_num": 41,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان قالير\n\n29]\n\n[\"\n\nغزل\n\nمنهنجو دلبر سدا آهي ان لپ مون آ گولیو صفا آهي ان لپ.\n\nهو ته ويجهو آ وينو ساهم اندر پر تو چاٹی خدا آهي ان لپ.\n\nغير وت دم به دم پيو بتجي هتي دلربا آهي ان لپ.\n\nهون تم دنیا و پیار سستو آ\n\nپر هتي تي وفا آهي ان لپ.\n\nجرم\n\nهن جي\n\nوفا تي تي هو\n\nآخفا\n\nاهري سزا آهي ان لپ.",
+      "image_path": "books/deewan-e-meer/images/page_0041.jpg"
+    },
+    {
+      "page_num": 42,
+      "text": "﻿________________\n\n\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nذكيا مرحلا تيا جدائي بر سپ اهي روگ آهن وفائي پر\n\nآيو وات آ كليجو اسان\n\nچر\n\nجو\n\nاهي معجزا تيا جفائـ جر سيه\n\nطرفدار منهنجو رهيو كوبه ناهي ويا تي اوهان جا خدائي بر سپ. براني چگي هئي بري هن جهان . نيا هي كرشما پلائي بر\n\nاسان \"مير\" صلح و صفائي رکي آ\n\nپیا یار دسجن لڑائ\n\nلڑائي جر سپ\n\nلا\n\n[30",
+      "image_path": "books/deewan-e-meer/images/page_0042.jpg"
+    },
+    {
+      "page_num": 43,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپـ\n\n31 ]\n\n[\"\n\nردیف \"ت\"\n\nغزل\n\nتنهنجو پيار ۽ منهنجي محبت دیس تان قربان پنهنجي چاهت.\n\nھاٹ نہ مل كنهن هوتل تي تون,\n\nيلجي وج\n\nسا\n\nپهرین\n\nالفت.\n\nشالیمار جي كيفي جي اج.\n\nسان\n\nنم وهي\n\nآساگی رنگت.\n\nكيئن ملون كنهن پارك م جو\n\nپاهــــر گـولين جـــــي آ وحشت.\n\nكرفيو جي فانون اندر آج قيدي آهــــي تــــي هــــر\n\nقسمت.\n\nهای نایجان آن راهن تان\n\nخطرو آهي سها تيو جت.\n\nتنهنجي منهنجي شهر جي\n\nآهي حالت.",
+      "image_path": "books/deewan-e-meer/images/page_0043.jpg"
+    },
+    {
+      "page_num": 44,
+      "text": "﻿________________\n\n\n\n[32\n\nدیوان میر غلام الله خان تالپر \".\n\nغزل\n\nزندگي پر ن وساري تو سگهان رات\n\nجي\n\nرات\n\nكنهن محبوب مسيحا سان ملاقات\n\nجي\n\nرات.\n\nهاء ظالم جو کلي پيار مان پاکر پائن\n\nدل\n\nپر\n\nطوفان اتـاريو انهي جذبات\n\nرات. جي\n\nوصل جي\n\nتيز مهدك ، بي خوشبوی\n\nدل کی پاگل كندي لمحات\n\nگور كان هو بچـ كان سيني\n\nواه\n\nرات. جي\n\nمان لگو\n\nسانون تنهنجي برسات جي رات.\n\nاج واعـــــدا وفــا جـــا پـریـا\n\nعجب\n\nكرم و كرامات جي رات.",
+      "image_path": "books/deewan-e-meer/images/page_0044.jpg"
+    },
+    {
+      "page_num": 45,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n33]\n\n[\".\n\nوفا\n\nیر\n\nغزل\n\nآمي\n\nمون کي ائين يار ذني خزان کي جيئن ته بهار وني آهي\n\nشکست\n\nشکست.\n\nوتان مسرور - مغرور پو زماني : كم رنج و غم کي قرار دني آهي شكست. ترك الفت كي كيئن ناصح چهو مجان\n\nكم نفرتن کي وري پيار دني آهي\n\nهـي\n\nچمن هي\n\nراي\n\nཅ་ས་\n\nشکست.\n\nحسین بام و حصان\n\nوري صحرا کي ديوار ذني آهي شكست.\n\nاحي\n\nپنهنجي جنون کي\n\nکی سودا\n\nغمن سودا کي.\n\nاگل تي اکين نار ذني آهي\n\nشکسته",
+      "image_path": "books/deewan-e-meer/images/page_0045.jpg"
+    },
+    {
+      "page_num": 46,
+      "text": "﻿________________\n\n\n\n[34\n\nوفا\n\nجي\n\n[ديوان مير مير غلام الله خان تالپر\n\nغزل\n\nراهم تي نه كر عجلت\n\nحسين بلا مان نه كركا محبت.\n\nعشق\n\nدرد ني چگو آهي،\n\nتون سکن سال رکن کا صحبت.\n\nکاش رشتو اهو ئي راس اچي\n\nروح وارن سان چگي آ رغبت.\n\nجنهن شهر عدو جو ديرو آ ان شهر سان به چگی آ الفت.\n\n\"مير\"\n\nكيلو جهان کي سمجهايون,\n\nکالهم هك هكم وأي تي حيرت.",
+      "image_path": "books/deewan-e-meer/images/page_0046.jpg"
+    },
+    {
+      "page_num": 47,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر مير ]\n\nنظر اوهان\n\nردیف \"ت\"\n\nغزل\n\nات ات چئي\n\nبزم پر آهي لكي پئي آت آت.\n\nچا کرين پيو هتي اكيلو تـــــون\n\nني ساري سنگت آ، وئي آت آث.\n\nحسن وارن\n\nجي\n\nلت لتان تي بني\n\nکچه نه آهي ته دل دئي آت آت.\n\nتون وفائن تي كهرو ناز كندين اهرا آیـا ويـــا كنـي آت آت.\n\nاي \"مير\" اهري بزم و چو وهين خلاف دل دماغ بــــــــي آت آت.\n\n35]",
+      "image_path": "books/deewan-e-meer/images/page_0047.jpg"
+    },
+    {
+      "page_num": 48,
+      "text": "﻿________________\n\n\n\n[36\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nچمن پر آهي خزان و بهار ناهي كت قرار گولي تكاسين قرار ناهي كث.\n\nاسان\n\nمهاندا منهنجي مني يا صفا العيب آهن تناسين يار كئين منهنجو يار ناهي كت. مجنون تيامين دشت آیو اگیان جي كتي تم سر كي تكايون ديوار ناشي كت. وفا نه آهي كتي ۽ نه كت ادا آهي اكين جي آذو اکين جو تم نار ناهي كت.\n\n་\n\nپيار جي جي بدلي بدلي دلين ب پاپ آهي،\n\nچون تا پیار جھين کي سو پيار ناهي كت.",
+      "image_path": "books/deewan-e-meer/images/page_0048.jpg"
+    },
+    {
+      "page_num": 49,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n37]\n\n[\"\n\nرديف \"ت\"\n\nغزل\n\nڈسن بر اچي پيو زمانو آلت\n\nآلت كهائي\n\nفسانو الت.\n\nتیو\n\nاوهان كونه چاهيو منا\n\nوچی\n\nتیو یار تنهنجو بهانو الت.\n\nكتي دل كتي يار منهنجو جگر آ ن هن یار اهر و نشانو آلت.\n\nعجب دل جي دولت هئي هن جهان .. تيو لت لتان خزانو آلت.\n\nهر\n\nاسان \"مير\" جنهنكي مقدر تي سمجهيو ثيو يـــار جاني يگانو آلت.",
+      "image_path": "books/deewan-e-meer/images/page_0049.jpg"
+    },
+    {
+      "page_num": 50,
+      "text": "﻿________________\n\n\n\n[ 38\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nمحب جي\n\nفراقن سندا دل\n\nكني\n\nورونهم جي وراكن سنـدا دل ر كئي\n\nقت\n\nقت.\n\nملي تو نے محبوب نہ دل ثري لي\n\nپنهنجي\n\nعقابـــي\n\nدانهن واكن سندا دل\n\nبر كني\n\nقت.\n\nاکين جون كھائيون چئون كيريون\n\nسندن زخم چاكن سندا دل\n\nكي قت. ير\n\nاچون تا گلي ر ۽ موني وجـون تــــا\n\nانهي\n\nبند تاكن سندا دل\n\nكئي قت.\n\nاسان \".\n\n་\n\nمير\n\nكنهن کي قصا قصا هـ\n\nتم تيا قارون قاكن سندا دل\n\nبدایون, هـــــي قت. كني",
+      "image_path": "books/deewan-e-meer/images/page_0050.jpg"
+    },
+    {
+      "page_num": 51,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\nير\n\n[\"\n\nغزل\n\nلت\n\nجهان جا هي دينهن چار آهن آنـي مزا چند دينهن يــــار آهــن آنــــي لت.\n\nجواني جون شامون ایان رنگ و هـن پريا پيا هي بازار آهن آتي لت. پسايو پـــــريــــــن يــــار جـلـوو آ جاني گھڑي دم جا ديدار آهن آتــــي\n\nلث.\n\nكلهن لب تي لالي كلهن وار كارا,\n\nحسينـن جــــا سينگار آهــن آنــــي\n\nلت.\n\nسودا هتي تي وين تا\n\nورونهم جا واپار آهن آتي لت.\n\n39]",
+      "image_path": "books/deewan-e-meer/images/page_0051.jpg"
+    },
+    {
+      "page_num": 52,
+      "text": "﻿________________\n\n\n\n\"\n\n[ديوان مير غلام الله خان تالپر\n\nرديف \"\n\nغزل\n\nبدلي : جفا في ذئـ\n\nدئي ون تون بس گلائي تن\n\nون.\n\nتـــــي\n\nخطا اسان کي محبت جي سهني اي سهٹا سچن تون سزا ئي دلي ون.\n\nاسان لاء سیٹا اوهان وت اگر کا\n\nجزا جي\n\nنه آهي خطا ئي دلي ون.\n\nاسان کی سچن توسان کرو آ\n\nآسودو\n\nبلائي جي بدلي برائي ذني وث.\n\n”\n\nاسان میر آهيون اسان کي چا پرواهی\n\nپلي تــون عدو کي خدائي دئــــي وث.\n\n[40",
+      "image_path": "books/deewan-e-meer/images/page_0052.jpg"
+    },
+    {
+      "page_num": 53,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nهــو كندو اعتبار اسان تي نيت ورندو هن جو پیار اسان تي نيت.\n\nهیل پل ظلم : جفائون كري آئيندو یار اسان تي نيك.\n\nاچ خزان آهي ته گلا چو كيون كذهن ورندو بهار اسان تي نين.\n\nڏسجي ترپائي كيس تك تــو فـراق ايندو هي آخر قرار اسان تي نين.\n\nميرة كيدو به خوش فهم تون تي ایندو بــــرهــم بــــار اسان تي نيت.\n\n41]",
+      "image_path": "books/deewan-e-meer/images/page_0053.jpg"
+    },
+    {
+      "page_num": 54,
+      "text": "﻿________________\n\n\n\n[42\n\nكنهن جي\n\nدیوان میر غلام الله خان تالپر\n\nرديف ث\"\n\nغزل\n\nالفت ديوانا تيا عبث\n\nهوش تسندي ني روانا ليا عبث.\n\nكير آهي جــــو نـائـي تــــو وفــــا\n\nخلق\n\nR\n\nكيدا فسانا تــــــــــ\n\nعبث\n\nدین ها تم شروع كان دينها\n\nدل جي ھائ ديـــن تـو تـــم بهانا تيا عبث.\n\nدل ته پهرين نظر ر تي گهائل\n\nيار جـــا كيذا نشانا تيا عبث.\n\n་\n\nبي وفـا يـــــار مان وفا چا \"مير\"\n\nقول كيذا نـــــ سهانا ليا عبث.",
+      "image_path": "books/deewan-e-meer/images/page_0054.jpg"
+    },
+    {
+      "page_num": 55,
+      "text": "﻿________________\n\n\n\n43]\n\nدیوان میر غلام الله خان تالپر مير ]\n\nردیف \"پ\"\n\nغزل\n\nهب\n\nحسن وارن سان دل وجــي ثـــي خوف كهرو كرين انهي بر دپ.\n\nمنهن متن غير ســــــان مناسب آهــــي تير نازك نگاه جـــا تــــــون جهپ.\n\nحسن جي در تان اهـو كاهي آ لوپ چڈ پیار جي گھٹي آلب.\n\nتون كس سان كمال وينو كن\n\nعشق جو آهي جـــــي دواج كب. محبوب جا اکين تي انگل\n\nسيني متون سمورا آپ.",
+      "image_path": "books/deewan-e-meer/images/page_0055.jpg"
+    },
+    {
+      "page_num": 56,
+      "text": "﻿________________\n\n\n\n[44\n\nديوان\n\nمير\n\nغلام الله خان تالپر\n\nغزل\n\nاوهان جي\n\nعطا\n\nاوهان جي\n\nجو همیشه آهي\n\nجو همیشه آهي\n\nکپ\n\nكي\n\nنه گهرجي سخي كو اوهان كان سواء\n\nاوهان جي\n\nسخا\n\nجــــو همیشه آهي کپ.\n\nن آهي اوهان ري كتي چونكارو شفا جو همیشه آهي کپ.\n\nاوهان\n\nجي\n\nتون لي دارون آهين منهنجي درد جو\n\nدرد کی دوا جو همیشه آهي آپ\n\nعجب سیر\n\n༑ ་\n\nآبي\n\nبها\n\nبدي\n\nهدي\n\nمون کي تي تي دعا\n\nهمیشه آهي\n\nخزانو کپه",
+      "image_path": "books/deewan-e-meer/images/page_0056.jpg"
+    },
+    {
+      "page_num": 57,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n45]\n\n[\"\n\n་\n\nرديف \"ج\"\n\nغزل\n\nتوسان كهري كريون منا كا کهڑي پوري آثـي بـــذا كا\n\nجيئن كرم غير تي اسان تي بـــــ\n\nفج.\n\nکر\n\nبي كريون كهري اج جدا كا\n\nج.\n\nرحم رائل پوي تـــــ مركي اچ\n\nمع\n\nاها نالي تون خـــــدا كا\n\nج.\n\nتون كريــــن عهد وفا يار وري\n\nپوري منهنجي تئي اها كا\n\nج.\n\n\"مير\"\n\nكذهن شكر صبر پٹ کر\n\nله هر هر كرين ســــدا كـا هـــج.",
+      "image_path": "books/deewan-e-meer/images/page_0057.jpg"
+    },
+    {
+      "page_num": 58,
+      "text": "﻿________________\n\n\n\n[46\n\nدیوان میر غلام الله خان تالپر\n\nرديف \"چ\"\n\nغزل\n\nوین درد ء كا دوا نــــي پئي اچ حسينن جو وعدو وفا تي پئي اج. اچي مون سان كن هو رهائيون كهاتيون, ء مون كان حسين كا خطا تي پئي اچ.\n\nهمن درد منهنجي تي مهر وفـ سندن بوسو مون کي عطا تي پئي اچ.\n\nحسينن جي\n\nدل\n\nجيكر اچي رحــــــم بر\n\nوري مهربان جــ خدا تي پئي اچ.\n\nاسان\n\nتہ ساكي تمنا آ تـوري.\n\nاسان\n\nفدا\n\nو مركي تي ئي پئي اچ.\n\nهو\n\nي\n\nپر\n\nمركي كلى سان لائين گلي\n\nبــــار ســـاهـي دعا تي پئي اچ.",
+      "image_path": "books/deewan-e-meer/images/page_0058.jpg"
+    },
+    {
+      "page_num": 59,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر مير ]\n\nغزل\n\nآهم و فغان كان دج\n\nدلبر كذهن تم منهنجي هن دل اندر جو آهي آتش فشان كان بج.\n\nچو درد دین تو دل کي دلبر سبب سواء\n\nمظلوم محبت\n\nزبان كان\n\nدج.\n\nكان بي بي زبـــان\n\nجو بي ضرر بظاهر ليكن وذي بلا آ\n\nاندوه و غم جي بادل هن بي\n\nكران كان بج.\n\nحسرت به كذهن سهنا وحشت تيو پئي تي ان لاء هر گهري تون دل بدگمان كان بج.\n\nهن\n\n\"\n\nفطرت\n\nمير\n\nجي\n\nاي سهٹا نه ایترو ستاد تون ي انتقام كنهن ناگهان كان بج.\n\n47]",
+      "image_path": "books/deewan-e-meer/images/page_0059.jpg"
+    },
+    {
+      "page_num": 60,
+      "text": "﻿________________\n\n\n\n[48\n\nدیوان مير غلام الله خان تالپر\n\nردیف\n\nغزل\n\nواهم جو يار ڏنو آهي وجهم سهي سركار ذنـــــو آهـي وجهم. مركي مركي ان تي آيو آ، دوست دلدار دنـــــو آهـي وجهم.\n\nقرب جا قول اج هو پاريندو محب منشار دنــــو آهــــي وجه.\n\nدير\n\nتك دلربا دیدار دئي\n\nسونهن جي سردار ذنو آهي وجهه.\n\nير\n\nهر دم هو مهربان رهــــي\n\nمون کي هر وار ڏنو آهي وجهم.",
+      "image_path": "books/deewan-e-meer/images/page_0060.jpg"
+    },
+    {
+      "page_num": 61,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nرديف \"ج\"\n\nغزل\n\nدلبر درد تو ماري منهن ته ديكاري وج سكان تو سھٹا سرك پياري وح.\n\nS.\n\nسوچي سوچي دلبر دل آ ديواني تـــــي اچ ۽ اچي تون منهنجا هوش آذاري وج.\n\nمون کي مزو آ منڑا تو لئم ترین م اکژیون یار عجیب اچي تون آلاري وج.\n\nآهي سچن وچ سیر\n\nچڈیو\n\nقرب اوهان جي ھاٹ اچي كو حبيب كو حبيب اتان تون اكاري وج.\n\nمیر وتی تو ماند و تنهنجي مركن لاء\n\nنالي\n\nخدا\n\nجي\n\nنرسل مركي نهاري وج.\n\n49]",
+      "image_path": "books/deewan-e-meer/images/page_0061.jpg"
+    },
+    {
+      "page_num": 62,
+      "text": "﻿________________\n\n\n\n[50\n\nديوان مير غلام الله خان تالپر\n\nغزل\n\nرهم نے گھٹو مك جهات نسي وج, اكرين جي برسات نســـــي وج.\n\nاکرین پیارین پیاریـــــن آذني سوغات نسي وج.\n\nتنهنجون خوشيون توكـــي مـبـارك غم وارن جي رات تـــــي وج. كيئن كنو نم آ درد جدائــــــي كيئن كپيو آهي كات دي وج.\n\nپل پر ساري بل ير تي جياري نادي ذات نســـــي وج.\n\nعشق\n\n\"\n\nمير جيئي بي جان و جگر پیو\n\nرات\n\nهي\n\nزات دسي وجه",
+      "image_path": "books/deewan-e-meer/images/page_0062.jpg"
+    },
+    {
+      "page_num": 63,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر \"میر\n\n51]\n\n[\"\n\nرديف \"چ\"\n\nغزل\n\nپچي آس دل جي پرين يار اچ كريون يـــار دادا ويهي پيار اچ.\n\nهي رات ويندي,\n\nنه ايندين جي سهنا تم كري هـــار جـاني ، سينگار اچ.\n\nپلي پوء وچوڙي جو كر وار مون تي هلي هوت مون وت تـون هيكار اچ.\n\nسجي عمر ساري تكو يار آهيان كريون دوست دل سان دیدار اچ.\n\nورونه و چوژي منختهايو اهي\n\nحسين هان\n\nمير\n\n1\n\nتون هنيين هار اچ.",
+      "image_path": "books/deewan-e-meer/images/page_0063.jpg"
+    },
+    {
+      "page_num": 64,
+      "text": "﻿________________\n\n\n\n[52\n\n[ ديوان مير غلام الله خان تالپر\n\nرديف \"چ\"\n\nغزل\n\nكري ياد كنهن کي اي دل تون وري ستان درد تنهنجا وجــــن هـي ثـــري اچ.\n\nكتي ترس تو تي پــريـــــن كائي پرچن، كري درد دانهون سچو دينهن چري لج.\n\nجي خاموش تيندين تم خامين تون رهندين برهم جي ذكي هي جري لچ.\n\nبري\n\nن سوچون ستون كر سجن كان سواء سوا سوز الفت نم كنين جي سري لج. كري \"مير \"كهريون جدائي جون كالهيون تون سمجهين تي ساري حقيقت ذري لج.",
+      "image_path": "books/deewan-e-meer/images/page_0064.jpg"
+    },
+    {
+      "page_num": 65,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n[\"\n\nرديف \"ح\"\n\nغزل\n\nكريون شان احمد\n\nجي هر دم مدح\n\nوجائي دلين جا تي سپ غم مدح.\n\nاجـايــــــو پریشان چــــــو آهـــيـــن تـــو\n\nنــي\n\nذائل كري كيئي ظلم مدح.\n\nدوستو درد كو سامهون\n\nاچي\n\nتم گنجی پڑھو سپي تي باهم مدح. اگر دل کي زنده تو چاهين رکن تم اي يار پڙهندو رهـم پيهم ملح گھٹا \"سیر\" حيلا هلائي تكس پنهنجو درد دارون ئي جاتم مدح.\n\n53]",
+      "image_path": "books/deewan-e-meer/images/page_0065.jpg"
+    },
+    {
+      "page_num": 66,
+      "text": "﻿________________\n\n\n\n[54\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nايئن بدلجي طرح وج يار موسمن جي اکیون نہ قیر سچل سائين تون رتن جي طرح.\n\nاسان\n\nجي\n\nپیار كيو اتے پاپ کھڑو پرین\n\nسزا نه دي تون اسان کي هين ملزمن جي طرح. اسان جذبات محبت بر كني خطا هوندي, نه لي تون لال اسان تي پنهنجي گلن جي طرح. كذهن تم ناز كري محب مل اچي مون سان\n\nطرح.\n\nپري ؛ دور نہ تي سرو ۽ سمن جي كذهن تم \"مير حا محبوب واپس آگئ اچ. كذهن تم مهكي هي ايوان به گان جي طرح.",
+      "image_path": "books/deewan-e-meer/images/page_0066.jpg"
+    },
+    {
+      "page_num": 67,
+      "text": "﻿________________\n\n\n\n55]\n\nدیوان میر غلام الله خان تالپر \"مير\"]\n\nرديف \"خ\"\n\nغزل\n\nسو چند كيئن ڏسي جنهن آ ذنو یار جو رخ اوهان تا باغ دسو مون دلو بهار جو رخ. منهنجي ڪيئن ئي رنج و الم سان يار بسر هن جي رخ پر آ ڈنو مون وري قرار جو رخ\n\nهو جتي جتي آهي اتي ئي سدا رهي تي دل\n\nمون وري هن جي\n\nتعاقب كيو ديار جو رخ.\n\nزمانو كيدو بگاڑي سندم نصیب ته چاه\n\nهت هن جي آهي تقدير جي سنوار جو رخ. اي \"مير\" چه تون زماني جي هن عداوت كي, تون آتي گولهم جتي آهـي تيو پيار جو رخ.",
+      "image_path": "books/deewan-e-meer/images/page_0067.jpg"
+    },
+    {
+      "page_num": 68,
+      "text": "﻿________________\n\n\n\n\"}\n\nدیوان مير غلام الله خان تالپر\n\nردیف \"د\"\n\nغزل\n\nمهر كر تون مون تي بنام محمد بدست دعا آغلام محمد. تني منظور منهنجي مناجات مـــــولا تني مقبول منهنجو سلام محمده به جز ان جي مون کي نه مقصود كو آ ورود زبان تشي كلام محمده نه گهرجي تو مون کي ثنا و بيان جي، زبان تي هجي صبح وشام محمد. مهر كر اي مولا آ جيدو كيو تو آهي شان اعلي مقام محمد. آهیان \"مير\" عربي جي امت پر آئون اهو آهـي كافي انعام محمد.\n\n[56",
+      "image_path": "books/deewan-e-meer/images/page_0068.jpg"
+    },
+    {
+      "page_num": 69,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n57]\n\n[\"\n\nغزل\n\nــا شـــــان تنهنجو اعلي نور الهدي محمد چا تنهنجي كيان ثنا مان بدر الدجي محمده نبين جو نبي آهين محبوب خدا تــــــون اعاي مقام تنهنجو شمس الضحي محمد. تنهنجا خطاب كيئي اي شــ تنهنجو غلام آهیان صدر العلي محمده\n\nعاصي اهيان امت\n\nمحشر\n\nرحمت كثير گهرجي،\n\nحامي اچي تي منهنجو كهف السوري محمد.\n\nتوفيق\n\n་\n\nدي صلوات جي نبي تون\n\nآهين دلين جو مالك صلي على محمد.",
+      "image_path": "books/deewan-e-meer/images/page_0069.jpg"
+    },
+    {
+      "page_num": 70,
+      "text": "﻿________________\n\n\n\n[58\n\nدیوان مير غلام الله خان تالپر\n\nدير\n\nغزل\n\nآهیان منتظر مان سخار محمد تني كائي مون تي عطا\n\nمحمد :\n\nمحمد جو روضو آ انوار رحمت\n\nچار ســــو آ ضيار محمد\n\nاي مولا ملي شل مقدر ب مون کي\n\nكا سنت نبـي جـــي\n\nادار محمد\n\nگناهن كان دامن بچائي هلان مان\n\nلي كاش حاصل حـــــــار محمد.\n\nوا ان\n\nجي\n\nبخشش نه بي\n\n་་\n\nپانیان\n\nستر پوش تئی شـل قــبـــار محمده",
+      "image_path": "books/deewan-e-meer/images/page_0070.jpg"
+    },
+    {
+      "page_num": 71,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nنم\n\nغزل\n\nبیو آ وسيلو سوار محمد\n\nتئي كاش مون تي شفار محمد.\n\nتم محرومين جو دهي باب يكش حاصل اگر کا عطا محمد.\n\nཙཀ\n\nگنهگار آهیان سـيـه كار آهيان ملي كاش مون کي خيار محمد.\n\nوين بي نوايون تين بادشاهيون\n\nན\n\nآمي\n\nدير\n\n་\n\nاسان تي سخا\n\nمحمد.\n\nســـــــو بادشاه زمانا\n\nآغي گدار محمد\n\n597",
+      "image_path": "books/deewan-e-meer/images/page_0071.jpg"
+    },
+    {
+      "page_num": 72,
+      "text": "﻿________________\n\n\n\n[60\n\n[ديو\n\nديوان مير میر غلام الله خان تالپر\n\nغزل\n\nآه\n\nاثـــــر بــــار ار تئي\n\nشاب\n\nروبرو منهنجي يار تئي شاب\n\nهن کي نفرت گھٹي هني\n\nليكن,\n\nشاید.\n\nاج بدلجي سا پیار تئي شاب\n\nابر شاید شايد وي\n\nاتن تي اچ\n\n؛ ككر جي به كار تني شايد.\n\nچا تمنا چر\n\nعمر ئي ويندي\n\nكو تم مون سان وهنوار تني شايد.\n\nچٹ لک ملي خزانه ويا\n\nهن جي مركي نهار تئي شايد.",
+      "image_path": "books/deewan-e-meer/images/page_0072.jpg"
+    },
+    {
+      "page_num": 73,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n61]\n\n[\"\n\nغزل\n\nبو گل بود وفا آهي پسند\n\nحسن جي هركا ادا آهـي پسند.\n\nعيب\n\nكان خالي كيو آهي خدا هر طرح سان دلربا آهـي پسند.\n\nهن جو چهرو چند وانگي تو وٹي.\n\nهن جي\n\nزلفن جي\n\nگھتا آهي پسند.\n\nتیو همیشه مهربان محبوب آ\n\nدل کي سدا آهي پسند.\n\nمنهنجي\n\n\"مير\" هن جي\n\nمان كيان كهري ثنا\n\nچا جوان مون کي ته چا آهي پسند.",
+      "image_path": "books/deewan-e-meer/images/page_0073.jpg"
+    },
+    {
+      "page_num": 74,
+      "text": "﻿________________\n\n\n\nશ\n\n\"\n\nدیوان میر غلام الله خان تالپر\n\nرديف \"ت\"\n\nغزل\n\nسجن تو وجائي محبت و\n\nاهاتی آحاصل حقیقت ست بد.\n\nچر\n\nدسي تنهنجا جلوا عجب بار جاني\n\nاسان پئي وچي\n\nست بد. حيرت جي\n\nجنهين كئي دغا سي وثيا نيك توكي\n\nوئي يار پنهنجي شرافت بر\n\nسز\n\nبد.\n\nانگل آر تنهنجا به كو یار سمجهي، رکی آ سموري نزاکت پر\n\nاسان \"مير\" كنهن کي مياري كيونكيئن\n\nهمن ان قيرائي آ الفت سان\n\nبر\n\nست بد.\n\nلحرة\n\n[6.2",
+      "image_path": "books/deewan-e-meer/images/page_0074.jpg"
+    },
+    {
+      "page_num": 75,
+      "text": "﻿________________\n\n\n\n63]\n\nدیوان میر غلام الله خان تالپر مير]\n\nخوشبوی\n\nردیف »\n\nغزل\n\nجي بهارن جي نظارن جي گاله چد\n\nکر گالهم پرين هك\n\nهو\n\nآ آفتاب حسن\n\nهن جي\n\nجي گاله چد. هزارن جي\n\nهن جو مثال كت\n\nذكر كان بوه ستارن جي گاله چد.\n\nكا دام\n\nناهي كا هن جي ييت . تي سخت بي صیاد را هم لگ تون وارن جي اله چد.\n\nمركي وجهي كلي در بانهون اگر سچل اي و\n\nپور گالھ چڈ گلن جي\n\nای\n\nهن\n\n33\n\nهارن جي\n\nکاله چد.\n\nبير من سواء گشن بر چن خزان آ\n\nكان سواء باغ و بهارن جي گاله چد.",
+      "image_path": "books/deewan-e-meer/images/page_0075.jpg"
+    },
+    {
+      "page_num": 76,
+      "text": "﻿________________\n\n\n\n[64\n\nدیوان مير غلام الله خان ٹالپر\n\nغزل\n\nچــــد.\n\nدل جا بـئـي ديـــــار كولي سامهون آرپار کـــــولــــي چــــد.\n\nسگهندا\n\nكهريون ناهيون : كاهيون شاهین تو مون لئي پنهنجا تون وار کولي چـــــد. دل جو تركن ته آهی توسان پرین تون پلي من جا تار کولي چند. باغ دل جا ن كل سكي منهنجي اکرین جانار کولي چـــد. مرك جو لب جو پیچ قابوآ تون پلي سامهون دار كولي چـــــد. من جو قيدي پکي هري ويو آ تون پلين ان كي یار کولي چـــد.\n\nير\n\nهن جي\n\nعجب پگهر آذو\n\nمشک و عنبر ثني خوار كولي چـــد.",
+      "image_path": "books/deewan-e-meer/images/page_0076.jpg"
+    },
+    {
+      "page_num": 77,
+      "text": "﻿________________\n\n\n\n65]\n\nدیوان میر غلام الله خان تالپر میر]\n\n་\n\nرديف \"ب\"\n\nغزل\n\nسھٹو سـيـن كان آ منشار جن چندی\n\nايئن آهي منهنجو هنيين هار جن چند.\n\nادي.\n\nتو اگئ تي تئي\n\nسهائي.\n\nسچن سائين سھٹو منهنجو یار جن چند.\n\nاكريون انهي جون خماري خماري پرون اهرا آهن تلوار چن چند. نسن سان گمان تيو مني تي عجب آ لكو هين سندس آهي ديدار چن چند. مک یار جو \"مير\" آ ماهتابي » هجي رات چوڏهين سندو تیار چن چند.",
+      "image_path": "books/deewan-e-meer/images/page_0077.jpg"
+    },
+    {
+      "page_num": 78,
+      "text": "﻿________________\n\n\n\n[ 66\n\nدیوان مير غلام الله خان تالپر\n\nرديف \"ي\"\n\nغزل\n\nنہ لگ يار جاني كدورت\n\nهمیشه تـــــي حامي محبت جي\n\nكي\n\nكي.\n\nسلامي هي سنسار تنهنجو ئي رهندو\n\nمگر رهم همیشه تون حقیقت\n\nجي\n\nكي.\n\nاسان کي بـ تنهنجي وئي وات پیارا\n\nك تون تين سدائين شرافت ج-ي\n\nحقیقت\n\nمر\n\nكيه\n\nتنهنجو حسن سورهيائــــي\n\nنم رهم يار سهنا نزاكت جي\n\nكي.\n\nاسان میر ان سان محبت كيون تا.\n\nالفت نسون تا جو هردم\n\nجي\n\nكيه",
+      "image_path": "books/deewan-e-meer/images/page_0078.jpg"
+    },
+    {
+      "page_num": 79,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nچگو ناهي كينو كدورت كي كي. سدا مرك منرا نفرت كي كي.\n\nمزو\n\nوني دس محبت جو پیارا\n\nتنهي واهم وذائي وحشت كي كي.\n\nسنو آهي سهنا رهــيـــن پــــاني\n\nپرائی\n\nگلا\n\nچد غيبت كي كي.\n\nپرين پيار ذي ۽ پرين پيار ون بي هر غم السم جي مصيب كي كي.\n\nجدّي \"مير\" سان ويهم تم محبت لطيف لكائي نمرك ان لياقت كي كي. رک\n\n67]",
+      "image_path": "books/deewan-e-meer/images/page_0079.jpg"
+    },
+    {
+      "page_num": 80,
+      "text": "﻿________________\n\n\n\n[68\n\nدیوان مير غلام الله خان تال\n\nیئن دل\n\nردیف \"ز\"\n\nجي\n\nغزل\n\nحالت نم كرتون اخذ\n\nآهي چا محبت نہ كرتون اخذ.\n\nلنگډي آئ پیارا هتي وچ پنور . کنارن تان وحشت نم كر تون اخذ.\n\nدل درد ور سان نه كر نرم ڳالهيون سندم شوق و حسرت نہ كر تون اخذه\n\nزماني بر سهما ايئن سي تي تو\n\nمنهنجي\n\nديد عبرت نــم كر تون اخذه\n\nاسان \"\n\nدير\n\nاندي\n\nمر\n\nماتهون زمانا تا چاٹون\n\nكا حيرت نه كر تون اخذ.",
+      "image_path": "books/deewan-e-meer/images/page_0080.jpg"
+    },
+    {
+      "page_num": 81,
+      "text": "﻿________________\n\n\n\n}}\n\nدیوان میر غلام الله خان تالپر مير ]\n\nردیف \"ر\"\n\nغزل\n\nهر حسن بر حسن مولا جو سدا آ جلوه سمت الله ئي الله جان تلك\n\nهي\n\nپهچي\n\nگر\n\nنظر.\n\nگل و لالم هي خوشبو هي حسن احساس تك, هركو مولا مهر سان زنده آهي سر بسره\n\nجي\n\nدل جو تڑکن ساز جا سر گوڑ ككرن جي مرئي. هن جي جنبش حکم جا هر دم رهن تا منتظر. هر غني محتاج آهي هر سخي سوالي هتي شهنشاهن تک گدا آهي خـــــدا اگيان بشر. لاء دنيا جا نهارین در پیو\n\nجي\n\nمن مولي کي سڏيندو كر مچيندو كر.\n\n69]",
+      "image_path": "books/deewan-e-meer/images/page_0081.jpg"
+    },
+    {
+      "page_num": 82,
+      "text": "﻿________________\n\n\n\n[70\n\nدیوان مير غلام الله خان تالون\n\nغزل\n\nویئن پوء خطا یاد نـ\n\nكن\n\nتي وئي جا بــــ گاو یاد نه كره گردش مئي هجر ؟ شام جو وقت چيز هڪ آهي جـدا یـــــاد نــــم كر. كلهن كلهن تم وصل ياد به تئي. تلخيء هـجـر ســــــدا یـــــاد نـــم كر. مشي كشي بعد يلائن آچگو پي وري كنهن جي ادا ياد نه كر. چو تو پئين تون اچ بی حساب تلخي و رنج و بلا ياد نه كر.",
+      "image_path": "books/deewan-e-meer/images/page_0082.jpg"
+    },
+    {
+      "page_num": 83,
+      "text": "﻿________________\n\n\n\n71]\n\nدیوان میر غلام الله خان تالپر الله خان تالپر مير]\n\nغزل\n\nتيو ناز جي صاحب کي آ ناز و ادا سان وير منهنجي منت آزي هـــر التجا سان ويره\n\nسنادم\n\nسوچان تو بغاوت نه كري دل ويهي ي تي پوي نه مون کي هر خوشنما سان وير. كلهم رات چیم یار کی بوسو تم ڈيٹ ڈي مون کي چيائين میر اتم ان خطا سان وير.\n\nمنهنجي\n\nاي\n\nورن\n\nاثر آهم\n\nمنهنجي الميان بيوفا\n\nجدي\n\nدعا سان وير منهنجي وفا سان وير.\n\n་\n\nحسين يار كلهن يار نه كجي\n\nتيو پئي تو هر دلربا سان ويــــــره",
+      "image_path": "books/deewan-e-meer/images/page_0083.jpg"
+    },
+    {
+      "page_num": 84,
+      "text": "﻿________________\n\n\n\n\"J\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nایدو های اسان سان پیار نہ کر سگهو ساهم پنل دشوار نه كر.\n\nكجهم دير ترس كجهم دير تم ويهم رار مشي اقرار نه كر.\n\nاقرار\n\nتئي دنيا جا دستور ڈکیا تون ایڈا انگل اختيار نه كر.\n\nسجو لوك نسي پیو یار سجن ایڈا اکرین سان تون وار نه كر.\n\nهن \"مير\" فقير دلگیر سان تون ابدا الفت جا اظهار نه كره\n\n[72",
+      "image_path": "books/deewan-e-meer/images/page_0084.jpg"
+    },
+    {
+      "page_num": 85,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر مير ]\n\nکر\n\n་་༠༡\n\nرديف \"\"\n\nغزل\n\nصبر كر نم کر خام رژ\n\nنئين گاله ناهي آهــــي عــام رژه\n\nصــبـــر جـــــو وڈو آ صلو دوستو\n\nوجانـــي تـــــي\n\nجي\n\nهند انعام رژه\n\nدانهون كرين تو تم دلبر کي\n\nاين يار كر نہ تون بي نام رژه\n\nكتي دوست پئ منهن نه موژي ويهن پل\n\nچگی نــــاهـــــي همدم همدم صبح\n\nشام رژه\n\nسنو آ رهين\n\nمير\n\nي\n\nصبر سان\n\nكتي ثني نـــــ دلبر تي الزام رژه\n\n73]",
+      "image_path": "books/deewan-e-meer/images/page_0085.jpg"
+    },
+    {
+      "page_num": 86,
+      "text": "﻿________________\n\n\n\nديوان مير غلام الله خان تالپر\n\nردیف \"ز\"\n\nغزل\n\nکوشش تو کر اگيان آهي دلبر نیو چار اکيون تم کول داور محشر تیو چار گزه\n\nهيدي هاي کان پوء ويهن آهــــي حيف تيو منزل جو معاملو نه پري كر ثيو چار گزه چا لهي حوس ۽ لوپ جي رستي هلين تو هستي جو بگټو ناهي سفر پـــــر نیو چار گزه اكين سان تون نه ڏسي سگهندين نظارو نگھم تون نسین منظر نیو چار گزه\n\nظاهر\n\nدل جي\n\nاي\n\nدل جي\n\nعزت آبرو لاء نہ آ جاگیر\n\nدني\n\nآهي\n\nتے پور بهتر نیو چار گزه\n\n0\n\n[74",
+      "image_path": "books/deewan-e-meer/images/page_0086.jpg"
+    },
+    {
+      "page_num": 87,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nرئيس\n\nرديف \"س\"\n\nغزل\n\nهو تــــــو چاهي تم التجائون كندس\n\nبي وفاتي به وفائون كندس.\n\nعشق\n\nمر\n\nها ايئن به تيندو آ\n\nبي مهر کي به پیو دعائون كندس.\n\nمن كلهن بي وفا وفا سمجهي،\n\nخود غرض جون نه مان كلائون كندس.\n\nهــــن لــكيو ترك تعلق جو آ\n\nپوريون پنهنجون پیو سزائون كندس.\n\nچپ رهن\n\nعشق جي\n\nآ شرط\n\nسان صلاحون كندس. صبر ع سوچ\n\n75",
+      "image_path": "books/deewan-e-meer/images/page_0087.jpg"
+    },
+    {
+      "page_num": 88,
+      "text": "﻿________________\n\n\n\n[76\n\nدیوان میر غلام الله خان تالپر\n\nمير\n\nغزل\n\nسجي رات رانهون نهاري تكي پيس, پرین تون نه آئين پكاري لكي پيس.\n\nصبح سور سھٹا نـــــم ذي واندكائي، سوين كانگ قاصد اداري تکي پيس. هجي رات هكڑي ته سورن و كانيون ركيون كيئي راتيون گذاري تكي پيس.\n\nكلهن نيرو ايريا كذهن آيون كتيون كني آپ تي تارا اياري كتي پيس.\n\nهلي \"مير\" وت آ پرین یار پیارا اگن آس وارا بـهـاري تك ي\n\nبیس",
+      "image_path": "books/deewan-e-meer/images/page_0088.jpg"
+    },
+    {
+      "page_num": 89,
+      "text": "﻿________________\n\n\n\nديوان\n\nسير\n\nغلام الله خان تالپر مير ]\n\nردیف \"ش\"\n\nغزل\n\nفریب عهد وفا توكي\n\nآ شابش\n\nاي دل خانم خـــــدا توکي آ شابش سهي ستم جا وئين تير اي جگر منهنجا اي ستم آفرين ســـــــدا ســـــــدا توكي وکی آ شابش. تو وسل بر اکين جي كي آهي مدد اي باد باران گھتا تو کي آ شابش عمر پر تون شريك جان رهين اي سوز درد و جفا توکي آ شابش.\n\nبنائي \"مير. كي جديئي فقير حسن سندو ادا نگهم ناز و توكي دکي آ شابش.\n\nاي\n\n77]",
+      "image_path": "books/deewan-e-meer/images/page_0089.jpg"
+    },
+    {
+      "page_num": 90,
+      "text": "﻿________________\n\n\n\n[78\n\n[ دیوان میر غلام الله خان تالپر\n\nמ\n\nرديف \"ص\n\nغزل\n\nایان به دل تي آ تازو اوهان جو يار خلوص وساري ڪيئن ٿو سگهجي اوهان جو پيار خلوص. لكي ايئن تـــــو سجي زندگي جو حاصل آ\n\nاوهان\n\nجي\n\nمرك محبت ۽ پر بهار خلوص.\n\nاوهان اكيلا ئي ناهيو تيا مهربان پرین اوهان جو آهي ان پے در و ديوار خلوص.\n\nاوهان جون ناز و ادائون اوهان جو مركي ملل\n\nاوهان جون مهر و عطائون بي شمار خلوص.\n\nکي به شرم آيو منهنجي وفا كي تي\n\nاي\n\nنسى سجن جي\n\nعنایت ہے بار بار خلوص.",
+      "image_path": "books/deewan-e-meer/images/page_0090.jpg"
+    },
+    {
+      "page_num": 91,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nردیف\n\nراض\n\nغزل\n\nبرین عادتن و برو آ غرض سين كان تے افضل تيو آ فرض.\n\nچگي آهي روني رخي يار ان كان سي بنائين كلي كو قرض.\n\nجي\n\nتي\n\nغمن\n\nروگن مين جي امي ماه گشتي\n\nكان متي كو ادا نام ادا ناهي مرض.\n\nيجو دوستو سپ برین عادتن كان\n\nچگو آهي منهنجو مچون\n\nدي\n\nعرض.\n\nكذهن \"مير\" انسان مجبور نہ تئي شل\n\nلكي\n\nتا وين هي سماوات ارض.\n\n79]",
+      "image_path": "books/deewan-e-meer/images/page_0091.jpg"
+    },
+    {
+      "page_num": 92,
+      "text": "﻿________________\n\n\n\n[80\n\nدیوان میر غلام الله خان تالهر\n\n\"\n\nدير\n\nالفت\n\nهر\n\nང་。”\n\nردیف \"ط\"\n\nغزل\n\nكنهن حسين سان وفـــــا نہ رک شرط\n\nجي\n\nرسندو ني رهم ضم رهم ضم کي ادا نہ رک شرط\n\nجي\n\nجي نازور كري نه سخا كنهن به سبب كان تون ان سان كذهن يلجي عطا نے رک شرط جي سهنا طبيب دل آهن كلهن درد بــــه س-ه-ي اي دوست حسینن سان شفا نہ رک شرط. جي\n\nهــو مهرور رهيا ته اچي پـــان ئــــي ويندي اي يار حسينن سان قضا جي نه رک شرط\n\nهن مرض پر ض محبت و رهـــي زندگي تــــ ليك محب سان دوا\n\nاي\n\nنہ رک شرط",
+      "image_path": "books/deewan-e-meer/images/page_0092.jpg"
+    },
+    {
+      "page_num": 93,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر سیر ]\n\nردیف «ظا»\n\nغزل\n\nاي دلربا اومان اگیان آهیان محفوظ جي بي جاء رهي كتي نه آهيان مهربان محفوظ\n\nتنهنجي زلف قاد\n\nزلف جي\n\nمر\n\nقادو بي\n\nبلا كان\n\nاي يارمان تو سمجهان آهيان نهان محفوظ.\n\nآغوش لکائي چلين مون کي جي منا,\n\nA\n\nدنيا جي شورشن كان لكان و رهان محفوظ. دل تو کي ڏئي چين سان چاهیان تومان رهن لت كان بجان ع تيان محفوظ.\n\nدلبر بين جي\n\nزلفن جي\n\nچاهیان تو\n\nهين پهري آهن تو سندا رخسار\n\n\"\n\nبوسا زیان : هجان محفوظ\n\n81]",
+      "image_path": "books/deewan-e-meer/images/page_0093.jpg"
+    },
+    {
+      "page_num": 94,
+      "text": "﻿________________\n\n\n\n[82\n\n[ديوان مير غلام الله خان تالپر\n\nردیف \"ع\"\n\nغزل\n\nالوداع اي يار جاني سونهن پريا الوداع مست جوين جا اي مالك دلربا الوداع.\n\nرات هكري تون رهي آج پيو وجين اي سچی محبوب منڑا دل گهريا الوداع.\n\nناز تنهنجي\n\nجي\n\nآنوژي دل سندم\n\nتو سوا كت دوا الوداع.\n\nالفت جو لکي ويو تيرآ\n\nدرد آن\n\nتنهنجي\n\nاي منهنجي\n\nتقدير اي منهنجا قصا الوداع.\n\nجاسب در وجین پوري پيو\n\nكيئن چوان تو کي وري مون کي بذا الوداع.",
+      "image_path": "books/deewan-e-meer/images/page_0094.jpg"
+    },
+    {
+      "page_num": 95,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nرديف \"غ\"\n\nغزل\n\nتنهنجي يادن جو آهي روشن چراغ تو سوا هي من آهي ۽ تن چراغ\n\nزندگي ي تنهنجي صورت خواب جيئن چن كنهن اونده پریو پل کن چراغ. كيئن بلا وسرن هي دل کي كالهيون, جنهن گھڑي باريو هئو سهنن چراغ.\n\nجنهن بر موتي اشك جا مون ميريا اج اهو ساژي ديو دامن چراغ\n\n་\n\nمير يارن كان سواء كت روشني\n\nبس سر محفل پيا تمكن چراغ.\n\n83]",
+      "image_path": "books/deewan-e-meer/images/page_0095.jpg"
+    },
+    {
+      "page_num": 96,
+      "text": "﻿________________\n\n\n\n=\n\nدیوان میر غلام الله خان تالپر\n\n[ $84\n\nردیف \"ف\"\n\nغزل\n\nسچل سائين منهنجي خطا كر تون معاف نم هن پیرو سهنا سدا كر تون معاف.\n\nكتان تنهنجي كاور سني مون كان تيندي, ای سیتا اسان سزا كر تون معاف.\n\nجي\n\nاسان مست آهيون سنا توتي مانـــــدا ناهي هوش آهيون فدا كر تون معاف\n\nجٹ پیار دیندین پلو تنهنجو تيندو كنداسين اوهان کي دعا كر تون معاف.\n\n་\n\nرة وسير سان چو رانا رهين تو\n\nخدا\n\nجو تئي نالو منا كر تون معاف.",
+      "image_path": "books/deewan-e-meer/images/page_0096.jpg"
+    },
+    {
+      "page_num": 97,
+      "text": "﻿________________\n\n\n\n85]\n\nدیوان میر غلام الله خان تالپر مير ]\n\nردیف «ق»\n\nکر گالهم سچي\n\nغزل\n\nچگی کف قاصد ناشي هي\n\nتا درد اتن دل دل بچه های نلهي\n\nگف.\n\nمحبوب چيو تو کی یا دل تو رکين تون,\n\nمون کي تي لكي كمالهم سراسر هي تنهنجي\n\nبي\n\nصبح\n\nگف.\n\nدرد دلو مون نه كذهن آهي تو جيهو\n\nكان شام تك تون آهين وينو وني\n\nگف.\n\nه نامهر كتـي تـــــو وري مهربان تشي د مون سان چرچ اهري كرين چو تو\n\nويهي\n\nاچي\n\nاي \"مير\" مقدر ب كي يار اچ\n\nبس\n\nبر\n\nنامير كري تـو اجائي كا\n\nتو\n\nك.",
+      "image_path": "books/deewan-e-meer/images/page_0097.jpg"
+    },
+    {
+      "page_num": 98,
+      "text": "﻿________________\n\n\n\n[86\n\n[ديوان مير غلام الله خان تالپر\n\nرديف \"ق »\n\nغزل\n\nمنهنجي\n\nقضا\n\nبر\n\nفرق آ\n\nتنهنجي\n\nادا\n\nجر\n\nفرق\n\nتنهنجي\n\nسزا\n\nپر فرق | منهنجي\n\nآ\n\nخطا\n\nفرق.\n\nفرق\n\nساقي فرق مني و فرق متكدي . رنگین گھتا بر فرق آ باد صبا\n\nفرق. بر\n\nمون دل دني جدي تون نه وعدو دلي سگهين\n\nمديخا\n\nمنهنجي\n\nR\n\nفرق آ تنهنجي\n\nسخا\n\nفرق. جر\n\nمون وت فغان آهي تــــو وت آ شكايت\n\nR\n\nفرق آ تنهنجي\n\nگلا\n\nمنهنجي\n\nگلا\n\nهن\n\nمير\n\nجي\n\nليكن وفـ\n\nفرق آ\n\nمنهنجي وفا\n\nA\n\nفرق.\n\nاي سهٹا تو سان نه بیت آ\n\nA\n\nفرق.",
+      "image_path": "books/deewan-e-meer/images/page_0098.jpg"
+    },
+    {
+      "page_num": 99,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر مير ]\n\nكهائي اسان حيا\n\nجي\n\nدوا کان چڙهي ويو دعـــــا\n\nتنهنجي\n\nغزل\n\nا لائق وفائي وفـا جي\n\nمنهنجي هي وفائي سزا جي\n\nا لائق.\n\nلكون ماجرا چا غم عشق جي\n\nجي\n\nمحبت تي رحمت خدا\n\nاچ\n\nا لائق.\n\nجدي\n\nجي؟\n\nلائق.\n\nجي\n\nكا خيرات ديو\n\nكي,\n\nحسن جي\n\nلائق.\n\nهي\n\nجوين جواني سخا\n\nجي\n\nوجي\n\nخود جي\n\nسهو هي سمجهي\n\nچگوآ\n\nخطا\n\nهي.\n\nمير\n\nموسم\n\nا لائق. جي\n\n87]",
+      "image_path": "books/deewan-e-meer/images/page_0099.jpg"
+    },
+    {
+      "page_num": 100,
+      "text": "﻿________________\n\n\n\n[88\n\nدیوان مير غلام الله خان تالپر\n\nوصل\n\nجي\n\nرات\n\nغزل\n\nآهـي فراق\n\nتنهنجي هر بات م بم آني فراق.\n\nن فقط مئي نئي تي هوش منا\n\nگردش حالات\n\nير\n\nآهـي فراق.\n\nتنهنجي\n\nابروير\n\nاشارو تیو\n\nجن ملاقات\n\nمر\n\nآشی فراق.\n\nنیرنگ دهر بر به\n\nسياهي\n\nآہ\n\nهر رنگ\n\n་\n\nآهي فراق. بارات پر به جي\n\nكيئن كيف تئي قرار اچي،\n\nوصل جي\n\nلمحات\n\nآهي فراق.\n\n刀\n\nག",
+      "image_path": "books/deewan-e-meer/images/page_0100.jpg"
+    },
+    {
+      "page_num": 101,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nرديف \"ك\n\nغزل\n\nمون کي ياد سو حادثو آ ایان تک تنهنجي حسن سان واسطو آ ايان تك.\n\nوصل جـو جو منتظر آهيان ليكن\n\nتنهنجي\n\nتنهنجي\n\nهجر ير به مزو آ ايان تك.\n\nتنهنجي پيار کي مان ويهان كيئن وساري\n\nزبان خلق تي قصو آ ايان تك.\n\nتنهنجي زلف كارن جو قيدي تيس مان\n\nمون کي ياد سو سلسلو آ ايان تك.\n\nمحبت بر ترین ناهي مير\n\nوسريو\n\nمون کي ياد هر مرحلو آ ايان تك.\n\n89]",
+      "image_path": "books/deewan-e-meer/images/page_0101.jpg"
+    },
+    {
+      "page_num": 102,
+      "text": "﻿________________\n\n\n\n[90\n\nدیوان مير غلام الله خان تالپر\n\nمير\n\nغزل\n\nسیجی\n\nدنيا سجي\n\nپر منهنجو منو مه لقا ملوك\n\nآهي سين سين كان سھٹو سچن دلربا ملوك. الهيون عجيب ان جون بلبل جي جن سدا اکیون خمار پریل سٹیون صفا ملوك.\n\nكنهن ويل مون دو نه مني کي ملول آ صبح كان شام تك آهي سهو سدا ملوك.\n\nچاهي اهرو كتى نه ناهيو كذهن آ خدا سلوك.\n\nاگر کو حاسد تم بيت پل كري,\n\n་\n\nهن جي كيري وانان اج كيان\n\nپ ناز عجب هن جا هركا اذا سلوك.",
+      "image_path": "books/deewan-e-meer/images/page_0102.jpg"
+    },
+    {
+      "page_num": 103,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان نادر\n\nوٹی\n\nردیف «ی»\n\nغزل\n\nاسان کي عجيبن سندي اک\n\nيا يا\n\nسنن یار مالهن مجيبن سندي اک.\n\nنسن سان پريو تي پوي واهم پنهنجي نمان ابوجهن غــريــــــن سندي\n\nاک.\n\nهنيين مر عجب آهي هوري هلي وئي حسينن جميلن حبيبن سندي اک. كذهن روبرو تي هـو رهندا اسان وت كذهن اك هي تيندي نصيبن سندي اک\n\nكذهن\n\nكيجي ير\n\nتمنا اهـــا آن\n\nعدوان دشمنن رقـيــبـــن سندي اك.\n\n91]",
+      "image_path": "books/deewan-e-meer/images/page_0103.jpg"
+    },
+    {
+      "page_num": 104,
+      "text": "﻿________________\n\n\n\n[92\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nشرابي\n\nـــــي شرابي\n\nسجی ا تنهنجي\n\nاک\n\nكات آئي كهن\n\nتنهنجي\n\nياين\n\nاک.\n\nبزم\n\nآه و\n\nفغان تي ئي پئي آ،\n\nآلي كوس دايو كرن آ تنهنجي\n\nاك.\n\nاسان\n\nجي حزين دل به قاكون كري وئي.\n\nاک.\n\nسكي\n\nجهبي\n\nدايو ويئي وين آ تنهنجي\n\nدل وئي سا\n\nچنبن منجهم چائي\n\nسچن سونهن وارا سرن آ\n\nهنا \"\n\nاک. تنهنجي\n\nكي ت نه آئي كلهن بي،\n\nمير\n\nعنابي\n\nهرن آ\n\nاک.\n\nتنهنجي\n\nعقا بدي",
+      "image_path": "books/deewan-e-meer/images/page_0104.jpg"
+    },
+    {
+      "page_num": 105,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nردیف «گ»\n\nغزل\n\nآگ,\n\nعشق تنهنجي\n\nآه\n\nآگ.\n\nكيني\n\nسوز سچی\n\nبرهم جدي كابه نشاني نــــ ا فقط دكري بـــــــي أهـــــي\n\nي\n\nآگ\n\nھان پي چا سچی نه ملندين تون دس جگر تك اچي آهي\n\nرسي\n\nك طرف رقص جدائـ\n\nآگ.\n\nجوآ\n\nپئي طرف دل پر نچي آهي آگ.\n\nچا مون کي جلائي سگهندي\n\nآگ کان کچي\n\nعشق جي\n\nآگ.\n\n93]",
+      "image_path": "books/deewan-e-meer/images/page_0105.jpg"
+    },
+    {
+      "page_num": 106,
+      "text": "﻿________________\n\n\n\n[94\n\n[ديوان مير غلام الله خان تالپر\n\nردیف \"گ\"\n\nغزل\n\nمون حسن جو سھٹو ڈلو سردار هئو نم تیر نظر سان من تيو بيمار و نم اگ.\n\nوعـــــدا وصــل جـــا كيئي سيشن كيا مگر بي چين دل كندر كو انتظار هئو نه اگ. مات ساز و سر کي بلبل کي كي, اهرو عجيب كنهن جو گفتار هئو نم اگ.\n\nهئي\n\nسهئن همیشه دل تــي كني مهر و عطا پئي، اگیان هي شهکار هئو نه اگ.\n\nليكن اكين جي\n\nاي \"مير\" پسندي محب كي تي دل گرفته ويس، ريت من كلهن به گرفتار هنو نم اگه\n\nإن",
+      "image_path": "books/deewan-e-meer/images/page_0106.jpg"
+    },
+    {
+      "page_num": 107,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر مير ]\n\nغزل\n\nمنهنجي مني جا مانا ناز و ادا الگ آهي سين كان سھٹو سچن مه لقا الگ. وا کان هن جي مون جا كئي شعر سندي بر ديوان تنهن جا كيئي نهي ويا جدا الك.\n\nشو چو نــــ هجي بزم اندر لک هزار و ليكن سدائين ڏسبو سين كان صفا الكي. ـــــــن بر شمار كان بم ستي خوبيون ذنم عطا الـ آهـي حسن و سخا الك.\n\nاي\n\nو\n\nچون قربان ان\n\nجي\n\nستان تیان\n\nهـو شاهکار حسن بـــ آ دلربا الك.\n\n95]",
+      "image_path": "books/deewan-e-meer/images/page_0107.jpg"
+    },
+    {
+      "page_num": 108,
+      "text": "﻿________________\n\n\n\n[96\n\nدیوان مير غلام الله خان تالپر\n\nردیف \"\n\nغزل\n\nدلبر سواء كهرو دل جان جو وكري سواء كهرو سامان جو\n\nآهي\n\nآمي\n\nاگھر\n\nاگه.\n\nبي درد سال كهڑا كجن درد جـــا بيان, احساس سواء كهرو انسان جو آهی اگه.\n\nتو منهنجي وفا تي دنو مركي تم خوشي تي.\n\nپورو مليو اسان\n\nجي\n\nارمان جو\n\nأهدي\n\nاگه.\n\nخود میزبان تئين ته وڏي کاله تي پئي،\n\nان كان وديك كهرو مهمان جو\n\nمير\n\nتو مركي ذنو كي كافي یار اهو دل دكان\n\nبس\n\nجي\n\nآهي\n\nاهو\n\nجو آهي\n\nاگه\n\nآهي، اگههه",
+      "image_path": "books/deewan-e-meer/images/page_0108.jpg"
+    },
+    {
+      "page_num": 109,
+      "text": "﻿________________\n\n\n\n97]\n\nدیوان میر غلام الله خان تالپر میرم\n\nردیف «ت»\n\nغزل\n\nسهمن سجن مون سان صدين جا آهن سگ مولا كري محب سان مرني هي پرن سگ.\n\nرهي\n\nهر ویل حجت تن سان هلندي كذهن نم پیارن جا دل تان هی\n\nاسان جي؟\n\nلهن سگ.\n\nویژهي . ويهي جن سان كيون قرب كهائيون, ست. اي كاش كذهن من تان منهنجي نه وجن جي دور كنهن سبب كان اگر تي ويا پرين ست. ويهن الله كري ويجهو منهنجي سي\n\nاي \"مير\"\n\nمحبت بي\n\nچاٹان نے سچاٹان تو\n\nاکین اگیان سدائين قرندا\n\nست. رهن ي",
+      "image_path": "books/deewan-e-meer/images/page_0109.jpg"
+    },
+    {
+      "page_num": 110,
+      "text": "﻿________________\n\n\n\n[ 98\n\n[ ديوان مير غلام الله خان تالپر\n\nردیف ل \"\n\nغزل\n\nهن درد جی دوا كو كري آهي ته مشكل شفا كو كري آهي ته مشكل.\n\nبيمار جي\n\nكافر جو جنهن کي تیر لگو دل\n\nان لهم ويهي\n\nهي\n\nجي\n\nآرپار\n\nدعا كو كري ته آهي مشكل.\n\nدور عجب دور آهي كم نگاهي جو\n\nكنهن تي وجي\n\nپئي\n\nعطا كو كري آهي ته مشكل.\n\nلاه رکي پنهنجي سدا دل کي مضطرب,\n\nه غم سان مبتلا كو كري آهي ته مشكل.\n\nاي\n\nدرد و غم جي كهائي نه كر بيان توسان وري وفا كو كري آهي ته مشكل.",
+      "image_path": "books/deewan-e-meer/images/page_0110.jpg"
+    },
+    {
+      "page_num": 111,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر \".\n\n99]\n\n[\"\n\nردیف \"م\"\n\nغزل\n\nكيلي نــــ حسين حسين آهي هي پيار جي طرف آهی خوشبو بهار جـ\n\nديواني بلا كيئن نه لني\n\nهر\n\nدل هي\n\nموسم.\n\nاسان\n\nجي\n\nسو اچي ويئي گل و گلزار جي موسم.\n\nهك ذوق ملي ويو آ سندم چشم کي یارو\n\nگویا اچي ويئي آهي ديدار جي\n\nاي\n\nموسم.\n\nگل مان سچن تنهنجي اچي اچ پئي خوشبو طرف آهي تنهنجي هيكار جي موسم.\n\n募\n\nخزان بر\n\nبہ تم لطف بهار آ\n\nحاوي سين تي آهي خيار جي موسم.",
+      "image_path": "books/deewan-e-meer/images/page_0111.jpg"
+    },
+    {
+      "page_num": 112,
+      "text": "﻿________________\n\n\n\n[100\n\nدیوان میر غلام الله خان تالپر\n\n\".\n\nغزل\n\nتنهنجو ورق نئون آ دل\n\nجي\n\nتنهنجو ملی این آ خوشبو\n\nكتاب :\n\nA\n\nگلاب چرا\n\nچو تو سچن لکائين مهتاب جهزو چهرو\n\nچو باهم تو لگائين پنهنجي نتاب\n\nجره\n\nمدهوش مئي تئي تي تنهنجي اکين جي آگيان مستي اچــــ وجي تي گویا شراب پر. مركي دسن اوهان جو بي موت جدي ساري كباب تو تنهنجي حجاب بره\n\nدل نيو وجي\n\nاي\n\nلكجي\n\nنم\n\nجا منا آهين ماكي كان ود منو\n\nچو قصيدو تنهنجي\n\nجناب .",
+      "image_path": "books/deewan-e-meer/images/page_0112.jpg"
+    },
+    {
+      "page_num": 113,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n[\n\nغزل\n\nو كلي بهار خوشبو مثل آهي چمن بر هن جو خیال آگ لگائی تو ذهن بر.\n\nهن سان ئي بهار و خوشبو آهي رتل هن جي حنائي دست سان آخون بدن بره\n\nفن جو حسین پیکر آهي شراب چن\n\nهن جي\n\nکلن سان موتي كرن باغ\n\nعدن\n\nجره\n\nهن شوخ جي خيال چڈیو روح کي رولي مان بنجي مسافر تو هلان پنهنجي وطن بر.\n\nاي\n\n\"\n\nجڏهن مركي ملي تو اسان کي\n\nهو\n\nجــــش چند لهي آيو آهي منهنجي صحن ..\n\n101]",
+      "image_path": "books/deewan-e-meer/images/page_0113.jpg"
+    },
+    {
+      "page_num": 114,
+      "text": "﻿________________\n\n\n\nديوان مير غلام الله خان ٹالپر\n\nང་\n\nردیف \" ن \"\n\nغزل\n\nنم كر يار مون سان هي مارك جون كالهيون, وساري منا چد وسارن جون ڳالهيون. رئاسين تناسین گھٹا ڈک ڈمــــر پــس پرین ھان کر پیار پارٹ جون ڳالهيون. نم شكوو كنداسين نم آج كا شكايت. كنداسين نقط دل تتارث جون كالهيون. كلهن ڏس تون مركي كذهن ناز مان دس وٹن پيون اهي ئي نهارت جون كالهيون.\n\nلهن ثا لبـن تــي هي وعدا وفا جا سان گل گذارٹ جون كالهيون.\n\nپنهنجي\n\nمیر\n\n[102",
+      "image_path": "books/deewan-e-meer/images/page_0114.jpg"
+    },
+    {
+      "page_num": 115,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nهن خوبرو کي جان چئون آرزو چئون جو كجه چئون هتي يا وچي روبرو چئون. توهین گر نہ تي پئي حسن و جمال جي, حور و پري جو هن کي اسان پیش رو چئون. ابرو کي هلال به زلفن کسی گھنائون بازن کي هار گل جو اکين کي صبو چئون.\n\nهر گن جیان خرام بهارن جیان طبعیت رنگت شفق مثل : قد کي سرو چئون. اي \"مير\" هن جي حسن و سر سراپا گاله چاه كلاب هن کي چئون شک جو چئون.\n\nعرق\n\nجي\n\n103]",
+      "image_path": "books/deewan-e-meer/images/page_0115.jpg"
+    },
+    {
+      "page_num": 116,
+      "text": "﻿________________\n\n\n\n[104\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nدل کي ديندين نم دلاسو تم مري وينداسين تون پيو ڏسندين جي تماشو ته مري وينداسين. كيترو درد جدائي بجلي جـان بـنـي قرب ديندين تم منا كو تم مري وينداسين. مبتلا سان آهیان اندوه عشق تنهنجي ها تون نه تيندين جي سهارو تم مري وينداسين. تو سواء نه ئي هكري به گهري منهنجي كتي اگر پیو پچندین پلا چو تم مري وينداسين.\n\nسير جون معاف منا كر جي مدايون آهن. ن كندين فضل خلاصو تم مري وينداسين.",
+      "image_path": "books/deewan-e-meer/images/page_0116.jpg"
+    },
+    {
+      "page_num": 117,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر میر]\n\nكا\n\nغزل\n\nموسم کو سانون كارت ياد كر تون ائین خامخواهم دل نه فرياد كر تون.\n\nسدائين تم سھٹو خفا هئو نم تو سان گھڑی پل رنو آنم افتاد كر تون.\n\nاچي دل ويئي آهين جي پيچ و خم بر سچن زلف کولي ته آزاد كر تون. اگر آهي سهٹو صنم دور تـــو كان يادون حسین دل بر آباد كر تون.\n\nسوا ”میر سها كنهن کي ملن تا حسينن لئي دل هين نــ برباد كر تون.\n\n105]",
+      "image_path": "books/deewan-e-meer/images/page_0117.jpg"
+    },
+    {
+      "page_num": 118,
+      "text": "﻿________________\n\n\n\n[106\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nاسان کي تون نه لپندين وجاني بان وهنداسين تكي كولهي كتي سائين رلائي بان وهنداسين.\n\nاها\n\nموسم\n\nجڏهن آئي نري گل گازها پوندا اسان ساري تنهنجي صورت جلائي بان وهنداسين. كتي هي عشق متجي تـــــو جدائي ب پلا سهثا بجون تا ترك الفت ير مثالي بان وهنداسين.\n\n\"\n\nتلاش و جستجوهاي پرين آهیون پریشان تیا پرایا در نسي كنهن ڏينهن كتائي پان وهنداسين.\n\nكذهن اهر و نه قسمت ايندو كو وقت اي پيارا\n\nچر\n\nسها\n\nجو كند هك هئي اگيان سهٹا جھکائي پان وهنداسين. يلي تون آزما وينو محبت \"مير\" يقين كامل اهــو آهـي ملهائي آهي ملهائي پـــان وهنداسين.\n\nجي",
+      "image_path": "books/deewan-e-meer/images/page_0118.jpg"
+    },
+    {
+      "page_num": 119,
+      "text": "﻿________________\n\n\n\n\"\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nیاد ستايـــــو آهـــــي سائين جي گهرايو آهي سائين.\n\nپرهم فني وئي سورن جي كهرو رايو آهـــي سائين. پوگ تے ناهي توسان كيو لنئون لگايو آهـي سـائـــيـــن. هن منزل تي مون کي اچي اچ پرت پچايو آهــــي سـائـيــن.\n\nسير\n\nاوهان سان ازل کان اگرو\n\nنينهن نــايـــــو آهـي سـائــيــن.\n\n107]",
+      "image_path": "books/deewan-e-meer/images/page_0119.jpg"
+    },
+    {
+      "page_num": 120,
+      "text": "﻿________________\n\n\n\n[108\n\nدیوان مير غلام الله خان تالپر\n\nير\n\nزادو\n\nاک\n\nغزل\n\nارو لکندو آهين\n\nجو تارو لكندو آهين.\n\nمنهنجي جيون جي ي كشتي جو\n\nتون ئي كنارو لكندو آهين.\n\nتو كان سواء چين كي آ،\n\nتون سک ســــــارو لكندو آهين.\n\nقسمت جو پلتین تو پاسو پا جو دارو لېندو آهين.\n\n་\n\nمير نسي محبوب جڏهن تـــــو\n\nمحبت وارو لكندو آهين.",
+      "image_path": "books/deewan-e-meer/images/page_0120.jpg"
+    },
+    {
+      "page_num": 121,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپ\n\n109]\n\n[\"\n\nجي\n\nغزل\n\nچو و لطف عنايت كان متائي وجو منهن تسندي ئي سر راهم لكائي تا وجو منهن. اوچتو ملن تو تئي يـــار كذهن تــــى دستور هي كهرو آ جهدائي تا وجو منهن. مشتاق نگاهون جي دسن بـــزم اندر تیون كيلو نه غضب آهي چيائي تا وجو منهن.\n\nت زده تي ان كان متي ظام آ كهرو\n\nحسرت\n\nتے\n\nبوسو اگر دجي تــــــ\n\nقيراني نا وجو منهن.\n\nكهري تي قيامت اچي مون کي تہ بدایو جنهن روز پلامون سان ملائي تا وجو منهن.\n\nكيلونه حسین درد سهي\n\nتو محبوب\n\nمركي جڏهن پري کان پسائی تا وجو منهن.",
+      "image_path": "books/deewan-e-meer/images/page_0121.jpg"
+    },
+    {
+      "page_num": 122,
+      "text": "﻿________________\n\n\n\n[110\n\nدیوان میر غلام الله خان 3\n\nغزل\n\nتو اگر گنجی گذاریو تم بجي و بنداسين\n\nشربت وصل پياريو تـــــ\n\nبچي\n\nوينداسين.\n\nهون تمنا ته هي آهي ذيون جدي سارو جهان تو پرین پر ويهاريو تـــم بـجـي وينداسين.\n\nزهر آهي تــــي حياتي جي منا شرک گھڑي, تو اگر مركي نهاريو تـــــم بـچـي وينداسين. هون تم سیلاب اکين جو نہ كي بوژي جهان تو اگر دل کي ڌتاریو تـــــ بـچـي وينداسين.\n\nمير جون كيني خطائون به گناهون آهن.\n\nتو اگر تن کي وساريو تم\n\nبچي\n\nوينداسين.",
+      "image_path": "books/deewan-e-meer/images/page_0122.jpg"
+    },
+    {
+      "page_num": 123,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان ٹالپر مير]\n\nغزل\n\nخود غرض کي وفا نہ آئي كلهن رنگ لاتــــو نــــ آشـنــائـــي كلهن.\n\nبي مهر شوخ تــنــد خــونــــي رهيو\n\nمون سكي كان بي وفائي كذهن. عـــــشـــــق پر دل اكيلي رهــنــدي آ، ســـــات هلندي نه آ خدائــــي كذهن.\n\nكوشش وصل نــــار سائــــي رهــــي. نارسائ۔ تي حجابن كان نم رهائي كذهن.\n\nچند بادل سان كيندو ئي رهيو تي نكا سهائي كذهن.\n\nاگئی\n\nتيا مقدر نصیب بئي حائل تمنا نے كا مجـائـي كلهن.\n\nني\n\nهن پلائي جديــــو كتاب سجو مون كهائي نـــ. هكـ پلائي كذهن.\n\nī\n\nميران بــي وفـا جــي آس پر آ\n\nجنهن کي شايد وفا آئي كذهن.\n\n1]",
+      "image_path": "books/deewan-e-meer/images/page_0123.jpg"
+    },
+    {
+      "page_num": 124,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تال\n\nغزل\n\nكنهن جو ديدار كري ويناسين ئي چپ پيار ڪري ويناسين\n\nنم ملی تیونم كيوسين شكوو بس اکيون چار كري ويناسين.\n\nچین ویو صبر ویو قرار بـ\n\nم\n\nويو\n\nدل کي بيمار كري ويتامين.\n\nهو به بدنام تيو مونکي به رسوائي سلي, كيدو آزار كري ويــنــاسـيــن.\n\nسليو چا محبت بر اسان کي آهي،\n\nكنين كي بس خوار كري ويناسين.",
+      "image_path": "books/deewan-e-meer/images/page_0124.jpg"
+    },
+    {
+      "page_num": 125,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nزند\n\nتو\n\nغزل\n\nهين گذاري ويناسين\n\nكي دل تي اتــــاري ويناسين.\n\nرات آئي تــــ چهرو تنهنجو اگيان پنهنجي اياري ويناسين.\n\nمنهنجي\n\nاکرین جا تیر اهرا وٹیا\n\nبيئي دل مان اكاري ويناسين.\n\nكيلو دنيا تم ستايو لي مگر دل کی توسان دتاري ويناسين.\n\nمير\n\nتي ميري جڏهن دل پنهنجي،\n\nاشك هاري اجاري ويناسين.\n\n113]",
+      "image_path": "books/deewan-e-meer/images/page_0125.jpg"
+    },
+    {
+      "page_num": 126,
+      "text": "﻿________________\n\n\n\n[114\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nوصل\n\nجي\n\nگذارین تو رات دينين کوشش پر\n\nب هجر جي مشكل جا وسارين تورات دينهن. جو وقت مليو تـــــو کي مقدر پر تون گذار چا كان سكن لئه آهون اتارين تـــو رات دينهن. ــــــو دلربـــا جـــــي باد ديوانو تـــــي ويئن نشتر فراق جـــا تــون اكارين ثورات دينهن. وسـري خـــــدا ويـــــو ۽ شريعت جدي دنــي هر هر ضخم كي هائي پکارین تو رات دينهن.\n\nで\n\nجي\n\nنصیحت نادانيون نه كر\n\nچو بار دل تي تي غم جا اتارين ثورات دينهن.",
+      "image_path": "books/deewan-e-meer/images/page_0126.jpg"
+    },
+    {
+      "page_num": 127,
+      "text": "﻿________________\n\n\n\n115]\n\n\"\n\nدیوان میر غلام الله خان تالپر سیر ]\n\nآ\n\nغزل\n\nويهم كريون كا كچهري يار آمهون سامهون دل پري دلبر پئي دلدار آمهون سامهون, محب منهنجي من جي كمالهين تي مرك منتار پيو پرین دادو مزو تهي پيار آمهون سامهون. چو لكين تو لوك كان ليئا نه پام لالٹ نہ لک منهن مبارك كي پسا منشار آمهون سامهون. مون کي مھٹا تو ذني اج لوك تنهنجي واسطي، اي سچی صورت اچي ديكار آمهون سامهون.\n\nمير\n\nمن جي\n\nپئي لهي منجه دوست جي دلبر ماين\n\nدينهن اچن اهرا تین دیدار آمهون سامهون.",
+      "image_path": "books/deewan-e-meer/images/page_0127.jpg"
+    },
+    {
+      "page_num": 128,
+      "text": "﻿________________\n\n\n\n[116\n\nدیوان میر غلام الله خان تا\n\nغزل\n\nچوان دل منهنجي دي ناشاد کین كريان بي وفائن جو فرياد كيئن.\n\nكيو\n\nنم جن يـــــاد مون کی حیاتی بر كان منا پور كندا ياد كيئن.\n\nمئي\n\nقاسي,\n\nكري قيد مون کي ويا هو بـه آهن خود بــ قابو تيا صياد كيئن.\n\nمحبت جو قيدي رهاكو نيو آ بـدا مـان بـ تيندس آزاد كيئن.\n\nذني \"مير\" هو ويا جدائي جـا غـم رهان تن سواهمان چئو شاد كيئن.",
+      "image_path": "books/deewan-e-meer/images/page_0128.jpg"
+    },
+    {
+      "page_num": 129,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n[\".\n\nكل من\n\nغزل\n\nهي اسان كان جدائي جڏيندين\n\nاسان کي تون پنهنجو بنائــــي چڏيندين.\n\nكلي غم زدن ذي كثي خوب اکريون, كلهن خوبرو تون کلائي جڏيندين.\n\nتنا غم گوندر جي تنهنجي جدائي، كلهن پائي پاکر پلائي جڏيندين.\n\nجي\n\nكلهن دور تيندي هي آج چئو اسان جگر سان جگر لب مــلائــــي ديندين.\n\nآهي\n\nجو من ویراگی اي سهٹا\n\nان كلهن روح\n\nجو ريجهائي چڏيندين.\n\n117]",
+      "image_path": "books/deewan-e-meer/images/page_0129.jpg"
+    },
+    {
+      "page_num": 130,
+      "text": "﻿________________\n\n\n\n[118\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nتنهنجيون كالهيون خواب جون كالهيون حشر جون : حساب جون كالهيون. مركي كراج مـــهـــر وفـا كا تي چكيون كثين عذاب جون كالهيون. دل تي چاهي كري كو مون سان تنهنجي صورت شباب جون كالهيون.\n\nكيترا ذكر كيا آج رات تو\n\nمدی\n\nR\n\nتم هكري تيون باب جون كالهيون.\n\nحسن يوسف كتان آمت تنهنجو\n\nسي\n\nويهم\n\nتم كالهيون كتاب جون كالهيون.\n\nتـــــي\n\nكا دير دل كي آنت تث وق بر چند شتاب جون ڳالهيون.\n\nتون كان سوال تم كر يچي\n\nحسن كنهن لاجواب جون كالهيون.",
+      "image_path": "books/deewan-e-meer/images/page_0130.jpg"
+    },
+    {
+      "page_num": 131,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nتون اچين تو تم وسريو وچن گالهيون رنج و فرقت جون اتريون وين كالهيون.\n\nشب چراغان چراغان تي روشن تئي پیارا الفت جون اجريو وچن ڳالهيون.\n\nمون کي صديون به سهٹا تیون یاد رهن گذريو وين كالهيون. تيون محبت پر\n\nجي\n\nناز و عشوه گري جا تا نیزا لكن تير في دل مان اكريو ويـن كالهيون. بدگمان میر سان تي نہ سھٹا سجن خود به خود هي ليون ادريو وين كالهيون.\n\n119]",
+      "image_path": "books/deewan-e-meer/images/page_0131.jpg"
+    },
+    {
+      "page_num": 132,
+      "text": "﻿________________\n\n\n\n[120\n\nدیوان میر غلام الله خان تالپر \"میر\n\nغزل\n\nرفتم رفتم دل تان توكى كيئن اتاري تو سگهان تو سوا ا هيدي حياتي كيئن گذاري .. گذاري تــــو سگهان. واهم جو محبوب توكي تـــــ وسارٹ تو اچي پر ہذا مونكي تم مان كيثن كر وساري ٿو سگهان. تم سورن پر گذري ويئي منهنجي يـــار پــر هن انذيري رات جو ڏينهن كيئن اپاري تو سگهان.\n\nصبح\n\nدل\n\nكشتي پيار واري آهي انكي اج پئي تنهنجي مركن كان سواء كيئن كر اكاري ٿو سگهان.\n\nمير\n\nسان محبوب سل كجهم مرك ؟ كجهم ناز کر\n\nهت نم قاصد آهي نم كانگل اذاري تو سگهان.",
+      "image_path": "books/deewan-e-meer/images/page_0132.jpg"
+    },
+    {
+      "page_num": 133,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\nمير]\n\n121]\n\nغزل\n\nيلجي ويو چا آهين قرب\n\nسي\n\nتي\n\nكهاتيون,\n\nراتن جون راتون جاگي جاني كيون رهائيون.\n\nبدم\n\nتنهنجي عشق م خزانا آج اکيون لقائن اشكن جي كائيون. موتين جون ناهن كتيون هي\n\nودور دیس دلبر مون کي جڏي رهين تو تو ذي نسن پيون نرمل نظرون پئي نمائيون.\n\nهت هي يكي پکن ، ساٹھو اداس تـو لــــم ترس تي وئين جو هي صورتون كئين سائيون.\n\nبي\n\nسي\n\nميسان مللـش اي خوبرو خدارا\n\nمنزلون سي\n\nمركون محبوب اچ تم مائيون.",
+      "image_path": "books/deewan-e-meer/images/page_0133.jpg"
+    },
+    {
+      "page_num": 134,
+      "text": "﻿________________\n\n\n\n[122\n\n[ديوان مير غلام الله خان تالپر\n\nغزل\n\nاكين مان هي سانون جون بوندون نه وينديون هتى هان كلهن بهارون نه اينديون.\n\nنم ایندا سچن ہے نم قاصد ئي ويندا منهنجي ان تي چانډوکيون ٿينديون.\n\nاكيلائي هوندي ۽ ماتم سجن جو تمنائون خون جگر کي ئي پيئنديون. اسان جي نصيبن مقدر جون كالهيون زماني جي ب د گهین زبانن تي هونديون.\n\n་\n\nجڏهن \"میر موسم بدلجي وئي آ\n\nنه وعدا ئي پرندا نه گالهيون ئي بيهنديون.",
+      "image_path": "books/deewan-e-meer/images/page_0134.jpg"
+    },
+    {
+      "page_num": 135,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان دایر میر ]\n\nمنهنجي\n\nدام\n\nغزل\n\nگهر منهنجي نظر چیر هر قدم تنهائيون\n\nهي آ زندگي يا دم به دم تنهائيون.\n\nكيس تك لژندو رهان مان وصل جي اسيد لثمن\n\nنیت پنهنجو ويون كري هي\n\nتنهائيون\n\nقاتل چیو\n\nجن کی دشمن جان مون سمجهيو بي رحم نيك مون كي كم سي آیون بی رحم تنهائيون.\n\nسم وزر جي جستجو بر سوگران پنهنجا نسي. مون اتي ميريا الم ؟ گرد كيم تنهائيون. \"مير\" هركو شادمان آهي وتي خوش با مراد كنهن کي فرحت آ نسي هي درد و غم تنهائيون.\n\n123]",
+      "image_path": "books/deewan-e-meer/images/page_0135.jpg"
+    },
+    {
+      "page_num": 136,
+      "text": "﻿________________\n\n\n\n[124\n\n[ديوان\n\nمیر غلام الله خان تالپر \"مير\"\n\nردیف \"ٹ\"\n\nغزل\n\nجهاد عشق آ الفت بر ساری رات رنق بم آهي كرامت اگن تي يار اچن.\n\nاها\n\nاها\n\nآهي شهادت عظيم اي يــــارو\n\nخیال زلف پریشان بر تريي جان دین.\n\nاهو به معجزو آهي اسان نظر\n\nجي\n\nنيف\n\nفراق یار بر راتيون كتل ، دينهن تين. اهو به سوت کان گیت ناهي تيو اي همدم هجي پرپور جواني هتن مان یار وچن. اها به عيد آهي رخ انور کي سان سينو بکوژي پيار كرن.\n\nلگائي سيني",
+      "image_path": "books/deewan-e-meer/images/page_0136.jpg"
+    },
+    {
+      "page_num": 137,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nهن جو سرکل اچن ، پیار کرن. دل جو ویران چمن بهار كرن. اچ به دل تي سو نقش آ یارو كنهن جو سيني سان همكنار كرن. سایئم زلف جي حسين خوشبو زانو يــــار تي قرار كرن.\n\nتي\n\nاژهي\n\nلالي هئي کان هن جو\n\nگل کي مثل انار كرن.\n\nمحب كي شوق خود نمائي جــــــو تك عطر ع سينگار كرن.\n\nمیر سی دینهن كهڑا دينهن هئا. راتون جاگی صبح نهار كرن.\n\n125]",
+      "image_path": "books/deewan-e-meer/images/page_0137.jpg"
+    },
+    {
+      "page_num": 138,
+      "text": "﻿________________\n\n\n\n[126\n\n[ديوان مير غلام الله خان تالپر\n\nང་”\n\nرديف \"و \"\n\nمي\n\nغزل\n\nنعرو هني محمد تو\n\nدل کي نالو ولــــي محمد ثو.\n\nدرد كيذا به كلي دل کي هجن\n\nتن جو داور بٹي محمد ثو. جن کي دنيا جدي تي كيرائي، تن کي اوچو کٹي محمد تو. دل کي دنيا جڏهن تي تڑپائي، ملک جا پیوند هي محمد تو.\n\nدنيا وٹی تے درد ملیا\n\nان كري بـس ولي محمد ثو.",
+      "image_path": "books/deewan-e-meer/images/page_0138.jpg"
+    },
+    {
+      "page_num": 139,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان ٹالپر مير ]\n\nغزل\n\nحسن جي خوشبو گلن\n\nخوشبو جي\n\nليكن پياري وطن جي خوشبو.\n\nباغ\n\nاغن کیتن ھر\n\nآهــــي,\n\nسنة\n\nجي\n\nماك قرن جي خوشبو.\n\nسنة سموري بر تي آهــــي\n\nچٹ تہ باغ عدن\n\nجي\n\nخوشبو.\n\nتنهنج.\n\nپیرن پر منا آن\n\nدرتي جي رستن جي رستن جي خوشبو.\n\nمون کي آئي كذهن\n\nغیرن بر پنهنجن جي\n\nخوشبو.\n\n127]",
+      "image_path": "books/deewan-e-meer/images/page_0139.jpg"
+    },
+    {
+      "page_num": 140,
+      "text": "﻿________________\n\n\n\n[128\n\nدیوان میر غلام الله خان تالپر مير\n\nغزل\n\nشكر مولا جو اسان كان كوبه نــــم آزار ثيو شد گل خوشبوه كئي سين كونه كنهن تي بار تيو.\n\nدوستن سان خوش رهياسون دشمنن سان رنج نه تياسون پاٹ کي انسان كنهن سان وير هو نــــ نم عار تيو. دلبرن كان دوستيون ليون بـ دغائون ين ليون اسان کان گل رخن لئی پیار هو ؟ پیار تيو.\n\nدل جي\n\nآئي كدورت لي زبان روكي جدي\n\nكوبم مون سان حرف كلهن كونه لي بيكار تيو.\n\nهر\n\nمير\n\nصاحب هوندي پی مهر و وفا جاري رکيم\n\nگھڑی لطف و عنایت مون كان لي اظهار ليوم\n\n.",
+      "image_path": "books/deewan-e-meer/images/page_0140.jpg"
+    },
+    {
+      "page_num": 141,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nپئو،\n\nشورش غم پلا ئي مركي پنوم درد کي سيني لائي مركي پئو.\n\nچا ملي تو فضول آهن مــــان زير لب مسکرائي مركي پئو.\n\nها الم جو جو ڈکیو\n\nهي دور آهي،\n\nسان\n\nپیچ\n\nپیچ پائي مركي پئو.\n\nعشق : هي تلاش راحت چو رنجش کي رلائي سركي پئو.\n\nمير\n\nگردش سان کیڈ جاري رک\n\nبال تي نيهن نائي مركي پئو.\n\n1297",
+      "image_path": "books/deewan-e-meer/images/page_0141.jpg"
+    },
+    {
+      "page_num": 142,
+      "text": "﻿________________\n\n\n\n[130\n\n7 دبوان میر غلام الله خان تالپر\n\nغزل\n\nبرهم بر بي خود كري محبوب ماري ويو هليو درد كيني دل اندر دلبر اثاري ويو هليو. نيهن جا اهرا نشانا نازمان نرسل هنيان دو بدو چن تم دو ناليون كني اكاري ويو هليو. كلي هي كوه واذون هي شهر ويران كري, جي پنیور بر كا باهم باري ويو هليو. تک تم آهن گالھ جو پوه يادگيري كانم كئي, واهم جا وعدا كيا ليكن وساري ويو هليو.\n\nهي\n\nبردم\n\n\"مير\" محبوبن متي ناهن ميارون كي كبيون, شكر آغي كا گھڑي گنجي گذاري ويو هليو.",
+      "image_path": "books/deewan-e-meer/images/page_0142.jpg"
+    },
+    {
+      "page_num": 143,
+      "text": "﻿________________\n\n\n\n\"\n\nدیوان میر غلام الله خان تالپر سیر ]\n\nغزل\n\nظالم! پري نه ويهم منهنجو ساهم تني تو هي من جو قيدي كيو اتني بلا هين بم چتي تو. هین دور رهن سان پلا درد كو ويندو كو غم جو ڏينهن سهنا يلا هين به كتي تو. ـــــو پیار دئي پاگل اهزو كيو پرين آ, جن عشق هتن سان مون کي ھاٹ گھتي تو. دل بہ کٹي وئين دلبر نند به قنائي وئين تون, چا پیار پر كنهن کي پلا هين به لتي ثو. محبوب پلا چئو ته جيئون كيثن\n\nاي\n\nلمحم نئون درد نئون سور قني تــــو.\n\n131]",
+      "image_path": "books/deewan-e-meer/images/page_0143.jpg"
+    },
+    {
+      "page_num": 144,
+      "text": "﻿________________\n\n\n\n[132\n\n[ديوان مير غلام الله خان تالپر\n\nمير\n\nغزل\n\nپرائي وات تان آيس ته منظر یاد پیو سو قصو جو ذهن ب اكثر لي اكثر ياد پيو. سامي سهني سائي ساوك جـو نظارو دلفريب سحب جي جوين جواني جو تي محشر ياد پيو. ج افق چيري ايان تورو متي آيو پئي, مون کي ان دم يار جو تي مک منور ياد پيو\n\nR\n\nهك درياهه تي پوليون هن منهنجو لگو\n\nدل\n\nاف پرائي\n\nاد جو كهرو تصور يـــــــاد\n\nپيو.\n\nكني\n\nگلشن دلم بلبل دلم وسري ويم\n\nسو نظارو جت منو ملندو هو ور ور یاد پیوه",
+      "image_path": "books/deewan-e-meer/images/page_0144.jpg"
+    },
+    {
+      "page_num": 145,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\n\".\n\nغزل\n\n133]\n\n[\";\n\nسمت بشي\n\nتنهنجي حسن مون کی نھارٹ نے ڈنو\n\nشهر و كيني سخي هنا بكارث نے دنوه\n\nشهید ناز تي تنهنجو تي حق هو سها\n\nكنهن بني كي مون بعد مرگ اجارث نه دنوه\n\nاي\n\nاكرين جي\n\nاوهان جي\n\nاسين كرياسين جي مثم سهاري لاء وريا كئي تي اثارث نه ذنو.\n\nكذهن تي زلف پيا ياد كلهن لب شيرين, نقوش حسن كذهن توکي وسارٹ نـــــ دنوه\n\nها\n\nهي\n\nتنهنجي\n\nقدم مر\n\nعمر تمام\n\nگردش دور مگر گل گذارٹ نم دنوه\n\nO",
+      "image_path": "books/deewan-e-meer/images/page_0145.jpg"
+    },
+    {
+      "page_num": 146,
+      "text": "﻿________________\n\n\n\n[134\n\n[\n\nدیوان مير غلام الله خان تالپر\n\nمير\n\nغزل\n\nکا گھڑی کا پل به رائل اچ نهارين چونتو ہئي اکين جا كان قهري اچ اکارین چو نتو.\n\nحيف آهن رت حسین بر تون رنو راثا وتين اج منا مالا كري محبوب مارین چو نشو. ناز پرور ناز کر چه تون اها كاور قريب, های هن موسم حسين . کد گذارین چو نشو. كان ان طرح تيندي خطا رهندي آهي\n\nعاشقن\n\nحسن جي صدقي اها سهما وسارين جو نشو. کان پاسو متائي منهن قيراني چو وتين سي سجن اکريون عقابي اج الاريـن چـو نـو.",
+      "image_path": "books/deewan-e-meer/images/page_0146.jpg"
+    },
+    {
+      "page_num": 147,
+      "text": "﻿________________\n\n\n\n135]\n\n[\")\n\nدیوان مير غلام الله خان تالپر \"مير\"]\n\nغزل\n\nشام جو گهرو سايو هوندو\n\nبام متي هو آيـــــو هوندو.\n\nمنهنجي\n\nوفا تي ھائ ته هن جو\n\nمثبت مثبت رايو هوندو.\n\nمون جو لکيو آ پيار\n\nنغمو\n\nسو هن مركي كايو هوندو.\n\nآئون چمان جيئن هن به چپن سان\n\nمنهنجو قونو لا يــــــو هوندو.\n\nمنهنجي\n\nاکين کي پارٹ خاطر\n\nكلابـي پــايــــــو هوندو. ويس\n\nجيئن ولی تو یار اسان کي\n\nمير\n\n་\n\nبه ان کي پايو هوندو.",
+      "image_path": "books/deewan-e-meer/images/page_0147.jpg"
+    },
+    {
+      "page_num": 148,
+      "text": "﻿________________\n\n\n\n[136\n\n[ ديوان میر غلام الله خان تالپر\n\nغزل\n\nكهرو بیان تو سان كجي درد شديد جو فرصت ملي تم دمجان جنازو شهید جو هر دينهن كري عيد گذارین تو اي سهنا مون لئي بنجي چند وثين تون تم عيد جزء آهي فضول ياد كرن كنهن کي پكارث, آرزو به درد تو سمجهان مزيد جوه\n\nمي\n\nآهي\n\nلهي رسم نئين ــــــا نيائبي چشم هـ دستور زماني جديد جو.\n\nاي \"مير\" فقط اج هجي ته اج کي ئي ڏسجي ماري رکي تو مون کي انديشو بعيد جو.",
+      "image_path": "books/deewan-e-meer/images/page_0148.jpg"
+    },
+    {
+      "page_num": 149,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر \"مير ]\n\nغزل\n\nجوان موسمن بر جدا آ كريو ويــــــى ایان وینو سوچیان ته چا آ ڪري ويو.\n\nصدر بزم منهنجي تم تعريف من كني\n\nبدو تم تم منهنجي\n\nگلا آ ڪري ويو.\n\nشهر بر\n\nگلي\n\nكري كوس ويو آ\n\nقیامت حسین کا بپا آ كري ويو.\n\nوني دل ویو پر نم مون کي دني تس\n\nعجب مون سان دوکو صفا آ كري ويو.\n\nاسان \"مير\" كاكل كندين بر رهياسون چن لوك تي ئي سخا آ كري ويو.\n\n0\n\n137]",
+      "image_path": "books/deewan-e-meer/images/page_0149.jpg"
+    },
+    {
+      "page_num": 150,
+      "text": "﻿________________\n\n\n\n[138\n\nدیوان میر غلام الله خان تالپر\n\nمیر\n\nوفا\n\nغزل\n\nبه قدر ضرورت هو تيم ها تم چکی نيائي مون سان الفت ها بیوفا تم چگو.\n\nجي\n\nچا كيس نه جيان تو نم لي مري تو سگهان كري قتلام جدي ها سندس ادا تم چگو.\n\nهي فرياد تي ها نم داد خواهي طلب رهي هو مون سان گنجی اگر سدا ته چگو.\n\nجدائي م\n\nکو بلا عشق ، جنون تو وجي؟ ركي هو روبرو مون کي دي سزا تم چگو.\n\n\"\n\nاي\n\nجرم\n\nوفا تي هو ليو خفا\n\nآهي،\n\nاي كاش من كان به ادري تني خطا تم چگو.",
+      "image_path": "books/deewan-e-meer/images/page_0150.jpg"
+    },
+    {
+      "page_num": 151,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nالفت جو بار سركي گھتائي تم چگو نازک آ مگر نیهن نهائي تم چگو.\n\nدیوانگی و دل متان حال بدايان جو دلدار نــــ ديوانو بنائي تم چگو. مالهون نه كتي محب كي مهشو ذني ونن مون سان نه منو منهن کي متائي تم چگو. نانگن جي وچان رخ تي كيئن بوسو بلا ذيان هو زلف پنهنجي همت سان هنائي تم چگو.\n\nتي.\n\nاي مير جدائي بر دل تنگ كري کي مجاني تم چگو\n\nمحبوب خود اللي\n\n139]",
+      "image_path": "books/deewan-e-meer/images/page_0151.jpg"
+    },
+    {
+      "page_num": 152,
+      "text": "﻿________________\n\n\n\n[140\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nخوابن کي مهكاني هليو ويو مون سان هــــو شرمائي هليو ويو. پنهنجا نین خماري كـتـي هــــو كل من كي بنائي هليو ويو.\n\nبیارم کهڑو چین دنــو هـــــن\n\nويـتـر درد وڌائي هليو هليو ويـــــــو.\n\nموسم جي\n\nهر يك سردي كــ\n\nجوين سان گرمائي هليو ويـــــو.\n\nسٹیون سهٹیون اکريون كثي\n\nگهورن سان گهائي هليو ويـــــو\n\nكتيون كيئن هيدي حياتي\n\nتم آهي منجهائي هليو ويــــــو.",
+      "image_path": "books/deewan-e-meer/images/page_0152.jpg"
+    },
+    {
+      "page_num": 153,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير]\n\nكيف\n\nغزل\n\nو مسكرائي مسكرائي مليو کی کنډ سان ملاني مايو.\n\nهای قسمت ك رشك ماهي آهي چند به هن سان منهن لكاني مليو. قیامت نه آهي چـــــا آهي\n\nهدي\n\nهـو ويـن وقـت موكلائي مليو.\n\nســــــو مقدر جو ني سكندر\n\nمحب جنهن\n\nآ\n\nورائي مليو. كان وجي\n\nهي به قاتل\n\nجي\n\nچال آهي كا,\n\nنورو هېکي بيهي لجاني مليو.\n\nمحبت جو هي معراج آهي،\n\nماري متي\n\nمزة\n\nاني\n\nمليو.\n\n141]",
+      "image_path": "books/deewan-e-meer/images/page_0153.jpg"
+    },
+    {
+      "page_num": 154,
+      "text": "﻿________________\n\n\n\n[142\n\n[ديوان\n\nمیر غلام الله خان تالپر \".\n\nغزل\n\nاچ رات دل جي باغ بر سهتو گلاب هو\n\nهن جو خیال ذهن بر جن انقلاب هو.\n\nتنهائن كان بوج\n\nهشا رات جا پھر\n\nصبح تین به مون لئي جن هك عذاب هو. جيئن جيئن خیال و خواب پر گوليو سچن کي مون تيئن تيئن پري ويو تيندو گویا سراب هو.\n\nهن جي محسوس هو ايئن تيو جن تم حيجاب هو.\n\nاچن وين تي سوچيو ذرو جو مون\n\nمیر الهیون چا سچن یار جون كجن\n\nاي\n\nگفتار\n\nصبا هو\n\nو بدن و رباب هو.\n\nبر",
+      "image_path": "books/deewan-e-meer/images/page_0154.jpg"
+    },
+    {
+      "page_num": 155,
+      "text": "﻿________________\n\n\n\nديوان مير غلام الله خان تالپر مير ]\n\n[\n\nغزل\n\nاقرار نـــ انكار ايئن وقت وجي پيو ڏسندي اوهان کي يار ايئن وقت وچي پيو. مركي هليو آ بازور حسرت زده و اج اچ. چه های پیا تقرار ايئن وقت وجي پيو.\n\nعاشق سان بلا ايترو محبوب سجن چو برسي پئي ملهار ايئن وقـت وجـــــي پيو.\n\nجانب جواني آهي مهمان كا مهل دلبر كراء ديدار ايئن وقت وچي پيو.\n\nغيرت ولي تي آئيني اگان بدون تو\n\nجي\n\nچک های\n\nهي\n\nسینگار ایئن وقت وچي پيو.\n\nمحبوب\n\nصفت چر تو دري مير\n\nهجر\n\nمائن سان اچی مار ايئن وقت وجي پيو.\n\n143]",
+      "image_path": "books/deewan-e-meer/images/page_0155.jpg"
+    },
+    {
+      "page_num": 156,
+      "text": "﻿________________\n\n\n\n[144\n\n[ ديوان مير غلام الله خان تالپر\n\nرسي\n\nغزل\n\nتو یار سیجو ذينهن پيو مچایان تو\n\nوصل جو وقت سچو عرض پر کپایان تو.\n\nنگاه لطف وئي پيار ويو قرار ويو\n\nلگي پيو هجر و هي زندگي و جايان پيو.\n\nسچن جا ناز عجب آر ، انگل اوکا مان نئین روز نوان درد كي پرايان ثو. علاج هجر جي بيمار جو بلا كهرو طبیب روز نئين سر نوان گهرايان تو. اي \"مير\" وصل جو كيف و قرار ياد كري هنجون حبيب لئي هردم هتي وهايان تو.",
+      "image_path": "books/deewan-e-meer/images/page_0156.jpg"
+    },
+    {
+      "page_num": 157,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nدل تی هین اختیار كيئن تيندو عــمــر پر انتظار كينن تيندو.\n\nتون قیامت مئي ملي ويندين\n\nها مگر اعتبار كيئن ليندو.\n\nتنهنجي وعدي تي بلائي جديان غم روزگار كيئن تيندو.\n\nهدي\n\nوصل بر به جڏهن نم آ هجر سان مون کي پيار كيثن تيندو\n\n\"\n\nير\n\nآهی فراق چن تے خزان\n\nسو چوٹ سان بهار كيئن تيندو.\n\n145]",
+      "image_path": "books/deewan-e-meer/images/page_0157.jpg"
+    },
+    {
+      "page_num": 158,
+      "text": "﻿________________\n\n\n\n[146\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nمون داو رات توکي خواب\n\nهر\n\nچند روشن تنهنجي شباب و هئو.\n\nتنهنجي هر گاله بر خمار عجب, گفتو هك ك بدل شراب بر هئو.\n\nچؤطرف تنهنجي اچن جي خوشبو جسم تنهنجو پنل کلاب\n\nپر\n\nهنو.\n\nرفته رفته دسن اکین جو جهكن\n\nربط كهرو نم ان حجاب\n\nبر هئو.\n\nR\n\n\"مير\" كهري تنهنجي واكان كري\n\nحسن تنهنجو نه كنهن حساب\n\nهنوه",
+      "image_path": "books/deewan-e-meer/images/page_0158.jpg"
+    },
+    {
+      "page_num": 159,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nنشو\n\nاج بـم مركن اوهان جو وسري تو سوا دل تي كوئي ايري نكوه هي راه مون کي ويران شي نو جيهو كوبه هتان گذري نشو.\n\nكبئن بلا دل کي ويهي وندرايان ذزو آتري نشو.\n\nخیال تنهنجو\n\nاج نے قاصد نه ئي كو حال پرس, اج تم کانگل به هتان آذري نشو.\n\nدرد دلبر جو\n\nاهرو آ، دير\n\nلگوهین تیر آهي نكري نتو.\n\n147]",
+      "image_path": "books/deewan-e-meer/images/page_0159.jpg"
+    },
+    {
+      "page_num": 160,
+      "text": "﻿________________\n\n\n\n[148\n\nدیوان مير غلام الله خان تالپر\n\nردیف \"هـ\"\n\nغزل\n\nسندم دل آشنا كر تون حقيقت سان رسول الله منور دائما رک تون عقیدت سان رسول الله.\n\nپژهان شل ورق وحدت جو دوئي مان وچي ژوپي, هیجان هردم سدا وييجهو شریعت سان رسول الله.\n\nنقش جا نوژ هي نیئر بچان شيطان عشر كان پلئو منهنجو نه پئي انكي حزيمت مان رسول الله. هجين رهبر ۽ تون هادي حياتي جي سفر ير شل وچان هـر حال ريجهي طريقت سان رسول الله. ب\n\nكرم كو سير\n\nتي اهرو منا مدني محمد كر وچان كم تي سچو سارو مشیعت سان رسول الله. گم",
+      "image_path": "books/deewan-e-meer/images/page_0160.jpg"
+    },
+    {
+      "page_num": 161,
+      "text": "﻿________________\n\n\n\nمي]\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nكجه كالهايو جناب مگر آهسته زندگي بر كيو انقلاب مگر آهسته.\n\nآهن جو\n\nگھند گهورون تم مقدر ئي اسان ها! اسان تي كيو عتاب مگر آهسته.\n\nروز و شب دمر جا تا باب تهن پورو پنهنجو كيو كتاب مگر آهسته. ي دور جيت جو تار دور چون پلی مھٹا سکو شتاب مگر آهسته. مير محبوب كلهن تو كي مجي ئي ولندا, دندوني ره خواب مگر آهسته.\n\nهي\n\n149]",
+      "image_path": "books/deewan-e-meer/images/page_0161.jpg"
+    },
+    {
+      "page_num": 162,
+      "text": "﻿________________\n\n\n\n[150\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nبيان تي سگهي تو نه غم توبه توبه عادت ستم توبه توبه\n\nحسينن جي\n\nكئي دل هليا ويا كري قول مون سان وساري وري ويا صنم توبه توبه.\n\nعشق كنهن نه كا غم گساري, ي\n\nR\n\nكيا دوست دشمن ظلم تـــوبــــه تـــوبــــه.\n\nجدهن به سچن سان كيم غم جو شكوو\n\nچيائون ته آهن کرم توبه توبه.\n\nجدهن \"مير\" آیا نم وعدي تي سهنا رنا رات ساري چشم توبه توبه.",
+      "image_path": "books/deewan-e-meer/images/page_0162.jpg"
+    },
+    {
+      "page_num": 163,
+      "text": "﻿________________\n\n\n\n151]\n\nدیوان میر غلام الله خان تالپر میری]\n\n\"\"\n\nردیف \"ع»\n\nغزل\n\nهر چیز هوس آهـي الله كان سواء هر گاله و کس آهي الله كان سواء. اي دل ستان تون بلجين رنگين زماني تي ہي وات نہ گس آهي الله كان سواء.\n\nجو\n\nهر بار لطف دي تو نالو منو خدا كت اهر و نه چس آهي الله كان سواء.\n\nمولا سواء كير نم تقدير تو ناهي، انسان بــــــوس آهـــى الله كان سواء. اي \"مير\" تون نفس کي کر مطمعن چگو آ، هر چيز ہي بس آهي الله كان سواء.",
+      "image_path": "books/deewan-e-meer/images/page_0163.jpg"
+    },
+    {
+      "page_num": 164,
+      "text": "﻿________________\n\n\n\nD\n\n[ ديوان مير غلام الله خان تالپر\n\nغزل\n\nخوشبوی\n\nتون اچين تو تم وچي تي خوش تون آهين تنهنجي رهي لي خوشبو تنگ دل تي هئي نہ موسم تي كيدي فطرت کي وئي تي خوشبوه .\n\nهوش کي پي وچ مدهوش كيو كهڑا نغما هـي چوي لي خوشبو\n\nزهر تنهائـن جـا ماكي تين\n\nتنهنجي\n\nگیسو جي اچي تي خوشبود.\n\nمیر سان تون نه آهين سات جدهن\n\nحال منهنجي تي کلي تي خوشبود.\n\n[152",
+      "image_path": "books/deewan-e-meer/images/page_0164.jpg"
+    },
+    {
+      "page_num": 165,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nوٹندي كذهن اسان کي\n\nسادا هئي وفا بوه جي\n\n153]\n\nمحبوب دل نواز جی دم خود ادا\n\nبود. جي\n\nهـي چا تيو جـــو تيو جو مان ئي ئي گنهگار تي ويس, كيلي ته ناپسند هئي مون کي خطا\n\nجي بود.\n\nجن جي عمر آ گذري سدا جور و جبر پر تن کي وري اچي كتان آه و بقا\n\nجي\n\nبوع.\n\nجي چون تي\n\nميري نه كلهن دل كجي دنیا نم كجي كذهن كبر و ريا جي بود.\n\nوجهی\n\nاي\n\n་\n\nكـي مـــوتـــيـــى ريحان بيت بر\n\nكان بري وجي تي زهد و\n\nسخا\n\nج-ي\n\nبود.",
+      "image_path": "books/deewan-e-meer/images/page_0165.jpg"
+    },
+    {
+      "page_num": 166,
+      "text": "﻿________________\n\n\n\n[154\n\nدیوان میر غلام الله خان تالپر\n\nرديف \"ي\"\n\nغزل\n\nقدر هو نم هشو قسمت لدي\n\nهني؟\n\nبي\n\nها مقدر نم محبت لي هي\n\nهو نصيبن بر\n\nـــلـــي\n\nآ\n\nويو\n\nوصل پنهنجو نـــــم هـو فرقت لي هشي.\n\nچا كريون هــــان قصو الفت جــــــو\n\nکا گھڑي پل جي تم نسبت ئي هئي. بيار كيرو آهــن زمـــانــي . ها اگر هئي تـــم كا وحشت لي هئي.\n\nخواب وانگي مليو اسان کي هو\n\nمن سان\n\nبس ايتري صحبت ئي هئي.",
+      "image_path": "books/deewan-e-meer/images/page_0166.jpg"
+    },
+    {
+      "page_num": 167,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\nبي\n\nغزل\n\nوسين جو نظام دس ته اچي\n\nكيئن گذاري آشام دس ته اچي.\n\nتون رهين بدگمان تو جن كان سجن\n\nتن لبن تي آنام ڈس تم اچي.\n\nپنهنجي\n\nگردش زلف جي\n\nصدقي\n\nمنهنجي\n\nگردش ایام دس ته اچي.\n\nاي ستل خواب غفلت جا صنم\n\nننا منهنجي حرام دس تـــــم\n\nاچي.\n\n\"\n\nشادمان چون وارا\n\nپنهنجو غمگین غلام دس ته اچي.\n\n155]",
+      "image_path": "books/deewan-e-meer/images/page_0167.jpg"
+    },
+    {
+      "page_num": 168,
+      "text": "﻿________________\n\n\n\n[156\n\n[ ديوان مير غلام الله خان تالپر\n\nغزل\n\nكنهن دار با جي\n\nكالهم كريو شام وجي\n\nساغرم\n\nجي\n\nشكا لال پريو شام ويي تي.\n\nدل اداس آهي تــ هــو خوبرو اچي\n\nدل تي حنائي هت\n\nصبح\n\nكو دريو شام وچي دي.\n\nتم خير هن جي حسين فكر بر\n\nونسي. افسوس تــ هـي آهي دريو شام وجـي تي.\n\nمئم آهي ته هو ناهي هو آهي تـم مشم\n\nبي ربط تسلسل بر دريو شام وجي\n\nای\n\n་\n\nناهي.\n\nتي.\n\n\"مير\" زندگي كو حسرت به هي نسي\n\nدي\n\nمشكل سان جا آئي سا وريو شام وچي تي.",
+      "image_path": "books/deewan-e-meer/images/page_0168.jpg"
+    },
+    {
+      "page_num": 169,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر\n\n157]\n\n[\"\n\nغزل\n\nاجي.\n\nنازک پرين کي جور و جفا يي نشي اچي. کی افسوس كريون كهرو وفا پي نشي بوسو ڈیٹ تہ ڈي تو اگهی تو رومال سان هن شاه حسن تم سخا لي نقي اچي.\n\nهو شرم بــ كري تو ستم حدود تك كم سن آ كرن هن کي حيا يي نشي\n\nكي\n\nكلهم رات دسي مون کي\n\nمحبوب\n\nكرم جي\n\nانگی\n\nاچي.\n\nتي ويهي ويهي رهيو\n\nبي نشي اچي.\n\nادا پی\n\nاي مير چپ رھی پر بــ ناهي قرار كو چاهیان اگر گلا تم گلا يــي نـــي اچي.",
+      "image_path": "books/deewan-e-meer/images/page_0169.jpg"
+    },
+    {
+      "page_num": 170,
+      "text": "﻿________________\n\n\n\n[158\n\n[ديوان مير غلام الله خان تالپر\n\nجي\n\nغزل\n\nگذري ويا وقت ورن تا كذهن وري وچري ويا یار ملن تـا كذهن وري.\n\nجي\n\nهو آهي آسپاس مگر دور دل کان آ نكري ويا جي تير اچن تا كذهن وري. رونی کنجهن سان درد پلا كيترو لهي طوفان مچي ویا جي وهن تا كذهن وري. سوز و فراق هن جي محبت یاد آ جي یا چار گوڑھا اک مان كرن تا كذهن وري.\n\nاي\n\n\"ميري شاعري . بدائين چو لوك كي, کي\n\nA\n\nان طرح راز دل جا كلن تا كذهن وري.",
+      "image_path": "books/deewan-e-meer/images/page_0170.jpg"
+    },
+    {
+      "page_num": 171,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n[\"\n\nغزل\n\nجناتي جفا كر ورائي ورائي يلي دس اسان کي ستائيستائي. اي\n\nادي خاك تنهنجي \"\n\nقدم تي ئي كرندي\n\nبلي جد اسان کي جلائي جلائي.\n\nمحبت\n\nجي\n\nكلهن كون تكبي اسان راهـــم عشق عشق و نس هلائي رس هلائي هلائي.\n\nجا دل تان لهي سا محبت نه چئبي اسان کي تون ڈس پيو مقالي منائي.\n\nاي سهنا يلي\n\nمحبت وتائـــي\n\nآزما تون گهاني.\n\n159]",
+      "image_path": "books/deewan-e-meer/images/page_0171.jpg"
+    },
+    {
+      "page_num": 172,
+      "text": "﻿________________\n\n\n\n་\n\nدیوان مير غلام الله خان تالپر\n\n[160\n\nغزل\n\nكلهن ته مون کي اچي يار وچ هـي\n\nدل\n\nسمجهائي\n\nچو نالو ولي تنهنجو مون کي تڑپائي.\n\nرات چو تي اچي زلف تنهنجا يـــــاد زني هي صبح چو تي اچي چهرو تنهنجو ورجائي.\n\nنسان تو پنوں اکيون ياد چو اچن تنهنجون چو تنهنجي عارض جو رنگ بدلائي.\n\nگل\n\nماك چـو لـي پسينو لکي سچن تنهنجو و جوش محبت كان پان اچلائي.\n\nدل\n\nجي بلجي ويو آهين سهٹا تم مون کي ياد تون كر رثــــو جـي آهین چنو\n\nتوکي پرچائي.",
+      "image_path": "books/deewan-e-meer/images/page_0172.jpg"
+    },
+    {
+      "page_num": 173,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر\n\n161]\n\nغزل\n\nو زلف جا ناهين پيج پيو مجبور تو چاڙهين وارن تي بي درد بلا كجهم سرچ هي چو ظلم كرين ويچارن تي.\n\nهك برهم جو اوکو بار سجٹ پیا تنهنجا انگل آزار سجن درد هزارين يار چنين تي رات كتي آگارن تي. هك سور هجي رکجي سهجي هك درد هجي دل و سانديون تو برهم جون باهیون اهربون دین آزار مچن آزارن تي.\n\nپیج\n\nمان نكرون بئي پر بئون فرحت ئي نه آهي سورن كان چو رنج و الم جا وار كرين نادارن تي لاچارن تي.\n\nدي.\n\nبه تنهنجي آس پر آ بي قياس كل من كو قياس بم كر\n\nچر\n\nتقدير اچي تون ناهم كنهن جي سينگار نه كر سينگارن تي.",
+      "image_path": "books/deewan-e-meer/images/page_0173.jpg"
+    },
+    {
+      "page_num": 174,
+      "text": "﻿________________\n\n\n\n[162\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nاچ آگئی\n\nتي يار آئين قر بداني لـي ونـي\n\nمحب تنهنجي اج اسان تي مهرباني تي وئي.\n\nعلام\n\nدليم بر كيني درد هئا شكوا هئا ء هئي پر پرين توکي نسي هت بي زباني لي وئي.\n\nاي منا جاني جدائي كجه بگاڑي نه سگهي، ذرا ثوري دلين به بدگماني تي وني.\n\nهجر جون راتيون مقدر لي ويون آهن منا پر اجوكي رات سان ڈس كجهم أماني تي وئي. جنهن کان پل جدائي جو لکيو دايو هئو ب اهري کان پري هي زندگاني تي وئي.\n\nمير\n\nمحب",
+      "image_path": "books/deewan-e-meer/images/page_0174.jpg"
+    },
+    {
+      "page_num": 175,
+      "text": "﻿________________\n\n\n\n\"\n\nدیوان میر غلام الله خان ٹالپر میر]\n\nغزل\n\nدل منهنجي کي دير تك تراكائي تنهنجي ياد تي تون پري آهين بـريـن تڑپائي تنهنجي ياد تي.\n\nدك اكيلايون هجر بــــــــو انتظاري جو زهــــــر نیو اچیو در هر گھڑی کڑكاني تنهنجي ياد تي.\n\nتون وساري پاٹ وئین ۽ دل کشی خود سال وئين يو اچيو سوري متي لركائي تنهنجي ياد تي. سوز هك سازي چڏيو پيو برهم كئي باهيون نيون, چو اچیو رت روح كي تر كائي تنهنجي ياد تي. سان محبوب هین رشتو رکن ناهي روا\n\nچو کپل تي كان بيا كركائي تنهنجي ياد\n\n163]",
+      "image_path": "books/deewan-e-meer/images/page_0175.jpg"
+    },
+    {
+      "page_num": 176,
+      "text": "﻿________________\n\n\n\n[164\n\nدیوان میر غلام الله خان تالپر\n\nغزل\n\nنم تون وسرين سگهين دل تان نه تنهنجي گاله وسري تي: اکين مان آب جاري آ این هر رات گذري تي.\n\nخدا چائى كذهن ايندبن كثي نين مستانا\n\nي\n\nدسي بي درد تنهائيون منهنجي ته جان نكري لي. اثر تي ويون تكين سان فرق نہ آیو آگ پر کائی دوا تـــــو زهـــــر اتــــري\n\nدعائون\n\nعلاجن\n\nتــــي. نے دل باغن يم في وندري نه كا ساحل تي تي ستري لكن مون کي پھٹ تیو گل هوا ثيو تير اكري تي.\n\n}}\n\nسچل ساري هنجون هاري تا مشكل ميرا دينهن كانيون\n\nکٹیو ساسان سورن جا چٹ ہی رات ايري تي.",
+      "image_path": "books/deewan-e-meer/images/page_0176.jpg"
+    },
+    {
+      "page_num": 177,
+      "text": "﻿________________\n\n\n\n}}\n\nدیوان سیر غلام الله خان تالپر مير ]\n\nغزل\n\nپي ويس پوه خطا ياد آئي،\n\nتوبه توبه\n\nجي\n\nدعا ياد آنـــــي.\n\nلغزش من كان كري بيس جڏهن\n\nمون کي سجدي جي ادا ياد آئي.\n\nمحتسب های حسابون كهريون مون کي پنهنجي نه سزا ياد آئي.\n\nپیتو شب پر شراب مون تكرو نماز عشق قضا ياد\n\nآئي.\n\nمان بلا نوش نیس یار تذهن\n\nتنهنجي زلفن جي بلا ياد آئي.\n\n\"مير\" هـي\n\nمثم حرام هوندي آ\n\nهوش جڏهن نه رهيا ياد آئي.\n\n165]",
+      "image_path": "books/deewan-e-meer/images/page_0177.jpg"
+    },
+    {
+      "page_num": 178,
+      "text": "﻿________________\n\n\n\n[166\n\n\"\n\nديوان مير غلام الله خان تالپر\n\nغزل\n\nگردش و رنج : آلام متن دي ساقي\n\nمئي تي دنيا سندو الزام هنن دي ساقي.\n\nرات پنهنجي ثـي تــــات\n\nويندي\n\nپر هي هنن ذي ساقي.\n\nبدنام آهي :\n\nبي خودي آئي نه آهي\n\nاسان در تي اچان جي\n\nهوش ؟ عقل سندو نام هتل دي ساقي.\n\nترك الفت جو تماشو به نسي وتنداسين.\n\nيار کي تورو ئي دوگام هتل دي ساقي.\n\nمحجوب نه آهي رسم\n\nآ دنيا جي؟\n\nترس هـي واعظ بدنام متن ذي ساقي.",
+      "image_path": "books/deewan-e-meer/images/page_0178.jpg"
+    },
+    {
+      "page_num": 179,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nخوشبو عجيب آهي سچن جي\n\nديار جي\n\nجيئن باغ و مهد آهي فصل بهار جي.\n\nهيرن جون كثيون آهن یا لعل و جواهر کھڑی ثنا كيان مان گلين جي غبار جي\n\nالجهي پئي ه\n\nدل آسندس محل و مكاني\n\nرونق عجيب آهي درن دیوار\n\nهن جي\n\nجي\n\nجي\n\nشهر جون واذون عجب ياردنيون سين\n\nتعريف چا بيان كجي تن پيچدار جي.\n\nاگر نسي\n\nباغ عدن کي رشک اچي جي توري جهلك سجن جي حسين لاله زار جي.\n\nاي \"مير\" كت كروز نه ديوان تهي وين تعريف لك نم ايذي حسين محب يار جي.\n\n167]",
+      "image_path": "books/deewan-e-meer/images/page_0179.jpg"
+    },
+    {
+      "page_num": 180,
+      "text": "﻿________________\n\n\n\n[168\n\nدیوان میر غلام الله خان تالهر\n\nغزل\n\nو ستائین تو ایڈو خطا كان البي كو مري نه پوي كنهن سزاکان اگی.\n\nناز پرور ذرا نین پنھنجا تے جھل\n\nدل جو داڑو لگي ويو ادا كان اكي.\n\nظالم\n\nاداء\n\nآف\n\nهي قاتل جواني هـي\n\nها ماري وهن تا قضا كان ابي.\n\nهاه\n\nكون اهرو بتوسين ستمگر كلهن پنهنجي سهني مني دلربا كان اكي\n\nچو تو ماري وهين دير کي\n\nمفت\n\nناز پنهنجي کان پهرين جفا كان اكي.\n\n\"",
+      "image_path": "books/deewan-e-meer/images/page_0180.jpg"
+    },
+    {
+      "page_num": 181,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر مير ]\n\nغزل\n\nتنهنجو پاك حجاب آهي، تو سان ملن ثواب آهي.\n\nتون سراپا خوشبو\n\nآهين\n\nتنهنجو حسن گلاب آهــــي.\n\nحسن جو حاكم آهين سهنا\n\nجوین جو نه جواب آهي.\n\nاکريون تنهنجون ابر رحمت\n\nتنهنجو وجود كتاب آهـي.\n\nسھٹا تو کي هردم ساريون خیال اوهان جو خواب آهي.\n\nمیری\n\nسان مل محبوب اچي\n\nکهزو هان حساب آهي.\n\n169]",
+      "image_path": "books/deewan-e-meer/images/page_0181.jpg"
+    },
+    {
+      "page_num": 182,
+      "text": "﻿________________\n\n\n\n[170\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nشمع رخ روشن اگیان تون برن ذي ایان دل ترل دي ايان دل پر دي. منا تنهنجي جلوي منجهايو آ مون کي ذرو ترس هوش ته منهنجا ورٹ دي جدائي جي صدمن جو آهيان ستايل قصا قرب جا كجه. تم سون كي كرن دي. ايان سوز الفت لـــو كونم آهي درد کی تہ دلبر اندر مان ترث دي.\n\nكندو \"مير\" شكوو نه اج كا شكايت, مگر ان کی آهون ته ايان كجه پرل دي.",
+      "image_path": "books/deewan-e-meer/images/page_0182.jpg"
+    },
+    {
+      "page_num": 183,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nتنهنجي\n\nلطف نظر جي\n\nعطا تي پئي\n\nزندگي جي وري ابتدا تي پئي.\n\nدرد تنهنجي اکيان بي اثر تي وين\n\nتون اچين جي\n\nانهن جي\n\nدوا تي پئي.\n\nروبرو تون اسان\n\nجی\n\nهجين\n\nمه لقا\n\n(\n\nچا خوشي جي عجب انتها تي پئي.\n\nزندگي بيوفا چيز آهي سجن كاش ان كا تنهنجي وفا\n\nA\n\nتي پئي.\n\nوت\n\nمنهنجي مقبول اج هـي\n\nدعا\n\nتي پئي.\n\nمحب مولا كري تون اچين\n\n171]",
+      "image_path": "books/deewan-e-meer/images/page_0183.jpg"
+    },
+    {
+      "page_num": 184,
+      "text": "﻿________________\n\n\n\n[172\n\nديوان مير غلام الله خان تالپر\n\nغزل\n\nدل جي\n\nحقیقت به كيئن\n\nنئي\n\nانشا بلا هي ظاهر دلین جو پیار محبت بــ كيئن نه لئي.\n\nآژاه كلهن لوك جي نظر كان لكو آ پوره عيان برهم جي مصيبت بم كيئن نه تئي. تلوار جيان پرون ۽ اکيون تير مثل تيون سهٹن اگيان پوه كنهن کي حزيمت به كيئن نه لئي.\n\nهركو هتي مجازي خــــدا شـاهــي هلي پيو خلاف پنهنجي مشييت بــ كيئن نه لئي.\n\nپور\n\nاي\n\nهركو آهي هڪ پئي سندو خلاف\n\nپوه خلل اسان چر\n\nاذبیت به كيئن نه ٿئي.\n\nD",
+      "image_path": "books/deewan-e-meer/images/page_0184.jpg"
+    },
+    {
+      "page_num": 185,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nثيو دل تي گھٹو ليكن فغان سون كان كئي، قوت صبر واري رائگان مون كان كثي.\n\nكي ياجي كذهن شكوو دنو مون نه گلا زمین سر تي كثي ؟ آسمان مون كانم كئي. کي درد کي ۽ زخم کي سيني اندر ساندي رکيم كا ذري رنج و الم جي كت عيان مون كا نه كئي.\n\nهر گھڑی امید داریم آس رکیم یار جن كنهن به ساعت دل سندم بدگمان مون كا نه كئي.\n\nمون سان دلربا هردم رهيو نامهربان\n\nپر\n\nكتهن هي\n\nدل سندم بي مهربان مون كا نم\n\nكئي.\n\n173]",
+      "image_path": "books/deewan-e-meer/images/page_0185.jpg"
+    },
+    {
+      "page_num": 186,
+      "text": "﻿________________\n\n\n\n[174\n\nدیوان میر غلام الله خان تالپر \".\n\nغزل\n\nساقي تورو اجان بـــــ پیار مون کي کپی تو ایان قرار مون کي.\n\nS\n\nستم اگر متكدي بر نــــاهــــي رهي. مركي صورت سندي ديكار مون کي.\n\nدرد منهنجو دوا مان چــا جـالــي چاٹ\n\nدوست پنهنجو كراء ديدار مون کي.\n\nهــــوش آهــن ایـــان سلامت تيا\n\nغم جي\n\nثوري اچان آســـار مون کي.\n\nکي نفرتن جياريو آهــــي\n\nورنه ماري جديو تي پيار مون کي.",
+      "image_path": "books/deewan-e-meer/images/page_0186.jpg"
+    },
+    {
+      "page_num": 187,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر میر]\n\nغزل\n\nادا پر مون کي سچن جي وفا پسند پسند آهي، نیاز و ناز پر هن جو حیا پسند آهي.\n\nمحب منهنجو سراپا آهــــي حسين\n\nبدايان كهري وصف مان ته چا پسند پسند آهي.\n\nکنوٹ\n\nمرك هن جي نسي اجي لـــــي گھتا کي زلف سندس جي ادا پسند\n\nهن جي\n\nآهي.\n\nرخسار كان آ رنگین شفق\n\nصبح كي رخ سندس جي ضیا پسند آهي.\n\nمعيار منهنجي مني جو تي اي سير وئن تا شعر سندم ؟\n\nآهي؟\n\nپسند آهي.\n\nتنا پسند\n\n175]",
+      "image_path": "books/deewan-e-meer/images/page_0187.jpg"
+    },
+    {
+      "page_num": 188,
+      "text": "﻿________________\n\n\n\n[176\n\nدیوان میر غلام الله خان تالپر \"مير\"\n\nغزل\n\nآهي؟\n\nهن جي غم كان تيو لا علاج هن جو مركن لي ها علاج آهــــي.\n\nمون مريض الم كي كهري خبر درد فرقت جو چــا عــلاج آهـــــي.\n\nهو اچي روبرو تم چانہ تشي هن جو تيو نقش پا علاج آهي. كاش كا گردش فاك متجي هن جو دست دعـــــا علاج آهــــي.\n\nبس\n\nفقط \"\n\nدير تون رهين محروم\n\nورنم هر هك ثيو با علاج آهـــــي.",
+      "image_path": "books/deewan-e-meer/images/page_0188.jpg"
+    },
+    {
+      "page_num": 189,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\nغزل\n\nآهن جي قسمت جي بيوفائي سمجهم و نتي\n\nنارسائي سمجهم بنتي اچي\n\nاچي.\n\nمغرور وتي سهلو اسان جي سوال تي\n\nسهن جي کج ادائي سمجهم ير نتي اچي.\n\nمنهنجي\n\nعشق جو غرور به ابلیس جیان آ\n\nپني در سندي گدائي سمجهه به نٿي اچي.\n\nهر روز عقل دل جو جھیڑو لگو وتي، دوبدو لڑائي سمجهم ونتي اجي.\n\nهي.\n\nاي\n\nاچ\n\n་\n\nسير\" عجب طرح سان بي ربط آ خيال\n\nگیت غزل ۽ وائي سمجهم بر نٿي اچي.\n\n177]",
+      "image_path": "books/deewan-e-meer/images/page_0189.jpg"
+    },
+    {
+      "page_num": 190,
+      "text": "﻿________________\n\n\n\n[178\n\nدیوان مير غلام الله خان تالپر مير\n\nغزل\n\nويــــــو سـهـو دار كري\n\nدل جنهن سان پيار كري\n\nذكرا منهنجي\n\nدل ها\n\nويا هند هند دار كري.\n\nسورن جا سامان دئي\n\nویو اکريون چار كري.\n\nكو رحم كري شل راٹو ملي سهو سار كري. كـكـر وچوژي وارو\n\nآيو نادي كار كري.\n\nمیرسان مركي مركي\n\nویو پل جو پيار كري.",
+      "image_path": "books/deewan-e-meer/images/page_0190.jpg"
+    },
+    {
+      "page_num": 191,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر\n\nمير\n\n179]\n\n[\"\n\nغزل\n\nن كي عادت آ بيوفائي جي،\n\nهن\n\nگاله كهري كريون جدائي جي.\n\nخون دل جو كري ويو آهي،\n\nشاهدي آهي هن حنائي جي. هت\n\nپنهنجو هو بيوفا تم ني نه سگھيو چا كيون سوچ شئي پرائي جي.\n\nجو وساري تو كاش وسري وجي.\n\nلهی بهمت\n\nهــــي\n\n་\n\nآشنائي\n\nجي.\n\nخود غرض \"میر محبت تي جڏهن\n\nپوه تمنا چا دلربائي جي",
+      "image_path": "books/deewan-e-meer/images/page_0191.jpg"
+    },
+    {
+      "page_num": 192,
+      "text": "﻿________________\n\n\n\n[180\n\nدیوان میر غلام الله خان تالپر\n\n\".\n\nمير\n\nغزل\n\nتو ذي نسي اسان\n\nجي\n\nدل پئي وري وري\n\nپیارا سرك پياري تو كني چري چري.\n\nخدا هائي محبوب ملل اسان سان\n\nجي\n\nنالي تو كان سواء پیارا ويندس مري مري. كئي درد دل بر سیٹا تنهنجي فراق جا هن اچ ت۔ بدايان تو کي ساري ذري ذري. راتن جون راتيون جاگي جاني تو كي پكاريم آهي جلايو بـــرهـم جـي بــــارث پري پري.\n\nتون\n\nکي وساري محبوب وئين هليو پر\n\nنم توري ساعت هكري سري سري.",
+      "image_path": "books/deewan-e-meer/images/page_0192.jpg"
+    },
+    {
+      "page_num": 193,
+      "text": "﻿________________\n\n\n\nدیوان میر غلام الله خان تالپر مير ]\n\n181]\n\nغزل\n\nكيترو غم هجي ليكن كذهن كلان كجي شرط اها آهي تـم رســـــوا نـم كجي.\n\nعشق جي\n\nكجي.\n\nعشق کان پهرين مناسب آهـ ي سوچی سمجھی ثي ويو عشق ته پوء لبن کي وانـــــم اجايو شوق کئي آهي دل کي دل سان گنين جي گندجي اوچتيون ويون ته پوه جدا نم كجي. زمانو ئي آهي اهو كذهن ثيو لي وجي، مگر اي دوستو غلطي كلهـن ســــــدا نـــــم كجي. گھٹا تیا جهان جا رنگ آهن\n\nایان به كري اجائي كا جلدي هـي دل فدان. كجي.",
+      "image_path": "books/deewan-e-meer/images/page_0193.jpg"
+    },
+    {
+      "page_num": 194,
+      "text": "﻿________________\n\n\n\n[182\n\nدیوان مير غلام الله خان تالپر\n\nير\n\nغزل\n\nزماني پر جنهن سان به مون كئي وفائي كان تي مون کي ملي كج ادائي.\n\nانهي\n\nكرن نــاهــي شـــايـــد چگي چگي کا جگائي\n\nجو\n\nصدمان سهي پئي اسان\n\nجي\n\nسچائي.\n\nتو هركو ني چاهي نفرت نفاق آهي جو چاهي تو صلح و\n\nصفائي.\n\nكرن هر كو چاهي تو پئي جي برائي، نه پاجي كري لو كو كنهن جي پلائي.\n\nاساني\n\nدير\n\nآهيون, اهري زماني .\n\nجتي كور دوكا\n\nبي آکر اجائي",
+      "image_path": "books/deewan-e-meer/images/page_0194.jpg"
+    },
+    {
+      "page_num": 195,
+      "text": "﻿________________\n\n\n\n381]\n\nدیوان میر غلام الله خان تالپر مير]\n\nغزل\n\nخلوص و پیار و محبت به هك فريب آهي، حسن جو چاهم ؟ رغبت بـم هك فريب آهي.\n\nدشت تمام عمر انهي دئو گهمي هـــي حسین جو پیار ہے حسرت به هك فريب آهي. هزار بار شب وصـــل تـــــي نصيب مگر دلوسين هن سان هي نسبت به هك فريب آهي. دل و دماغ كان فيصلو كذهن نه ليو\n\nمي\n\nها منهنجي هن سان چاهت به هك فريب آهي.\n\nعجیب سوچ دل بدگمان بر آني اي\n\nك منهنجو عشق الفت\n\nبه\n\nt\n\nهك فريب آهي.\n\nD",
+      "image_path": "books/deewan-e-meer/images/page_0195.jpg"
+    },
+    {
+      "page_num": 196,
+      "text": "﻿________________\n\n\n\n[184\n\n[ ديوان میر غلام الله خان تالپر \".\n\nغزل\n\nهر هر جنهن جي صورت ســـــاري مون هذي هي عمر گذاري.\n\nپل پل جنهن کي ياد كريون تا شال كذهن ــــــو پرت کي پاري.\n\nAN\n\nجنهن جي جدائي جان كيي تي ســــــو نـرمـــل شــــل مركي نهاري.\n\nدرد وژي ويا درد مندي جـــــا جانب هـــان اچي كو جياري.\n\nمنهنجا \"\n\nمير\n\nنیں تین تا ي\n\nتاهم كري شل اکريون تاري.",
+      "image_path": "books/deewan-e-meer/images/page_0196.jpg"
+    },
+    {
+      "page_num": 197,
+      "text": "﻿________________\n\n\n\nدیوان مير غلام الله خان تالپر مير]\n\nغزل\n\nآهي\n\nحسن سھٹي جو سو بــــ سو جلوو جاني جو ڪو به ڪو آهي.\n\nهر سمت جیئن کٹان نظر پنهنجي، دوست اکیان ب روبرو آهــــي تيو حسين ساهم كان به ويجهو آ پوه اجائي بـــي جستجو آهـــي.\n\nزاف هـن جــــا حسين كاري گھنا،\n\nمشك جسم من جي .\n\nبوع\n\nآهي.\n\nهن جي كالهين بر ایڈو آهي خمار\n\nچٹ\n\nچی تم مشم آهــــي صبو صبو آهي. هو زندگي جو حاصل آ هو تمناهـ هو آرزو آهي.\n\n185]",
+      "image_path": "books/deewan-e-meer/images/page_0197.jpg"
+    },
+    {
+      "page_num": 198,
+      "text": "﻿________________\n\n\n\n[186\n\nديوان مير غلام الله خان تالپر\n\nغزل\n\nهك وار تے دس تون ناز كري پرين پوه اکيون کي پنهنجون پري\n\nآ جايو\n\nجو هينزو جـــــدائــــي م سو تو کي نسي هك وار نــري. چا لوك لكيندو درد جگر ا جاء جلي جت باهم بري.\n\nکر معاف مدايون منهنجون منا\n\nتنهنجي\n\nسك اندر نشي منهنجي سري.\n\nتون تو منا منظور كرين\n\nتي\n\nماندو تو لثم مري.",
+      "image_path": "books/deewan-e-meer/images/page_0198.jpg"
+    },
+    {
+      "page_num": 199,
+      "text": "﻿________________\n\n\n\nدیوان سیر غلام الله خان تالپر\n\nور\n\nمير\n\n187]\n\n[ur\n\nغزل\n\nمن كي وفا نه آئي مون کي جفا نه آهي، هو به رهيو اناري مون به عمر وجائي. ري تهمت محبت هــيـــن زندگي آ گـذاري. هـن بـ كي اجائي مون به كني اجائي دو شوخ بدگمان ؟ مون کي وفا سان رغبت هن كاله پئي وڌائي مون حالهم بني كهتائي. ذكيو هو ليكن عجیب پل هو\n\nدي\n\nدرد جي\n\nشن جی و نادر به تي وئي منهنجي به تي پلائي.\n\nكيني\n\nهائي كهري كريون حكايت,\n\nملي وئي منهنجي نه تي رهائي.\n\nپنهنجي\n\nهجر جي\n\nشن\n\n\"\n\nعمر\n\nگذري جيكا الـم و آهي.\n\nي\n\nكان سمجهون بـ تا\n\nاهائي.\n\nپياري سجي",
+      "image_path": "books/deewan-e-meer/images/page_0199.jpg"
+    },
+    {
+      "page_num": 200,
+      "text": "﻿________________\n\n\n\n[188\n\nدیوان مير غلام الله خان تالپر\n\nغزل\n\nمون ابتدا عشق بر ماريو فراق کي پنهنجو هو زور بازو ديكاريو فراق کي. محبوب كي مچائي ورتو پنهنجي وفا سان ان طرح تير قهري اكاريو فراق كي. محبوب دل نواز جا دل تي كرم هئا اهري طرح ورائي ويهاريو فراق كي.\n\nمون عشق جي فتح تي هنيان خوب لي نعرا گار گند سان دادو پکاريو فراق كي. اي \"مير\" ستو پاې ته كنهن کي ميار ذيون, مون پنهنجي هن سال اثاريو فراق كي.",
+      "image_path": "books/deewan-e-meer/images/page_0200.jpg"
+    },
+    {
+      "page_num": 201,
+      "text": "﻿________________\n\n\n\nپل نامون\n\nصفحو\n\nست غلط\n\nصحيح\n\n23\n\nچناب\n\nجين\n\nكجيبن\n\nعجيين\n\nسما\n\nسا\n\nكو\n\n8 2\n\n10\n\n13\n\n11\n\n16\n\n3\n\n17\n\n3\n\n17\n\n4\n\n22\n\n8\n\n22\n\n10\n\n27\n\n5\n\n28\n\n3\n\n29\n\n5\n\n32\n\n7\n\n34\n\n3\n\n37\n\n8\n\n41\n\n5\n\n43\n\n6\n\n43\n\n10\n\n44\n\nتن واه\n\nگلن\n\nنیا\n\nتي\n\nواه تن گلن گهمي ولين تيا آهی آب\n\nزلف\n\nزلفون\n\nهو\n\nهون\n\nX\n\nبي\n\nجنهن بر شهر\n\nجنهن شهر .\n\nمنا وجي\n\nمنا سو وچي\n\nكاهي\n\nلپ\n\nدعا\n\nX\n\nكافي\n\n3.\n\nجي\n\nدعا جو\n\nنيو دعا",
+      "image_path": "books/deewan-e-meer/images/page_0201.jpg"
+    },
+    {
+      "page_num": 202,
+      "text": "﻿________________\n\n\n\nشط\n\nصحيح\n\nفيدو\n\nست\n\nبار\n\nساهي\n\nبا رسا\n\nX\n\nي\n\nآ\n\nواپس\n\nفری اچ\n\nقيرائي\n\nواس اگٹ قرائي\n\nدين\n\nنهم تون\n\nنگھم سان تون\n\n12\n\n8\n\n48\n\n3\n\n54\n\n9\n\n54\n\n10\n\n62\n\n8\n\n74\n\n3\n\n76\n\n2\n\n80\n\n82\n\n4\n\n87\n\n10\n\n91\n\n4\n\n98\n\n10\n\n103\n\n5\n\n105\n\n8\n\n105\n\n9\n\n105\n\n7\n\n111\n\n14\n\n111\n\n13\n\n118\n\n2\n\n119\n\n8\n\n121\n\n7\n\n123\n\n3:\n\nصنم\n\nذم\n\nمنهنجي\n\nكهائي\n\nکھائي\n\nدشمن\n\nدشمنن\n\nآهی\n\nتم آهي\n\nآمي\n\nنے\n\nسوا\n\nسدا\n\nنار سائي نا رسا\n\nکھائي\n\nكھائي\n\nتون\n\nتو\n\nاتريون\n\nأتريو\n\nكئين\n\nكيني\n\nسيم\n\nتم\n\nبود",
+      "image_path": "books/deewan-e-meer/images/page_0202.jpg"
+    },
+    {
+      "page_num": 203,
+      "text": "﻿________________\n\n\n\nصفحو\n\nست\n\nغلط\n\n123\n\n128\n\nسوگران\n\nسرگران\n\nمصرع\n\n3\n\nدل\n\nجي\n\nآئي قدورت کي زبان روكي جدي,\n\nt\n\nايترو بي\n\nاختيارين و بـــ تي اختيار تيو.\n\n128\n\nمصرع\n\n129\n\n2\n\n131\n\n8\n\n131\n\n5\n\n134\n\n3\n\n136\n\n1\n\n137\n\n5\n\n143\n\n3\n\n148\n\n5\n\n148\n\n7\n\n149\n\n7\n\n152\n\n1\n\n161\n\n4\n\nشعر پر بہ گل ہے بلبل جو قصو چیزی دیو\n\nكوبه مونسان حرف كلهن كون لي\n\n4-\n\nرنجش\n\nرنجشن\n\nقيدي\n\nقيد\n\nکي پلا\n\nتون\n\nX\n\nسھٹا\n\nمیچٹ\n\nكريو\n\nكري\n\nمحبوب\n\nمحجوبه\n\nدوني\n\nمان\n\nدونی دلمان\n\nنتش\n\nنفس\n\nثار\n\nنا\n\nتنهائن\n\nتنهائين\n\nپیج\n\nپیچ",
+      "image_path": "books/deewan-e-meer/images/page_0203.jpg"
+    },
+    {
+      "page_num": 204,
+      "text": "﻿________________\n\n\n\nصفحو\n\nست\n\nغلط\n\nصحيح\n\n2\n\n161\n\n7\n\n161\n\n3\n\n172\n\n1\n\n177\n\n12\n\n178\n\nتم\n\nسوچ هي\n\nسوچ\n\nفرحت\n\nفرصت\n\nنظر\n\nنظرن\n\nنارسائي\n\nنا رسا دي\n\nپل\n\nپل\n\n8819\n\n་་\n\nموهن لال \" موهن \"\n\nقطعو\n\nأكتوبر ساهم سھٹو سال اوليهم سؤ نوي رت حسین بر واهم تیو دیوان ظاهر \".\n\nجوبه پڑهندو سو خوشي حاصل كندو هن مان گھٹي نيت تيندو هي شعر دارون سندي دلگي\n\nجو\n\nأكتوبر\n\n1990ع",
+      "image_path": "books/deewan-e-meer/images/page_0204.jpg"
+    },
+    {
+      "page_num": 205,
+      "text": "﻿________________\n\n\n\nمحترم قاریں\n\n-\n\nآئون پنهنجي من دعائیہ شعر سان دیوان میر\n\n1\n\nمکمل بیان تو ۔\n\nو\n\nاُمید\n\nآئے نہ ھی دعا اوھان :\n\nاسان لاءِ سچ ثابت شدی\n\n=\n\nخزان نصیب نہ شندي أسانجي وادي خذ من\n\nهتي ثنائي - سجل : سمن آرامی آهن\n\nدعاگو\n\n\"\n\nالاخان علام 15.11.1990\n\nآمین\n\nمور\n\nاجھٹکوں",
+      "image_path": "books/deewan-e-meer/images/page_0205.jpg"
+    },
+    {
+      "page_num": 206,
+      "text": "﻿________________\n\n\n\n1960\n\nپڙهندڙ نسل . پ ن\n\nThe Reading Generation\n\nذهاكي يعبد الله حسـ حسين\n\n” اُداس نسلين“ نالي\n\nكتاب لكيو. 70 واري ذهاكي پوري مائِكَ لُڙهندَرُ نَسُل“ نالي ڪتاب لکي پنهنجي دور جي عڪاسي ڪرن جي كوشش امداد حُسيني وري 70 واري ذهاكي مرئي لكيو: اندي ماءُ جتيندي آهي اوندا سوندا بار ایندر نسل سمورو هوندو گونگا ہوڑا پارَ\n\nكئي.\n\n،،\n\nفر دور جي نوجوانن كي أداس، لُڙهندژ، كهندژ گژهندژ، برندژ ،چرندژ كِرَندژ اوسيئڙو گندر پاژي کاتو پاجوگو، ڪاوڙيل ۽ وڙهندڙ نسلن سان منسوب كري سگهجي ٿو، پر اسان انهن سيني وچان ”پڑھندڙ نسل جـا گولائو آهيون. ڪتابن كي كارتان كتي كمپيوتر جي دنيا ہ آٹٹ بین لفظن يم برقي كتاب يعنى e-books ناهي ورهائن جي وسيلي پڙهندڙ نسل کي وَذَنَ ويجهن ۽ هڪ پئي کي گولي سهكاري تحريك جي رستي تي آر جي آس ركون ٿا.\n\nپڙهندو نسل . پ ن The Reading Generation",
+      "image_path": "books/deewan-e-meer/images/page_0206.jpg"
+    },
+    {
+      "page_num": 207,
+      "text": "﻿________________\n\n\n\nپڙهندڙ نسل (يَنَ) كا بـ تنظيم ناهي. أن جـو كـو بـ صدر\n\nعهديدار یا پایو وجهندڙ نه آهي. جيڪڏهن كو بـ شخص اهڙي دعوى كري ٿو ته پگ چاٹو ته اهو كُوڙو آهي. نه ئي وري ين جي نالي كي پئسا گڏ ڪيا ويندا. جيكذهن كو اهڙي كوشش كري ٿو ته پگ چاٹو ته اهو بِه كُوڙو آهي. جهڙي طرح وٹن جا پن ساوا، گاڑها، نیرا پیلا یا ناسي هوندا آهن اهڙي طرح پڙهندڙ نسل وارا پن به مختلف آهن ؟ هوندا. أهي ساڳئي ئي وقت اداس ۽ پڙهندژ، پرندڙ ۽ پڙهندژ سُست ۽ پڙهندژ یا وِژهندژ ۽ پڙهندژ به ٿي سگهن ٿا. لفظن مين كا خصوصي ۽ تالي لكل كلب Exclusive Club نے\n\nآهي.\n\nبین\n\nnon-\n\nكوشش اها هوندي تـ پَن جا سپ كَم كار سهكاري ؟ رضاکار بنيادن تي ٿين پر ممكن آهي تـ كي كم أجرتي بنيادن تي بـ تين. اهڙي حالت م پـن پـان هگېئي جي مدد فرنجي أصول هي ذي وَثُ كندا ء غير تجارتي commercial رهندا پنن پاران ڪتابن کي دجيتائيز digitize كرن جي عمل مان كو بـ مالي فائدو یا نفعو حاصل کرن کوشش نه ڪئي ويندي.\n\nكتابن كي دجيتائيز کرن کان پو پيو اهم مرحلو ورهائن distribution جو تيندو. اهو كم كرن وارن مان جيكـذهـن كـو پيسا ڪمائي سگهي ٿو ته پلي كمائي، رُڳو پنن سان أن جو\n\nكو بـ لاڳاپو نه هوندو.\n\nپڑهندر نسل پن The Reading Generation",
+      "image_path": "books/deewan-e-meer/images/page_0207.jpg"
+    },
+    {
+      "page_num": 208,
+      "text": "﻿________________\n\n\n\nپئن کي گلیل اکرن م صلاح ڏجي ٿي ته هو وَسَ پتاندژ وقِ\n\nكان وَةٍ كتاب خريد ڪري ڪتابن جي ليگگن، چپائيندڙن ۽ چاپيندڙن کي همتائِن پر ساڳئي وقت علم حاصل کرن ۽ جان كي قهلائن جي ڪوشش دوران گنهن به رڪاوت كي نه مين. شیخ ایاز علم جان سمجھ ۽ ڏاهپ کي گيت بيت ست پُکار سان تشبيه ڏيندي انهن سيني كي بمن, گولین بارود جي مدِ مقابل بيهاريو آهي. اياز چوي ٿو ته:\n\nF\n\nگیت بچن گوریلا آهن جي ويري تي وار كرن ٿا.\n\nجئن جئن جاز ودي تي جَكَ مر هو پولي جي آژ چپن تان ريتي تي راتاها كن تا موتي منجه پهاڙ چُپن تا\n\nكاله هيا جي سُرخ گلن جيئن اجـكـلـه نـيـلا پیلا آهن\n\nگیت به چن گوریلا .آهن\n\nهي بيتُ اتي، هي بم- گولو\n\nجيڪي به كثين، جيڪي به كٹين !\n\nمون لاءِ بنهي م فَرَقُ نـآ هي بيتُ به بَمَ جو ساتي آ، جنهن ر م رات گیا راژا، تنهن هَدْءٍ جَمَ جو ساتي آ ـ ان حساب سان الجانائي کي پان تي اهو سوچي مڙهن تـ ویژه ۽ عمل جو دور آهي ان ڪري پڙهن تي وقـت نـ\n\nهاتي\n\nو چایو“ ناداني جي نشاني آهي.\n\nپڙهندو نسل . پ ن The Reading Generation",
+      "image_path": "books/deewan-e-meer/images/page_0208.jpg"
+    },
+    {
+      "page_num": 209,
+      "text": "﻿________________\n\n\n\nپئن جو پڑھی عام كِتابي کيڙن وانگر رگو نصابي كتابن تائين محدود نه هوندو رگو نصابي ڪتابن ہم پاٹ کي قيد كري چڙن سان سماج ۽ سماجي حالتن تان نظر كجي ويندي ؟ نتيجي طور سماجي ؟ حکومتي پاليسيون policies اٹچاٹن ؟ نادانن جي هنن ۾ رهنديون پَنَ نِصابي ڪتابن سان گڏوگڏ ادبي تاريخي، سياسي، سماجي، اقتصادي، سائنسي ۽ بيـن كتابن کي پڙهي سماجي حالتن كي بهتر بنائن جي كوشش\n\nكندا.\n\nf\n\nکوشش\n\nپڙهندڙ نسل جا پن سيني کي چو چالاء ۽ کينئن جهڙن سوالن کي هر بيان تي لاڳو ڪرن جي كون ذيـن تـا ۽ انهن تي ويچار ڪرن سان گذ جواب گولٹ کي نه رڳو پنهنجو حق پر فرض ؟ اٹتر گهرج unavoidable necessity سمجهندي كتابن کي پاٹ پڙهن ۽ وة كان وة ماٹهن تائين پهچائن جي جدید ترين طريقن وسيلي كرن جو ويچار رکن ٿا. توهان به پڑهی پڑهائی ، قهلائن جي ان سهكاري تحريك ۾ شامل ٿي سگهو ٿا، بس پنهنجي اوسي پاسي پر دسو هر قسم جا گاڑها توژي نيرا، ساوا توژي پیلا پن ضرور نظر اچي ويندا.\n\nوٹ وٹ کي مون پاکي پائي چيو ته ”منهنجا پاءُ پهتو منهنجي من ۾ تنهنجي پن پن جو پڙلاءُ“ اياز (كلهي پاتم كينرو)\n\nپڑهندر نسل پن The Reading Generation",
+      "image_path": "books/deewan-e-meer/images/page_0209.jpg"
+    }
+  ],
+  "tfidf": [
+    {
+      "word": "جي",
+      "score": 0.0739
+    },
+    {
+      "word": "تي",
+      "score": 0.0592
+    },
+    {
+      "word": "آهي",
+      "score": 0.0569
+    },
+    {
+      "word": "کي",
+      "score": 0.0489
+    },
+    {
+      "word": "مير",
+      "score": 0.0476
+    },
+    {
+      "word": "دل",
+      "score": 0.0397
+    },
+    {
+      "word": "تون",
+      "score": 0.0394
+    },
+    {
+      "word": "مون",
+      "score": 0.0393
+    },
+    {
+      "word": "سان",
+      "score": 0.0377
+    },
+    {
+      "word": "نه",
+      "score": 0.0374
+    },
+    {
+      "word": "میر",
+      "score": 0.0356
+    },
+    {
+      "word": "الله",
+      "score": 0.0353
+    },
+    {
+      "word": "تالپر",
+      "score": 0.0348
+    },
+    {
+      "word": "اسان",
+      "score": 0.0347
+    },
+    {
+      "word": "خان",
+      "score": 0.0347
+    },
+    {
+      "word": "كان",
+      "score": 0.0344
+    },
+    {
+      "word": "غلام",
+      "score": 0.0333
+    },
+    {
+      "word": "دیوان",
+      "score": 0.033
+    },
+    {
+      "word": "غزل",
+      "score": 0.0313
+    },
+    {
+      "word": "به",
+      "score": 0.0303
+    },
+    {
+      "word": "تنهنجي",
+      "score": 0.0303
+    },
+    {
+      "word": "هي",
+      "score": 0.0299
+    },
+    {
+      "word": "هن",
+      "score": 0.0285
+    },
+    {
+      "word": "كري",
+      "score": 0.0278
+    },
+    {
+      "word": "اي",
+      "score": 0.0271
+    },
+    {
+      "word": "كي",
+      "score": 0.0266
+    },
+    {
+      "word": "كر",
+      "score": 0.0245
+    },
+    {
+      "word": "درد",
+      "score": 0.0244
+    },
+    {
+      "word": "هو",
+      "score": 0.0244
+    },
+    {
+      "word": "كذهن",
+      "score": 0.0243
+    },
+    {
+      "word": "منهنجي",
+      "score": 0.0239
+    },
+    {
+      "word": "هر",
+      "score": 0.0237
+    },
+    {
+      "word": "آه",
+      "score": 0.0234
+    },
+    {
+      "word": "اچي",
+      "score": 0.0228
+    },
+    {
+      "word": "ته",
+      "score": 0.022
+    },
+    {
+      "word": "بي",
+      "score": 0.0212
+    },
+    {
+      "word": "نم",
+      "score": 0.0202
+    },
+    {
+      "word": "محمد",
+      "score": 0.0201
+    },
+    {
+      "word": "چو",
+      "score": 0.0195
+    },
+    {
+      "word": "تا",
+      "score": 0.0194
+    },
+    {
+      "word": "پنهنجي",
+      "score": 0.0193
+    },
+    {
+      "word": "اچ",
+      "score": 0.0193
+    }
+  ]
+}

@@ -1,6 +1,14 @@
 {
   "book": "murda-ankhain",
   "n_clusters": 6,
+  "cluster_labels": {
+    "0": "Biographical Preface",
+    "1": "Final Letters and Farewell",
+    "2": "Dead Eyes, Living Hands",
+    "3": "Marriage and Moral Debate",
+    "4": "Illness and Literary Circle",
+    "5": "Bazaar, Childbirth, Hunger"
+  },
   "points": [
     {
       "page_num": 0,

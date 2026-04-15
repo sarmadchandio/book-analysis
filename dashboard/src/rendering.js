@@ -70,25 +70,17 @@ const BATCH = 12;
  * @param {number} i - Index used for cover color cycling
  * @returns {string}
  */
-function bookCardHTML(b, i) {
+function bookCardHTML(b, _i) {
   const meta = getMeta(b.name);
-  const coverColor = state.COVER_COLORS[i % state.COVER_COLORS.length];
-  const isLightCover = coverColor === '#D4D2FA' || coverColor === '#F2B630' || coverColor === '#B8B5F5';
-  const coverTextColor = isLightCover ? '#1a1a1a' : '#fff';
+  const words = b.total_words >= 1000 ? (b.total_words / 1000).toFixed(b.total_words >= 10000 ? 0 : 1) + 'k' : b.total_words;
   return `
-    <div class="card card-hover cursor-pointer" data-slug="${b.name}" onclick="openBook('${b.name}')">
-      <div style="background:${coverColor};padding:20px 16px;position:relative;min-height:100px;">
-        <svg style="position:absolute;inset:0;width:100%;height:100%;opacity:0.15"><line x1="0" y1="0" x2="100%" y2="100%" stroke="${coverTextColor}" stroke-width="1.5"/><line x1="100%" y1="0" x2="0" y2="100%" stroke="${coverTextColor}" stroke-width="1.5"/></svg>
-        <div class="urdu" style="font-size:22px;font-weight:700;color:${coverTextColor};position:relative;z-index:1;">${displayName(b.name)}</div>
-        <div style="font-size:11px;color:${coverTextColor};opacity:0.7;position:relative;z-index:1;margin-top:4px;">${meta.author}</div>
-      </div>
-      <div style="padding:14px 16px;border-top:var(--bw) solid var(--border);">
-        <div style="font-size:10px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--accent);margin-bottom:6px;">${meta.category}</div>
-        <div style="font-size:13px;font-weight:700;color:var(--text-primary);margin-bottom:2px;">${b.name}</div>
-        <div style="font-size:11px;color:var(--text-muted);margin-bottom:10px;">${b.total_pages} pages · ${b.total_words.toLocaleString()} words · ${(b.lexical_richness * 100).toFixed(0)}% richness</div>
-        <div class="flex gap-1 flex-wrap">
-          ${meta.tags.map((t, ti) => `<span class="pill ${ti === 0 ? 'pill-purple' : ti === 1 ? 'pill-yellow' : 'pill-plain'}">${t}</span>`).join('')}
-        </div>
+    <div class="book-card" data-slug="${b.name}" onclick="openBook('${b.name}')">
+      <div class="bc-accent"></div>
+      <div class="bc-urdu urdu">${displayName(b.name)}</div>
+      <div class="bc-author">${meta.author} · ${meta.category}</div>
+      <div class="bc-stats">
+        <span><strong>${b.total_pages}</strong> pages</span>
+        <span><strong>${words}</strong> words</span>
       </div>
     </div>`;
 }
@@ -130,23 +122,26 @@ function getFilteredBooks() {
 export function renderLibrary() {
   const allBooks = state.booksIndex.books;
 
-  // ── Stat cards (always rendered synchronously) ──
+  // Stats strip (always shown, not filtered)
   const statsGrid = document.getElementById('library-stats');
+  const totalPages = allBooks.reduce((s, b) => s + b.total_pages, 0);
+  const totalWords = allBooks.reduce((s, b) => s + b.total_words, 0);
+  const totalTokens = allBooks.reduce((s, b) => s + b.unique_tokens, 0);
+  const fmt = n => n >= 1000 ? (n / 1000).toFixed(n >= 10000 ? 0 : 1) + 'k' : n;
   const agg = [
-    { v: allBooks.length, l: 'Books', tip: 'Total books in the library' },
-    { v: allBooks.reduce((s, b) => s + b.total_pages, 0).toLocaleString(), l: 'Pages', tip: 'Total pages across all books' },
-    { v: allBooks.reduce((s, b) => s + b.total_words, 0).toLocaleString(), l: 'Words', tip: 'Total word count across all books' },
-    { v: allBooks.reduce((s, b) => s + b.unique_tokens, 0).toLocaleString(), l: 'Unique Tokens', tip: 'Distinct meaningful words (stop words removed)' },
+    { v: allBooks.length, l: 'Books' },
+    { v: fmt(totalPages), l: 'Pages' },
+    { v: fmt(totalWords), l: 'Words' },
+    { v: fmt(totalTokens), l: 'Unique Tokens' },
   ];
-  const statAccents = ['#6B6BDE', '#B8B5F5', '#F2B630', '#1a1a1a'];
-  statsGrid.innerHTML = agg.map((s, i) => `
-    <div class="card cursor-help" data-tip="${s.tip}" style="border-left:4px solid ${statAccents[i % statAccents.length]}">
-      <div class="card-body text-center">
-        <div class="stat-value">${s.v}</div>
-        <div class="stat-label">${s.l}</div>
-      </div>
-    </div>
-  `).join('');
+  statsGrid.innerHTML = agg.map(s => `<div><div class="stat-v">${s.v}</div><div class="stat-l">${s.l}</div></div>`).join('');
+
+  // Update section sub with filter state
+  const af = state.activeFilters;
+  const filterLabel = af.category || af.author || af.tag;
+  document.getElementById('library-sub').textContent = filterLabel
+    ? `Filtered by ${filterLabel}`
+    : `${allBooks.length} books in your library`;
 
   // ── Book grid ──
   // Tear down any prior IntersectionObserver before rebuilding the grid.
@@ -161,7 +156,6 @@ export function renderLibrary() {
   const books = getFilteredBooks();
 
   // Determine if any filter is currently active.
-  const af = state.activeFilters;
   const filtersActive = !!(af.text || af.author || af.category || af.tag);
 
   // Bypass virtual scroll: render all matching cards synchronously.
@@ -277,7 +271,7 @@ export function renderTfidf() {
     slugs.forEach((slug, i) => {
       const d = (state.booksData[slug].tfidf || []).slice(0, 20);
       if (d.length) {
-        urduBarChart(`chart-tfidf-${i}`, d.map(w => w.word), d.map(w => w.score), state.COLORS[i % state.COLORS.length], 'TF-IDF');
+        urduBarChart(`chart-tfidf-${i}`, d.map(w => w.word), d.map(w => w.score), state.COLORS[i % state.COLORS.length], 'Importance');
       }
     });
   });
@@ -302,7 +296,7 @@ export function renderWords(data) {
       <td style="font-variant-numeric:tabular-nums;color:var(--text-muted)">${w.count}</td>
       <td>
         <div class="bar-track">
-          <div class="bar-fill" style="width:${(w.count / maxCount * 100)}%;background:#6B6BDE"></div>
+          <div class="bar-fill" style="width:${(w.count / maxCount * 100)}%;background:var(--chart-bar)"></div>
         </div>
       </td>
     </tr>
@@ -320,7 +314,7 @@ export function renderWords(data) {
         <td style="font-variant-numeric:tabular-nums;color:var(--text-muted)">${w.score.toFixed(4)}</td>
         <td>
           <div class="bar-track">
-            <div class="bar-fill" style="width:${(w.score / maxScore * 100)}%;background:#F2B630"></div>
+            <div class="bar-fill" style="width:${(w.score / maxScore * 100)}%;background:var(--text-muted)"></div>
           </div>
         </td>
       </tr>

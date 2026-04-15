@@ -1,0 +1,61 @@
+{
+  "people": [
+    {"urdu": "میر تقی میر", "english": "Mir Taqi Mir", "type": "poet"},
+    {"urdu": "عاشق", "english": "The Lover (young protagonist)", "type": "character"},
+    {"urdu": "جوان", "english": "The Youth (lovesick hero)", "type": "character"},
+    {"urdu": "معشوق", "english": "The Beloved", "type": "character"},
+    {"urdu": "جانان", "english": "Janaan (the beloved)", "type": "character"},
+    {"urdu": "نگار", "english": "Nigaar (the beauty/beloved)", "type": "character"},
+    {"urdu": "مجنوں", "english": "Majnun (classical lover archetype)", "type": "literary_figure"},
+    {"urdu": "لیلیٰ", "english": "Laila (classical beloved)", "type": "literary_figure"},
+    {"urdu": "فرہاد", "english": "Farhad (classical lover)", "type": "literary_figure"},
+    {"urdu": "شیریں", "english": "Shirin (classical beloved)", "type": "literary_figure"},
+    {"urdu": "یوسف", "english": "Yusuf (Joseph - beauty archetype)", "type": "literary_figure"},
+    {"urdu": "زلیخا", "english": "Zulaikha (classical lover)", "type": "literary_figure"},
+    {"urdu": "استاد", "english": "The Master/Mentor (teacher figure)", "type": "character"},
+    {"urdu": "دوست", "english": "The Friend/Confidant", "type": "friend"}
+  ],
+  "places": [
+    {"urdu": "دریا", "english": "River (the Ocean of Love - title image)", "type": "location"},
+    {"urdu": "سمندر", "english": "Sea/Ocean", "type": "location"},
+    {"urdu": "ساحل", "english": "Shore/Riverbank", "type": "location"},
+    {"urdu": "کنارہ", "english": "Bank/Edge (of the river)", "type": "location"},
+    {"urdu": "چمن", "english": "Garden (classical trope)", "type": "location"},
+    {"urdu": "محفل", "english": "Gathering/Assembly", "type": "location"},
+    {"urdu": "منزل", "english": "Destination/Resting-place", "type": "location"},
+    {"urdu": "قبر", "english": "Grave", "type": "location"}
+  ],
+  "themes": [
+    {"urdu": "عشق", "english": "Love - the central passion", "count_hint": "high"},
+    {"urdu": "دل", "english": "Heart - seat of longing", "count_hint": "high"},
+    {"urdu": "جان", "english": "Life/Soul - surrendered to love", "count_hint": "high"},
+    {"urdu": "جگر", "english": "Liver - classical organ of pain", "count_hint": "high"},
+    {"urdu": "خون", "english": "Blood - bleeding heart, sacrifice", "count_hint": "high"},
+    {"urdu": "جنون", "english": "Madness - descent into love-madness", "count_hint": "high"},
+    {"urdu": "آہ", "english": "Sigh - grief's breath", "count_hint": "high"},
+    {"urdu": "نالہ", "english": "Lament/Wail", "count_hint": "high"},
+    {"urdu": "تغافل", "english": "Indifference of the beloved", "count_hint": "medium"},
+    {"urdu": "ستم", "english": "Cruelty/Tyranny of the beloved", "count_hint": "medium"},
+    {"urdu": "موج", "english": "Waves - turbulence of love", "count_hint": "medium"},
+    {"urdu": "شوق", "english": "Yearning/Desire", "count_hint": "medium"},
+    {"urdu": "موت", "english": "Death - death for love", "count_hint": "medium"}
+  ],
+  "relationships": [
+    {"from": "میر تقی میر", "to": "عاشق", "type": "literary", "label": "narrator tells lover's tale"},
+    {"from": "عاشق", "to": "معشوق", "type": "thematic", "label": "doomed love"},
+    {"from": "جوان", "to": "نگار", "type": "thematic", "label": "youth enamored of beauty"},
+    {"from": "عاشق", "to": "دریا", "type": "thematic", "label": "drowns in ocean of love"},
+    {"from": "معشوق", "to": "دریا", "type": "thematic", "label": "beloved throws herself into river"},
+    {"from": "مجنوں", "to": "لیلیٰ", "type": "parallel", "label": "archetypal tragic lovers"},
+    {"from": "فرہاد", "to": "شیریں", "type": "parallel", "label": "archetypal tragic lovers"},
+    {"from": "یوسف", "to": "زلیخا", "type": "parallel", "label": "archetypal love tale"},
+    {"from": "عشق", "to": "جنون", "type": "thematic", "label": "love leads to madness"},
+    {"from": "عشق", "to": "موت", "type": "thematic", "label": "love ends in death"},
+    {"from": "دل", "to": "خون", "type": "thematic", "label": "bleeding heart"},
+    {"from": "جگر", "to": "خون", "type": "thematic", "label": "blood of the liver"},
+    {"from": "تغافل", "to": "ستم", "type": "thematic", "label": "beloved's indifference as cruelty"},
+    {"from": "موج", "to": "دریا", "type": "thematic", "label": "waves of the river of love"},
+    {"from": "آہ", "to": "نالہ", "type": "co-occurrence", "label": "grief utterances"},
+    {"from": "استاد", "to": "عاشق", "type": "family", "label": "mentor to the lovesick youth"}
+  ]
+}

@@ -25,54 +25,15 @@ Chart.defaults.font.family = "-apple-system, BlinkMacSystemFont, 'Segoe UI', san
 
 // ─── Navigation ───
 
-/**
- * Show a top-level view by id ('library' or 'book'), hiding the other.
- * @param {string} view
- */
 function showView(view) {
   document.getElementById('view-library').classList.toggle('hidden', view !== 'library');
   document.getElementById('view-book').classList.toggle('hidden', view !== 'book');
-  document.getElementById('breadbar').classList.toggle('hidden', view !== 'book');
-  // Update top nav active states
-  document.querySelectorAll('#topnav-links a').forEach(a => a.classList.remove('active'));
-  if (view === 'library') {
-    document.querySelector('[data-nav="library"]').classList.add('active');
-    updateTopNavTabs(false);
-  }
+  document.querySelectorAll('.side-item[data-nav]').forEach(a => a.classList.toggle('active', a.dataset.nav === 'library' && view === 'library'));
 }
 
-/**
- * Navigate back to the library view and clear the current book.
- */
 function goLibrary() {
   showView('library');
   state.currentBook = null;
-}
-
-/**
- * Add or remove the per-book analysis tab links in the top nav.
- * @param {boolean} bookOpen
- */
-function updateTopNavTabs(bookOpen) {
-  const links = document.getElementById('topnav-links');
-  // Remove old book tabs
-  links.querySelectorAll('[data-nav-tab]').forEach(el => el.remove());
-  if (!bookOpen) return;
-  // Add book analysis tabs to top nav
-  const tabs = ['words', 'topics', 'graph', 'search'];
-  const labels = { words: 'Words', topics: 'Topics', graph: 'Relationships', search: 'Search' };
-  tabs.forEach(tab => {
-    const a = document.createElement('a');
-    a.dataset.navTab = tab;
-    a.textContent = labels[tab];
-    if (tab === 'words') a.classList.add('active');
-    a.addEventListener('click', () => {
-      links.querySelectorAll('[data-nav-tab]').forEach(x => x.classList.remove('active'));
-      a.classList.add('active');
-      switchBookTab(tab);
-    });
-    links.appendChild(a);
-  });
 }
 
 // ─── Book Detail ───
@@ -85,39 +46,28 @@ function updateTopNavTabs(bookOpen) {
 async function openBook(slug) {
   state.currentBook = slug;
   showView('book');
-  updateTopNavTabs(true);
 
-  // Update breadcrumb
   const meta = getMeta(slug);
-  document.getElementById('bread-book').innerHTML = `<span class="urdu" style="font-size:14px">${displayName(slug)}</span> <span style="color:var(--text-faint);font-weight:400">— ${meta.author}</span>`;
-
-  // Remove library active, highlight first tab
-  document.querySelector('[data-nav="library"]').classList.remove('active');
+  document.getElementById('bread-book').innerHTML = `<span class="urdu">${displayName(slug)}</span>`;
+  document.getElementById('book-header').innerHTML = `
+    <div class="section-title urdu" style="font-size:28px">${displayName(slug)}</div>
+    <div class="section-sub">${meta.author} · ${meta.category}</div>
+  `;
 
   const data = state.booksData[slug];
-
-  // Stats
   const s = data.stats;
   const stats = [
-    { v: s.total_pages, l: 'Pages', tip: 'Number of scanned pages processed by OCR' },
-    { v: s.total_words.toLocaleString(), l: 'Words', tip: 'Total word count across all pages' },
-    { v: s.unique_words.toLocaleString(), l: 'Unique', tip: 'Number of distinct words in the text' },
-    { v: s.avg_words_per_page, l: 'Avg/Page', tip: 'Average number of words per page' },
-    { v: (s.lexical_richness * 100).toFixed(1) + '%', l: 'Richness', tip: 'Vocabulary diversity: unique tokens / total tokens' },
+    { v: s.total_pages, l: 'Pages' },
+    { v: s.total_words.toLocaleString(), l: 'Words' },
+    { v: s.unique_words.toLocaleString(), l: 'Unique' },
+    { v: s.avg_words_per_page, l: 'Avg/Page' },
+    { v: (s.lexical_richness * 100).toFixed(1) + '%', l: 'Richness' },
   ];
-  const detailAccents = ['#6B6BDE', '#B8B5F5', '#F2B630', '#D4D2FA', '#1a1a1a'];
-  document.getElementById('book-stats').innerHTML = stats.map((st, i) => `
-    <div class="card cursor-help" data-tip="${st.tip}" style="border-top:3px solid ${detailAccents[i % detailAccents.length]}">
-      <div class="card-body text-center">
-        <div style="font-size:1.3rem;font-weight:700;color:var(--text-primary);letter-spacing:-0.02em">${st.v}</div>
-        <div class="stat-label">${st.l}</div>
-      </div>
-    </div>
+  document.getElementById('book-stats').innerHTML = stats.map(st => `
+    <div><div class="stat-v">${st.v}</div><div class="stat-l">${st.l}</div></div>
   `).join('');
 
-  // Deep analysis cards
   await renderDeepAnalysis(slug, data);
-
   switchBookTab('words');
 }
 
@@ -126,18 +76,12 @@ async function openBook(slug) {
  * @param {string} tab - 'words' | 'topics' | 'graph' | 'search'
  */
 function switchBookTab(tab) {
-  // Sync inline tab bar
   document.querySelectorAll('.book-tab').forEach(b => {
     b.classList.toggle('active-tab', b.dataset.tab === tab);
-  });
-  // Sync top nav tabs
-  document.querySelectorAll('#topnav-links [data-nav-tab]').forEach(a => {
-    a.classList.toggle('active', a.dataset.navTab === tab);
   });
   ['words', 'topics', 'graph', 'search'].forEach(t => {
     document.getElementById(`book-tab-${t}`).classList.toggle('hidden', t !== tab);
   });
-
   const data = state.booksData[state.currentBook];
   if (tab === 'words') renderWords(data);
   if (tab === 'topics') renderTopics(state.currentBook);
@@ -194,45 +138,84 @@ function initTheme() {
 
 // ─── Filters ───
 
-/**
- * Populate author/category/tag filter controls and wire their change events.
- */
-function initFilters() {
-  const authors = [...new Set(Object.values(state.bookMeta).map(m => m.author))].sort();
-  const categories = [...new Set(Object.values(state.bookMeta).map(m => m.category))].sort();
-  const allTags = [...new Set(Object.values(state.bookMeta).flatMap(m => m.tags || []))].sort();
+/** Count books matching a predicate (used for sidebar filter counts). */
+function countMatching(pred) {
+  return Object.keys(state.bookMeta).filter(slug => state.booksData[slug] && pred(state.bookMeta[slug], slug)).length;
+}
 
-  const authorSel = document.getElementById('filter-author');
-  authors.forEach(a => { const o = document.createElement('option'); o.value = a; o.textContent = a; authorSel.appendChild(o); });
+/** Populate sidebar categories/authors/tags with counts and wire click handlers. */
+function initSidebarFilters() {
+  const meta = state.bookMeta;
+  const slugs = Object.keys(state.booksData);
+  const total = slugs.length;
+  document.getElementById('sidebar-book-count').textContent = total;
 
-  const catSel = document.getElementById('filter-category');
-  categories.forEach(c => { const o = document.createElement('option'); o.value = c; o.textContent = c; catSel.appendChild(o); });
+  const categories = [...new Set(slugs.map(s => meta[s]?.category).filter(Boolean))].sort();
+  const authors = [...new Set(slugs.map(s => meta[s]?.author).filter(Boolean))].sort();
+  const tags = [...new Set(slugs.flatMap(s => meta[s]?.tags || []))].sort();
 
-  const tagsDiv = document.getElementById('filter-tags');
-  allTags.forEach(tag => {
-    const el = document.createElement('span');
-    el.className = 'pill pill-plain pill-click';
-    el.textContent = tag;
-    el.addEventListener('click', () => {
-      state.activeFilters.tag = state.activeFilters.tag === tag ? '' : tag;
-      applyFilters(renderLibrary);
-    });
-    tagsDiv.appendChild(el);
-  });
+  const catEl = document.getElementById('side-categories');
+  catEl.innerHTML = `<div class="filter-row active" data-cat=""><span>All</span><span class="count">${total}</span></div>` +
+    categories.map(c => `<div class="filter-row" data-cat="${c}"><span>${c}</span><span class="count">${countMatching(m => m.category === c)}</span></div>`).join('');
 
+  const authorEl = document.getElementById('side-authors');
+  authorEl.innerHTML = authors.map(a => `<div class="filter-row" data-author="${a}"><span>${a}</span><span class="count">${countMatching(m => m.author === a)}</span></div>`).join('');
+
+  const tagEl = document.getElementById('side-tags');
+  tagEl.innerHTML = tags.map(t => `<button class="t" data-tag="${t}">${t}</button>`).join('');
+
+  // Wire category clicks
+  catEl.querySelectorAll('.filter-row').forEach(el => el.addEventListener('click', () => {
+    const val = el.dataset.cat;
+    state.activeFilters.category = val;
+    catEl.querySelectorAll('.filter-row').forEach(x => x.classList.toggle('active', x === el));
+    applyFilters(renderLibrary);
+  }));
+
+  // Wire author clicks (toggleable)
+  authorEl.querySelectorAll('.filter-row').forEach(el => el.addEventListener('click', () => {
+    const val = el.dataset.author;
+    if (state.activeFilters.author === val) {
+      state.activeFilters.author = '';
+      el.classList.remove('active');
+    } else {
+      state.activeFilters.author = val;
+      authorEl.querySelectorAll('.filter-row').forEach(x => x.classList.toggle('active', x === el));
+    }
+    applyFilters(renderLibrary);
+  }));
+
+  // Wire tag clicks (toggleable)
+  tagEl.querySelectorAll('.t').forEach(el => el.addEventListener('click', () => {
+    const val = el.dataset.tag;
+    if (state.activeFilters.tag === val) {
+      state.activeFilters.tag = '';
+      el.classList.remove('active');
+    } else {
+      state.activeFilters.tag = val;
+      tagEl.querySelectorAll('.t').forEach(x => x.classList.toggle('active', x === el));
+    }
+    applyFilters(renderLibrary);
+  }));
+
+  // Search input
   document.getElementById('filter-text').addEventListener('input', e => {
     state.activeFilters.text = e.target.value.toLowerCase();
+    document.getElementById('filter-clear').classList.toggle('hidden', !e.target.value);
     applyFilters(renderLibrary);
   });
-  authorSel.addEventListener('change', e => { state.activeFilters.author = e.target.value; applyFilters(renderLibrary); });
-  catSel.addEventListener('change', e => { state.activeFilters.category = e.target.value; applyFilters(renderLibrary); });
   document.getElementById('filter-clear').addEventListener('click', () => {
     state.activeFilters = { text: '', author: '', category: '', tag: '' };
     document.getElementById('filter-text').value = '';
-    document.getElementById('filter-author').value = '';
-    document.getElementById('filter-category').value = '';
+    document.getElementById('filter-clear').classList.add('hidden');
+    catEl.querySelectorAll('.filter-row').forEach(x => x.classList.toggle('active', x.dataset.cat === ''));
+    authorEl.querySelectorAll('.filter-row').forEach(x => x.classList.remove('active'));
+    tagEl.querySelectorAll('.t').forEach(x => x.classList.remove('active'));
     applyFilters(renderLibrary);
   });
+
+  // Logo / library nav
+  document.querySelector('.side-item[data-nav="library"]').addEventListener('click', goLibrary);
 }
 
 // ─── Book Tab Navigation ───
@@ -270,8 +253,6 @@ function initSearch() {
           const end = Math.min(page.text.length, found + query.length + 60);
           let snippet = page.text.slice(start, end);
           snippet = snippet.replaceAll(query, `<mark>${query}</mark>`);
-          if (start > 0) snippet = '...' + snippet;
-          if (end < page.text.length) snippet += '...';
           hits.push(snippet);
           pos = found + query.length;
         }
@@ -430,7 +411,7 @@ export async function init() {
   await loadTranslations();
   await loadBookMeta();
   initTheme();
-  initFilters();
+  initSidebarFilters();
   initBookTabs();
   initSearch();
   initGlobalSearch();

@@ -1,6 +1,11 @@
 {
   "book": "deewan-e-ghalib",
   "n_clusters": 3,
+  "cluster_labels": {
+    "0": "Persianate Ghazals and Death",
+    "1": "Longing and Rhetorical Address",
+    "2": "Desert Madness and Majnun"
+  },
   "points": [
     {
       "page_num": 2,

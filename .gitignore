@@ -1,23 +1,31 @@
-# Planning docs (local only)
-.planning/
-
 # Python
 venv/
 __pycache__/
 *.pyc
+requirements.txt
 
 # Google credentials
 config/credentials.json
 config/token.json
 
-# OS
-.DS_Store
-Thumbs.db
-
 # Node
 node_modules/
 dist/
 
-# Stress-test generated files (mock-books.js output — do not commit)
-dashboard/public/data/*.stress.json
-dashboard/public/data/mock-*.json
+# OS
+.DS_Store
+Thumbs.db
+
+# Processing pipeline (not shipped)
+books/
+scripts/
+config/
+pipeline-queue.log
+
+# Internal planning / handoff docs
+.planning/
+HANDOFF.md
+
+# Local dev leftovers
+playwright.config.js
+tests/

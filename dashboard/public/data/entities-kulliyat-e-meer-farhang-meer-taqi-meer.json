@@ -1,0 +1,56 @@
+{
+  "people": [
+    {"urdu": "میر تقی میر", "english": "Mir Taqi Mir", "type": "poet"},
+    {"urdu": "موسیٰ", "english": "Prophet Musa (Moses) / Kalim", "type": "reference"},
+    {"urdu": "یوسف", "english": "Prophet Yusuf (Joseph)", "type": "reference"},
+    {"urdu": "عیسیٰ", "english": "Prophet Isa (Jesus) - miracles", "type": "reference"},
+    {"urdu": "آدم", "english": "Prophet Adam", "type": "reference"},
+    {"urdu": "فرہاد", "english": "Farhad (lover of Shirin, mountain-cleaver)", "type": "character"},
+    {"urdu": "شیریں", "english": "Shirin (beloved of Farhad)", "type": "character"},
+    {"urdu": "قیس", "english": "Qais / Majnun (lover of Laila)", "type": "character"},
+    {"urdu": "لیلیٰ", "english": "Laila (beloved of Qais)", "type": "character"},
+    {"urdu": "اسکندر", "english": "Alexander the Great (king of Iraq in gloss)", "type": "reference"},
+    {"urdu": "دارا", "english": "Darius (king of Iran)", "type": "reference"},
+    {"urdu": "اکبر الٰہ آبادی", "english": "Akbar Allahabadi", "type": "poet"},
+    {"urdu": "علامہ اقبال", "english": "Allama Iqbal", "type": "poet"},
+    {"urdu": "الطاف حسین حالی", "english": "Altaf Hussain Hali", "type": "poet"},
+    {"urdu": "عبدالرحمٰن جامی", "english": "Abdur Rahman Jami", "type": "literary_figure"}
+  ],
+  "places": [
+    {"urdu": "کوہ طور", "english": "Mount Tur (where Musa spoke with God)", "type": "location"},
+    {"urdu": "حرم / کعبہ", "english": "Haram / Kaaba (Mecca)", "type": "location"},
+    {"urdu": "بے ستوں", "english": "Bisotun (mountain Farhad cleaved)", "type": "location"},
+    {"urdu": "ایران", "english": "Iran (kingdom of Dara)", "type": "country"},
+    {"urdu": "عراق", "english": "Iraq (kingdom of Sikandar per gloss)", "type": "country"},
+    {"urdu": "دہلی", "english": "Delhi (publisher's location, Daryaganj)", "type": "city"},
+    {"urdu": "بت خانہ", "english": "Butkhana / temple (dair)", "type": "location"}
+  ],
+  "themes": [
+    {"urdu": "عشق", "english": "Ishq - love, passion", "count_hint": "high"},
+    {"urdu": "محبوب", "english": "Beloved - the object of love", "count_hint": "high"},
+    {"urdu": "دل", "english": "Dil - heart as seat of feeling", "count_hint": "high"},
+    {"urdu": "آنسو", "english": "Tears - weeping, lament", "count_hint": "high"},
+    {"urdu": "ہجراں", "english": "Hijran - separation from beloved", "count_hint": "high"},
+    {"urdu": "وصال", "english": "Wisal - union, meeting the beloved", "count_hint": "medium"},
+    {"urdu": "خاک", "english": "Khak - dust, grave, humility, mortality", "count_hint": "high"},
+    {"urdu": "زلف", "english": "Zulf - beloved's tresses (trap, chain)", "count_hint": "medium"},
+    {"urdu": "شراب / مے", "english": "Wine - tavern, intoxication imagery", "count_hint": "medium"},
+    {"urdu": "موت / قضا", "english": "Death - mortality, the grave", "count_hint": "high"},
+    {"urdu": "جنون / وحشت", "english": "Madness - lover's derangement", "count_hint": "medium"},
+    {"urdu": "فرہنگ", "english": "Farhang - glossary of difficult words", "count_hint": "high"}
+  ],
+  "relationships": [
+    {"from": "فرہاد", "to": "شیریں", "type": "literary", "label": "lover and beloved"},
+    {"from": "فرہاد", "to": "بے ستوں", "type": "literary", "label": "cleaved mountain for Shirin"},
+    {"from": "قیس", "to": "لیلیٰ", "type": "literary", "label": "archetypal lovers"},
+    {"from": "موسیٰ", "to": "کوہ طور", "type": "literary", "label": "spoke with God on Tur"},
+    {"from": "دارا", "to": "ایران", "type": "literary", "label": "king of Iran"},
+    {"from": "اسکندر", "to": "عراق", "type": "literary", "label": "king referenced in gloss"},
+    {"from": "عشق", "to": "ہجراں", "type": "thematic", "label": "love leads to separation"},
+    {"from": "دل", "to": "آنسو", "type": "thematic", "label": "heart's grief in tears"},
+    {"from": "محبوب", "to": "زلف", "type": "thematic", "label": "beloved's tresses ensnare"},
+    {"from": "عشق", "to": "جنون / وحشت", "type": "thematic", "label": "love as madness"},
+    {"from": "خاک", "to": "موت / قضا", "type": "thematic", "label": "dust and the grave"},
+    {"from": "میر تقی میر", "to": "فرہنگ", "type": "literary", "label": "glossary to Mir's Kulliyat"}
+  ]
+}

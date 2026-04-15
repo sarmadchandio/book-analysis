@@ -59,5 +59,10 @@ export const state = {
     'deewan-e-ghalib': 'دیوانِ غالب',
     'murda-ankhain': 'مردہ آنکھیں',
     'ankhain': 'آنکھیں',
+    'deewan-e-meer': 'دیوانِ میر (سندھی)',
+    'deewan-e-meer-by-meer-taqi-meer-urduinpage-com': 'دیوانِ میر',
+    'kulliyat-e-meer-farhang-meer-taqi-meer': 'کلیاتِ میر (فرہنگ)',
+    'masnavi-dariya-e-ishq-meer-taqi-meer-ebooks-3': 'مثنوی دریائے عشق',
+    '4628-meer-taqi-meer-hauyatt-aur-shaury': 'میر تقی میر: حیات اور شاعری',
   },
 };
