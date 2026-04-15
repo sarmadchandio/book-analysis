@@ -5,7 +5,8 @@ import './style.css';
 import { state } from './state.js';
 import {
   loadAllData, loadBookMeta, loadTranslations, applyFilters,
-  translateToUrdu, isEnglish, getMeta, displayName,
+  translateToUrdu, isEnglish, getMeta, displayName, resolveImage,
+  searchByVector,
 } from './data.js';
 import {
   renderLibrary,
@@ -237,62 +238,70 @@ function initSearch() {
   function doSearch() {
     const rawQuery = input.value.trim();
     if (!rawQuery || !state.currentBook) return;
-    const queries = translateToUrdu(rawQuery);
     const data = state.booksData[state.currentBook];
-    const results = [];
-    const translated = isEnglish(rawQuery) && queries[0] !== rawQuery;
-
-    for (const page of data.search_pages) {
-      const hits = [];
-      for (const query of queries) {
-        let pos = 0;
-        while (true) {
-          const found = page.text.indexOf(query, pos);
-          if (found === -1) break;
-          const start = Math.max(0, found - 60);
-          const end = Math.min(page.text.length, found + query.length + 60);
-          let snippet = page.text.slice(start, end);
-          snippet = snippet.replaceAll(query, `<mark>${query}</mark>`);
-          hits.push(snippet);
-          pos = found + query.length;
-        }
-      }
-      if (hits.length) {
-        results.push({
-          page_num: page.page_num,
-          image_path: page.image_path,
-          hits,
-          count: hits.length,
-        });
-      }
-    }
+    const isEn = isEnglish(rawQuery);
+    const ranked = searchByVector(data, rawQuery, 10);
+    const pagesByNum = Object.fromEntries(data.search_pages.map(p => [p.page_num, p]));
 
     const statsEl = document.getElementById('search-stats');
     const resultsEl = document.getElementById('search-results');
-    const totalHits = results.reduce((s, r) => s + r.count, 0);
 
     statsEl.classList.remove('hidden');
-    const transNote = translated ? ` <span style="color:var(--accent)">(translated: ${queries.join('، ')})</span>` : '';
-    statsEl.innerHTML = `Found <strong>${totalHits}</strong> match${totalHits !== 1 ? 'es' : ''} across <strong>${results.length}</strong> page${results.length !== 1 ? 's' : ''}${transNote}`;
+    const langLabel = isEn ? 'English' : 'Urdu';
+    statsEl.innerHTML = `Top <strong>${ranked.length}</strong> page${ranked.length !== 1 ? 's' : ''} by TF-IDF cosine similarity <span style="color:var(--text-faint)">(${langLabel} index)</span>`;
 
-    if (results.length === 0) {
+    if (ranked.length === 0) {
       resultsEl.innerHTML = '<div style="color:var(--text-faint);text-align:center;padding:32px 0">No results found.</div>';
       return;
     }
 
-    resultsEl.innerHTML = results.map(r => `
+    resultsEl.innerHTML = ranked.map(r => {
+      const page = pagesByNum[r.page_num];
+      if (!page) return '';
+      const snippet = buildSnippet(page.text, r.tokens, isEn);
+      const scorePct = (r.score * 100).toFixed(1);
+      return `
       <div class="search-hit" style="border-radius:8px;padding:14px;">
         <div class="flex items-center justify-between mb-2">
           <span style="font-size:13px;font-weight:600;color:var(--accent)">Page ${r.page_num}</span>
-          <span style="font-size:11px;color:var(--text-faint)">${r.count} match${r.count > 1 ? 'es' : ''}</span>
+          <span style="font-size:11px;color:var(--text-faint)">score ${scorePct}</span>
         </div>
-        ${r.hits.map(h => `<div class="urdu" style="font-size:15px;color:var(--text-body);margin-bottom:4px;line-height:1.8">${h}</div>`).join('')}
-        ${r.image_path ? `<a href="/${r.image_path}" target="_blank" rel="noopener" style="margin-top:8px;font-size:11px;font-weight:600;color:var(--accent);display:inline-flex;align-items:center;gap:4px;text-decoration:none;">
+        <div class="urdu" style="font-size:15px;color:var(--text-body);margin-bottom:4px;line-height:1.8">${snippet}</div>
+        ${page.image_path ? `<a href="${resolveImage(page.image_path)}" target="_blank" rel="noopener" style="margin-top:8px;font-size:11px;font-weight:600;color:var(--accent);display:inline-flex;align-items:center;gap:4px;text-decoration:none;">
           <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
           View original page
         </a>` : ''}
-      </div>
-    `).join('');
+      </div>`;
+    }).join('');
+  }
+
+  /** Build a short HTML snippet from a page's Urdu text, centered on the first
+   *  matched token and highlighting all tokens present on the page.
+   *  For English queries, tokens are English words — the page text is Urdu, so we
+   *  fall back to showing the page's opening text. */
+  function buildSnippet(fullText, tokens, isEnglishQuery) {
+    const MAX_LEN = 260;
+    if (!tokens || !tokens.length) return fullText.slice(0, MAX_LEN);
+    if (isEnglishQuery) {
+      // English query → Urdu page body — no direct substring; show the opening.
+      return escapeHtml(fullText.slice(0, MAX_LEN)) + (fullText.length > MAX_LEN ? '…' : '');
+    }
+    let anchor = -1;
+    for (const t of tokens) {
+      const i = fullText.indexOf(t);
+      if (i !== -1 && (anchor === -1 || i < anchor)) anchor = i;
+    }
+    const start = anchor < 0 ? 0 : Math.max(0, anchor - 80);
+    const end = Math.min(fullText.length, start + MAX_LEN);
+    let snippet = escapeHtml(fullText.slice(start, end));
+    for (const t of tokens) {
+      snippet = snippet.replaceAll(escapeHtml(t), `<mark>${escapeHtml(t)}</mark>`);
+    }
+    return (start > 0 ? '…' : '') + snippet + (end < fullText.length ? '…' : '');
+  }
+
+  function escapeHtml(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
   btn.addEventListener('click', doSearch);

@@ -3,7 +3,7 @@
 // Imports only from state.js and data.js (no import from main.js).
 
 import { state } from './state.js';
-import { getMeta, displayName, loadEntities, loadTopics } from './data.js';
+import { getMeta, displayName, loadEntities, loadTopics, resolveImage } from './data.js';
 
 // ─── Theme Helpers (file-private) ───
 
@@ -797,7 +797,7 @@ function navigateModal(dir) {
 function showModalPage() {
   const page = modalPages[modalIndex];
   if (!page) return;
-  document.getElementById('modal-image').src = '/' + page.image_path;
+  document.getElementById('modal-image').src = resolveImage(page.image_path);
   document.getElementById('modal-title').textContent = `Page ${page.page_num} (${modalIndex + 1} of ${modalPages.length})`;
   document.getElementById('modal-prev').disabled = modalIndex === 0;
   document.getElementById('modal-next').disabled = modalIndex === modalPages.length - 1;

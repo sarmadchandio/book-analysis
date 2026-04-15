@@ -6,6 +6,17 @@ import { state } from './state.js';
 /** Vite-provided base URL. '/' in dev; configurable at build time for Phase 4 deploy. */
 export const BASE = import.meta.env.BASE_URL;
 
+/** Resolve an `image_path` like `books/<slug>/images/<file>` to a real URL.
+ *  In prod, images live on per-book GitHub Releases tagged `images-<slug>`.
+ *  In dev, the Vite serveBooks middleware serves `/books/...` from the local books/ folder. */
+const RELEASE_BASE = 'https://github.com/sarmadchandio/book-analysis/releases/download';
+export function resolveImage(imagePath) {
+  if (!imagePath) return '';
+  if (import.meta.env.DEV) return '/' + imagePath;
+  const m = imagePath.match(/^books\/([^/]+)\/images\/(.+)$/);
+  return m ? `${RELEASE_BASE}/images-${m[1]}/${m[2]}` : '/' + imagePath;
+}
+
 /**
  * Fetch a JSON file relative to BASE_URL.
  * @param {string} path — path beneath BASE, e.g. 'data/index.json'
@@ -15,6 +26,64 @@ export async function loadJSON(path) {
   const resp = await fetch(`${BASE}${path}`);
   if (!resp.ok) throw new Error(`Failed to load ${path}: ${resp.status}`);
   return resp.json();
+}
+
+/** Strip Urdu/Latin punctuation that clings to tokens. Mirrors analyze.py's PUNCT_STRIP. */
+const URDU_PUNCT_RE = /[۔،؛؟!.,:;?»«()\[\]{}"'/\\–—\-_٪؍﷽]/g;
+
+/** Tokenize a user's Urdu query the same way analyze.py tokenizes page text, so query
+ *  tokens align with the per-page TF-IDF vectors. */
+export function tokenizeUrduQuery(text) {
+  return text.split(/\s+/)
+    .map(w => w.replace(URDU_PUNCT_RE, '').trim())
+    .filter(w => w.length > 1);
+}
+
+/** Tokenize an English query. Stop words are dropped naturally because they aren't
+ *  in the English IDF vocab (analyze.py strips them at index time). */
+export function tokenizeEnglishQuery(text) {
+  return text.toLowerCase()
+    .split(/\s+/)
+    .map(w => w.replace(/[^a-z]/g, ''))
+    .filter(w => w.length > 1);
+}
+
+/** Cosine-similarity search using pre-computed per-page TF-IDF vectors.
+ *  Picks the Urdu or English index based on query language. Returns top-K pages with score.
+ *  @returns {Array<{page_num: number, score: number, tokens: string[]}>}
+ */
+export function searchByVector(bookData, rawQuery, topK = 10) {
+  const query = rawQuery.trim();
+  if (!query) return [];
+  const lang = isEnglish(query) ? 'en' : 'ur';
+  const index = bookData.search_index?.[lang];
+  if (!index || !index.pages || !index.pages.length) return [];
+  const idf = index.idf || {};
+
+  const tokens = lang === 'en' ? tokenizeEnglishQuery(query) : tokenizeUrduQuery(query);
+  const tf = {};
+  for (const t of tokens) tf[t] = (tf[t] || 0) + 1;
+
+  const queryVec = {};
+  for (const [t, c] of Object.entries(tf)) {
+    if (idf[t]) queryVec[t] = c * idf[t];
+  }
+  const qNorm = Math.sqrt(Object.values(queryVec).reduce((s, v) => s + v * v, 0));
+  if (!qNorm) return [];
+  for (const t in queryVec) queryVec[t] /= qNorm;
+  const queryTokens = Object.keys(queryVec);
+
+  const scored = [];
+  for (const p of index.pages) {
+    let score = 0;
+    for (const t of queryTokens) {
+      const w = p.vec[t];
+      if (w) score += queryVec[t] * w;
+    }
+    if (score > 0) scored.push({ page_num: p.page_num, score, tokens: queryTokens });
+  }
+  scored.sort((a, b) => b.score - a.score);
+  return scored.slice(0, topK);
 }
 
 /**
