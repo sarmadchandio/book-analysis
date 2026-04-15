@@ -1,409 +1,402 @@
 {
   "book": "jenny-xie-eye-level",
-  "n_clusters": 3,
+  "n_clusters": 6,
   "points": [
     {
       "page_num": 0,
-      "x": 4.0265,
-      "y": 10.1317,
-      "cluster": 2,
+      "x": 18.751,
+      "y": 2.8432,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  JENNY XIE was born in Hefei, China, and raised in New Jersey. She holds degrees from Princeton University and New York University, a"
     },
     {
       "page_num": 1,
-      "x": 4.3409,
-      "y": 10.5031,
-      "cluster": 2,
+      "x": 18.2672,
+      "y": 2.968,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  ACKNOWLEDGMENTS  Grateful acknowledgment is made to the editors of the following publications, where these poems, some in earlier ve"
     },
     {
       "page_num": 2,
-      "x": 4.6137,
-      "y": 10.3227,
-      "cluster": 2,
+      "x": 18.261,
+      "y": 2.3499,
+      "cluster": 3,
       "snippet": "Enormous gratitude to the Academy of American Poets and to Juan Felipe Herrera, whom I cannot thank enough.  Jeff Shotts and the superlative Graywolf "
     },
     {
       "page_num": 3,
-      "x": 3.8216,
-      "y": 9.6616,
-      "cluster": 2,
+      "x": 18.4836,
+      "y": 3.2927,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  The text of  Eye Level  is set in Sabon MT Pro.  Book design by Rachel Holscher.  Composition by Bookmobile Design & Digital  Publis"
     },
     {
       "page_num": 4,
-      "x": 5.4765,
-      "y": 6.837,
+      "x": 15.2109,
+      "y": 1.47,
       "cluster": 0,
       "snippet": "Eye Level: Poems  ROOTLESS  Between Hanoi and Sapa there are clean slabs of rice fields  and no two brick houses in a row.  I mean, no  three —  See, "
     },
     {
       "page_num": 5,
-      "x": 4.9143,
-      "y": 9.1471,
-      "cluster": 1,
+      "x": 17.5742,
+      "y": 2.7593,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  UNSPOILED FICTIONS  “when the natives see you, the tourist, they envy you, they envy your ability to leave your own banality and bor"
     },
     {
       "page_num": 6,
-      "x": 5.6765,
-      "y": 7.1305,
+      "x": 15.0445,
+      "y": 1.708,
       "cluster": 0,
       "snippet": "Eye Level: Poems  PHNOM PENH DIPTYCH: WET SEASON  August, chambered. City of a million young faces.  A woman perches sidesaddle on a motorbike.  Anoth"
     },
     {
       "page_num": 7,
-      "x": 6.6067,
-      "y": 7.9328,
-      "cluster": 0,
+      "x": 15.9311,
+      "y": 2.1475,
+      "cluster": 2,
       "snippet": "And now that the daylight turns viscous, a new wife buckles limbs  with a foreign lover at the Himawari Hotel.  Someone sweeps thick cockroaches from "
     },
     {
       "page_num": 8,
-      "x": 5.0354,
-      "y": 7.5685,
+      "x": 14.6897,
+      "y": 2.2877,
       "cluster": -1,
       "snippet": "How the viewfinder slices the horizon—  Their pleasure is shrill, I agree.  It knows little of how banality  accrues with no visible evidence.  I wake"
     },
     {
       "page_num": 9,
-      "x": 5.8933,
-      "y": 6.6703,
-      "cluster": 0,
+      "x": 14.7038,
+      "y": 1.7426,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  PHNOM PENH DIPTYCH: DRY SEASON  Motorbikes darting. Nattering horns leave an aftertaste.  I mark the distance on a map: this city a "
     },
     {
       "page_num": 10,
-      "x": 6.7955,
-      "y": 9.3419,
-      "cluster": -1,
+      "x": 16.4752,
+      "y": 3.6725,
+      "cluster": 5,
       "snippet": "The language behind this language cracks open, and my questions follow suit.  Months of medium-rare insomnia.  Wine makes me confuse  elation with cla"
     },
     {
       "page_num": 11,
-      "x": 5.1369,
-      "y": 6.6742,
-      "cluster": 0,
+      "x": 15.7844,
+      "y": 1.3261,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  CORFU  To the north and to the west: dark tips of cypress. Corfu in the slow math of July, and this reservoir of fear running low. T"
     },
     {
       "page_num": 12,
-      "x": 6.2495,
-      "y": 8.0901,
-      "cluster": 0,
+      "x": 16.3006,
+      "y": 1.8438,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  DISPLACEMENT  The woman by the soap stand with the low neckline is beside herself. Ecstasy, from the Greek  ekstasis,  meaning  to s"
     },
     {
       "page_num": 13,
-      "x": 5.071,
-      "y": 6.8717,
-      "cluster": 0,
+      "x": 16.0317,
+      "y": 1.2105,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  FORTIFIED  The Old Fortress in Corfu Town rests on a promontory, with Albania’s mountains legible to the east. In the sixteenth cent"
     },
     {
       "page_num": 14,
-      "x": 6.2374,
-      "y": 9.4263,
-      "cluster": 0,
+      "x": 16.6873,
+      "y": 4.2858,
+      "cluster": 1,
       "snippet": "Eye Level: Poems  EPISTLE  Eavesdropping on a mother  needling at her mule-brained son  stopping by the side of the road  to examine the dry socket of"
     },
     {
       "page_num": 15,
-      "x": 7.0294,
-      "y": 7.8807,
-      "cluster": 0,
+      "x": 16.015,
+      "y": 2.8044,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  OLD WIVES’ TALES ON WHICH I WAS FED  The number of rice grains left in your supper bowl  foretells how many pockmarks will appear on"
     },
     {
       "page_num": 16,
-      "x": 6.4365,
-      "y": 9.8805,
-      "cluster": 0,
+      "x": 16.2001,
+      "y": 4.5089,
+      "cluster": 1,
       "snippet": "Eye Level: Poems  SOLITUDE STUDY  Times when I think a mind uncluttered with others  is the only condition for gentleness  or that memory sticks like "
     },
     {
       "page_num": 17,
-      "x": 7.2449,
-      "y": 7.4268,
-      "cluster": 0,
+      "x": 15.4328,
+      "y": 2.9984,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  ZUIHITSU  Sunday, awake with this headache. I pull apart the evening with a fork. White clot behind the eyes.  Someone once told me,"
     },
     {
       "page_num": 18,
-      "x": 6.4289,
-      "y": 7.6882,
-      "cluster": 0,
+      "x": 15.6769,
+      "y": 2.3473,
+      "cluster": 2,
       "snippet": "Boiled peanuts. Leather of daybreak. Cotton thinning out into thread. Dried vomit. Ice water from the spigot. The sacred and profane share a border. I"
     },
     {
       "page_num": 19,
-      "x": 6.7839,
-      "y": 7.6304,
-      "cluster": 0,
+      "x": 15.7625,
+      "y": 2.7287,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  ALIKE, YET NOT QUITE  After Li Shangyin  Thin fish bones arranged on the bone plate, a bracelet  Blushing after wine and high sun  T"
     },
     {
       "page_num": 20,
-      "x": 6.748,
-      "y": 7.0448,
-      "cluster": 0,
+      "x": 15.258,
+      "y": 2.3973,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  LUNAR NEW YEAR, 1988  Doors plastered with red paper cutouts  so that the oncoming year passes these houses by.  Sweep out the insis"
     },
     {
       "page_num": 21,
-      "x": 6.659,
-      "y": 8.1066,
-      "cluster": 0,
+      "x": 16.2299,
+      "y": 2.3224,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  METAMORPHOSIS  Nowhere in those kerosene years  could she find a soft-headed match.  The wife crosses over an ocean, red-faced and c"
     },
     {
       "page_num": 22,
-      "x": 7.1454,
-      "y": 6.8844,
-      "cluster": 0,
+      "x": 14.9274,
+      "y": 2.9098,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  NATURALIZATION  His tongue shorn, father confuses  snacks  for  snakes, kitchen  for  chicken.  It is 1992. Weekends, we paw at chea"
     },
     {
       "page_num": 23,
-      "x": 5.083,
-      "y": 8.13,
-      "cluster": 0,
+      "x": 17.2814,
+      "y": 1.8855,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  LINEAGE  One of the sent-down rusticated youth  Xia xiang : shuttled to the villages to work a steamed pot of land  Her austere fati"
     },
     {
       "page_num": 24,
-      "x": 5.5849,
-      "y": 7.4176,
+      "x": 15.3945,
+      "y": 1.8737,
       "cluster": 0,
       "snippet": "Eye Level: Poems  CHINATOWN DIPTYCH  I.  The face of Chinatown returns its color,  plucked from July’s industrial steamer.  Dry the cup!  So we do.  F"
     },
     {
       "page_num": 25,
-      "x": 5.207,
-      "y": 9.6714,
-      "cluster": 0,
+      "x": 17.0965,
+      "y": 2.7161,
+      "cluster": 4,
       "snippet": "Eye Level: Poems  ORIGIN STORY  I was profligate like a floodlight to the sun.  Hoarded saccharine and toothmarks,  wanted only the thickest rhymes, t"
     },
     {
       "page_num": 26,
-      "x": 6.6684,
-      "y": 9.557,
-      "cluster": 0,
+      "x": 16.7513,
+      "y": 3.7002,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  CAPTIVITY  Sleep is a narrow corridor. Even idleness will tire, forcing the mind to burrow into its emptiness. We said untrue things"
     },
     {
       "page_num": 27,
-      "x": 5.9929,
-      "y": 8.6828,
-      "cluster": 0,
+      "x": 16.6555,
+      "y": 3.4641,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  PRIVATE PROPERTY  Exhaustion slides from the body through the lips first. The invisible are flush with it, they drowse on blue subwa"
     },
     {
       "page_num": 28,
-      "x": 5.5002,
-      "y": 8.7882,
-      "cluster": 0,
+      "x": 16.7949,
+      "y": 3.2627,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  INVISIBLE RELATIONS  There are no simple stories, because language forces distances. The days gummy and without drink. And a questio"
     },
     {
       "page_num": 29,
-      "x": 6.1589,
-      "y": 8.9772,
-      "cluster": 0,
+      "x": 16.9315,
+      "y": 3.7704,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  BILDUNGSROMAN  When the gates opened, some of us remained still. Others walked off, with no one to call after them. What a sight it "
     },
     {
       "page_num": 30,
-      "x": 4.7168,
-      "y": 9.2754,
-      "cluster": 1,
+      "x": 17.7494,
+      "y": 3.8084,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  VISUAL ORDERS  [1]  Harvest the eyes from the ocular cavities.  Complete in themselves:  a pair of globes with their own meridians. "
     },
     {
       "page_num": 31,
-      "x": 4.5776,
-      "y": 8.6809,
-      "cluster": 0,
+      "x": 16.1784,
+      "y": 3.946,
+      "cluster": -1,
       "snippet": "The shape of the eyeball, translated by genes.  Mine are long like my mother’s and her mother’s—who was all but blind.  [11]  Ancient optic theory dic"
     },
     {
       "page_num": 32,
-      "x": 6.9671,
-      "y": 7.3318,
-      "cluster": 0,
+      "x": 15.2769,
+      "y": 3.0119,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  BORDERLESS  I.  On the night train  cherries wrapped  in newspaper crackle red:  shame’s counterpoint.  The blood beneath my skin  a"
     },
     {
       "page_num": 33,
-      "x": 6.761,
-      "y": 6.6235,
-      "cluster": 0,
+      "x": 14.426,
+      "y": 2.9878,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  NO ANIMAL  Two bucks approach the backyard, snouts grazing the chicory.  Where is my oblivion?  Here I am: barefoot and shadow-cropp"
     },
     {
       "page_num": 34,
-      "x": 5.8211,
-      "y": 9.8919,
-      "cluster": 0,
+      "x": 16.9579,
+      "y": 4.6838,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  MELANCHOLIA  The black dog approaches?  I pry open the crooked jaw.  Inside?  A heady odor, elemental.  And then?  I spin through my"
     },
     {
       "page_num": 35,
-      "x": 5.7116,
-      "y": 9.5157,
-      "cluster": 0,
+      "x": 17.3455,
+      "y": 3.9553,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  INWARDLY  The lightest realizations arrive in restraint—  so the old masters tell us.  Not unlike the tug at the end of a line.  We "
     },
     {
       "page_num": 36,
-      "x": 5.5264,
-      "y": 7.6837,
-      "cluster": 0,
+      "x": 15.5036,
+      "y": 3.5045,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  SQUARE CELLS  The screens plant bulbs  of tension inward, but hit no nerves.  River of speechless current.  My gaze faces the screen"
     },
     {
       "page_num": 37,
-      "x": 6.3144,
-      "y": 7.0534,
-      "cluster": 0,
+      "x": 14.6495,
+      "y": 3.215,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  TENDING  The storm’s cracked.  Tracks of some animal  has spackled ant holes  hidden beneath a bed of grass.  And what now—  Rain st"
     },
     {
       "page_num": 38,
-      "x": 7.1327,
-      "y": 8.6718,
-      "cluster": -1,
+      "x": 16.714,
+      "y": 2.7558,
+      "cluster": 4,
       "snippet": "Eye Level: Poems  EXIT, EVE  I cut my teeth on green flesh      Eden’s navel  Now I understand our vocabulary      for what astounds us is thin  Red g"
     },
     {
       "page_num": 39,
-      "x": 6.8793,
-      "y": 9.9089,
-      "cluster": 0,
+      "x": 15.6915,
+      "y": 4.1652,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  HARDWIRED  A misfortune can swell  for a long, long time in the mind.  While goodness shrinks  down to a hard shell.  I reach for th"
     },
     {
       "page_num": 40,
-      "x": 5.3452,
-      "y": 10.0608,
-      "cluster": 0,
+      "x": 16.9575,
+      "y": 2.8521,
+      "cluster": 4,
       "snippet": "Eye Level: Poems  THE HUNT  Ferried over to the banks of the present:  the life that outgrew this one.  As fate would have it  the ungovernable remain"
     },
     {
       "page_num": 41,
-      "x": 5.5441,
-      "y": 8.1144,
-      "cluster": 0,
+      "x": 16.6581,
+      "y": 1.6892,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  ZAZEN  Sour tobacco, tofu bowl, bright.  Planks of hollyhock in Anhui,  the way  I don’t know  could open  months later like a hive."
     },
     {
       "page_num": 42,
-      "x": 6.2092,
-      "y": 10.228,
-      "cluster": 0,
+      "x": 16.4185,
+      "y": 4.8517,
+      "cluster": 1,
       "snippet": "Eye Level: Poems  TO BE A GOOD BUDDHIST IS ENSNAREMENT  The Zen priest says I am everything I am not.  In order to stop resisting, I must not attempt "
     },
     {
       "page_num": 43,
-      "x": 5.8278,
-      "y": 8.4832,
-      "cluster": 0,
+      "x": 16.0486,
+      "y": 3.4637,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  MARGINS  Water striders on a pond’s surface,  light as calipers:  long sentence for which there are no words.  Indoors, silence trav"
     },
     {
       "page_num": 44,
-      "x": 5.4515,
-      "y": 9.3057,
-      "cluster": 0,
+      "x": 17.2155,
+      "y": 4.0671,
+      "cluster": 5,
       "snippet": "Eye Level: Poems  DÉJÀ VU  Odd number of women trimming their face  hairs with tiny scissors. They catch themselves  in their mirrors, sip the day lan"
     },
     {
       "page_num": 45,
-      "x": 6.0796,
-      "y": 9.4959,
-      "cluster": 0,
+      "x": 16.4887,
+      "y": 4.3422,
+      "cluster": 1,
       "snippet": "Eye Level: Poems  LETTERS TO DU FU  I paid a visit to the province of a past year      aided by a pot of wine  Self-contempt erects a wide frame      "
     },
     {
       "page_num": 46,
-      "x": 5.4552,
-      "y": 6.3197,
-      "cluster": 0,
+      "x": 16.8595,
+      "y": 2.1174,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  EXILE  Here’s to this new country:  bald and without center.  To its paper rooftops  and dogs pink with mange.  To pain, which clean"
     },
     {
       "page_num": 47,
-      "x": 5.8971,
-      "y": 10.3009,
-      "cluster": 0,
+      "x": 16.3742,
+      "y": 4.476,
+      "cluster": 1,
       "snippet": "Eye Level: Poems  A SLOW WAY  It’s possible I’m tallying  wrong in this life.  Better to count down than up.  I only have to shuck off  these other mi"
     },
     {
       "page_num": 48,
-      "x": 5.4204,
-      "y": 10.3912,
-      "cluster": 0,
+      "x": 17.3145,
+      "y": 3.2396,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  ONGOING  Never mind the distances traveled, the companion  she made of herself. The threadbare twenties not  to be underestimated. A"
     },
     {
       "page_num": 49,
-      "x": 6.3174,
-      "y": 6.6068,
-      "cluster": 0,
+      "x": 14.5868,
+      "y": 2.7043,
+      "cluster": 2,
       "snippet": "Eye Level: Poems  LONG NIGHTS  Ice, entire cakes of it.  Crows feed on sand.  So poor is this season  the ground steals color  from the tree-shadows. "
     },
     {
       "page_num": 50,
-      "x": 3.7895,
-      "y": 10.109,
-      "cluster": 2,
+      "x": 18.5857,
+      "y": 2.6383,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  Copyright © 2018 by Jenny Xie  The author and Graywolf Press have provided this e-book to you for your personal use only. You may no"
     },
     {
       "page_num": 51,
-      "x": 4.2339,
-      "y": 10.4691,
-      "cluster": 2,
+      "x": 18.5674,
+      "y": 2.6247,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  Winner of the Walt Whitman Award of the Academy of American Poets  2017  Selected by Juan Felipe Herrera  Sponsored by the Academy o"
     },
     {
       "page_num": 52,
-      "x": 4.5743,
-      "y": 9.4161,
-      "cluster": 1,
+      "x": 17.814,
+      "y": 3.593,
+      "cluster": -1,
       "snippet": "Eye Level: Poems  The eye you see is not  an eye because you see it;  it is an eye because it sees you.  Antonio Machado"
     },
     {
       "page_num": 53,
-      "x": 4.16,
-      "y": 8.9946,
-      "cluster": -1,
+      "x": 17.8027,
+      "y": 2.4521,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  NOTES  The epigraph for the book comes from  Times Alone: Selected Poems of Antonio Machado,  translated by Robert Bly (Wesleyan Uni"
     },
     {
       "page_num": 54,
-      "x": 3.6647,
-      "y": 9.448,
+      "x": 18.3551,
+      "y": 3.7053,
       "cluster": -1,
       "snippet": "Eye Level: Poems  Note to the Reader on Text Size  Someone sweeps thick cockroaches from the floor, someone orders oysters on ice.  We recommend that "
     },
     {
       "page_num": 55,
-      "x": 4.2137,
-      "y": 9.8067,
-      "cluster": 2,
-      "snippet": "Eye Level: Poems  EYE LEVEL  POEMS  JENNY XIE  Graywolf Press"
-    },
-    {
-      "page_num": 56,
-      "x": 4.8948,
-      "y": 8.3098,
-      "cluster": 0,
+      "x": 17.5738,
+      "y": 2.0407,
+      "cluster": 3,
       "snippet": "Eye Level: Poems  CONTENTS  Rootless  Unspoiled Fictions  Phnom Penh Diptych: Wet Season  Phnom Penh Diptych: Dry Season  Corfu  Displacement  Fortifi"
     }
   ],
   "cluster_samples": {
-    "2": [
+    "3": [
       {
         "page": 0,
         "snippet": "Eye Level: Poems\n\nJENNY XIE was born in Hefei, China, and raised in New Jersey. She holds degrees from Princeton University and New York University, and has received fellowships and support from Kundi"
@@ -435,36 +428,97 @@
         "snippet": "Eye Level: Poems\n\nPHNOM PENH DIPTYCH: WET SEASON\n\nAugust, chambered. City of a million young faces.\n\nA woman perches sidesaddle on a motorbike.\n\nAnother clutches stiff bread and leeks.\n\nAnd how combed"
       },
       {
+        "page": 24,
+        "snippet": "Eye Level: Poems\n\nCHINATOWN DIPTYCH\n\nI.\n\nThe face of Chinatown returns its color,\n\nplucked from July’s industrial steamer.\n\nDry the cup!\n\nSo we do.\n\nFour noodle shops on East Broadway release their be"
+      }
+    ],
+    "2": [
+      {
         "page": 7,
         "snippet": "And now that the daylight turns viscous, a new wife buckles limbs\n\nwith a foreign lover at the Himawari Hotel.\n\nSomeone sweeps thick cockroaches from the floor, someone orders oysters on ice.\n\nEven th"
       },
       {
-        "page": 9,
-        "snippet": "Eye Level: Poems\n\nPHNOM PENH DIPTYCH: DRY SEASON\n\nMotorbikes darting. Nattering horns leave an aftertaste.\n\nI mark the distance on a map: this city a wrist-width away from the last.\n\nCome sunrise, str"
+        "page": 12,
+        "snippet": "Eye Level: Poems\n\nDISPLACEMENT\n\nThe woman by the soap stand with the low neckline is beside herself. Ecstasy, from the Greek \nekstasis,\n meaning \nto stand outside oneself.\n Estranged. In Kerkyra, bene"
       },
       {
-        "page": 11,
-        "snippet": "Eye Level: Poems\n\nCORFU\n\nTo the north and to the west: dark tips of cypress. Corfu in the slow math of July, and this reservoir of fear running low. The island has two hard-boiled hills. The bus desce"
+        "page": 17,
+        "snippet": "Eye Level: Poems\n\nZUIHITSU\n\nSunday, awake with this headache. I pull apart the evening with a fork. White clot behind the eyes.\n\nSomeone once told me, \nbefore and after is just another false binary.\n "
+      },
+      {
+        "page": 18,
+        "snippet": "Boiled peanuts. Leather of daybreak. Cotton thinning out into thread. Dried vomit. Ice water from the spigot. The sacred and profane share a border. In the desert, small droppings of unknown origin.\n\n"
+      },
+      {
+        "page": 19,
+        "snippet": "Eye Level: Poems\n\nALIKE, YET NOT QUITE\n\nAfter Li Shangyin\n\nThin fish bones arranged on the bone plate, a bracelet\n\nBlushing after wine and high sun\n\nThe Buddhist nun, like a tipped glass, emptying thr"
+      }
+    ],
+    "5": [
+      {
+        "page": 10,
+        "snippet": "The language behind this language cracks open, and my questions follow suit.\n\nMonths of medium-rare insomnia.\n\nWine makes me confuse\n\nelation with clarity, and so I traverse\n\nthe night market, my purs"
+      },
+      {
+        "page": 26,
+        "snippet": "Eye Level: Poems\n\nCAPTIVITY\n\nSleep is a narrow corridor. Even idleness will tire, forcing the mind to burrow into its emptiness. We said untrue things to make the time go faster, our teeth bright with"
+      },
+      {
+        "page": 27,
+        "snippet": "Eye Level: Poems\n\nPRIVATE PROPERTY\n\nExhaustion slides from the body through the lips first. The invisible are flush with it, they drowse on blue subway seats. Heads bowed, yes, but to what. This islan"
+      },
+      {
+        "page": 28,
+        "snippet": "Eye Level: Poems\n\nINVISIBLE RELATIONS\n\nThere are no simple stories, because language forces distances. The days gummy and without drink. And a question stammers in the mind for weeks, one key aquiver "
+      },
+      {
+        "page": 29,
+        "snippet": "Eye Level: Poems\n\nBILDUNGSROMAN\n\nWhen the gates opened, some of us remained still. Others walked off, with no one to call after them. What a sight it was. You plant an alphabet in your sleep and wake "
       }
     ],
     "1": [
       {
-        "page": 5,
-        "snippet": "Eye Level: Poems\n\nUNSPOILED FICTIONS\n\n“when the natives see you, the tourist, they envy you, they envy your ability to leave your own banality and boredom …”\n\n—Jamaica Kincaid\n\nThe ease with which a p"
+        "page": 14,
+        "snippet": "Eye Level: Poems\n\nEPISTLE\n\nEavesdropping on a mother\n\nneedling at her mule-brained son\n\nstopping by the side of the road\n\nto examine the dry socket of Agios Georgios\n\nthe root of this self-denial is l"
       },
       {
-        "page": 30,
-        "snippet": "Eye Level: Poems\n\nVISUAL ORDERS\n\n[1]\n\nHarvest the eyes from the ocular cavities.\n\nComplete in themselves:\n\na pair of globes with their own meridians.\n\n[2]\n\nWhat atrophies without the tending of a gaze"
+        "page": 16,
+        "snippet": "Eye Level: Poems\n\nSOLITUDE STUDY\n\nTimes when I think a mind uncluttered with others\n\nis the only condition for gentleness\n\nor that memory sticks like cartilage\n\nto the meat of those with the most word"
       },
       {
-        "page": 52,
-        "snippet": "Eye Level: Poems\n\nThe eye you see is not\n\nan eye because you see it;\n\nit is an eye because it sees you.\n\nAntonio Machado"
+        "page": 42,
+        "snippet": "Eye Level: Poems\n\nTO BE A GOOD BUDDHIST IS ENSNAREMENT\n\nThe Zen priest says I am everything I am not.\n\nIn order to stop resisting, I must not attempt to stop resisting.\n\nI must believe there is no nee"
+      },
+      {
+        "page": 45,
+        "snippet": "Eye Level: Poems\n\nLETTERS TO DU FU\n\nI paid a visit to the province of a past year      aided by a pot of wine\n\nSelf-contempt erects a wide frame      almost anyone can pass through\n\nSo unruly are my n"
+      },
+      {
+        "page": 47,
+        "snippet": "Eye Level: Poems\n\nA SLOW WAY\n\nIt’s possible I’m tallying\n\nwrong in this life.\n\nBetter to count down than up.\n\nI only have to shuck off\n\nthese other minds\n\nto reach the first mind.\n\nThe one that stores"
+      }
+    ],
+    "4": [
+      {
+        "page": 25,
+        "snippet": "Eye Level: Poems\n\nORIGIN STORY\n\nI was profligate like a floodlight to the sun.\n\nHoarded saccharine and toothmarks,\n\nwanted only the thickest rhymes, two of each.\n\nFull I was of promises I never intend"
+      },
+      {
+        "page": 38,
+        "snippet": "Eye Level: Poems\n\nEXIT, EVE\n\nI cut my teeth on green flesh      Eden’s navel\n\nNow I understand our vocabulary      for what astounds us is thin\n\nRed ginger flower      nature doesn’t hide its excess\n\n"
+      },
+      {
+        "page": 40,
+        "snippet": "Eye Level: Poems\n\nTHE HUNT\n\nFerried over to the banks of the present:\n\nthe life that outgrew this one.\n\nAs fate would have it\n\nthe ungovernable remained ungovernable.\n\nLove’s laws are simple. The leav"
       }
     ]
   },
   "cluster_labels": {
-    "0": "Southeast Asia Travel Poems",
-    "1": "Seeing, Gaze & Tourism",
-    "2": "Front Matter & Acknowledgments"
+    "0": "Place Poems — Asia & Diaspora",
+    "1": "Solitude, Meditation & the Self",
+    "2": "Displacement & the Body",
+    "3": "Bio & Acknowledgments",
+    "4": "Origin, Eve & Myth",
+    "5": "Language, Captivity & Ownership"
   }
 }

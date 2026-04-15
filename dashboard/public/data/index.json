@@ -1,16 +1,16 @@
 {
   "books": [
     {
-      "name": "hasnain-sin",
+      "name": "jenny-xie-eye-level",
       "language": "en",
-      "total_pages": 21,
-      "total_chars": 15671,
-      "total_words": 2809,
-      "unique_words": 1035,
-      "total_tokens": 1453,
-      "unique_tokens": 928,
-      "avg_words_per_page": 133.8,
-      "lexical_richness": 0.6387
+      "total_pages": 56,
+      "total_chars": 44563,
+      "total_words": 7730,
+      "unique_words": 2560,
+      "total_tokens": 4272,
+      "unique_tokens": 2422,
+      "avg_words_per_page": 138.0,
+      "lexical_richness": 0.5669
     }
   ]
 }

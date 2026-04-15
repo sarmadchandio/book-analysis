@@ -1,6 +1,6 @@
 # Book Analysis Dashboard
 
-Interactive dashboard for exploring OCR'd Urdu/Persian poetry collections — topic models, entity maps, and full-text search across the corpus.
+Interactive dashboard for exploring OCR'd Urdu/Persian poetry collections alongside digital-English volumes — topic models, entity maps, and TF-IDF cosine search across the corpus.
 
 **Live:** https://sarmadchandio.com/book-analysis/
 
@@ -17,14 +17,27 @@ In prod, they're fetched from per-book GitHub Releases (`images-<slug>` tag).
 
 ## Publishing new books
 
-When the upstream analysis pipeline drops fresh JSON into `dashboard/public/data/` (and fresh page images into `books/<slug>/images/`), the publish flow is:
+The pipeline routes each book to the right extractor automatically:
+
+- **Scanned EPUB/PDF** → `extract_images.py` → `ocr_google_drive.py` (Urdu OCR)
+- **Digital EPUB** (has real text) → `extract_epub_text.py` (no OCR)
+- `extract_epub_text.py` splits pages on `<h1>–<h6>` headings and on class names matching `title|heading|chaptertitle|poemtitle|blurbstitle` — so chapbooks and multi-poem files are split poem-by-poem rather than char-chunked.
+
+Then the analysis flow runs the same four steps regardless of source:
+
+1. `analyze.py` — stats, word-freq, bigrams, graph, per-page TF-IDF index (auto language-detect: `ur` vs `en`)
+2. `topic_model.py` — multilingual embeddings + UMAP + HDBSCAN
+3. Claude entity extraction → `entities-<slug>.json`
+4. Claude topic labeling → `cluster_labels` on `topics-<slug>.json`
+
+Once data lands in `dashboard/public/data/`:
 
 ```bash
-# 1. Upload page images for any new or updated books.
-#    Idempotent — skips images already uploaded, creates a release per new book.
+# Upload page images to GitHub Releases (skipped silently if the book has none).
+# Idempotent — skips images already uploaded, creates a release per new book.
 bash upload_images.sh
 
-# 2. Commit the new JSON data and push. Pages auto-rebuilds on push to master.
+# Commit the new JSON data and push. Pages auto-rebuilds on push to master.
 git add dashboard/public/data
 git commit -m "data: add <slug>"
 git push
