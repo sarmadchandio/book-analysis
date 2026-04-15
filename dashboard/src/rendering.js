@@ -735,25 +735,6 @@ export async function renderDeepAnalysis(slug, data) {
     peopleEl.innerHTML = '<div style="color:var(--text-faint);font-size:12px">No entity data available</div>';
   }
 
-  // Key passages — pick top TF-IDF pages as "key passages"
-  const passagesEl = document.getElementById('deep-passages');
-  const pages = data.search_pages || [];
-  if (pages.length > 5) {
-    const mid = Math.floor(pages.length / 2);
-    const picks = [pages[Math.floor(mid * 0.3)], pages[mid], pages[Math.floor(mid * 1.5)]].filter(Boolean);
-    const bgColors = ['var(--accent-yellow)', 'var(--accent-light)', 'var(--accent-yellow)'];
-    passagesEl.innerHTML = picks.map((p, i) => {
-      const snippet = p.text.replace(/[_\n]+/g, ' ').trim().slice(0, 200);
-      if (!snippet) return '';
-      return `
-        <div class="quote-block" style="background:${bgColors[i % bgColors.length]}">
-          <div class="quote-text urdu" style="font-size:14px;line-height:1.8">${snippet}...</div>
-          <div class="quote-attr">— Page ${p.page_num}</div>
-        </div>`;
-    }).join('');
-  } else {
-    passagesEl.innerHTML = '<div style="color:var(--text-faint);font-size:12px">Not enough content for key passages</div>';
-  }
 }
 
 // ─── Image Viewer Modal ───

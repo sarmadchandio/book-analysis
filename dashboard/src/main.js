@@ -170,6 +170,7 @@ function initSidebarFilters() {
     const val = el.dataset.cat;
     state.activeFilters.category = val;
     catEl.querySelectorAll('.filter-row').forEach(x => x.classList.toggle('active', x === el));
+    goLibrary();
     applyFilters(renderLibrary);
   }));
 
@@ -183,6 +184,7 @@ function initSidebarFilters() {
       state.activeFilters.author = val;
       authorEl.querySelectorAll('.filter-row').forEach(x => x.classList.toggle('active', x === el));
     }
+    goLibrary();
     applyFilters(renderLibrary);
   }));
 
@@ -196,6 +198,7 @@ function initSidebarFilters() {
       state.activeFilters.tag = val;
       tagEl.querySelectorAll('.t').forEach(x => x.classList.toggle('active', x === el));
     }
+    goLibrary();
     applyFilters(renderLibrary);
   }));
 

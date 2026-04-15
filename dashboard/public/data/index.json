@@ -76,17 +76,6 @@
       "unique_tokens": 645,
       "avg_words_per_page": 101.5,
       "lexical_richness": 0.8063
-    },
-    {
-      "name": "murda-ankhain",
-      "total_pages": 141,
-      "total_chars": 144573,
-      "total_words": 31109,
-      "unique_words": 4971,
-      "total_tokens": 17207,
-      "unique_tokens": 4853,
-      "avg_words_per_page": 220.6,
-      "lexical_richness": 0.282
     }
   ]
 }
