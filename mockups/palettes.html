@@ -1,0 +1,808 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Book Analysis — Palette Previews</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Inter:wght@400;500;600&family=Noto+Nastaliq+Urdu:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    background: #171512;
+    color: #e7e3d6;
+    padding: 48px 24px 96px;
+  }
+  h1 {
+    font-family: 'Fraunces', serif; font-weight: 600;
+    margin: 0 0 6px; font-size: 28px; color: #fdfaf0;
+  }
+  .subtitle { color: #a59d88; margin-bottom: 40px; font-size: 14px; max-width: 720px; line-height: 1.6; }
+  .preview-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(520px, 1fr)); gap: 28px; max-width: 1400px; margin: 0 auto; }
+
+  /* ═══ Per-palette wrapper ═══ */
+  .palette {
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 24px 60px rgba(0,0,0,0.45);
+  }
+  .palette-label {
+    padding: 14px 20px;
+    background: #241f18;
+    color: #fdfaf0;
+    display: flex; align-items: baseline; justify-content: space-between;
+    font-size: 13px;
+  }
+  .palette-label .name { font-family: 'Fraunces', serif; font-weight: 600; font-size: 17px; }
+  .palette-label .swatches { display: flex; gap: 6px; }
+  .swatch { width: 18px; height: 18px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.1); }
+
+  /* ═══ The mockup (same for every palette) ═══ */
+  .mock {
+    display: grid;
+    grid-template-columns: 160px 1fr;
+    min-height: 560px;
+    font-size: 13px;
+    background: var(--bg);
+    color: var(--text-body);
+  }
+  .mock .side {
+    background: var(--surface);
+    border-right: 1px solid var(--divider);
+    padding: 18px 14px;
+  }
+  .mock .logo {
+    display: flex; align-items: center; gap: 8px;
+    font-weight: 600; color: var(--text-primary); margin-bottom: 22px;
+    font-family: 'Fraunces', serif; font-size: 15px;
+  }
+  .mock .logo-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--accent); }
+  .mock .side-head {
+    text-transform: uppercase; letter-spacing: 0.08em;
+    font-size: 10px; color: var(--text-faint); margin: 14px 0 6px;
+  }
+  .mock .side-item {
+    display: flex; justify-content: space-between; padding: 6px 8px;
+    border-radius: 6px; color: var(--text-body); font-size: 12px;
+  }
+  .mock .side-item.active { background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+  .mock .side-item .count { color: var(--text-faint); font-size: 11px; }
+  .mock .tag-cluster { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+  .mock .tag {
+    font-size: 10px; padding: 3px 8px; border-radius: 999px;
+    background: var(--tag-bg); color: var(--tag-text);
+    border: 1px solid var(--tag-border);
+  }
+  .mock .tag.active { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
+
+  .mock .main { padding: 20px 22px; overflow: hidden; }
+  .mock .breadcrumb { color: var(--text-muted); font-size: 11px; margin-bottom: 10px; }
+  .mock .title { font-family: 'Fraunces', serif; font-size: 22px; color: var(--text-primary); margin-bottom: 2px; }
+  .mock .sub { color: var(--text-muted); font-size: 12px; margin-bottom: 16px; }
+
+  .mock .stats {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 18px;
+  }
+  .mock .stat {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; padding: 10px 12px;
+  }
+  .mock .stat .v { font-family: 'Fraunces', serif; font-size: 17px; color: var(--text-primary); font-weight: 600; }
+  .mock .stat .l { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+  .mock .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+  .mock .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; padding: 12px 14px;
+  }
+  .mock .card-head {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-bottom: 10px;
+  }
+  .mock .card-title { font-weight: 600; color: var(--text-primary); font-size: 12px; }
+  .mock .card-tag {
+    font-size: 9px; padding: 2px 7px; border-radius: 999px;
+    background: var(--pill-bg); color: var(--pill-text);
+    text-transform: uppercase; letter-spacing: 0.04em;
+  }
+  .mock .bars { display: flex; align-items: flex-end; gap: 4px; height: 56px; }
+  .mock .bar { flex: 1; background: var(--chart-bar); border-radius: 3px 3px 0 0; }
+  .mock .bar.soft { background: var(--chart-bar-soft); }
+  .mock .bar.accent { background: var(--accent); }
+
+  .mock .search-hit {
+    background: var(--hit-bg); border: 1px solid var(--hit-border);
+    padding: 10px 12px; border-radius: 8px; margin-bottom: 8px;
+  }
+  .mock .search-hit .hit-head {
+    display: flex; justify-content: space-between;
+    font-size: 11px; margin-bottom: 6px;
+  }
+  .mock .page-num { color: var(--accent); font-weight: 600; }
+  .mock .score { color: var(--text-faint); }
+  .mock .urdu-snippet {
+    direction: rtl; font-family: 'Noto Nastaliq Urdu', serif;
+    font-size: 14px; line-height: 1.8; color: var(--text-body);
+  }
+  .mock mark { background: var(--mark); color: var(--mark-text); padding: 0 3px; border-radius: 2px; }
+
+  .mock .btn-row { display: flex; gap: 8px; margin-top: 12px; }
+  .mock .btn {
+    padding: 6px 14px; border-radius: 8px; font-size: 11px; font-weight: 500; cursor: pointer;
+  }
+  .mock .btn-primary { background: var(--accent); color: var(--on-accent); border: 1px solid var(--accent); }
+  .mock .btn-ghost {
+    background: transparent; color: var(--text-body);
+    border: 1px solid var(--border-hover);
+  }
+  .mock .btn-accent { background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent-soft); }
+
+  /* ═══ Palette A — Butter Yellow + Walnut ═══ */
+  .p-butter {
+    --bg: #fbf5e3;
+    --surface: #fef9e9;
+    --card: #fffdf5;
+    --border: #ecdfb8;
+    --border-hover: #dccea1;
+    --divider: #ecdfb8;
+    --text-primary: #3d2f18;
+    --text-body: #5c4a2e;
+    --text-muted: #8a7553;
+    --text-faint: #b09e7e;
+    --accent: #b8872c;
+    --accent-soft: #f6eac9;
+    --on-accent: #fffdf5;
+    --hover-bg: #f6eac9;
+    --chart-bar: #b8872c;
+    --chart-bar-soft: #e7d59c;
+    --mark: #f7d967;
+    --mark-text: #3d2f18;
+    --tag-bg: #f6eac9;
+    --tag-text: #7e6122;
+    --tag-border: #e7d59c;
+    --pill-bg: #fff5d1;
+    --pill-text: #b8872c;
+    --hit-bg: #fef9e9;
+    --hit-border: #ecdfb8;
+  }
+
+  /* ═══ Palette B — Honey Saffron + Sage ═══ */
+  .p-saffron {
+    --bg: #faf4e7;
+    --surface: #fdf9ec;
+    --card: #fffdf3;
+    --border: #e7dec5;
+    --border-hover: #d4c8a7;
+    --divider: #e7dec5;
+    --text-primary: #2e3422;
+    --text-body: #4d5439;
+    --text-muted: #7b8264;
+    --text-faint: #a9ad94;
+    --accent: #c77f22;
+    --accent-soft: #fbecd0;
+    --on-accent: #fffdf3;
+    --hover-bg: #fbecd0;
+    --chart-bar: #7b8e4a;
+    --chart-bar-soft: #cbd3ab;
+    --mark: #f0c14b;
+    --mark-text: #2e3422;
+    --tag-bg: #e8ecd6;
+    --tag-text: #5d6a3a;
+    --tag-border: #cbd3ab;
+    --pill-bg: #fbecd0;
+    --pill-text: #c77f22;
+    --hit-bg: #fdf9ec;
+    --hit-border: #e7dec5;
+  }
+
+  /* ═══ Palette C — Cream + Terracotta + Teal ═══ */
+  .p-terracotta {
+    --bg: #faf3ea;
+    --surface: #fdf8f0;
+    --card: #fffcf5;
+    --border: #eaddc8;
+    --border-hover: #d7c3a8;
+    --divider: #eaddc8;
+    --text-primary: #2d1f17;
+    --text-body: #4e3a2b;
+    --text-muted: #8a7360;
+    --text-faint: #b4a28c;
+    --accent: #c45a3c;
+    --accent-soft: #fbe1d3;
+    --on-accent: #fffcf5;
+    --hover-bg: #fbe1d3;
+    --chart-bar: #237b74;
+    --chart-bar-soft: #b9d8d3;
+    --mark: #f4c97a;
+    --mark-text: #2d1f17;
+    --tag-bg: #e2eeec;
+    --tag-text: #23615c;
+    --tag-border: #b9d8d3;
+    --pill-bg: #fbe1d3;
+    --pill-text: #a64a2f;
+    --hit-bg: #fdf8f0;
+    --hit-border: #eaddc8;
+  }
+
+  /* ═══ Palette D — Butter + Plum (warmest interplay) ═══ */
+  .p-butterplum {
+    --bg: #fcf5e4;
+    --surface: #fff9e8;
+    --card: #fffdf3;
+    --border: #eddfb4;
+    --border-hover: #d9c78a;
+    --divider: #eddfb4;
+    --text-primary: #2f1d2c;
+    --text-body: #4e3846;
+    --text-muted: #8a7585;
+    --text-faint: #b0a0ac;
+    --accent: #7a3b63;
+    --accent-soft: #f3d9ea;
+    --on-accent: #fffdf3;
+    --hover-bg: #f6e8c9;
+    --chart-bar: #7a3b63;
+    --chart-bar-soft: #dcbed0;
+    --mark: #f5d75a;
+    --mark-text: #2f1d2c;
+    --tag-bg: #f6e8c9;
+    --tag-text: #8a6b1e;
+    --tag-border: #eddfb4;
+    --pill-bg: #f3d9ea;
+    --pill-text: #7a3b63;
+    --hit-bg: #fff9e8;
+    --hit-border: #eddfb4;
+  }
+
+  /* ═══ Palette E — Vellum + Ink + Oxblood (classic manuscript) ═══ */
+  .p-vellum {
+    --bg: #f6eed6;
+    --surface: #faf5e2;
+    --card: #fdfbec;
+    --border: #ded19d;
+    --border-hover: #c6b57d;
+    --divider: #ded19d;
+    --text-primary: #251c10;
+    --text-body: #3f3220;
+    --text-muted: #7a6a4c;
+    --text-faint: #a89874;
+    --accent: #8a2a2a;
+    --accent-soft: #f1dad8;
+    --on-accent: #fdfbec;
+    --hover-bg: #f1e5b9;
+    --chart-bar: #8a2a2a;
+    --chart-bar-soft: #dbbbbb;
+    --mark: #ecc94b;
+    --mark-text: #251c10;
+    --tag-bg: #f1e5b9;
+    --tag-text: #6a5820;
+    --tag-border: #ded19d;
+    --pill-bg: #f1dad8;
+    --pill-text: #8a2a2a;
+    --hit-bg: #faf5e2;
+    --hit-border: #ded19d;
+  }
+
+  /* ═══ Palette F — Cocoa Cream + Caramel ═══ */
+  .p-cocoa {
+    --bg: #f7ecd7;
+    --surface: #fbf3e2;
+    --card: #fffaec;
+    --border: #e3cfa8;
+    --border-hover: #ccb386;
+    --divider: #e3cfa8;
+    --text-primary: #2c1a0d;
+    --text-body: #4a301d;
+    --text-muted: #8a6f55;
+    --text-faint: #b79e82;
+    --accent: #c07a28;
+    --accent-soft: #f7e0be;
+    --on-accent: #fffaec;
+    --hover-bg: #f7e0be;
+    --chart-bar: #5e3a1b;
+    --chart-bar-soft: #cfad7d;
+    --mark: #f6c451;
+    --mark-text: #2c1a0d;
+    --tag-bg: #f7e0be;
+    --tag-text: #7e5018;
+    --tag-border: #e3cfa8;
+    --pill-bg: #f4d9a6;
+    --pill-text: #5e3a1b;
+    --hit-bg: #fbf3e2;
+    --hit-border: #e3cfa8;
+  }
+
+</style>
+</head>
+<body>
+
+<h1>Book Analysis — palette previews</h1>
+<p class="subtitle">
+  Six variations on the dashboard's visual tone. The underlying layout, typography,
+  and content are identical — only colors and surface treatments change.
+  Accents appear in multiple roles (primary buttons, page numbers, chart bars, tag pills, marks)
+  so the interplay is visible. Let me know which direction feels right and I'll apply it to the live site.
+</p>
+
+<div class="preview-grid">
+
+  <!-- ═════ Palette 1: Butter Yellow ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">A · Butter Yellow</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#fbf5e3"></span>
+        <span class="swatch" style="background:#fef9e9"></span>
+        <span class="swatch" style="background:#b8872c"></span>
+        <span class="swatch" style="background:#f7d967"></span>
+        <span class="swatch" style="background:#3d2f18"></span>
+      </span>
+    </div>
+    <div class="mock p-butter">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═════ Palette 2: Saffron + Sage ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">B · Saffron & Sage</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#faf4e7"></span>
+        <span class="swatch" style="background:#c77f22"></span>
+        <span class="swatch" style="background:#7b8e4a"></span>
+        <span class="swatch" style="background:#f0c14b"></span>
+        <span class="swatch" style="background:#2e3422"></span>
+      </span>
+    </div>
+    <div class="mock p-saffron">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═════ Palette 3: Terracotta + Teal ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">C · Terracotta & Teal</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#faf3ea"></span>
+        <span class="swatch" style="background:#c45a3c"></span>
+        <span class="swatch" style="background:#237b74"></span>
+        <span class="swatch" style="background:#f4c97a"></span>
+        <span class="swatch" style="background:#2d1f17"></span>
+      </span>
+    </div>
+    <div class="mock p-terracotta">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═════ Palette 4: Butter + Plum ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">D · Butter & Plum</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#fcf5e4"></span>
+        <span class="swatch" style="background:#7a3b63"></span>
+        <span class="swatch" style="background:#f5d75a"></span>
+        <span class="swatch" style="background:#f3d9ea"></span>
+        <span class="swatch" style="background:#2f1d2c"></span>
+      </span>
+    </div>
+    <div class="mock p-butterplum">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═════ Palette 5: Vellum + Oxblood ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">E · Vellum & Oxblood</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#f6eed6"></span>
+        <span class="swatch" style="background:#faf5e2"></span>
+        <span class="swatch" style="background:#8a2a2a"></span>
+        <span class="swatch" style="background:#ecc94b"></span>
+        <span class="swatch" style="background:#251c10"></span>
+      </span>
+    </div>
+    <div class="mock p-vellum">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═════ Palette 6: Cocoa Cream ═════ -->
+  <div class="palette">
+    <div class="palette-label">
+      <span class="name">F · Cocoa & Caramel</span>
+      <span class="swatches">
+        <span class="swatch" style="background:#f7ecd7"></span>
+        <span class="swatch" style="background:#c07a28"></span>
+        <span class="swatch" style="background:#5e3a1b"></span>
+        <span class="swatch" style="background:#f6c451"></span>
+        <span class="swatch" style="background:#2c1a0d"></span>
+      </span>
+    </div>
+    <div class="mock p-cocoa">
+      <div class="side">
+        <div class="logo"><span class="logo-dot"></span>Book Analysis</div>
+        <div class="side-head">Views</div>
+        <div class="side-item active"><span>Library</span><span class="count">7</span></div>
+        <div class="side-head">Authors</div>
+        <div class="side-item"><span>Mir Taqi Mir</span><span class="count">5</span></div>
+        <div class="side-item"><span>Sara Shagufta</span><span class="count">1</span></div>
+        <div class="side-item"><span>Mirza Ghalib</span><span class="count">1</span></div>
+        <div class="side-head">Tags</div>
+        <div class="tag-cluster">
+          <span class="tag active">ghazal</span>
+          <span class="tag">masnavi</span>
+          <span class="tag">biography</span>
+        </div>
+      </div>
+      <div class="main">
+        <div class="breadcrumb">Library › Deewan-e-Ghalib</div>
+        <div class="title">Deewan-e-Ghalib</div>
+        <div class="sub">Mirza Ghalib · Poetry</div>
+        <div class="stats">
+          <div class="stat"><div class="v">50</div><div class="l">Pages</div></div>
+          <div class="stat"><div class="v">2,527</div><div class="l">Words</div></div>
+          <div class="stat"><div class="v">1,036</div><div class="l">Unique</div></div>
+          <div class="stat"><div class="v">59.5%</div><div class="l">Richness</div></div>
+        </div>
+        <div class="cards">
+          <div class="card">
+            <div class="card-head"><span class="card-title">Word Freq</span><span class="card-tag">top 10</span></div>
+            <div class="bars">
+              <div class="bar accent" style="height:95%"></div>
+              <div class="bar accent" style="height:75%"></div>
+              <div class="bar" style="height:62%"></div>
+              <div class="bar" style="height:55%"></div>
+              <div class="bar soft" style="height:42%"></div>
+              <div class="bar soft" style="height:38%"></div>
+              <div class="bar soft" style="height:30%"></div>
+              <div class="bar soft" style="height:25%"></div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-head"><span class="card-title">Richness</span><span class="card-tag">book</span></div>
+            <div class="bars">
+              <div class="bar" style="height:55%"></div>
+              <div class="bar" style="height:68%"></div>
+              <div class="bar accent" style="height:85%"></div>
+              <div class="bar" style="height:72%"></div>
+              <div class="bar soft" style="height:40%"></div>
+              <div class="bar soft" style="height:48%"></div>
+              <div class="bar" style="height:60%"></div>
+              <div class="bar soft" style="height:35%"></div>
+            </div>
+          </div>
+        </div>
+        <div class="search-hit">
+          <div class="hit-head"><span class="page-num">Page 12</span><span class="score">score 42.1</span></div>
+          <div class="urdu-snippet">… ہے تاب <mark>عشق</mark> کی ہمت پرکھنے کو، دل ہی کا مقام ہے اور <mark>دل</mark> ہی کا رستہ …</div>
+        </div>
+        <div class="btn-row">
+          <button class="btn btn-primary">Open book</button>
+          <button class="btn btn-ghost">Export</button>
+          <button class="btn btn-accent">Filter</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+</body>
+</html>
