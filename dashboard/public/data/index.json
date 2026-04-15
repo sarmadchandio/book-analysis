@@ -2,6 +2,7 @@
   "books": [
     {
       "name": "4628-meer-taqi-meer-hauyatt-aur-shaury",
+      "language": "ur",
       "total_pages": 639,
       "total_chars": 748718,
       "total_words": 164115,
@@ -13,6 +14,7 @@
     },
     {
       "name": "ankhain",
+      "language": "ur",
       "total_pages": 135,
       "total_chars": 69206,
       "total_words": 14553,
@@ -23,7 +25,20 @@
       "lexical_richness": 0.3124
     },
     {
+      "name": "aria-aber-good-girl",
+      "language": "en",
+      "total_pages": 361,
+      "total_chars": 514212,
+      "total_words": 94270,
+      "unique_words": 9956,
+      "total_tokens": 45035,
+      "unique_tokens": 9769,
+      "avg_words_per_page": 261.1,
+      "lexical_richness": 0.2169
+    },
+    {
       "name": "deewan-e-ghalib",
+      "language": "ur",
       "total_pages": 50,
       "total_chars": 12013,
       "total_words": 2527,
@@ -35,6 +50,7 @@
     },
     {
       "name": "deewan-e-meer",
+      "language": "ur",
       "total_pages": 210,
       "total_chars": 90152,
       "total_words": 18470,
@@ -46,6 +62,7 @@
     },
     {
       "name": "deewan-e-meer-by-meer-taqi-meer-urduinpage-com",
+      "language": "ur",
       "total_pages": 342,
       "total_chars": 133754,
       "total_words": 25343,
@@ -56,7 +73,32 @@
       "lexical_richness": 0.2741
     },
     {
+      "name": "hasnain-sin",
+      "language": "en",
+      "total_pages": 11,
+      "total_chars": 16532,
+      "total_words": 2911,
+      "unique_words": 1036,
+      "total_tokens": 1522,
+      "unique_tokens": 929,
+      "avg_words_per_page": 264.6,
+      "lexical_richness": 0.6104
+    },
+    {
+      "name": "jenny-xie-eye-level",
+      "language": "en",
+      "total_pages": 57,
+      "total_chars": 44625,
+      "total_words": 7740,
+      "unique_words": 2560,
+      "total_tokens": 4282,
+      "unique_tokens": 2422,
+      "avg_words_per_page": 135.8,
+      "lexical_richness": 0.5656
+    },
+    {
       "name": "kulliyat-e-meer-farhang-meer-taqi-meer",
+      "language": "ur",
       "total_pages": 27,
       "total_chars": 44496,
       "total_words": 8115,
@@ -68,6 +110,7 @@
     },
     {
       "name": "masnavi-dariya-e-ishq-meer-taqi-meer-ebooks-3",
+      "language": "ur",
       "total_pages": 12,
       "total_chars": 5413,
       "total_words": 1218,

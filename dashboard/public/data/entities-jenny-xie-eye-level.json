@@ -1,0 +1,109 @@
+{
+  "people": [
+    {
+      "urdu": "Jenny Xie",
+      "english": "Jenny Xie",
+      "type": "poet"
+    },
+    {
+      "urdu": "Jamaica Kincaid",
+      "english": "Jamaica Kincaid (epigraph)",
+      "type": "reference"
+    }
+  ],
+  "places": [
+    {
+      "urdu": "Hanoi",
+      "english": "Hanoi",
+      "type": "city"
+    },
+    {
+      "urdu": "Sapa",
+      "english": "Sapa",
+      "type": "region"
+    },
+    {
+      "urdu": "Phnom Penh",
+      "english": "Phnom Penh",
+      "type": "city"
+    },
+    {
+      "urdu": "Corfu",
+      "english": "Corfu",
+      "type": "island"
+    },
+    {
+      "urdu": "Hefei",
+      "english": "Hefei, China (birthplace)",
+      "type": "city"
+    },
+    {
+      "urdu": "New Jersey",
+      "english": "New Jersey (raised)",
+      "type": "region"
+    }
+  ],
+  "themes": [
+    {
+      "urdu": "Rootlessness",
+      "english": "Rootlessness & Exile",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Travel",
+      "english": "Travel & Displacement",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "The Gaze",
+      "english": "The Gaze & Tourism",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Seeing",
+      "english": "Seeing & Visual Orders",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Solitude",
+      "english": "Solitude & Interiority",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Memory",
+      "english": "Memory & Return",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Language",
+      "english": "Language & Counting",
+      "count_hint": "medium"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Jenny Xie",
+      "to": "Hefei",
+      "type": "born_in",
+      "label": "birthplace"
+    },
+    {
+      "from": "Jenny Xie",
+      "to": "New Jersey",
+      "type": "raised_in",
+      "label": "upbringing"
+    },
+    {
+      "from": "Jenny Xie",
+      "to": "Hanoi",
+      "type": "visited",
+      "label": "travel poems"
+    },
+    {
+      "from": "Jenny Xie",
+      "to": "Phnom Penh",
+      "type": "visited",
+      "label": "diptychs"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "people": [
+    {
+      "urdu": "Javeria Hasnain",
+      "english": "Javeria Hasnain",
+      "type": "poet"
+    },
+    {
+      "urdu": "Amma",
+      "english": "Amma (mother)",
+      "type": "family"
+    },
+    {
+      "urdu": "James Rawlings",
+      "english": "James Rawlings (editor)",
+      "type": "editor"
+    },
+    {
+      "urdu": "William Blake",
+      "english": "William Blake (reference)",
+      "type": "reference"
+    },
+    {
+      "urdu": "Czeslaw Milosz",
+      "english": "Czeslaw Milosz (reference)",
+      "type": "reference"
+    },
+    {
+      "urdu": "Annie Ernaux",
+      "english": "Annie Ernaux (reference)",
+      "type": "reference"
+    }
+  ],
+  "places": [],
+  "themes": [
+    {
+      "urdu": "Desire",
+      "english": "Desire & Pleasure",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Sin",
+      "english": "Sin & Morality",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Mortality",
+      "english": "Mortality & the Body",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Mother",
+      "english": "Mother & Domestic Space",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Literature",
+      "english": "Reading & Literary Inheritance",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Solitude",
+      "english": "Solitude & Window-gazing",
+      "count_hint": "medium"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Javeria Hasnain",
+      "to": "Amma",
+      "type": "family",
+      "label": "daughter"
+    },
+    {
+      "from": "Javeria Hasnain",
+      "to": "William Blake",
+      "type": "influence",
+      "label": "reading"
+    },
+    {
+      "from": "Javeria Hasnain",
+      "to": "Annie Ernaux",
+      "type": "influence",
+      "label": "reading"
+    },
+    {
+      "from": "Javeria Hasnain",
+      "to": "Czeslaw Milosz",
+      "type": "influence",
+      "label": "reading"
+    }
+  ]
+}

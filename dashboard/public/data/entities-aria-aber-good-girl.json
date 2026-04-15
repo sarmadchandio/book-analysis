@@ -1,0 +1,136 @@
+{
+  "people": [
+    {
+      "urdu": "Nila",
+      "english": "Nila (narrator)",
+      "type": "protagonist"
+    },
+    {
+      "urdu": "Marlowe",
+      "english": "Marlowe (American writer)",
+      "type": "character"
+    },
+    {
+      "urdu": "Doreen",
+      "english": "Doreen",
+      "type": "character"
+    },
+    {
+      "urdu": "Karim",
+      "english": "Karim (father)",
+      "type": "family"
+    },
+    {
+      "urdu": "Anahita",
+      "english": "Anahita (mother)",
+      "type": "family"
+    },
+    {
+      "urdu": "Aria Aber",
+      "english": "Aria Aber",
+      "type": "author"
+    }
+  ],
+  "places": [
+    {
+      "urdu": "Berlin",
+      "english": "Berlin",
+      "type": "city"
+    },
+    {
+      "urdu": "Prague",
+      "english": "Prague (exile arrival)",
+      "type": "city"
+    },
+    {
+      "urdu": "S-Bahn",
+      "english": "S-Bahn (Berlin metro)",
+      "type": "transit"
+    },
+    {
+      "urdu": "Afghanistan",
+      "english": "Afghanistan (origin)",
+      "type": "country"
+    }
+  ],
+  "themes": [
+    {
+      "urdu": "Exile",
+      "english": "Exile & Diaspora",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Berlin Nightlife",
+      "english": "Berlin Nightlife & Club Culture",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Family",
+      "english": "Family & Inheritance",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Identity",
+      "english": "Identity & Belonging",
+      "count_hint": "high"
+    },
+    {
+      "urdu": "Love",
+      "english": "Love & Desire",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Addiction",
+      "english": "Addiction & Escape",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Photography",
+      "english": "Photography & Gaze",
+      "count_hint": "medium"
+    },
+    {
+      "urdu": "Loss",
+      "english": "Loss & Homecoming",
+      "count_hint": "medium"
+    }
+  ],
+  "relationships": [
+    {
+      "from": "Nila",
+      "to": "Marlowe",
+      "type": "romantic",
+      "label": "lover / muse"
+    },
+    {
+      "from": "Nila",
+      "to": "Karim",
+      "type": "family",
+      "label": "daughter"
+    },
+    {
+      "from": "Nila",
+      "to": "Anahita",
+      "type": "family",
+      "label": "daughter"
+    },
+    {
+      "from": "Karim",
+      "to": "Anahita",
+      "type": "family",
+      "label": "spouses"
+    },
+    {
+      "from": "Nila",
+      "to": "Berlin",
+      "type": "located_in",
+      "label": "lives in"
+    },
+    {
+      "from": "Anahita",
+      "to": "Prague",
+      "type": "located_in",
+      "label": "border crossing"
+    }
+  ]
+}

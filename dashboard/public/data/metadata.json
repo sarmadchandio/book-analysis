@@ -58,5 +58,38 @@
       "Masnavi",
       "Classical"
     ]
+  },
+  "aria-aber-good-girl": {
+    "display_name": "Good Girl",
+    "author": "Aria Aber",
+    "category": "Novel",
+    "tags": [
+      "diaspora",
+      "berlin",
+      "coming-of-age",
+      "contemporary"
+    ]
+  },
+  "jenny-xie-eye-level": {
+    "display_name": "Eye Level",
+    "author": "Jenny Xie",
+    "category": "Poetry",
+    "tags": [
+      "poetry",
+      "travel",
+      "asian-american",
+      "contemporary"
+    ]
+  },
+  "hasnain-sin": {
+    "display_name": "Sin",
+    "author": "Javeria Hasnain",
+    "category": "Poetry",
+    "tags": [
+      "poetry",
+      "chapbook",
+      "south-asian",
+      "desire"
+    ]
   }
 }

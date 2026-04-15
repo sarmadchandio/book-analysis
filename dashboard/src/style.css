@@ -69,6 +69,13 @@ body {
 }
 .urdu { direction: rtl; font-family: 'Noto Nastaliq Urdu', serif; }
 .serif { font-family: 'Fraunces', 'Iowan Old Style', 'Palatino', serif; }
+/* Override the .urdu class when content is English, so English books use serif LTR prose. */
+[data-lang="en"] .urdu,
+.book-card[data-lang="en"] .urdu {
+  direction: ltr;
+  font-family: 'Fraunces', 'Iowan Old Style', 'Palatino', serif;
+  text-align: inherit;
+}
 
 /* ═══ Layout ═══ */
 .app { display: grid; grid-template-columns: 240px 1fr; min-height: 100vh; }

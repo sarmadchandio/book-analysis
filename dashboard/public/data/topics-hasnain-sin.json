@@ -1,0 +1,125 @@
+{
+  "book": "hasnain-sin",
+  "n_clusters": 2,
+  "points": [
+    {
+      "page_num": 0,
+      "x": 9.212,
+      "y": 0.6255,
+      "cluster": 0,
+      "snippet": "Copyright © 2024 by Javeria Hasnain Author Photo by Stephanie Herrera Edited by James Rawlings Cover design by Maliha Mansoor  All rights reserved. No"
+    },
+    {
+      "page_num": 1,
+      "x": 7.9253,
+      "y": 0.4186,
+      "cluster": 0,
+      "snippet": "Javeria Hasnain’s  SIN  is a chapbook fluent in the privilege of pleasure and mortality. Quick-footed and capacious, this chapbook circles questions o"
+    },
+    {
+      "page_num": 2,
+      "x": 9.0778,
+      "y": -0.0355,
+      "cluster": 0,
+      "snippet": "Copyright © 2024 by Javeria Hasnain Author Photo by Stephanie Herrera Edited by James Rawlings Cover design by Maliha Mansoor All rights reserved. No "
+    },
+    {
+      "page_num": 3,
+      "x": 7.2043,
+      "y": -0.7677,
+      "cluster": 1,
+      "snippet": "I desire, but desire itself. I enjoy   the privilege of sitting  by the window when it rains,   a lit Marlboro in hand,   reading Ernaux or Milosz  or"
+    },
+    {
+      "page_num": 4,
+      "x": 7.2936,
+      "y": 0.1425,
+      "cluster": 0,
+      "snippet": "A local  moazzin  calls the faithful towards goodness as I step into the bathroom to masturbate. It’s (possibly) the holiest night of the holiest mont"
+    },
+    {
+      "page_num": 5,
+      "x": 6.5788,
+      "y": -0.2477,
+      "cluster": 1,
+      "snippet": "Like that day,    when I remained still under you,  when you tried to pin your smallness into me.   I don’t know the you I am referring to.   Neverthe"
+    },
+    {
+      "page_num": 6,
+      "x": 7.963,
+      "y": -0.7571,
+      "cluster": -1,
+      "snippet": "into grocery stores,  kissing boys  on the subway,   a kind stranger  offering me her  last sandwich  coupon. I would  like to document  all of that. "
+    },
+    {
+      "page_num": 7,
+      "x": 6.3507,
+      "y": 0.5197,
+      "cluster": 1,
+      "snippet": "Mercy is a howl.  Mercy is how I  began. A coyote cries  in the botanical garden.  The animal’s limp   glimpse reflecting my own  fears. One of which:"
+    },
+    {
+      "page_num": 8,
+      "x": 6.2705,
+      "y": -0.8284,
+      "cluster": -1,
+      "snippet": "tightening around my tongue.   My hips contracting, closing  an entryway. God as apology afterwards.   Each of us pining for Pleasure:  the oldest pre"
+    },
+    {
+      "page_num": 9,
+      "x": 7.0052,
+      "y": 0.9078,
+      "cluster": -1,
+      "snippet": "Golden hands in a shower moving horizontally—air crisp in yesterday’s moonlight. I will spend my entire life resisting the shadow of your face & your "
+    },
+    {
+      "page_num": 10,
+      "x": 8.6096,
+      "y": 0.6089,
+      "cluster": 0,
+      "snippet": "Javeria Hasnain is a poet, translator, and educator from Karachi. She is an MFA Poetry candidate and a Fulbright scholar at The New School. Her poems "
+    }
+  ],
+  "cluster_samples": {
+    "0": [
+      {
+        "page": 0,
+        "snippet": "Copyright © 2024 by Javeria Hasnain Author Photo by Stephanie Herrera Edited by James Rawlings Cover design by Maliha Mansoor  All rights reserved. No part of this publication may be reproduced, distr"
+      },
+      {
+        "page": 1,
+        "snippet": "Javeria Hasnain’s \nSIN\n is a chapbook fluent in the privilege of pleasure and mortality. Quick-footed and capacious, this chapbook circles questions of morbidity, morality and mortality like a shark. "
+      },
+      {
+        "page": 2,
+        "snippet": "Copyright © 2024 by Javeria Hasnain\nAuthor Photo by Stephanie Herrera\nEdited by James Rawlings\nCover design by Maliha Mansoor\nAll rights reserved. No part of this publication may be reproduced, distri"
+      },
+      {
+        "page": 4,
+        "snippet": "A local \nmoazzin \ncalls the faithful towards goodness as I step into the bathroom to masturbate. It’s (possibly) the holiest night of the holiest month, & I feel vulgar. Often, I am disgusted by how m"
+      },
+      {
+        "page": 10,
+        "snippet": "Javeria Hasnain is a poet, translator, and educator from Karachi. She is an MFA Poetry candidate and a Fulbright scholar at The New School. Her poems and prose have been published in several journals "
+      }
+    ],
+    "1": [
+      {
+        "page": 3,
+        "snippet": "I desire, but desire itself. I enjoy \n\nthe privilege of sitting\n\nby the window when it rains, \n\na lit Marlboro in hand, \n\nreading Ernaux or Milosz\n\nor Blake. I pick \n\nAmma’s call, tell her it is not \n"
+      },
+      {
+        "page": 5,
+        "snippet": "Like that day, \n\n when I remained still under you,\n\nwhen you tried to pin your smallness into me. \n\nI don’t know the you I am referring to. \n\nNevertheless, consider this an apology for being happy. Co"
+      },
+      {
+        "page": 7,
+        "snippet": "Mercy is a howl.\n\nMercy is how I\n\nbegan. A coyote cries\n\nin the botanical garden.\n\nThe animal’s limp \n\nglimpse reflecting my own\n\nfears. One of which:\n\nhunger. Each bone basking\n\nin the belly’s faint\n"
+      }
+    ]
+  },
+  "cluster_labels": {
+    "0": "Front Matter & Blurbs",
+    "1": "Desire, Mothers & Solitude"
+  }
+}

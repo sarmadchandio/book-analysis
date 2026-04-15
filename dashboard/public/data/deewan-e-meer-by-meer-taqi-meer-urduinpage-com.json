@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "deewan-e-meer-by-meer-taqi-meer-urduinpage-com",
+    "language": "ur",
     "total_pages": 342,
     "total_chars": 133754,
     "total_words": 25343,
@@ -4727,11 +4728,11 @@
   "tfidf": [
     {
       "word": "میر",
-      "score": 0.0566
+      "score": 0.0563
     },
     {
       "word": "دل",
-      "score": 0.0519
+      "score": 0.0517
     },
     {
       "word": "گیا",
@@ -4739,27 +4740,31 @@
     },
     {
       "word": "عشق",
-      "score": 0.0302
+      "score": 0.0299
     },
     {
       "word": "تک",
-      "score": 0.0277
+      "score": 0.0279
     },
     {
       "word": "جی",
-      "score": 0.0274
+      "score": 0.0275
     },
     {
       "word": "اب",
-      "score": 0.0259
+      "score": 0.026
     },
     {
       "word": "گئے",
-      "score": 0.0256
+      "score": 0.0254
     },
     {
       "word": "بے",
       "score": 0.0243
+    },
+    {
+      "word": "جس",
+      "score": 0.022
     },
     {
       "word": "کہیں",
@@ -4767,107 +4772,103 @@
     },
     {
       "word": "خاک",
-      "score": 0.0219
-    },
-    {
-      "word": "جس",
-      "score": 0.0219
+      "score": 0.0217
     },
     {
       "word": "شب",
-      "score": 0.0215
+      "score": 0.0214
     },
     {
       "word": "میرے",
-      "score": 0.0209
+      "score": 0.021
     },
     {
       "word": "یار",
-      "score": 0.0206
-    },
-    {
-      "word": "حال",
       "score": 0.0205
     },
     {
-      "word": "جائے",
-      "score": 0.0199
+      "word": "حال",
+      "score": 0.0204
     },
     {
       "word": "اے",
-      "score": 0.0197
+      "score": 0.0198
+    },
+    {
+      "word": "جائے",
+      "score": 0.0196
     },
     {
       "word": "کس",
       "score": 0.0195
     },
     {
+      "word": "طرح",
+      "score": 0.0194
+    },
+    {
       "word": "آگے",
-      "score": 0.0192
+      "score": 0.0193
     },
     {
       "word": "جہاں",
-      "score": 0.019
-    },
-    {
-      "word": "طرح",
-      "score": 0.019
+      "score": 0.0191
     },
     {
       "word": "غم",
-      "score": 0.0187
+      "score": 0.0188
     },
     {
       "word": "گل",
-      "score": 0.0187
+      "score": 0.0185
     },
     {
       "word": "آیا",
-      "score": 0.0181
+      "score": 0.0184
     },
     {
       "word": "ہوتا",
-      "score": 0.0178
+      "score": 0.0179
     },
     {
       "word": "جان",
-      "score": 0.0176
+      "score": 0.0175
     },
     {
       "word": "بات",
-      "score": 0.0173
-    },
-    {
-      "word": "مجھے",
-      "score": 0.0172
+      "score": 0.0174
     },
     {
       "word": "دن",
-      "score": 0.017
+      "score": 0.0172
+    },
+    {
+      "word": "مجھے",
+      "score": 0.0171
     },
     {
       "word": "کب",
-      "score": 0.0167
+      "score": 0.0168
     },
     {
       "word": "یہاں",
-      "score": 0.0164
+      "score": 0.0165
     },
     {
       "word": "مجھ",
-      "score": 0.016
-    },
-    {
-      "word": "تمام",
-      "score": 0.016
+      "score": 0.0162
     },
     {
       "word": "یاں",
-      "score": 0.0159
+      "score": 0.0161
+    },
+    {
+      "word": "تمام",
+      "score": 0.0161
     },
     {
       "word": "آج",
-      "score": 0.0157
+      "score": 0.0159
     },
     {
       "word": "گئی",
@@ -4878,11 +4879,11 @@
       "score": 0.0153
     },
     {
-      "word": "کام",
-      "score": 0.0152
+      "word": "لے",
+      "score": 0.0153
     },
     {
-      "word": "لے",
+      "word": "کام",
       "score": 0.0152
     },
     {
@@ -4890,36 +4891,40 @@
       "score": 0.0152
     },
     {
-      "word": "لگا",
-      "score": 0.0151
+      "word": "سر",
+      "score": 0.0149
     },
     {
-      "word": "سر",
-      "score": 0.0151
+      "word": "لگا",
+      "score": 0.0149
+    },
+    {
+      "word": "آخر",
+      "score": 0.0148
     },
     {
       "word": "ترے",
       "score": 0.0147
     },
     {
-      "word": "آخر",
-      "score": 0.0147
-    },
-    {
-      "word": "مرے",
-      "score": 0.0145
-    },
-    {
-      "word": "تجھ",
-      "score": 0.0145
-    },
-    {
       "word": "جگر",
+      "score": 0.0144
+    },
+    {
+      "word": "تلک",
+      "score": 0.0144
+    },
+    {
+      "word": "خدا",
       "score": 0.0143
     },
     {
       "word": "تیرے",
-      "score": 0.0142
+      "score": 0.0143
+    },
+    {
+      "word": "مرے",
+      "score": 0.0143
     }
   ],
   "search_index": {

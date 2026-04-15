@@ -73,8 +73,9 @@ const BATCH = 12;
 function bookCardHTML(b, _i) {
   const meta = getMeta(b.name);
   const words = b.total_words >= 1000 ? (b.total_words / 1000).toFixed(b.total_words >= 10000 ? 0 : 1) + 'k' : b.total_words;
+  const lang = b.language || 'ur';
   return `
-    <div class="book-card" data-slug="${b.name}" onclick="openBook('${b.name}')">
+    <div class="book-card" data-slug="${b.name}" data-lang="${lang}" onclick="openBook('${b.name}')">
       <div class="bc-accent"></div>
       <div class="bc-urdu urdu">${displayName(b.name)}</div>
       <div class="bc-author">${meta.author} · ${meta.category}</div>

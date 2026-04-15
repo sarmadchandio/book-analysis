@@ -1,0 +1,3286 @@
+{
+  "stats": {
+    "name": "hasnain-sin",
+    "language": "en",
+    "total_pages": 11,
+    "total_chars": 16532,
+    "total_words": 2911,
+    "unique_words": 1036,
+    "total_tokens": 1522,
+    "unique_tokens": 929,
+    "avg_words_per_page": 264.6,
+    "lexical_richness": 0.6104
+  },
+  "word_freq": [
+    {
+      "word": "god",
+      "count": 26
+    },
+    {
+      "word": "sin",
+      "count": 14
+    },
+    {
+      "word": "hasnain",
+      "count": 13
+    },
+    {
+      "word": "still",
+      "count": 13
+    },
+    {
+      "word": "body",
+      "count": 12
+    },
+    {
+      "word": "small",
+      "count": 10
+    },
+    {
+      "word": "poems",
+      "count": 9
+    },
+    {
+      "word": "poem",
+      "count": 9
+    },
+    {
+      "word": "want",
+      "count": 9
+    },
+    {
+      "word": "review",
+      "count": 8
+    },
+    {
+      "word": "its",
+      "count": 8
+    },
+    {
+      "word": "hands",
+      "count": 8
+    },
+    {
+      "word": "javeria",
+      "count": 7
+    },
+    {
+      "word": "desire",
+      "count": 7
+    },
+    {
+      "word": "sex",
+      "count": 7
+    },
+    {
+      "word": "love",
+      "count": 7
+    },
+    {
+      "word": "think",
+      "count": 7
+    },
+    {
+      "word": "face",
+      "count": 7
+    },
+    {
+      "word": "how",
+      "count": 7
+    },
+    {
+      "word": "author",
+      "count": 6
+    },
+    {
+      "word": "poet",
+      "count": 6
+    },
+    {
+      "word": "water",
+      "count": 6
+    },
+    {
+      "word": "even",
+      "count": 6
+    },
+    {
+      "word": "know",
+      "count": 6
+    },
+    {
+      "word": "write",
+      "count": 5
+    },
+    {
+      "word": "chapbook",
+      "count": 5
+    },
+    {
+      "word": "mercy",
+      "count": 5
+    },
+    {
+      "word": "wanted",
+      "count": 5
+    },
+    {
+      "word": "everything",
+      "count": 5
+    },
+    {
+      "word": "moon",
+      "count": 5
+    },
+    {
+      "word": "upon",
+      "count": 5
+    },
+    {
+      "word": "way",
+      "count": 5
+    },
+    {
+      "word": "dust",
+      "count": 5
+    },
+    {
+      "word": "made",
+      "count": 5
+    },
+    {
+      "word": "came",
+      "count": 5
+    },
+    {
+      "word": "dream",
+      "count": 5
+    },
+    {
+      "word": "copyright",
+      "count": 4
+    },
+    {
+      "word": "permission",
+      "count": 4
+    },
+    {
+      "word": "publisher",
+      "count": 4
+    },
+    {
+      "word": "chestnut",
+      "count": 4
+    },
+    {
+      "word": "privilege",
+      "count": 4
+    },
+    {
+      "word": "being",
+      "count": 4
+    },
+    {
+      "word": "woman",
+      "count": 4
+    },
+    {
+      "word": "desires",
+      "count": 4
+    },
+    {
+      "word": "asking",
+      "count": 4
+    },
+    {
+      "word": "morning",
+      "count": 4
+    },
+    {
+      "word": "call",
+      "count": 4
+    },
+    {
+      "word": "tell",
+      "count": 4
+    },
+    {
+      "word": "sleep",
+      "count": 4
+    },
+    {
+      "word": "see",
+      "count": 4
+    },
+    {
+      "word": "eve",
+      "count": 4
+    },
+    {
+      "word": "naked",
+      "count": 4
+    },
+    {
+      "word": "night",
+      "count": 4
+    },
+    {
+      "word": "often",
+      "count": 4
+    },
+    {
+      "word": "eyes",
+      "count": 4
+    },
+    {
+      "word": "mother",
+      "count": 4
+    },
+    {
+      "word": "never",
+      "count": 4
+    },
+    {
+      "word": "under",
+      "count": 4
+    },
+    {
+      "word": "two",
+      "count": 4
+    },
+    {
+      "word": "country",
+      "count": 4
+    },
+    {
+      "word": "young",
+      "count": 4
+    },
+    {
+      "word": "shower",
+      "count": 4
+    },
+    {
+      "word": "world",
+      "count": 4
+    },
+    {
+      "word": "james",
+      "count": 3
+    },
+    {
+      "word": "means",
+      "count": 3
+    },
+    {
+      "word": "including",
+      "count": 3
+    },
+    {
+      "word": "without",
+      "count": 3
+    },
+    {
+      "word": "new",
+      "count": 3
+    },
+    {
+      "word": "language",
+      "count": 3
+    },
+    {
+      "word": "yet",
+      "count": 3
+    },
+    {
+      "word": "back",
+      "count": 3
+    },
+    {
+      "word": "self",
+      "count": 3
+    },
+    {
+      "word": "moved",
+      "count": 3
+    },
+    {
+      "word": "shark",
+      "count": 3
+    },
+    {
+      "word": "tongue",
+      "count": 3
+    },
+    {
+      "word": "join",
+      "count": 3
+    },
+    {
+      "word": "hungry",
+      "count": 3
+    },
+    {
+      "word": "across",
+      "count": 3
+    },
+    {
+      "word": "time",
+      "count": 3
+    },
+    {
+      "word": "color",
+      "count": 3
+    },
+    {
+      "word": "green",
+      "count": 3
+    },
+    {
+      "word": "knew",
+      "count": 3
+    },
+    {
+      "word": "anything",
+      "count": 3
+    },
+    {
+      "word": "put",
+      "count": 3
+    },
+    {
+      "word": "make",
+      "count": 3
+    },
+    {
+      "word": "feet",
+      "count": 3
+    },
+    {
+      "word": "reading",
+      "count": 3
+    },
+    {
+      "word": "come",
+      "count": 3
+    },
+    {
+      "word": "first",
+      "count": 3
+    },
+    {
+      "word": "say",
+      "count": 3
+    },
+    {
+      "word": "kind",
+      "count": 3
+    },
+    {
+      "word": "why",
+      "count": 3
+    },
+    {
+      "word": "cloud",
+      "count": 3
+    },
+    {
+      "word": "human",
+      "count": 3
+    },
+    {
+      "word": "something",
+      "count": 3
+    },
+    {
+      "word": "whose",
+      "count": 3
+    },
+    {
+      "word": "perhaps",
+      "count": 3
+    },
+    {
+      "word": "hiding",
+      "count": 3
+    },
+    {
+      "word": "smallness",
+      "count": 3
+    },
+    {
+      "word": "consider",
+      "count": 3
+    }
+  ],
+  "page_stats": [
+    {
+      "page": 0,
+      "words": 272,
+      "tokens": 154
+    },
+    {
+      "page": 1,
+      "words": 192,
+      "tokens": 115
+    },
+    {
+      "page": 2,
+      "words": 321,
+      "tokens": 159
+    },
+    {
+      "page": 3,
+      "words": 221,
+      "tokens": 107
+    },
+    {
+      "page": 4,
+      "words": 326,
+      "tokens": 166
+    },
+    {
+      "page": 5,
+      "words": 322,
+      "tokens": 166
+    },
+    {
+      "page": 6,
+      "words": 316,
+      "tokens": 172
+    },
+    {
+      "page": 7,
+      "words": 322,
+      "tokens": 164
+    },
+    {
+      "page": 8,
+      "words": 233,
+      "tokens": 101
+    },
+    {
+      "page": 9,
+      "words": 277,
+      "tokens": 154
+    },
+    {
+      "page": 10,
+      "words": 109,
+      "tokens": 64
+    }
+  ],
+  "bigrams": [
+    {
+      "word1": "javeria",
+      "word2": "hasnain",
+      "count": 6
+    },
+    {
+      "word1": "chestnut",
+      "word2": "review",
+      "count": 4
+    },
+    {
+      "word1": "hasnain",
+      "word2": "sin",
+      "count": 3
+    },
+    {
+      "word1": "water",
+      "word2": "sin",
+      "count": 3
+    },
+    {
+      "word1": "two",
+      "word2": "hands",
+      "count": 3
+    },
+    {
+      "word1": "copyright",
+      "word2": "javeria",
+      "count": 2
+    },
+    {
+      "word1": "hasnain",
+      "word2": "author",
+      "count": 2
+    },
+    {
+      "word1": "author",
+      "word2": "photo",
+      "count": 2
+    },
+    {
+      "word1": "photo",
+      "word2": "stephanie",
+      "count": 2
+    },
+    {
+      "word1": "stephanie",
+      "word2": "herrera",
+      "count": 2
+    },
+    {
+      "word1": "herrera",
+      "word2": "edited",
+      "count": 2
+    },
+    {
+      "word1": "edited",
+      "word2": "james",
+      "count": 2
+    },
+    {
+      "word1": "james",
+      "word2": "rawlings",
+      "count": 2
+    },
+    {
+      "word1": "rawlings",
+      "word2": "cover",
+      "count": 2
+    },
+    {
+      "word1": "cover",
+      "word2": "design",
+      "count": 2
+    },
+    {
+      "word1": "design",
+      "word2": "maliha",
+      "count": 2
+    },
+    {
+      "word1": "maliha",
+      "word2": "mansoor",
+      "count": 2
+    },
+    {
+      "word1": "mansoor",
+      "word2": "rights",
+      "count": 2
+    },
+    {
+      "word1": "rights",
+      "word2": "reserved",
+      "count": 2
+    },
+    {
+      "word1": "reserved",
+      "word2": "part",
+      "count": 2
+    },
+    {
+      "word1": "part",
+      "word2": "publication",
+      "count": 2
+    },
+    {
+      "word1": "publication",
+      "word2": "may",
+      "count": 2
+    },
+    {
+      "word1": "may",
+      "word2": "reproduced",
+      "count": 2
+    },
+    {
+      "word1": "reproduced",
+      "word2": "distributed",
+      "count": 2
+    },
+    {
+      "word1": "distributed",
+      "word2": "transmitted",
+      "count": 2
+    },
+    {
+      "word1": "transmitted",
+      "word2": "form",
+      "count": 2
+    },
+    {
+      "word1": "form",
+      "word2": "means",
+      "count": 2
+    },
+    {
+      "word1": "means",
+      "word2": "including",
+      "count": 2
+    },
+    {
+      "word1": "including",
+      "word2": "photocopying",
+      "count": 2
+    },
+    {
+      "word1": "photocopying",
+      "word2": "recording",
+      "count": 2
+    },
+    {
+      "word1": "recording",
+      "word2": "electronic",
+      "count": 2
+    },
+    {
+      "word1": "electronic",
+      "word2": "mechanical",
+      "count": 2
+    },
+    {
+      "word1": "mechanical",
+      "word2": "methods",
+      "count": 2
+    },
+    {
+      "word1": "methods",
+      "word2": "without",
+      "count": 2
+    },
+    {
+      "word1": "without",
+      "word2": "prior",
+      "count": 2
+    },
+    {
+      "word1": "prior",
+      "word2": "written",
+      "count": 2
+    },
+    {
+      "word1": "written",
+      "word2": "permission",
+      "count": 2
+    },
+    {
+      "word1": "permission",
+      "word2": "publisher",
+      "count": 2
+    },
+    {
+      "word1": "publisher",
+      "word2": "except",
+      "count": 2
+    },
+    {
+      "word1": "except",
+      "word2": "case",
+      "count": 2
+    },
+    {
+      "word1": "case",
+      "word2": "brief",
+      "count": 2
+    },
+    {
+      "word1": "brief",
+      "word2": "quotations",
+      "count": 2
+    },
+    {
+      "word1": "quotations",
+      "word2": "embodied",
+      "count": 2
+    },
+    {
+      "word1": "embodied",
+      "word2": "critical",
+      "count": 2
+    },
+    {
+      "word1": "critical",
+      "word2": "reviews",
+      "count": 2
+    },
+    {
+      "word1": "reviews",
+      "word2": "certain",
+      "count": 2
+    },
+    {
+      "word1": "certain",
+      "word2": "noncommercial",
+      "count": 2
+    },
+    {
+      "word1": "noncommercial",
+      "word2": "uses",
+      "count": 2
+    },
+    {
+      "word1": "uses",
+      "word2": "permitted",
+      "count": 2
+    },
+    {
+      "word1": "permitted",
+      "word2": "copyright",
+      "count": 2
+    }
+  ],
+  "graph": {
+    "nodes": [
+      {
+        "id": "hasnain",
+        "label": "hasnain",
+        "frequency": 13
+      },
+      {
+        "id": "javeria",
+        "label": "javeria",
+        "frequency": 7
+      },
+      {
+        "id": "sin",
+        "label": "sin",
+        "frequency": 14
+      },
+      {
+        "id": "small",
+        "label": "small",
+        "frequency": 10
+      },
+      {
+        "id": "petal",
+        "label": "petal",
+        "frequency": 3
+      },
+      {
+        "id": "running",
+        "label": "running",
+        "frequency": 3
+      },
+      {
+        "id": "chestnut",
+        "label": "chestnut",
+        "frequency": 4
+      },
+      {
+        "id": "review",
+        "label": "review",
+        "frequency": 8
+      },
+      {
+        "id": "came",
+        "label": "came",
+        "frequency": 5
+      },
+      {
+        "id": "god",
+        "label": "god",
+        "frequency": 26
+      },
+      {
+        "id": "author",
+        "label": "author",
+        "frequency": 6
+      },
+      {
+        "id": "permission",
+        "label": "permission",
+        "frequency": 4
+      },
+      {
+        "id": "publisher",
+        "label": "publisher",
+        "frequency": 4
+      },
+      {
+        "id": "color",
+        "label": "color",
+        "frequency": 3
+      },
+      {
+        "id": "grass",
+        "label": "grass",
+        "frequency": 2
+      },
+      {
+        "id": "green",
+        "label": "green",
+        "frequency": 3
+      },
+      {
+        "id": "knew",
+        "label": "knew",
+        "frequency": 3
+      },
+      {
+        "id": "asking",
+        "label": "asking",
+        "frequency": 4
+      },
+      {
+        "id": "love",
+        "label": "love",
+        "frequency": 7
+      },
+      {
+        "id": "blue",
+        "label": "blue",
+        "frequency": 2
+      },
+      {
+        "id": "how",
+        "label": "how",
+        "frequency": 7
+      },
+      {
+        "id": "why",
+        "label": "why",
+        "frequency": 3
+      },
+      {
+        "id": "feet",
+        "label": "feet",
+        "frequency": 3
+      },
+      {
+        "id": "separation",
+        "label": "separation",
+        "frequency": 2
+      },
+      {
+        "id": "togetherness",
+        "label": "togetherness",
+        "frequency": 2
+      },
+      {
+        "id": "letters",
+        "label": "letters",
+        "frequency": 2
+      },
+      {
+        "id": "write",
+        "label": "write",
+        "frequency": 5
+      },
+      {
+        "id": "copyright",
+        "label": "copyright",
+        "frequency": 4
+      },
+      {
+        "id": "water",
+        "label": "water",
+        "frequency": 6
+      },
+      {
+        "id": "body",
+        "label": "body",
+        "frequency": 12
+      },
+      {
+        "id": "woman",
+        "label": "woman",
+        "frequency": 4
+      },
+      {
+        "id": "poet",
+        "label": "poet",
+        "frequency": 6
+      },
+      {
+        "id": "howl",
+        "label": "howl",
+        "frequency": 2
+      },
+      {
+        "id": "mercy",
+        "label": "mercy",
+        "frequency": 5
+      },
+      {
+        "id": "favorite",
+        "label": "favorite",
+        "frequency": 2
+      },
+      {
+        "id": "desires",
+        "label": "desires",
+        "frequency": 4
+      },
+      {
+        "id": "think",
+        "label": "think",
+        "frequency": 7
+      },
+      {
+        "id": "upon",
+        "label": "upon",
+        "frequency": 5
+      },
+      {
+        "id": "never",
+        "label": "never",
+        "frequency": 4
+      },
+      {
+        "id": "want",
+        "label": "want",
+        "frequency": 9
+      },
+      {
+        "id": "often",
+        "label": "often",
+        "frequency": 4
+      },
+      {
+        "id": "touched",
+        "label": "touched",
+        "frequency": 2
+      },
+      {
+        "id": "day",
+        "label": "day",
+        "frequency": 2
+      },
+      {
+        "id": "still",
+        "label": "still",
+        "frequency": 13
+      },
+      {
+        "id": "apology",
+        "label": "apology",
+        "frequency": 3
+      },
+      {
+        "id": "consider",
+        "label": "consider",
+        "frequency": 3
+      },
+      {
+        "id": "happy",
+        "label": "happy",
+        "frequency": 3
+      },
+      {
+        "id": "hands",
+        "label": "hands",
+        "frequency": 8
+      },
+      {
+        "id": "two",
+        "label": "two",
+        "frequency": 4
+      },
+      {
+        "id": "smallness",
+        "label": "smallness",
+        "frequency": 3
+      },
+      {
+        "id": "create",
+        "label": "create",
+        "frequency": 2
+      },
+      {
+        "id": "full",
+        "label": "full",
+        "frequency": 2
+      },
+      {
+        "id": "bird",
+        "label": "bird",
+        "frequency": 1
+      },
+      {
+        "id": "heart",
+        "label": "heart",
+        "frequency": 2
+      },
+      {
+        "id": "flutters",
+        "label": "flutters",
+        "frequency": 1
+      },
+      {
+        "id": "shower",
+        "label": "shower",
+        "frequency": 4
+      },
+      {
+        "id": "garden",
+        "label": "garden",
+        "frequency": 2
+      },
+      {
+        "id": "wilt",
+        "label": "wilt",
+        "frequency": 1
+      },
+      {
+        "id": "meanwhile",
+        "label": "meanwhile",
+        "frequency": 3
+      },
+      {
+        "id": "contending",
+        "label": "contending",
+        "frequency": 2
+      },
+      {
+        "id": "gone",
+        "label": "gone",
+        "frequency": 3
+      },
+      {
+        "id": "dream",
+        "label": "dream",
+        "frequency": 5
+      },
+      {
+        "id": "know",
+        "label": "know",
+        "frequency": 6
+      },
+      {
+        "id": "morning",
+        "label": "morning",
+        "frequency": 4
+      },
+      {
+        "id": "world",
+        "label": "world",
+        "frequency": 4
+      },
+      {
+        "id": "photo",
+        "label": "photo",
+        "frequency": 2
+      },
+      {
+        "id": "stephanie",
+        "label": "stephanie",
+        "frequency": 2
+      },
+      {
+        "id": "herrera",
+        "label": "herrera",
+        "frequency": 2
+      },
+      {
+        "id": "edited",
+        "label": "edited",
+        "frequency": 2
+      },
+      {
+        "id": "james",
+        "label": "james",
+        "frequency": 3
+      }
+    ],
+    "edges": [
+      {
+        "from": "hasnain",
+        "to": "javeria",
+        "weight": 8
+      },
+      {
+        "from": "hasnain",
+        "to": "sin",
+        "weight": 6
+      },
+      {
+        "from": "small",
+        "to": "small",
+        "weight": 6
+      },
+      {
+        "from": "petal",
+        "to": "running",
+        "weight": 6
+      },
+      {
+        "from": "chestnut",
+        "to": "review",
+        "weight": 5
+      },
+      {
+        "from": "came",
+        "to": "god",
+        "weight": 5
+      },
+      {
+        "from": "author",
+        "to": "javeria",
+        "weight": 4
+      },
+      {
+        "from": "author",
+        "to": "hasnain",
+        "weight": 4
+      },
+      {
+        "from": "permission",
+        "to": "publisher",
+        "weight": 4
+      },
+      {
+        "from": "color",
+        "to": "grass",
+        "weight": 4
+      },
+      {
+        "from": "color",
+        "to": "green",
+        "weight": 4
+      },
+      {
+        "from": "color",
+        "to": "knew",
+        "weight": 4
+      },
+      {
+        "from": "asking",
+        "to": "love",
+        "weight": 4
+      },
+      {
+        "from": "blue",
+        "to": "how",
+        "weight": 4
+      },
+      {
+        "from": "small",
+        "to": "why",
+        "weight": 4
+      },
+      {
+        "from": "feet",
+        "to": "small",
+        "weight": 4
+      },
+      {
+        "from": "god",
+        "to": "god",
+        "weight": 4
+      },
+      {
+        "from": "separation",
+        "to": "togetherness",
+        "weight": 4
+      },
+      {
+        "from": "letters",
+        "to": "write",
+        "weight": 4
+      },
+      {
+        "from": "copyright",
+        "to": "hasnain",
+        "weight": 3
+      },
+      {
+        "from": "javeria",
+        "to": "sin",
+        "weight": 3
+      },
+      {
+        "from": "sin",
+        "to": "water",
+        "weight": 3
+      },
+      {
+        "from": "body",
+        "to": "woman",
+        "weight": 3
+      },
+      {
+        "from": "hasnain",
+        "to": "poet",
+        "weight": 3
+      },
+      {
+        "from": "howl",
+        "to": "mercy",
+        "weight": 3
+      },
+      {
+        "from": "grass",
+        "to": "green",
+        "weight": 3
+      },
+      {
+        "from": "grass",
+        "to": "knew",
+        "weight": 3
+      },
+      {
+        "from": "favorite",
+        "to": "grass",
+        "weight": 3
+      },
+      {
+        "from": "green",
+        "to": "knew",
+        "weight": 3
+      },
+      {
+        "from": "favorite",
+        "to": "green",
+        "weight": 3
+      },
+      {
+        "from": "favorite",
+        "to": "knew",
+        "weight": 3
+      },
+      {
+        "from": "desires",
+        "to": "love",
+        "weight": 3
+      },
+      {
+        "from": "god",
+        "to": "think",
+        "weight": 3
+      },
+      {
+        "from": "god",
+        "to": "upon",
+        "weight": 3
+      },
+      {
+        "from": "never",
+        "to": "want",
+        "weight": 3
+      },
+      {
+        "from": "body",
+        "to": "sin",
+        "weight": 3
+      },
+      {
+        "from": "often",
+        "to": "touched",
+        "weight": 3
+      },
+      {
+        "from": "day",
+        "to": "still",
+        "weight": 3
+      },
+      {
+        "from": "apology",
+        "to": "consider",
+        "weight": 3
+      },
+      {
+        "from": "consider",
+        "to": "happy",
+        "weight": 3
+      },
+      {
+        "from": "hands",
+        "to": "two",
+        "weight": 3
+      },
+      {
+        "from": "hands",
+        "to": "still",
+        "weight": 3
+      },
+      {
+        "from": "sin",
+        "to": "smallness",
+        "weight": 3
+      },
+      {
+        "from": "create",
+        "to": "god",
+        "weight": 3
+      },
+      {
+        "from": "full",
+        "to": "small",
+        "weight": 3
+      },
+      {
+        "from": "hands",
+        "to": "small",
+        "weight": 3
+      },
+      {
+        "from": "bird",
+        "to": "small",
+        "weight": 3
+      },
+      {
+        "from": "heart",
+        "to": "small",
+        "weight": 3
+      },
+      {
+        "from": "flutters",
+        "to": "small",
+        "weight": 3
+      },
+      {
+        "from": "god",
+        "to": "shower",
+        "weight": 3
+      },
+      {
+        "from": "god",
+        "to": "never",
+        "weight": 3
+      },
+      {
+        "from": "garden",
+        "to": "petal",
+        "weight": 3
+      },
+      {
+        "from": "petal",
+        "to": "wilt",
+        "weight": 3
+      },
+      {
+        "from": "petal",
+        "to": "petal",
+        "weight": 3
+      },
+      {
+        "from": "meanwhile",
+        "to": "petal",
+        "weight": 3
+      },
+      {
+        "from": "meanwhile",
+        "to": "running",
+        "weight": 3
+      },
+      {
+        "from": "running",
+        "to": "running",
+        "weight": 3
+      },
+      {
+        "from": "contending",
+        "to": "running",
+        "weight": 3
+      },
+      {
+        "from": "gone",
+        "to": "running",
+        "weight": 3
+      },
+      {
+        "from": "dream",
+        "to": "know",
+        "weight": 3
+      },
+      {
+        "from": "morning",
+        "to": "world",
+        "weight": 3
+      },
+      {
+        "from": "copyright",
+        "to": "javeria",
+        "weight": 2
+      },
+      {
+        "from": "author",
+        "to": "copyright",
+        "weight": 2
+      },
+      {
+        "from": "copyright",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "javeria",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "javeria",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "hasnain",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "hasnain",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "hasnain",
+        "to": "herrera",
+        "weight": 2
+      },
+      {
+        "from": "author",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "author",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "author",
+        "to": "herrera",
+        "weight": 2
+      },
+      {
+        "from": "author",
+        "to": "edited",
+        "weight": 2
+      },
+      {
+        "from": "photo",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "herrera",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "edited",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "james",
+        "to": "photo",
+        "weight": 2
+      },
+      {
+        "from": "herrera",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "edited",
+        "to": "stephanie",
+        "weight": 2
+      },
+      {
+        "from": "james",
+        "to": "stephanie",
+        "weight": 2
+      }
+    ]
+  },
+  "search_pages": [
+    {
+      "page_num": 0,
+      "text": "Copyright © 2024 by Javeria Hasnain Author Photo by Stephanie Herrera Edited by James Rawlings Cover design by Maliha Mansoor  All rights reserved. No part of this publication may be reproduced, distributed or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the publisher at the web address below.  Chestnut Review Ithaca, New York https://chestnutreview.com\n\nPraise for Javeria Hasnain’s \nSin\n\nEvery one of Hasnain’s poems is a revelation. There is an immediacy in this collection; the language dynamic yet deeply rooted in landscapes which map the sacred necessities of desire. With each poem, Hasnain peels back the self in different registers. The lyric becomes a medium for the poet’s longing–for homeland, the Beloved, for the poem itself. As she writes in “Water is a Sin,” Hasnain’s work explores “the privilege of being a woman,/ of housing a body desirable to touch.” I am moved by each poem’s quiet refusal to be still. The lines move as the poet’s mind does–breathless and inexplicable. Hasnain is a wonder, and this is a beautiful, prismatic debut. \n\n—J. Mae Barizo, author of \ntender machines\n\n Tendered in the narratives planted throughout this book is the iconography of the body and its desires. We are not spared the disdain, the erotic, the grief, and the strains placed on language.\n\n—Adedayo Agarau, Stegner Fellow, author of \nThe Arrival of Rain",
+      "image_path": null
+    },
+    {
+      "page_num": 1,
+      "text": "Javeria Hasnain’s \nSIN\n is a chapbook fluent in the privilege of pleasure and mortality. Quick-footed and capacious, this chapbook circles questions of morbidity, morality and mortality like a shark. Decadently tongue-in-cheek, luxuriously voracious and covetously intelligent, these poems stand up and join the ranks of other dark surrealists’ like Alejandra Pizarnik, Sylvia Plath and Remedios Varo. Embalmed in a shadowy Islamic ennui, Hasnain has created an exegesis of sex and faith so empowering, angels might cower before it. Here we find sex as a speculative sport, “mercy [as] a howl” and sin as a fact of size. A genius in comparison with a stunning ability to move between cosmic and ordinary language, Hasnain has revealed herself to be a poet unafraid of any hungry horror, vibrant vitrol, or Dionysian damnation. Coyotes, countries and carnal desire alike flit across these pages like bats, imbued with an ancient apathy, poised to grow and loom over us in their gargantuan glory. Impeccable audacity and timeless daring. I’m in awe.\n\n—Sanna Wani, author of \nMy Grief, The Sun\n\nin memory of my father, Shamshad Hasnain\n\nSIN\n\nJaveria Hasnain\n\nChestnut Review Chapbooks",
+      "image_path": null
+    },
+    {
+      "page_num": 2,
+      "text": "Copyright © 2024 by Javeria Hasnain\nAuthor Photo by Stephanie Herrera\nEdited by James Rawlings\nCover design by Maliha Mansoor\nAll rights reserved. No part of this publication may be reproduced, distributed or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the publisher at the web address below.\nChestnut Review\nIthaca, New York\nhttps://chestnutreview.com\n\nEvery time I write \nI\n, I am trying to get back to you.”­\n—Claire Schwartz, CIVIL SERVICE\n\nTHE POETS \n\nThere was a time I wanted to color everything grass-green. Knew my favorite color was grass-green before I knew the color, or what favorite meant. Anything that I can put in my palm belongs in this poem. But I do not wish to make this poem concrete. I want it to lay my feet off the ground. Want it to climb into elliptical smoke. Make everything translucent. Listen, love is not what I am asking for. Love is what I am asking with. All my desires are small & unachievable. I think of myself as the person who, if I had the moon, would still think it’s majestic. I do not value distance. You are nearer to me than my jugular vein and I still love you. I am riddling my poems with lies. I am swearing on the Quran, the most poem of all poems. I am using its metaphors like a greedy traitor. Allah is excellent at internal rhymes. I just wish he taught me that. For the sake of truth, listen. It was the morning that broke me, not you.\n\nWATER IS A SIN \n\nIt is not the cigarettes\n\nI am addicted to, but the smoke. \n\nIt is not the sex",
+      "image_path": null
+    },
+    {
+      "page_num": 3,
+      "text": "I desire, but desire itself. I enjoy \n\nthe privilege of sitting\n\nby the window when it rains, \n\na lit Marlboro in hand, \n\nreading Ernaux or Milosz\n\nor Blake. I pick \n\nAmma’s call, tell her it is not \n\nthe cigarettes I am addicted\n\nto. Tonight, I will cum to sleep\n\nbecause I cannot cry. \n\nOr I will call someone to help\n\nme come to sleep\n\nwhile news upon news of \n\nPakistan flooding floods\n\nmy timeline. I enjoy \n\nthe privilege of being a woman, \n\nof housing a body desirable to touch.\n\nWherever I begin, \n\nI finish here: at the altar of my own\n\nsex. Back home, \n\nwater waters everything in sight. \n\nHere, I rehearse anew for\n\na man I am about to see for the first time:\n\nI am so wet, baby. \n\nFlood me, I say. Flood me everywhere. \n\nSEX IS A SIN\n\nI want to begin like Eve, \n\nnaked in Paradise.\n\nInstead, I am at your feet,\n\nhoping to feel my own\n\nkind of rhythm. Sometimes, \n\nI wonder what it is\n\nlike to let someone love me. \n\nBesides, this body, \n\nclothed & cringe—comes \n\nsquirming beneath\n\nyou & I forget what my arms\n\nare doing, why my \n\nlips are the way they are, \n\nwhere my face is. \n\nGoddamn it, where did I put\n\nmy fucking face?\n\nCLOUD IN THE SHAPE OF A HUMAN",
+      "image_path": null
+    },
+    {
+      "page_num": 4,
+      "text": "A local \nmoazzin \ncalls the faithful towards goodness as I step into the bathroom to masturbate. It’s (possibly) the holiest night of the holiest month, & I feel vulgar. Often, I am disgusted by how much I think of god. How his blue-eyes will drown my sorrow. How his many-hands will cup my liquid body. His animal-wit will testify it was alright to not give up my small transgressions. I dislike thinking all this, especially among the moans & the \noh yes!\ns & the \nfuck it, bastard\ns & the croaking voices & the creaking beds & the wet grunts & the thumping of one softness into another—a blue wave pounding a rock. Oh! How I want to forget everything then, close my eyes & not have your face greet me with delight or even your soft flesh transforming into something tenderer—just a vast blueness of the sky, & I floating as if a cloud—an innocent child underneath calling her mama, \nlook, mama, this one looks like me \n\nHAGAR’S COMPLAINT\n\nI wake up with You, no \n\nmatter whose bed I occupy\n\nduring the night. I mistake\n\nYou for a version of myself I\n\nendure: call you \nmother\n in that\n\nmoth-like shade of morning. \n\nPerhaps this is animalistic; \n\nperhaps it is no measure \n\nof me. Either way, I have\n\nwanted to be the son, the\n\nhusband, the father, god. \n\nCoveted to be the one called \n\nupon to sharpen the blade,\n\nthe one whose body is\n\nfresh for hunger, one \n\nwho awaits his dialogue \n\nof mercy. I could just be\n\nthe devil who stops my \n\nhusband in his tracks, my\n\nlittle one hiding his face \n\nsheepishly. I can mother\n\nbetter than You: never\n\nwant to surpass life.\n\nNever want proof of faith. \n\nBODY IS A SIN\n\nThe sin is existing. \n\nWhen his half-paralyzed limbs moved across his eyes, I touched him by not looking. \n\nI am so often touched. So often moved. And yet remain still.",
+      "image_path": null
+    },
+    {
+      "page_num": 5,
+      "text": "Like that day, \n\n when I remained still under you,\n\nwhen you tried to pin your smallness into me. \n\nI don’t know the you I am referring to. \n\nNevertheless, consider this an apology for being happy. Consider this an empty hand stretching out at you wanting to remain\n\nempty. \n\nIt is not desire I desire most often, but pain. Consider this an apology for trying to be happy. \n\nStill, at the end of every day, I am only left with my two hands. Siken’s river is gone, as is Limon’s moon. \n\nThe only voice remaining\n\n is of the stomach growling,\n\nasking for two hands to prepare something satiable. \n\nStill, sinful—these two hands, cupped in prayers the only way \n\nthey know how to: \n\ncarrying the heart, naked & bruised, asking it to be blackened onto light. \n\nGHAZAL IN WHICH I CONFRONT GOD\n\n“contractors scaffolders join us to raise the dust”\n\ni call upon the heaven, “god, send down Eve & daze the dust”\n\ni am made of such disaster, such unholy desire\n\nlast night, i wept with a frenzy that crazed the dust\n\ni haven’t thought of death any more than i have thought of the dead\n\nin amrika, i am so absent, to not even trace the dust\n\nbeloveds, join me in celebrating desecration\n\ntogether, we will broil the blood, braise the dust\n\nour bodies, ravenous, unearthing each other\n\nJaveria, don’t hide from the pus, face disgust\n\nSMALLNESS IS A SIN \n\nDid god create\n\nEve small? Her half-rib cage\n\nfull. Why me? \n\nWhy me? \n\nWhat to do with small hands, \n\nsmall feet?\n\nSmall bird, \n\nyour small heart \n\nflutters \n\nacross the \n\nsmall \n\nsky,\n\nso spaciously. \n\nNO COUNTRY FOR YOUNG WOMEN\n\nLately, my poems are \n\nbecoming smaller. \n\nMy country, my\n\nbody. As if curling\n\ninto itself. A little \n\ntoo early for that.\n\nI am still young,\n\n& I haven’t been\n\nto Amrika yet. \n\nIn Amrika, \n\neverything is \n\na poem. Walking",
+      "image_path": null
+    },
+    {
+      "page_num": 6,
+      "text": "into grocery stores,\n\nkissing boys\n\non the subway, \n\na kind stranger\n\noffering me her\n\nlast sandwich\n\ncoupon. I would\n\nlike to document\n\nall of that. Yellow\n\ncurtains, my full-\n\nlength mirror—\n\nmy small body \n\nreflecting naked.\n\nAlthough, a woman\n\nremains a woman\n\neverywhere. No \n\nmatter the country\n\nor a lover. Eve wasn’t\n\nArab or American\n\nor Asian. She was \n\nsimply hungry,\n\n& punished for it. \n\nSELF-PORTRAIT AS A GOD IN THE SHOWER\n\nOne need not even\n\nsay anything. I am\n\nashamed already.\n\nOf my sex, of its \n\nsexlessness. My \n\nprofessor says \n\nthere is something\n\nsacred about tercets. \n\nI want to put my sex\n\nhere. In this sacrilege. \n\nIt feels unnecessary. \n\nBut I am only human, \n\nwith cardinal desires, \n\neros, a love of god. \n\nI want to cup god \n\nin my palms. Squeeze\n\nthem together until\n\nmercy. In the shower, \n\nI step over my fallen \n\nMedusa-hair squirming\n\non the floor. And just \n\nas coolly, watch them\n\nflow down the drain. \n\nTANGERINES\n\nFrom god, we came.\n Whenever I come, \n\nI think of god. Not in that godforsaken way,\n\nmore in that look what you made me do way.\n\nIt’s true. I’m Taylor Swift for god. I create\n\nmusic for which god never gives me credit. \n\nTo god we shall return. What is a turtle \n\nwithout its shell? Free. More dexterous. \n\nGod created me a left-handed in a muslim \n\ncunt-ry. It takes two to tango. Last winter,\n\nwe ate tangerines under the soothing gold.\n\nThe citrus made my tongue rub the roof\n\nof my mouth. Or your mouth. Some times,\n\nI can’t even tell the difference. We spat\n\nits seeds upon the sharp green blades, \n\nmade promises one can only make young. \n\nMeanwhile, god hovered like a dragonfly,\n\nswore upon the figs and the olives as if \n\nthey are staples. Meanwhile, I mourned\n\ngod’s dead & ate the cheapest, damned fruit.\n\nCONCUPISCENCE",
+      "image_path": null
+    },
+    {
+      "page_num": 7,
+      "text": "Mercy is a howl.\n\nMercy is how I\n\nbegan. A coyote cries\n\nin the botanical garden.\n\nThe animal’s limp \n\nglimpse reflecting my own\n\nfears. One of which:\n\nhunger. Each bone basking\n\nin the belly’s faint\n\ngrowl—heavenly in its fervor. \n\nI think of Hawwa’s spine, \n\nthe economy of her rib cage. \n\nI think of you, the First Man\n\nto walk my regolith body. \n\nUnder whose eyes I separate\n\nall my desires: spiritual from\n\ncardinal, moral from sinful.\n\nYou saw my body dewy, \n\nsticky with pulp. That perfect \n\nthing near, within a naked arm’s \n\nreach. I crawl towards you, \n\nsnake-like—my glistening skin \n\nwaning, uncovering another, \n\njust as hallowed. \n\nSILENCE\n\nWe still dream continents apart, with not a waterbody \n\n in between. Still, I dreamt you\n\na shark. Grayscale and soundless. I was afraid, \n\n of course, as usual. Not of death\n\nor that you’ll be the one to kill me. We both\n\n saw that coming, didn’t we? \n\nAnd still dove, hands-held, into the glistening,\n\n algae-rotten lake of sleep. \n\nYou, the shark, behind a glass cage in a mega\n\n aquarium. Jelly replacing \n\nwater—cheaper and available. Of course, \n\n I couldn’t tell you what \n\nI wanted, or you would know and leave. \n\n Or, stay—soundless still. \n\nOf course, you couldn’t speak, or \n\nI would know when to wake up. \n\nI ONLY CAME TO SEE GOD\n\non the altar. When all the guests had left, \n\n& the smell of tuna had wafted far off into the ocean \n\nfrom where it came. No one truly knows.\n\nI waited for you, even though I knew you wouldn’t come. \n\nCan I ever escape being my mother’s daughter? \n\nHiding behind her red & gold dupatta, small & timid.\n\nThere is a light that blinds me,\n\nbut which I long to pursue. \n\nI circumlocute, hyperventilate. Actions which can \n\notherwise only be explained as concepts. \n\nGod as taut, as tautology. God as a",
+      "image_path": null
+    },
+    {
+      "page_num": 8,
+      "text": "tightening around my tongue. \n\nMy hips contracting, closing\n\nan entryway. God as apology afterwards. \n\nEach of us pining for Pleasure:\n\nthe oldest pre-Olympian sport in any book. \n\nGod as its trigger-puller, whistle-blower,\n\nwatching his rose garden wilt, petal \n\nby petal by petal. Meanwhile, all\n\nof us running & running & running &\n\nCONTENDING WITH \nYOU\n AFTER YOU ARE GONE\n\nAgain, you came\n\nto me in a dream. Again, you asked\n\nme to take off all my clothes. \n\nI don’t know what’s better: to dream of you \n\n or not. I don’t know what’s painful:\n\nto want separation in togetherness, or togetherness\n\n in separation. I will never be happy \n\n or that is what I think for now. \n\nMy mother says I’m hungry \n\n after you. I can’t tell if she had wanted to \n\nsay for or if she really means my appetite comes\n\nsecondary. Although, I am \n\nlessening even further: reading essays on heartbreak & anti-\n\n love poems, despising the moon in all its shapes. \n\nDo you remember how much I despised heartbreak\n\npoems? As if it is all there is to the world. It is all there is\n\nto the world. Again, A. sent me an Aubade this morning. \n\nI’ll be honest with you, my only worry was you.\n\nAnd anyway, if I wanted to write letters, I would write some fucking\n\nletters. \n\nIn a dream groping for god\n1",
+      "image_path": null
+    },
+    {
+      "page_num": 9,
+      "text": "Golden hands in a shower moving horizontally—air crisp in yesterday’s moonlight. I will spend my entire life resisting the shadow of your face & your breath will still haunt me—cold on a June morning, since events like these will exist in our world. Our world, now so quiet, eerie—like watching an entire city atop on a worm moon night. Coyotes hiding behind a black bush. Perhaps, mutual fear is a kind of love too. & angels can be sent anywhere. One need only to stop insisting on their wings.\n2\n Most times, I only believe some things are real because I fear them. Tonight, when you sleep, remember you are able to dream anything into existence—your lover’s hands on your tulipped face; the sun facing the moon, rendering us moonless; stars shining like foam in water, over which god prepares for a deep, deep dive. \n\n1 \nPhrase from Lubna Safi’s poem, “Shot and Buried with Lorca”\n2 \nLine from Lucille Clifton’s poem, “Unless you Insist on Wings”\n\nAcknowledgements\n\nGrateful acknowledgements are made to the editors and readers of the journals and magazines where some of these poems first appeared, sometimes under different titles or in earlier versions: \n\n“Silence” and “Contending with You After You are Gone, ” AAWW’s \nThe Margins\n\n“Body is a sin,” \nAbandon Journal\n\n“Smallness is a sin,” \nAfterpast Review\n\n“Cloud in the Shape of a Human” and “Tangerines,” \nbeestung\n\n“Water is a Sin” and “Ghazal in Which I Confront God,” \nPleiades\n\n“No Country for Young Women,” \nPoet Lore\n\n“The Poets” and “Self-portrait as a god in the shower,” \nThin Air\n\n“I Only Came to See God,” \nGASHER\n\nAbout the Author",
+      "image_path": null
+    },
+    {
+      "page_num": 10,
+      "text": "Javeria Hasnain is a poet, translator, and educator from Karachi. She is an MFA Poetry candidate and a Fulbright scholar at The New School. Her poems and prose have been published in several journals and anthologies, including \nPleiades, Poet Lore, Mascara Literary Review, The Brazenhead Review,\n and \nIsele\n, and nominated for Best of the Net and Best Microfiction. She has worked with Cave Canem Foundation, Teachers & Writers Collaborative, Tupelo Press, and Alice James Books. \nSIN\n is her debut poetry chapbook.\n\nTHANK YOU FOR READING!\n\nIf you enjoyed this chapbook, \nplease leave a review at the link \nhere\n.\nYou can see all our Chestnut Review Chapbook titles \non our \nwebpage\n.",
+      "image_path": null
+    }
+  ],
+  "tfidf": [
+    {
+      "word": "god",
+      "score": 0.1192
+    },
+    {
+      "word": "hasnain",
+      "score": 0.0889
+    },
+    {
+      "word": "sin",
+      "score": 0.0624
+    },
+    {
+      "word": "still",
+      "score": 0.0578
+    },
+    {
+      "word": "review",
+      "score": 0.0566
+    },
+    {
+      "word": "chapbook",
+      "score": 0.0557
+    },
+    {
+      "word": "body",
+      "score": 0.0528
+    },
+    {
+      "word": "poem",
+      "score": 0.0505
+    },
+    {
+      "word": "want",
+      "score": 0.0468
+    },
+    {
+      "word": "sex",
+      "score": 0.0456
+    },
+    {
+      "word": "small",
+      "score": 0.0453
+    },
+    {
+      "word": "poet",
+      "score": 0.0444
+    },
+    {
+      "word": "poems",
+      "score": 0.0433
+    },
+    {
+      "word": "javeria",
+      "score": 0.0422
+    },
+    {
+      "word": "hands",
+      "score": 0.0422
+    },
+    {
+      "word": "face",
+      "score": 0.042
+    },
+    {
+      "word": "its",
+      "score": 0.0418
+    },
+    {
+      "word": "desire",
+      "score": 0.0417
+    },
+    {
+      "word": "how",
+      "score": 0.0397
+    },
+    {
+      "word": "know",
+      "score": 0.0383
+    },
+    {
+      "word": "love",
+      "score": 0.0371
+    },
+    {
+      "word": "author",
+      "score": 0.0368
+    },
+    {
+      "word": "think",
+      "score": 0.0361
+    },
+    {
+      "word": "dream",
+      "score": 0.0355
+    },
+    {
+      "word": "dust",
+      "score": 0.0347
+    },
+    {
+      "word": "write",
+      "score": 0.0334
+    },
+    {
+      "word": "water",
+      "score": 0.0327
+    },
+    {
+      "word": "world",
+      "score": 0.0322
+    },
+    {
+      "word": "privilege",
+      "score": 0.031
+    },
+    {
+      "word": "mercy",
+      "score": 0.0305
+    },
+    {
+      "word": "even",
+      "score": 0.0301
+    },
+    {
+      "word": "wanted",
+      "score": 0.0301
+    },
+    {
+      "word": "made",
+      "score": 0.0298
+    },
+    {
+      "word": "came",
+      "score": 0.0297
+    },
+    {
+      "word": "petal",
+      "score": 0.0295
+    },
+    {
+      "word": "running",
+      "score": 0.0295
+    },
+    {
+      "word": "sleep",
+      "score": 0.029
+    },
+    {
+      "word": "eyes",
+      "score": 0.029
+    },
+    {
+      "word": "shower",
+      "score": 0.0289
+    },
+    {
+      "word": "moon",
+      "score": 0.0287
+    },
+    {
+      "word": "copyright",
+      "score": 0.0286
+    },
+    {
+      "word": "permission",
+      "score": 0.0286
+    },
+    {
+      "word": "publisher",
+      "score": 0.0286
+    },
+    {
+      "word": "chestnut",
+      "score": 0.0284
+    },
+    {
+      "word": "see",
+      "score": 0.0283
+    },
+    {
+      "word": "everything",
+      "score": 0.0281
+    },
+    {
+      "word": "best",
+      "score": 0.028
+    },
+    {
+      "word": "poetry",
+      "score": 0.028
+    },
+    {
+      "word": "upon",
+      "score": 0.0279
+    },
+    {
+      "word": "way",
+      "score": 0.0279
+    }
+  ],
+  "search_index": {
+    "ur": {
+      "idf": {},
+      "pages": []
+    },
+    "en": {
+      "idf": {
+        "aaww": 2.7918,
+        "abandon": 2.7918,
+        "ability": 2.7918,
+        "able": 2.7918,
+        "absent": 2.7918,
+        "acknowledgements": 2.7918,
+        "across": 2.0986,
+        "actions": 2.7918,
+        "addicted": 2.3863,
+        "address": 2.3863,
+        "adedayo": 2.7918,
+        "afraid": 2.7918,
+        "afterpast": 2.7918,
+        "afterwards": 2.7918,
+        "agarau": 2.7918,
+        "air": 2.7918,
+        "alejandra": 2.7918,
+        "algae": 2.7918,
+        "alice": 2.7918,
+        "alike": 2.7918,
+        "allah": 2.7918,
+        "already": 2.7918,
+        "alright": 2.7918,
+        "altar": 2.3863,
+        "although": 2.3863,
+        "american": 2.7918,
+        "amma": 2.7918,
+        "among": 2.7918,
+        "amrika": 2.7918,
+        "ancient": 2.7918,
+        "anew": 2.7918,
+        "angels": 2.3863,
+        "animal": 2.3863,
+        "animalistic": 2.7918,
+        "another": 2.3863,
+        "anthologies": 2.7918,
+        "anti": 2.7918,
+        "anything": 2.0986,
+        "anyway": 2.7918,
+        "anywhere": 2.7918,
+        "apart": 2.7918,
+        "apathy": 2.7918,
+        "apology": 2.3863,
+        "appeared": 2.7918,
+        "appetite": 2.7918,
+        "aquarium": 2.7918,
+        "arab": 2.7918,
+        "arm": 2.7918,
+        "arms": 2.7918,
+        "around": 2.7918,
+        "arrival": 2.7918,
+        "ashamed": 2.7918,
+        "asian": 2.7918,
+        "asked": 2.7918,
+        "asking": 2.3863,
+        "ate": 2.7918,
+        "atop": 2.7918,
+        "aubade": 2.7918,
+        "audacity": 2.7918,
+        "author": 1.8755,
+        "available": 2.7918,
+        "awaits": 2.7918,
+        "awe": 2.7918,
+        "baby": 2.7918,
+        "back": 2.0986,
+        "barizo": 2.7918,
+        "basking": 2.7918,
+        "bastard": 2.7918,
+        "bathroom": 2.7918,
+        "bats": 2.7918,
+        "beautiful": 2.7918,
+        "becomes": 2.7918,
+        "becoming": 2.7918,
+        "bed": 2.7918,
+        "beds": 2.7918,
+        "beestung": 2.7918,
+        "began": 2.7918,
+        "begin": 2.7918,
+        "behind": 2.3863,
+        "being": 1.8755,
+        "believe": 2.7918,
+        "belly": 2.7918,
+        "belongs": 2.7918,
+        "beloved": 2.7918,
+        "beloveds": 2.7918,
+        "below": 2.3863,
+        "beneath": 2.7918,
+        "besides": 2.7918,
+        "best": 2.7918,
+        "better": 2.3863,
+        "between": 2.3863,
+        "bird": 2.7918,
+        "black": 2.7918,
+        "blackened": 2.7918,
+        "blade": 2.7918,
+        "blades": 2.7918,
+        "blake": 2.7918,
+        "blinds": 2.7918,
+        "blood": 2.7918,
+        "blower": 2.7918,
+        "blue": 2.7918,
+        "blueness": 2.7918,
+        "bodies": 2.7918,
+        "body": 1.4055,
+        "bone": 2.7918,
+        "book": 2.3863,
+        "books": 2.7918,
+        "botanical": 2.7918,
+        "both": 2.7918,
+        "boys": 2.7918,
+        "braise": 2.7918,
+        "brazenhead": 2.7918,
+        "breath": 2.7918,
+        "breathless": 2.7918,
+        "brief": 2.3863,
+        "broil": 2.7918,
+        "broke": 2.7918,
+        "bruised": 2.7918,
+        "buried": 2.7918,
+        "bush": 2.7918,
+        "cage": 2.3863,
+        "call": 2.0986,
+        "called": 2.7918,
+        "calling": 2.7918,
+        "calls": 2.7918,
+        "came": 1.8755,
+        "candidate": 2.7918,
+        "canem": 2.7918,
+        "cannot": 2.7918,
+        "capacious": 2.7918,
+        "cardinal": 2.3863,
+        "carnal": 2.7918,
+        "carrying": 2.7918,
+        "case": 2.3863,
+        "cave": 2.7918,
+        "celebrating": 2.7918,
+        "certain": 2.3863,
+        "chapbook": 2.3863,
+        "chapbooks": 2.7918,
+        "cheaper": 2.7918,
+        "cheapest": 2.7918,
+        "cheek": 2.7918,
+        "chestnut": 1.8755,
+        "chestnutreview": 2.3863,
+        "child": 2.7918,
+        "cigarettes": 2.3863,
+        "circles": 2.7918,
+        "circumlocute": 2.7918,
+        "citrus": 2.7918,
+        "city": 2.7918,
+        "civil": 2.7918,
+        "claire": 2.7918,
+        "clifton": 2.7918,
+        "climb": 2.7918,
+        "close": 2.7918,
+        "closing": 2.7918,
+        "clothed": 2.7918,
+        "clothes": 2.7918,
+        "cloud": 2.0986,
+        "cold": 2.7918,
+        "collaborative": 2.7918,
+        "collection": 2.7918,
+        "color": 2.7918,
+        "com": 2.3863,
+        "come": 2.0986,
+        "comes": 2.3863,
+        "coming": 2.7918,
+        "comparison": 2.7918,
+        "complaint": 2.7918,
+        "concepts": 2.7918,
+        "concrete": 2.7918,
+        "concupiscence": 2.7918,
+        "confront": 2.3863,
+        "consider": 2.7918,
+        "contending": 2.3863,
+        "continents": 2.7918,
+        "contracting": 2.7918,
+        "contractors": 2.7918,
+        "coolly": 2.7918,
+        "copyright": 2.3863,
+        "cosmic": 2.7918,
+        "couldn": 2.7918,
+        "countries": 2.7918,
+        "country": 2.0986,
+        "coupon": 2.7918,
+        "course": 2.7918,
+        "cover": 2.3863,
+        "coveted": 2.7918,
+        "covetously": 2.7918,
+        "cower": 2.7918,
+        "coyote": 2.7918,
+        "coyotes": 2.3863,
+        "crawl": 2.7918,
+        "crazed": 2.7918,
+        "creaking": 2.7918,
+        "create": 2.3863,
+        "created": 2.3863,
+        "credit": 2.7918,
+        "cries": 2.7918,
+        "cringe": 2.7918,
+        "crisp": 2.7918,
+        "critical": 2.3863,
+        "croaking": 2.7918,
+        "cry": 2.7918,
+        "cum": 2.7918,
+        "cunt": 2.7918,
+        "cup": 2.3863,
+        "cupped": 2.7918,
+        "curling": 2.7918,
+        "curtains": 2.7918,
+        "damnation": 2.7918,
+        "damned": 2.7918,
+        "daring": 2.7918,
+        "dark": 2.7918,
+        "daughter": 2.7918,
+        "day": 2.7918,
+        "daze": 2.7918,
+        "dead": 2.3863,
+        "death": 2.3863,
+        "debut": 2.3863,
+        "decadently": 2.7918,
+        "deep": 2.7918,
+        "deeply": 2.7918,
+        "delight": 2.7918,
+        "desecration": 2.7918,
+        "design": 2.3863,
+        "desirable": 2.3863,
+        "desire": 1.8755,
+        "desires": 1.8755,
+        "despised": 2.7918,
+        "despising": 2.7918,
+        "devil": 2.7918,
+        "dewy": 2.7918,
+        "dexterous": 2.7918,
+        "dialogue": 2.7918,
+        "difference": 2.7918,
+        "different": 2.3863,
+        "dionysian": 2.7918,
+        "disaster": 2.7918,
+        "disdain": 2.7918,
+        "disgust": 2.7918,
+        "disgusted": 2.7918,
+        "dislike": 2.7918,
+        "distance": 2.7918,
+        "distributed": 2.3863,
+        "dive": 2.7918,
+        "document": 2.7918,
+        "doing": 2.7918,
+        "dove": 2.7918,
+        "dragonfly": 2.7918,
+        "drain": 2.7918,
+        "dream": 2.0986,
+        "dreamt": 2.7918,
+        "drown": 2.7918,
+        "dupatta": 2.7918,
+        "during": 2.7918,
+        "dust": 2.7918,
+        "dynamic": 2.7918,
+        "earlier": 2.7918,
+        "early": 2.7918,
+        "economy": 2.7918,
+        "edited": 2.3863,
+        "editors": 2.7918,
+        "educator": 2.7918,
+        "eerie": 2.7918,
+        "either": 2.7918,
+        "electronic": 2.3863,
+        "elliptical": 2.7918,
+        "embalmed": 2.7918,
+        "embodied": 2.3863,
+        "empowering": 2.7918,
+        "empty": 2.7918,
+        "end": 2.7918,
+        "endure": 2.7918,
+        "enjoy": 2.7918,
+        "enjoyed": 2.7918,
+        "ennui": 2.7918,
+        "entire": 2.7918,
+        "entryway": 2.7918,
+        "ernaux": 2.7918,
+        "eros": 2.7918,
+        "erotic": 2.7918,
+        "escape": 2.7918,
+        "especially": 2.7918,
+        "essays": 2.7918,
+        "eve": 2.0986,
+        "even": 1.6931,
+        "events": 2.7918,
+        "ever": 2.7918,
+        "everything": 1.8755,
+        "everywhere": 2.3863,
+        "excellent": 2.7918,
+        "except": 2.3863,
+        "exegesis": 2.7918,
+        "exist": 2.7918,
+        "existence": 2.7918,
+        "existing": 2.7918,
+        "explained": 2.7918,
+        "explores": 2.7918,
+        "eyes": 2.3863,
+        "face": 1.8755,
+        "facing": 2.7918,
+        "fact": 2.7918,
+        "faint": 2.7918,
+        "faith": 2.3863,
+        "faithful": 2.7918,
+        "fallen": 2.7918,
+        "far": 2.7918,
+        "father": 2.3863,
+        "favorite": 2.7918,
+        "fear": 2.7918,
+        "fears": 2.7918,
+        "feel": 2.3863,
+        "feels": 2.7918,
+        "feet": 2.0986,
+        "fellow": 2.7918,
+        "fervor": 2.7918,
+        "figs": 2.7918,
+        "find": 2.7918,
+        "finish": 2.7918,
+        "first": 2.0986,
+        "flesh": 2.7918,
+        "flit": 2.7918,
+        "floating": 2.7918,
+        "flood": 2.7918,
+        "flooding": 2.7918,
+        "floods": 2.7918,
+        "floor": 2.7918,
+        "flow": 2.7918,
+        "fluent": 2.7918,
+        "flutters": 2.7918,
+        "foam": 2.7918,
+        "footed": 2.7918,
+        "forget": 2.3863,
+        "form": 2.3863,
+        "foundation": 2.7918,
+        "free": 2.7918,
+        "frenzy": 2.7918,
+        "fresh": 2.7918,
+        "fruit": 2.7918,
+        "fuck": 2.7918,
+        "fucking": 2.3863,
+        "fulbright": 2.7918,
+        "full": 2.3863,
+        "further": 2.7918,
+        "garden": 2.3863,
+        "gargantuan": 2.7918,
+        "gasher": 2.7918,
+        "genius": 2.7918,
+        "get": 2.7918,
+        "ghazal": 2.3863,
+        "give": 2.7918,
+        "gives": 2.7918,
+        "glass": 2.7918,
+        "glimpse": 2.7918,
+        "glistening": 2.7918,
+        "glory": 2.7918,
+        "god": 1.539,
+        "goddamn": 2.7918,
+        "godforsaken": 2.7918,
+        "gold": 2.3863,
+        "golden": 2.7918,
+        "gone": 2.0986,
+        "goodness": 2.7918,
+        "grass": 2.7918,
+        "grateful": 2.7918,
+        "grayscale": 2.7918,
+        "greedy": 2.7918,
+        "green": 2.3863,
+        "greet": 2.7918,
+        "grief": 2.3863,
+        "grocery": 2.7918,
+        "groping": 2.7918,
+        "ground": 2.7918,
+        "grow": 2.7918,
+        "growl": 2.7918,
+        "growling": 2.7918,
+        "grunts": 2.7918,
+        "guests": 2.7918,
+        "hagar": 2.7918,
+        "hair": 2.7918,
+        "half": 2.3863,
+        "hallowed": 2.7918,
+        "hand": 2.3863,
+        "handed": 2.7918,
+        "hands": 1.8755,
+        "happy": 2.3863,
+        "hasnain": 1.8755,
+        "haunt": 2.7918,
+        "haven": 2.7918,
+        "hawwa": 2.7918,
+        "heart": 2.7918,
+        "heartbreak": 2.7918,
+        "heaven": 2.7918,
+        "heavenly": 2.7918,
+        "held": 2.7918,
+        "help": 2.7918,
+        "herrera": 2.3863,
+        "hide": 2.7918,
+        "hiding": 2.0986,
+        "him": 2.7918,
+        "hips": 2.7918,
+        "holiest": 2.7918,
+        "home": 2.7918,
+        "homeland": 2.7918,
+        "honest": 2.7918,
+        "hoping": 2.7918,
+        "horizontally": 2.7918,
+        "horror": 2.7918,
+        "housing": 2.3863,
+        "hovered": 2.7918,
+        "how": 1.8755,
+        "howl": 2.3863,
+        "https": 2.3863,
+        "human": 2.0986,
+        "hunger": 2.3863,
+        "hungry": 2.0986,
+        "husband": 2.7918,
+        "hyperventilate": 2.7918,
+        "iconography": 2.7918,
+        "imbued": 2.7918,
+        "immediacy": 2.7918,
+        "impeccable": 2.7918,
+        "including": 2.0986,
+        "inexplicable": 2.7918,
+        "innocent": 2.7918,
+        "insist": 2.7918,
+        "insisting": 2.7918,
+        "instead": 2.7918,
+        "intelligent": 2.7918,
+        "internal": 2.7918,
+        "isele": 2.7918,
+        "islamic": 2.7918,
+        "ithaca": 2.3863,
+        "its": 1.6931,
+        "james": 2.0986,
+        "javeria": 1.6931,
+        "jelly": 2.7918,
+        "join": 2.3863,
+        "journal": 2.7918,
+        "journals": 2.3863,
+        "jugular": 2.7918,
+        "june": 2.7918,
+        "karachi": 2.7918,
+        "kill": 2.7918,
+        "kind": 2.0986,
+        "kissing": 2.7918,
+        "knew": 2.3863,
+        "know": 2.0986,
+        "knows": 2.7918,
+        "lake": 2.7918,
+        "landscapes": 2.7918,
+        "language": 2.3863,
+        "last": 2.3863,
+        "lately": 2.7918,
+        "law": 2.3863,
+        "lay": 2.7918,
+        "leave": 2.3863,
+        "left": 2.0986,
+        "length": 2.7918,
+        "lessening": 2.7918,
+        "let": 2.7918,
+        "letters": 2.7918,
+        "lies": 2.7918,
+        "life": 2.3863,
+        "light": 2.3863,
+        "limbs": 2.7918,
+        "limon": 2.7918,
+        "limp": 2.7918,
+        "line": 2.7918,
+        "lines": 2.7918,
+        "link": 2.7918,
+        "lips": 2.7918,
+        "liquid": 2.7918,
+        "listen": 2.7918,
+        "lit": 2.7918,
+        "literary": 2.7918,
+        "little": 2.3863,
+        "local": 2.7918,
+        "long": 2.7918,
+        "longing": 2.7918,
+        "look": 2.3863,
+        "looking": 2.7918,
+        "looks": 2.7918,
+        "loom": 2.7918,
+        "lorca": 2.7918,
+        "lore": 2.3863,
+        "love": 1.6931,
+        "lover": 2.3863,
+        "lubna": 2.7918,
+        "lucille": 2.7918,
+        "luxuriously": 2.7918,
+        "lyric": 2.7918,
+        "machines": 2.7918,
+        "made": 2.0986,
+        "mae": 2.7918,
+        "magazines": 2.7918,
+        "majestic": 2.7918,
+        "make": 2.3863,
+        "maliha": 2.3863,
+        "mama": 2.7918,
+        "man": 2.3863,
+        "mansoor": 2.3863,
+        "map": 2.7918,
+        "margins": 2.7918,
+        "marlboro": 2.7918,
+        "mascara": 2.7918,
+        "masturbate": 2.7918,
+        "matter": 2.3863,
+        "may": 2.3863,
+        "means": 2.0986,
+        "meant": 2.7918,
+        "meanwhile": 2.3863,
+        "measure": 2.7918,
+        "mechanical": 2.3863,
+        "medium": 2.7918,
+        "medusa": 2.7918,
+        "mega": 2.7918,
+        "memory": 2.7918,
+        "mercy": 1.8755,
+        "metaphors": 2.7918,
+        "methods": 2.3863,
+        "mfa": 2.7918,
+        "microfiction": 2.7918,
+        "might": 2.7918,
+        "milosz": 2.7918,
+        "mind": 2.7918,
+        "mirror": 2.7918,
+        "mistake": 2.7918,
+        "moans": 2.7918,
+        "moazzin": 2.7918,
+        "month": 2.7918,
+        "moon": 1.8755,
+        "moonless": 2.7918,
+        "moonlight": 2.7918,
+        "moral": 2.7918,
+        "morality": 2.7918,
+        "morbidity": 2.7918,
+        "morning": 1.8755,
+        "mortality": 2.7918,
+        "moth": 2.7918,
+        "mother": 2.0986,
+        "mourned": 2.7918,
+        "mouth": 2.7918,
+        "move": 2.3863,
+        "moved": 2.3863,
+        "moving": 2.7918,
+        "music": 2.7918,
+        "muslim": 2.7918,
+        "mutual": 2.7918,
+        "myself": 2.3863,
+        "naked": 1.8755,
+        "narratives": 2.7918,
+        "near": 2.7918,
+        "nearer": 2.7918,
+        "necessities": 2.7918,
+        "need": 2.3863,
+        "net": 2.7918,
+        "never": 2.0986,
+        "nevertheless": 2.7918,
+        "new": 2.0986,
+        "news": 2.7918,
+        "night": 2.0986,
+        "nominated": 2.7918,
+        "noncommercial": 2.3863,
+        "occupy": 2.7918,
+        "ocean": 2.7918,
+        "offering": 2.7918,
+        "often": 2.3863,
+        "oldest": 2.7918,
+        "olives": 2.7918,
+        "olympian": 2.7918,
+        "onto": 2.7918,
+        "ordinary": 2.7918,
+        "otherwise": 2.7918,
+        "pages": 2.7918,
+        "pain": 2.7918,
+        "painful": 2.7918,
+        "pakistan": 2.7918,
+        "palm": 2.7918,
+        "palms": 2.7918,
+        "paradise": 2.7918,
+        "paralyzed": 2.7918,
+        "part": 2.3863,
+        "peels": 2.7918,
+        "perfect": 2.7918,
+        "perhaps": 2.3863,
+        "permission": 2.3863,
+        "permitted": 2.3863,
+        "person": 2.7918,
+        "petal": 2.7918,
+        "photo": 2.3863,
+        "photocopying": 2.3863,
+        "phrase": 2.7918,
+        "pick": 2.7918,
+        "pin": 2.7918,
+        "pining": 2.7918,
+        "pizarnik": 2.7918,
+        "placed": 2.7918,
+        "planted": 2.7918,
+        "plath": 2.7918,
+        "please": 2.7918,
+        "pleasure": 2.3863,
+        "pleiades": 2.3863,
+        "poem": 1.8755,
+        "poems": 1.4055,
+        "poet": 1.8755,
+        "poetry": 2.7918,
+        "poets": 2.3863,
+        "poised": 2.7918,
+        "portrait": 2.3863,
+        "possibly": 2.7918,
+        "pounding": 2.7918,
+        "praise": 2.7918,
+        "prayers": 2.7918,
+        "pre": 2.7918,
+        "prepare": 2.7918,
+        "prepares": 2.7918,
+        "press": 2.7918,
+        "prior": 2.3863,
+        "prismatic": 2.7918,
+        "privilege": 2.0986,
+        "professor": 2.7918,
+        "promises": 2.7918,
+        "proof": 2.7918,
+        "prose": 2.7918,
+        "publication": 2.3863,
+        "published": 2.7918,
+        "publisher": 2.3863,
+        "puller": 2.7918,
+        "pulp": 2.7918,
+        "punished": 2.7918,
+        "pursue": 2.7918,
+        "pus": 2.7918,
+        "put": 2.0986,
+        "questions": 2.7918,
+        "quick": 2.7918,
+        "quiet": 2.3863,
+        "quotations": 2.3863,
+        "quran": 2.7918,
+        "rain": 2.7918,
+        "rains": 2.7918,
+        "raise": 2.7918,
+        "ranks": 2.7918,
+        "ravenous": 2.7918,
+        "rawlings": 2.3863,
+        "reach": 2.7918,
+        "readers": 2.7918,
+        "reading": 2.0986,
+        "real": 2.7918,
+        "really": 2.7918,
+        "recording": 2.3863,
+        "red": 2.7918,
+        "referring": 2.7918,
+        "reflecting": 2.3863,
+        "refusal": 2.7918,
+        "registers": 2.7918,
+        "regolith": 2.7918,
+        "rehearse": 2.7918,
+        "remain": 2.3863,
+        "remained": 2.7918,
+        "remaining": 2.7918,
+        "remains": 2.7918,
+        "remedios": 2.7918,
+        "remember": 2.3863,
+        "rendering": 2.7918,
+        "replacing": 2.7918,
+        "reproduced": 2.3863,
+        "requests": 2.3863,
+        "reserved": 2.3863,
+        "resisting": 2.7918,
+        "return": 2.7918,
+        "revealed": 2.7918,
+        "revelation": 2.7918,
+        "review": 1.6931,
+        "reviews": 2.3863,
+        "rhymes": 2.7918,
+        "rhythm": 2.7918,
+        "rib": 2.3863,
+        "riddling": 2.7918,
+        "rights": 2.3863,
+        "river": 2.7918,
+        "rock": 2.7918,
+        "roof": 2.7918,
+        "rooted": 2.7918,
+        "rose": 2.7918,
+        "rotten": 2.7918,
+        "rub": 2.7918,
+        "running": 2.7918,
+        "sacred": 2.3863,
+        "sacrilege": 2.7918,
+        "safi": 2.7918,
+        "sake": 2.7918,
+        "sandwich": 2.7918,
+        "sanna": 2.7918,
+        "satiable": 2.7918,
+        "saw": 2.7918,
+        "say": 2.0986,
+        "says": 2.3863,
+        "scaffolders": 2.7918,
+        "scholar": 2.7918,
+        "school": 2.7918,
+        "schwartz": 2.7918,
+        "secondary": 2.7918,
+        "see": 1.8755,
+        "seeds": 2.7918,
+        "self": 2.0986,
+        "send": 2.7918,
+        "sent": 2.3863,
+        "separate": 2.7918,
+        "separation": 2.7918,
+        "service": 2.7918,
+        "several": 2.7918,
+        "sex": 1.8755,
+        "sexlessness": 2.7918,
+        "shade": 2.7918,
+        "shadow": 2.7918,
+        "shadowy": 2.7918,
+        "shall": 2.7918,
+        "shamshad": 2.7918,
+        "shape": 2.3863,
+        "shapes": 2.7918,
+        "shark": 2.3863,
+        "sharp": 2.7918,
+        "sharpen": 2.7918,
+        "sheepishly": 2.7918,
+        "shell": 2.7918,
+        "shining": 2.7918,
+        "shot": 2.7918,
+        "shower": 2.3863,
+        "sight": 2.7918,
+        "siken": 2.7918,
+        "silence": 2.3863,
+        "simply": 2.7918,
+        "sin": 1.2877,
+        "since": 2.7918,
+        "sinful": 2.3863,
+        "sitting": 2.7918,
+        "size": 2.7918,
+        "skin": 2.7918,
+        "sky": 2.3863,
+        "sleep": 2.0986,
+        "small": 1.6931,
+        "smaller": 2.7918,
+        "smallness": 2.3863,
+        "smell": 2.7918,
+        "smoke": 2.7918,
+        "snake": 2.7918,
+        "soft": 2.7918,
+        "softness": 2.7918,
+        "someone": 2.7918,
+        "something": 2.0986,
+        "sometimes": 2.3863,
+        "son": 2.7918,
+        "soothing": 2.7918,
+        "sorrow": 2.7918,
+        "soundless": 2.7918,
+        "spaciously": 2.7918,
+        "spared": 2.7918,
+        "spat": 2.7918,
+        "speak": 2.7918,
+        "speculative": 2.7918,
+        "spend": 2.7918,
+        "spine": 2.7918,
+        "spiritual": 2.7918,
+        "sport": 2.3863,
+        "squeeze": 2.7918,
+        "squirming": 2.3863,
+        "stand": 2.7918,
+        "staples": 2.7918,
+        "stars": 2.7918,
+        "stay": 2.7918,
+        "stegner": 2.7918,
+        "step": 2.3863,
+        "stephanie": 2.3863,
+        "sticky": 2.7918,
+        "still": 1.539,
+        "stomach": 2.7918,
+        "stop": 2.7918,
+        "stops": 2.7918,
+        "stores": 2.7918,
+        "strains": 2.7918,
+        "stranger": 2.7918,
+        "stretching": 2.7918,
+        "stunning": 2.7918,
+        "subway": 2.7918,
+        "sun": 2.3863,
+        "surpass": 2.7918,
+        "surrealists": 2.7918,
+        "swearing": 2.7918,
+        "swift": 2.7918,
+        "swore": 2.7918,
+        "sylvia": 2.7918,
+        "take": 2.7918,
+        "takes": 2.7918,
+        "tangerines": 2.3863,
+        "tango": 2.7918,
+        "taught": 2.7918,
+        "taut": 2.7918,
+        "tautology": 2.7918,
+        "taylor": 2.7918,
+        "teachers": 2.7918,
+        "tell": 1.8755,
+        "tender": 2.7918,
+        "tendered": 2.7918,
+        "tenderer": 2.7918,
+        "tercets": 2.7918,
+        "testify": 2.7918,
+        "thank": 2.7918,
+        "thin": 2.7918,
+        "thing": 2.7918,
+        "things": 2.7918,
+        "think": 1.6931,
+        "thinking": 2.7918,
+        "though": 2.7918,
+        "thought": 2.7918,
+        "throughout": 2.7918,
+        "thumping": 2.7918,
+        "tightening": 2.7918,
+        "time": 2.3863,
+        "timeless": 2.7918,
+        "timeline": 2.7918,
+        "times": 2.3863,
+        "timid": 2.7918,
+        "titles": 2.3863,
+        "together": 2.3863,
+        "togetherness": 2.7918,
+        "tongue": 2.0986,
+        "tonight": 2.3863,
+        "touch": 2.3863,
+        "touched": 2.7918,
+        "towards": 2.3863,
+        "trace": 2.7918,
+        "tracks": 2.7918,
+        "traitor": 2.7918,
+        "transforming": 2.7918,
+        "transgressions": 2.7918,
+        "translator": 2.7918,
+        "translucent": 2.7918,
+        "transmitted": 2.3863,
+        "tried": 2.7918,
+        "trigger": 2.7918,
+        "true": 2.7918,
+        "truly": 2.7918,
+        "truth": 2.7918,
+        "trying": 2.3863,
+        "tulipped": 2.7918,
+        "tuna": 2.7918,
+        "tupelo": 2.7918,
+        "turtle": 2.7918,
+        "two": 2.3863,
+        "unachievable": 2.7918,
+        "unafraid": 2.7918,
+        "uncovering": 2.7918,
+        "under": 1.8755,
+        "underneath": 2.7918,
+        "unearthing": 2.7918,
+        "unholy": 2.7918,
+        "unless": 2.7918,
+        "unnecessary": 2.7918,
+        "until": 2.7918,
+        "upon": 1.8755,
+        "uses": 2.3863,
+        "using": 2.7918,
+        "usual": 2.7918,
+        "value": 2.7918,
+        "varo": 2.7918,
+        "vast": 2.7918,
+        "vein": 2.7918,
+        "version": 2.7918,
+        "versions": 2.7918,
+        "vibrant": 2.7918,
+        "vitrol": 2.7918,
+        "voice": 2.7918,
+        "voices": 2.7918,
+        "voracious": 2.7918,
+        "vulgar": 2.7918,
+        "wafted": 2.7918,
+        "waited": 2.7918,
+        "wake": 2.3863,
+        "walk": 2.7918,
+        "walking": 2.7918,
+        "wani": 2.7918,
+        "waning": 2.7918,
+        "want": 1.6931,
+        "wanted": 1.8755,
+        "wanting": 2.7918,
+        "watch": 2.7918,
+        "watching": 2.3863,
+        "water": 1.6931,
+        "waterbody": 2.7918,
+        "waters": 2.7918,
+        "wave": 2.7918,
+        "way": 1.8755,
+        "web": 2.3863,
+        "webpage": 2.7918,
+        "wept": 2.7918,
+        "wet": 2.3863,
+        "whenever": 2.7918,
+        "wherever": 2.7918,
+        "whistle": 2.7918,
+        "whose": 2.3863,
+        "why": 2.3863,
+        "wilt": 2.7918,
+        "window": 2.7918,
+        "wings": 2.7918,
+        "winter": 2.7918,
+        "wish": 2.7918,
+        "wit": 2.7918,
+        "within": 2.7918,
+        "without": 2.0986,
+        "woman": 2.0986,
+        "women": 2.3863,
+        "wonder": 2.3863,
+        "work": 2.7918,
+        "worked": 2.7918,
+        "world": 2.3863,
+        "worm": 2.7918,
+        "worry": 2.7918,
+        "write": 2.0986,
+        "writers": 2.7918,
+        "writes": 2.7918,
+        "written": 2.3863,
+        "yellow": 2.7918,
+        "yes": 2.7918,
+        "yesterday": 2.7918,
+        "yet": 2.0986,
+        "york": 2.3863,
+        "young": 2.0986
+      },
+      "pages": [
+        {
+          "page_num": 0,
+          "vec": {
+            "hasnain": 0.4497,
+            "author": 0.2248,
+            "poem": 0.2248,
+            "copyright": 0.1907,
+            "permission": 0.1907,
+            "publisher": 0.1907,
+            "language": 0.1907,
+            "poet": 0.1499,
+            "javeria": 0.1353,
+            "body": 0.1123,
+            "praise": 0.1116,
+            "revelation": 0.1116,
+            "immediacy": 0.1116,
+            "collection": 0.1116,
+            "dynamic": 0.1116,
+            "deeply": 0.1116,
+            "rooted": 0.1116,
+            "landscapes": 0.1116,
+            "map": 0.1116,
+            "necessities": 0.1116,
+            "peels": 0.1116,
+            "registers": 0.1116,
+            "lyric": 0.1116,
+            "becomes": 0.1116,
+            "medium": 0.1116,
+            "longing": 0.1116,
+            "homeland": 0.1116,
+            "beloved": 0.1116,
+            "writes": 0.1116,
+            "work": 0.1116,
+            "explores": 0.1116,
+            "refusal": 0.1116,
+            "lines": 0.1116,
+            "mind": 0.1116,
+            "breathless": 0.1116,
+            "inexplicable": 0.1116,
+            "beautiful": 0.1116,
+            "prismatic": 0.1116,
+            "mae": 0.1116,
+            "barizo": 0.1116,
+            "tender": 0.1116,
+            "machines": 0.1116,
+            "tendered": 0.1116,
+            "narratives": 0.1116,
+            "planted": 0.1116,
+            "throughout": 0.1116,
+            "iconography": 0.1116,
+            "spared": 0.1116,
+            "disdain": 0.1116,
+            "erotic": 0.1116
+          }
+        },
+        {
+          "page_num": 1,
+          "vec": {
+            "hasnain": 0.4092,
+            "mortality": 0.2436,
+            "chapbook": 0.2082,
+            "sin": 0.1686,
+            "sex": 0.1637,
+            "javeria": 0.1478,
+            "fluent": 0.1218,
+            "quick": 0.1218,
+            "footed": 0.1218,
+            "capacious": 0.1218,
+            "circles": 0.1218,
+            "questions": 0.1218,
+            "morbidity": 0.1218,
+            "morality": 0.1218,
+            "decadently": 0.1218,
+            "cheek": 0.1218,
+            "luxuriously": 0.1218,
+            "voracious": 0.1218,
+            "covetously": 0.1218,
+            "intelligent": 0.1218,
+            "stand": 0.1218,
+            "ranks": 0.1218,
+            "dark": 0.1218,
+            "surrealists": 0.1218,
+            "alejandra": 0.1218,
+            "pizarnik": 0.1218,
+            "sylvia": 0.1218,
+            "plath": 0.1218,
+            "remedios": 0.1218,
+            "varo": 0.1218,
+            "embalmed": 0.1218,
+            "shadowy": 0.1218,
+            "islamic": 0.1218,
+            "ennui": 0.1218,
+            "exegesis": 0.1218,
+            "empowering": 0.1218,
+            "might": 0.1218,
+            "cower": 0.1218,
+            "find": 0.1218,
+            "speculative": 0.1218,
+            "fact": 0.1218,
+            "size": 0.1218,
+            "genius": 0.1218,
+            "comparison": 0.1218,
+            "stunning": 0.1218,
+            "ability": 0.1218,
+            "cosmic": 0.1218,
+            "ordinary": 0.1218,
+            "revealed": 0.1218,
+            "unafraid": 0.1218
+          }
+        },
+        {
+          "page_num": 2,
+          "vec": {
+            "color": 0.3046,
+            "poem": 0.2046,
+            "grass": 0.2031,
+            "favorite": 0.2031,
+            "wish": 0.2031,
+            "smoke": 0.2031,
+            "listen": 0.2031,
+            "love": 0.1847,
+            "copyright": 0.1736,
+            "permission": 0.1736,
+            "publisher": 0.1736,
+            "time": 0.1736,
+            "green": 0.1736,
+            "knew": 0.1736,
+            "make": 0.1736,
+            "asking": 0.1736,
+            "write": 0.1527,
+            "everything": 0.1364,
+            "want": 0.1232,
+            "think": 0.1232,
+            "still": 0.112,
+            "poems": 0.1022,
+            "get": 0.1015,
+            "claire": 0.1015,
+            "schwartz": 0.1015,
+            "civil": 0.1015,
+            "service": 0.1015,
+            "meant": 0.1015,
+            "palm": 0.1015,
+            "belongs": 0.1015,
+            "concrete": 0.1015,
+            "lay": 0.1015,
+            "ground": 0.1015,
+            "climb": 0.1015,
+            "elliptical": 0.1015,
+            "translucent": 0.1015,
+            "unachievable": 0.1015,
+            "person": 0.1015,
+            "majestic": 0.1015,
+            "value": 0.1015,
+            "distance": 0.1015,
+            "nearer": 0.1015,
+            "jugular": 0.1015,
+            "vein": 0.1015,
+            "riddling": 0.1015,
+            "lies": 0.1015,
+            "swearing": 0.1015,
+            "quran": 0.1015,
+            "using": 0.1015,
+            "metaphors": 0.1015
+          }
+        },
+        {
+          "page_num": 3,
+          "vec": {
+            "enjoy": 0.237,
+            "someone": 0.237,
+            "news": 0.237,
+            "begin": 0.237,
+            "flood": 0.237,
+            "privilege": 0.1782,
+            "call": 0.1782,
+            "sleep": 0.1782,
+            "desire": 0.1592,
+            "sex": 0.1592,
+            "face": 0.1592,
+            "body": 0.1193,
+            "sitting": 0.1185,
+            "window": 0.1185,
+            "rains": 0.1185,
+            "lit": 0.1185,
+            "marlboro": 0.1185,
+            "ernaux": 0.1185,
+            "milosz": 0.1185,
+            "blake": 0.1185,
+            "pick": 0.1185,
+            "amma": 0.1185,
+            "cum": 0.1185,
+            "cannot": 0.1185,
+            "cry": 0.1185,
+            "help": 0.1185,
+            "pakistan": 0.1185,
+            "flooding": 0.1185,
+            "floods": 0.1185,
+            "timeline": 0.1185,
+            "wherever": 0.1185,
+            "finish": 0.1185,
+            "home": 0.1185,
+            "waters": 0.1185,
+            "sight": 0.1185,
+            "rehearse": 0.1185,
+            "anew": 0.1185,
+            "baby": 0.1185,
+            "paradise": 0.1185,
+            "instead": 0.1185,
+            "hoping": 0.1185,
+            "rhythm": 0.1185,
+            "let": 0.1185,
+            "besides": 0.1185,
+            "clothed": 0.1185,
+            "cringe": 0.1185,
+            "beneath": 0.1185,
+            "arms": 0.1185,
+            "doing": 0.1185,
+            "lips": 0.1185
+          }
+        },
+        {
+          "page_num": 4,
+          "vec": {
+            "how": 0.2735,
+            "often": 0.261,
+            "eyes": 0.261,
+            "holiest": 0.2036,
+            "blue": 0.2036,
+            "mama": 0.2036,
+            "husband": 0.2036,
+            "touched": 0.2036,
+            "want": 0.1852,
+            "moved": 0.174,
+            "whose": 0.174,
+            "perhaps": 0.174,
+            "body": 0.1537,
+            "night": 0.153,
+            "mother": 0.153,
+            "never": 0.153,
+            "face": 0.1367,
+            "god": 0.1122,
+            "local": 0.1018,
+            "moazzin": 0.1018,
+            "calls": 0.1018,
+            "faithful": 0.1018,
+            "goodness": 0.1018,
+            "bathroom": 0.1018,
+            "masturbate": 0.1018,
+            "possibly": 0.1018,
+            "month": 0.1018,
+            "vulgar": 0.1018,
+            "disgusted": 0.1018,
+            "drown": 0.1018,
+            "sorrow": 0.1018,
+            "liquid": 0.1018,
+            "wit": 0.1018,
+            "testify": 0.1018,
+            "alright": 0.1018,
+            "give": 0.1018,
+            "transgressions": 0.1018,
+            "dislike": 0.1018,
+            "thinking": 0.1018,
+            "especially": 0.1018,
+            "among": 0.1018,
+            "moans": 0.1018,
+            "yes": 0.1018,
+            "fuck": 0.1018,
+            "bastard": 0.1018,
+            "croaking": 0.1018,
+            "voices": 0.1018,
+            "creaking": 0.1018,
+            "beds": 0.1018,
+            "grunts": 0.1018
+          }
+        },
+        {
+          "page_num": 5,
+          "vec": {
+            "dust": 0.4026,
+            "small": 0.293,
+            "consider": 0.2415,
+            "amrika": 0.2415,
+            "hands": 0.2163,
+            "two": 0.2065,
+            "still": 0.1775,
+            "desire": 0.1623,
+            "day": 0.161,
+            "empty": 0.161,
+            "heart": 0.161,
+            "haven": 0.161,
+            "thought": 0.161,
+            "join": 0.1376,
+            "asking": 0.1376,
+            "why": 0.1376,
+            "smallness": 0.1376,
+            "apology": 0.1376,
+            "happy": 0.1376,
+            "god": 0.1331,
+            "eve": 0.121,
+            "know": 0.121,
+            "country": 0.121,
+            "young": 0.121,
+            "remained": 0.0805,
+            "tried": 0.0805,
+            "pin": 0.0805,
+            "referring": 0.0805,
+            "nevertheless": 0.0805,
+            "stretching": 0.0805,
+            "wanting": 0.0805,
+            "pain": 0.0805,
+            "end": 0.0805,
+            "siken": 0.0805,
+            "river": 0.0805,
+            "limon": 0.0805,
+            "voice": 0.0805,
+            "remaining": 0.0805,
+            "stomach": 0.0805,
+            "growling": 0.0805,
+            "prepare": 0.0805,
+            "satiable": 0.0805,
+            "cupped": 0.0805,
+            "prayers": 0.0805,
+            "carrying": 0.0805,
+            "bruised": 0.0805,
+            "blackened": 0.0805,
+            "onto": 0.0805,
+            "contractors": 0.0805,
+            "scaffolders": 0.0805
+          }
+        },
+        {
+          "page_num": 6,
+          "vec": {
+            "god": 0.5769,
+            "made": 0.2146,
+            "ate": 0.1903,
+            "mouth": 0.1903,
+            "its": 0.1731,
+            "last": 0.1626,
+            "shower": 0.1626,
+            "tangerines": 0.1626,
+            "meanwhile": 0.1626,
+            "woman": 0.143,
+            "sex": 0.1278,
+            "upon": 0.1278,
+            "way": 0.1278,
+            "want": 0.1154,
+            "even": 0.1154,
+            "grocery": 0.0951,
+            "stores": 0.0951,
+            "kissing": 0.0951,
+            "boys": 0.0951,
+            "subway": 0.0951,
+            "stranger": 0.0951,
+            "offering": 0.0951,
+            "sandwich": 0.0951,
+            "coupon": 0.0951,
+            "document": 0.0951,
+            "yellow": 0.0951,
+            "curtains": 0.0951,
+            "length": 0.0951,
+            "mirror": 0.0951,
+            "remains": 0.0951,
+            "arab": 0.0951,
+            "american": 0.0951,
+            "asian": 0.0951,
+            "simply": 0.0951,
+            "punished": 0.0951,
+            "ashamed": 0.0951,
+            "already": 0.0951,
+            "sexlessness": 0.0951,
+            "professor": 0.0951,
+            "tercets": 0.0951,
+            "sacrilege": 0.0951,
+            "feels": 0.0951,
+            "unnecessary": 0.0951,
+            "eros": 0.0951,
+            "palms": 0.0951,
+            "squeeze": 0.0951,
+            "until": 0.0951,
+            "fallen": 0.0951,
+            "medusa": 0.0951,
+            "hair": 0.0951
+          }
+        },
+        {
+          "page_num": 7,
+          "vec": {
+            "course": 0.3259,
+            "still": 0.2396,
+            "saw": 0.2173,
+            "glistening": 0.2173,
+            "soundless": 0.2173,
+            "couldn": 0.2173,
+            "shark": 0.1857,
+            "cage": 0.1857,
+            "behind": 0.1857,
+            "god": 0.1797,
+            "know": 0.1633,
+            "mercy": 0.146,
+            "came": 0.146,
+            "think": 0.1318,
+            "body": 0.1094,
+            "began": 0.1086,
+            "coyote": 0.1086,
+            "cries": 0.1086,
+            "botanical": 0.1086,
+            "limp": 0.1086,
+            "glimpse": 0.1086,
+            "fears": 0.1086,
+            "bone": 0.1086,
+            "basking": 0.1086,
+            "belly": 0.1086,
+            "faint": 0.1086,
+            "growl": 0.1086,
+            "heavenly": 0.1086,
+            "fervor": 0.1086,
+            "hawwa": 0.1086,
+            "spine": 0.1086,
+            "economy": 0.1086,
+            "walk": 0.1086,
+            "regolith": 0.1086,
+            "separate": 0.1086,
+            "spiritual": 0.1086,
+            "moral": 0.1086,
+            "dewy": 0.1086,
+            "sticky": 0.1086,
+            "pulp": 0.1086,
+            "perfect": 0.1086,
+            "thing": 0.1086,
+            "near": 0.1086,
+            "within": 0.1086,
+            "arm": 0.1086,
+            "reach": 0.1086,
+            "crawl": 0.1086,
+            "snake": 0.1086,
+            "skin": 0.1086,
+            "waning": 0.1086
+          }
+        },
+        {
+          "page_num": 8,
+          "vec": {
+            "petal": 0.317,
+            "running": 0.317,
+            "dream": 0.2383,
+            "separation": 0.2113,
+            "togetherness": 0.2113,
+            "heartbreak": 0.2113,
+            "letters": 0.2113,
+            "world": 0.1806,
+            "god": 0.1748,
+            "write": 0.1589,
+            "know": 0.1589,
+            "wanted": 0.142,
+            "its": 0.1282,
+            "poems": 0.1064,
+            "tightening": 0.1057,
+            "around": 0.1057,
+            "hips": 0.1057,
+            "contracting": 0.1057,
+            "closing": 0.1057,
+            "entryway": 0.1057,
+            "afterwards": 0.1057,
+            "pining": 0.1057,
+            "oldest": 0.1057,
+            "pre": 0.1057,
+            "olympian": 0.1057,
+            "trigger": 0.1057,
+            "puller": 0.1057,
+            "whistle": 0.1057,
+            "blower": 0.1057,
+            "rose": 0.1057,
+            "wilt": 0.1057,
+            "asked": 0.1057,
+            "take": 0.1057,
+            "clothes": 0.1057,
+            "painful": 0.1057,
+            "really": 0.1057,
+            "appetite": 0.1057,
+            "secondary": 0.1057,
+            "lessening": 0.1057,
+            "further": 0.1057,
+            "essays": 0.1057,
+            "anti": 0.1057,
+            "despising": 0.1057,
+            "shapes": 0.1057,
+            "despised": 0.1057,
+            "aubade": 0.1057,
+            "honest": 0.1057,
+            "worry": 0.1057,
+            "anyway": 0.1057,
+            "groping": 0.1057
+          }
+        },
+        {
+          "page_num": 9,
+          "vec": {
+            "god": 0.2461,
+            "air": 0.2232,
+            "entire": 0.2232,
+            "fear": 0.2232,
+            "wings": 0.2232,
+            "deep": 0.2232,
+            "acknowledgements": 0.2232,
+            "shower": 0.1908,
+            "world": 0.1908,
+            "sin": 0.1544,
+            "poem": 0.1499,
+            "moon": 0.1499,
+            "face": 0.1499,
+            "hands": 0.1499,
+            "water": 0.1353,
+            "golden": 0.1116,
+            "moving": 0.1116,
+            "horizontally": 0.1116,
+            "crisp": 0.1116,
+            "yesterday": 0.1116,
+            "moonlight": 0.1116,
+            "spend": 0.1116,
+            "resisting": 0.1116,
+            "shadow": 0.1116,
+            "breath": 0.1116,
+            "haunt": 0.1116,
+            "cold": 0.1116,
+            "june": 0.1116,
+            "since": 0.1116,
+            "events": 0.1116,
+            "exist": 0.1116,
+            "eerie": 0.1116,
+            "city": 0.1116,
+            "atop": 0.1116,
+            "worm": 0.1116,
+            "black": 0.1116,
+            "bush": 0.1116,
+            "mutual": 0.1116,
+            "anywhere": 0.1116,
+            "stop": 0.1116,
+            "insisting": 0.1116,
+            "believe": 0.1116,
+            "things": 0.1116,
+            "real": 0.1116,
+            "able": 0.1116,
+            "existence": 0.1116,
+            "tulipped": 0.1116,
+            "facing": 0.1116,
+            "rendering": 0.1116,
+            "moonless": 0.1116
+          }
+        },
+        {
+          "page_num": 10,
+          "vec": {
+            "chapbook": 0.3208,
+            "review": 0.3035,
+            "poetry": 0.2502,
+            "best": 0.2502,
+            "poet": 0.1681,
+            "translator": 0.1251,
+            "educator": 0.1251,
+            "karachi": 0.1251,
+            "mfa": 0.1251,
+            "candidate": 0.1251,
+            "fulbright": 0.1251,
+            "scholar": 0.1251,
+            "school": 0.1251,
+            "prose": 0.1251,
+            "published": 0.1251,
+            "several": 0.1251,
+            "anthologies": 0.1251,
+            "mascara": 0.1251,
+            "literary": 0.1251,
+            "brazenhead": 0.1251,
+            "isele": 0.1251,
+            "nominated": 0.1251,
+            "net": 0.1251,
+            "microfiction": 0.1251,
+            "worked": 0.1251,
+            "cave": 0.1251,
+            "canem": 0.1251,
+            "foundation": 0.1251,
+            "teachers": 0.1251,
+            "writers": 0.1251,
+            "collaborative": 0.1251,
+            "tupelo": 0.1251,
+            "press": 0.1251,
+            "alice": 0.1251,
+            "books": 0.1251,
+            "thank": 0.1251,
+            "enjoyed": 0.1251,
+            "please": 0.1251,
+            "link": 0.1251,
+            "webpage": 0.1251,
+            "debut": 0.1069,
+            "leave": 0.1069,
+            "journals": 0.1069,
+            "titles": 0.1069,
+            "pleiades": 0.1069,
+            "lore": 0.1069,
+            "james": 0.094,
+            "including": 0.094,
+            "new": 0.094,
+            "reading": 0.094
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,7 @@
 {
   "stats": {
     "name": "masnavi-dariya-e-ishq-meer-taqi-meer-ebooks-3",
+    "language": "ur",
     "total_pages": 12,
     "total_chars": 5413,
     "total_words": 1218,
@@ -1627,19 +1628,19 @@
   "tfidf": [
     {
       "word": "من",
-      "score": 0.0775
+      "score": 0.0778
     },
     {
       "word": "او",
-      "score": 0.0523
+      "score": 0.0529
     },
     {
       "word": "دل",
-      "score": 0.0468
+      "score": 0.0466
     },
     {
       "word": "یک",
-      "score": 0.0426
+      "score": 0.0427
     },
     {
       "word": "این",
@@ -1647,35 +1648,35 @@
     },
     {
       "word": "دو",
-      "score": 0.0388
+      "score": 0.0395
     },
     {
       "word": "عشق",
-      "score": 0.0383
+      "score": 0.0386
     },
     {
       "word": "جان",
-      "score": 0.0381
+      "score": 0.0379
     },
     {
       "word": "را",
-      "score": 0.0358
+      "score": 0.036
     },
     {
       "word": "کس",
-      "score": 0.035
+      "score": 0.0354
+    },
+    {
+      "word": "اسے",
+      "score": 0.0346
     },
     {
       "word": "انوار",
       "score": 0.0342
     },
     {
-      "word": "اسے",
-      "score": 0.034
-    },
-    {
       "word": "کار",
-      "score": 0.0337
+      "score": 0.0339
     },
     {
       "word": "کہیں",
@@ -1683,35 +1684,39 @@
     },
     {
       "word": "خون",
-      "score": 0.0321
+      "score": 0.0324
     },
     {
       "word": "سو",
       "score": 0.0321
     },
     {
+      "word": "جگر",
+      "score": 0.0318
+    },
+    {
       "word": "که",
       "score": 0.0317
-    },
-    {
-      "word": "جگر",
-      "score": 0.0316
-    },
-    {
-      "word": "آئی",
-      "score": 0.0311
     },
     {
       "word": "تا",
       "score": 0.0311
     },
     {
+      "word": "آئی",
+      "score": 0.0308
+    },
+    {
+      "word": "یکی",
+      "score": 0.0305
+    },
+    {
       "word": "کرتی",
-      "score": 0.0303
+      "score": 0.0304
     },
     {
       "word": "گر",
-      "score": 0.0302
+      "score": 0.0303
     },
     {
       "word": "بعون",
@@ -1742,60 +1747,56 @@
       "score": 0.03
     },
     {
-      "word": "یکی",
-      "score": 0.0298
-    },
-    {
       "word": "مشکل",
-      "score": 0.0276
+      "score": 0.0275
     },
     {
       "word": "مار",
       "score": 0.0272
     },
     {
-      "word": "آه",
+      "word": "است",
       "score": 0.027
     },
     {
-      "word": "است",
-      "score": 0.0267
+      "word": "آه",
+      "score": 0.0269
     },
     {
       "word": "رنگ",
-      "score": 0.0263
+      "score": 0.0261
     },
     {
       "word": "منی",
-      "score": 0.0259
+      "score": 0.026
     },
     {
       "word": "نگر",
-      "score": 0.0248
-    },
-    {
-      "word": "به",
-      "score": 0.0246
+      "score": 0.0252
     },
     {
       "word": "تے",
-      "score": 0.0243
+      "score": 0.0252
+    },
+    {
+      "word": "به",
+      "score": 0.0249
     },
     {
       "word": "نا",
-      "score": 0.0237
-    },
-    {
-      "word": "بات",
-      "score": 0.023
+      "score": 0.0235
     },
     {
       "word": "شوق",
-      "score": 0.0228
+      "score": 0.0234
     },
     {
       "word": "کالا",
-      "score": 0.0227
+      "score": 0.0231
+    },
+    {
+      "word": "بات",
+      "score": 0.0229
     },
     {
       "word": "بیان",
@@ -1806,12 +1807,24 @@
       "score": 0.0217
     },
     {
-      "word": "بید",
-      "score": 0.0213
+      "word": "بار",
+      "score": 0.0216
     },
     {
-      "word": "بار",
-      "score": 0.0213
+      "word": "بید",
+      "score": 0.0215
+    },
+    {
+      "word": "میان",
+      "score": 0.0211
+    },
+    {
+      "word": "سندی",
+      "score": 0.0208
+    },
+    {
+      "word": "سی",
+      "score": 0.0207
     }
   ],
   "search_index": {

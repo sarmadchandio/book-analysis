@@ -48,6 +48,9 @@ async function openBook(slug) {
   state.currentBook = slug;
   showView('book');
 
+  const data = state.booksData[slug];
+  document.getElementById('view-book').dataset.lang = data?.stats?.language || 'ur';
+
   const meta = getMeta(slug);
   document.getElementById('bread-book').innerHTML = `<span class="urdu">${displayName(slug)}</span>`;
   document.getElementById('book-header').innerHTML = `
@@ -55,7 +58,6 @@ async function openBook(slug) {
     <div class="section-sub">${meta.author} · ${meta.category}</div>
   `;
 
-  const data = state.booksData[slug];
   const s = data.stats;
   const stats = [
     { v: s.total_pages, l: 'Pages' },

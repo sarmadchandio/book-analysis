@@ -1,0 +1,2645 @@
+{
+  "book": "aria-aber-good-girl",
+  "n_clusters": 5,
+  "points": [
+    {
+      "page_num": 0,
+      "x": -3.3245,
+      "y": -0.0253,
+      "cluster": -1,
+      "snippet": "Good Girl  BLOOMSBURY PUBLISHING  Bloomsbury Publishing Plc  50 Bedford Square, London, WC1B 3DP, UK  29 Earlsfort Terrace, Dublin 2, Ireland  BLOOMSB"
+    },
+    {
+      "page_num": 1,
+      "x": -4.7221,
+      "y": 3.2093,
+      "cluster": 4,
+      "snippet": "Good Girl  Was he an animal if music could move him so? He felt as if the path to the unknowable sustenance for which he yearned was coming to light. "
+    },
+    {
+      "page_num": 2,
+      "x": -3.8364,
+      "y": 0.3481,
+      "cluster": 1,
+      "snippet": "Good Girl  One  THE TRAIN BACK  to Berlin took seven hours, and the towel in my suitcase was still wet from my last swim in the lake, dampening the pa"
+    },
+    {
+      "page_num": 3,
+      "x": -3.3782,
+      "y": 1.8581,
+      "cluster": 1,
+      "snippet": "Back then, I still wanted to be a photographer, a small Olympus point-and-shoot knocking around in my backpack. In my first days back, Berlin bloomed "
+    },
+    {
+      "page_num": 4,
+      "x": -3.6638,
+      "y": 0.9402,
+      "cluster": 1,
+      "snippet": "AUTUMN WAS SHORT  and humid, and then, overnight, it was winter. On the news, I saw middle-aged men with pearlescent smiles and young blond TV anchors"
+    },
+    {
+      "page_num": 5,
+      "x": -4.3003,
+      "y": 0.4299,
+      "cluster": -1,
+      "snippet": "I FINISHED MY  shift and walked to the most famous club in the city. Staggering past the tree-starved DDR-style council blocks on the Straße der Paris"
+    },
+    {
+      "page_num": 6,
+      "x": -4.2057,
+      "y": 0.3796,
+      "cluster": -1,
+      "snippet": "IT WAS HARD  to keep my eyes open in such severe cold, and the line for the club was long. In front of me were two Spaniards in expensive clothing: bl"
+    },
+    {
+      "page_num": 7,
+      "x": -6.132,
+      "y": -0.5753,
+      "cluster": -1,
+      "snippet": "THE BUNKER WAS  a shock of steel and concrete, glass and chains, with sixty-foot ceilings. A wall of warm air and muffled techno battered me, and with"
+    },
+    {
+      "page_num": 8,
+      "x": -5.9758,
+      "y": -0.6008,
+      "cluster": -1,
+      "snippet": "THE CLUB WASN’T  really called the Bunker, but that’s what I will call it, because that’s how we experienced it: a shelter from the war of our daily l"
+    },
+    {
+      "page_num": 9,
+      "x": -4.1581,
+      "y": 0.034,
+      "cluster": -1,
+      "snippet": "NONE OF MY  friends were there. Not that I had many—I dumped Felix, my first boyfriend, the second I moved back from school, because technically I was"
+    },
+    {
+      "page_num": 10,
+      "x": -6.6449,
+      "y": 0.7088,
+      "cluster": 3,
+      "snippet": "“Hey. I’m Marlowe.” Everybody knew who he was: the American writer who always carried speed. He had published a book in his early twenties, which was "
+    },
+    {
+      "page_num": 11,
+      "x": -4.6508,
+      "y": 2.9675,
+      "cluster": 4,
+      "snippet": "“I’m sorry, it’s just so tight in here,” he said. Against the visual noise of stickers and tags, I studied the rest of him: V-neck of his green shirt,"
+    },
+    {
+      "page_num": 12,
+      "x": -2.989,
+      "y": 2.4865,
+      "cluster": -1,
+      "snippet": "“I do this only for research,” I sniffled, and he laughed. It was so easy to make men laugh. It was the easiest thing in the world. “I’m writing a pap"
+    },
+    {
+      "page_num": 13,
+      "x": -5.7338,
+      "y": 2.7685,
+      "cluster": 4,
+      "snippet": "“You’re very beautiful,” he said. I started laughing and threw my head back, because I had never been beautiful. I had a strong, regal look to my face"
+    },
+    {
+      "page_num": 14,
+      "x": -5.9347,
+      "y": 0.5515,
+      "cluster": 3,
+      "snippet": "“Where were you?” I kissed her cheek. I introduced her to Marlowe, and she pointed at the group of people she came with, no one I recognized. She had "
+    },
+    {
+      "page_num": 15,
+      "x": -4.4746,
+      "y": 0.8289,
+      "cluster": -1,
+      "snippet": "Good Girl  Two  I DON’T RECALL IF  there was an actual fire alarm or if it was a sound effect of the music, because we didn’t talk about that. In the "
+    },
+    {
+      "page_num": 16,
+      "x": -4.0234,
+      "y": 2.5259,
+      "cluster": -1,
+      "snippet": "“Yes.” I breathed in and followed him. We walked through the courtyard, then into the back building, five stories up, and I touched the walls that hun"
+    },
+    {
+      "page_num": 17,
+      "x": -4.632,
+      "y": 2.9204,
+      "cluster": 4,
+      "snippet": "“I didn’t realize you could hear the floors move, even here, so high up.”  “The building breathes. It’s alive,” he said as he walked into the kitchen."
+    },
+    {
+      "page_num": 18,
+      "x": -4.4559,
+      "y": 3.1637,
+      "cluster": 4,
+      "snippet": "“You take pictures?” I asked when he returned carrying a blue tile with little white maids painted on it. He had put on a brown sweater, and his shoul"
+    },
+    {
+      "page_num": 19,
+      "x": -3.0473,
+      "y": 1.866,
+      "cluster": 1,
+      "snippet": "“No.” I smirked. “I’m just a student. Philosophy and art history.”  “Hmm. And you’re a real Berliner, then?”  I nodded.  “How was it growing up here?”"
+    },
+    {
+      "page_num": 20,
+      "x": -5.7662,
+      "y": 2.1072,
+      "cluster": 4,
+      "snippet": "“No one.” I omitted the fact that I came from exactly those  brutalist squares. He slipped off part of the jacket, revealing my shoulder. I tried out "
+    },
+    {
+      "page_num": 21,
+      "x": -5.6816,
+      "y": 2.1361,
+      "cluster": 4,
+      "snippet": "“You shouldn’t be at a party like that,” he said. “It’s not good for you.” His long fingers were everywhere—on my face and waist, my thighs. He breath"
+    },
+    {
+      "page_num": 22,
+      "x": -5.4642,
+      "y": 3.1149,
+      "cluster": 4,
+      "snippet": "A few minutes later he got up, and his face darkened, as if nothing transgressive had happened between us, and I understood that  he expected me not t"
+    },
+    {
+      "page_num": 23,
+      "x": -4.7517,
+      "y": 3.2708,
+      "cluster": 4,
+      "snippet": "“Don’t you dare. I’m not done with you yet.” It was what I had hoped to hear. I thought maybe we would have sex now, so I sat down on the couch and wa"
+    },
+    {
+      "page_num": 24,
+      "x": -3.5941,
+      "y": 2.8699,
+      "cluster": -1,
+      "snippet": "“Let me tell you something,” he said. “I had never seen snow  anywhere except on a mountain until I was fifteen years old.” He told me he grew up in N"
+    },
+    {
+      "page_num": 25,
+      "x": -3.0339,
+      "y": 2.7362,
+      "cluster": -1,
+      "snippet": "“It unyokes something from you. But you have already understood  that. I can see it.” He didn’t say much after that, and I was grateful for it.  “You "
+    },
+    {
+      "page_num": 26,
+      "x": -4.1856,
+      "y": 2.9672,
+      "cluster": 4,
+      "snippet": "“You should come up with me,” he said after a while. “I’d like to take your picture. Time to be a muse.” I climbed the white ladder, which led to a la"
+    },
+    {
+      "page_num": 27,
+      "x": -4.2843,
+      "y": 2.6391,
+      "cluster": -1,
+      "snippet": "“Enough.” He sighed and walked over to the window. Opened it a crack, cold air entering the room. Side by side we looked at the city from his apartmen"
+    },
+    {
+      "page_num": 28,
+      "x": -5.3834,
+      "y": 1.9067,
+      "cluster": 4,
+      "snippet": "Good Girl  Three  WE DIDN’T SLEEP  together that first Sunday, but when I left, he lent me a woolen coat, and in return I gave him my number. He said "
+    },
+    {
+      "page_num": 29,
+      "x": -4.5229,
+      "y": 3.0095,
+      "cluster": 4,
+      "snippet": "“Sorry. But I am here now, am I not?” I had been ignoring my phone all weekend.  “And whose coat is that?”  “Romy’s.”  “Quite big for her, isn’t it.” "
+    },
+    {
+      "page_num": 30,
+      "x": -3.6961,
+      "y": 0.6566,
+      "cluster": 1,
+      "snippet": "AFTER I LOCKED  myself in the bathroom, I installed three fingers into the cavern of my throat and immediately vomited the contents of the last wine i"
+    },
+    {
+      "page_num": 31,
+      "x": -3.0702,
+      "y": 1.0267,
+      "cluster": 1,
+      "snippet": "Good Girl  Four  GOOD,  I SAID  to Marlowe. But I could’ve said this: Berlin is onerous. The city is particular and historical and shattering. And I w"
+    },
+    {
+      "page_num": 32,
+      "x": -1.1638,
+      "y": 1.6737,
+      "cluster": -1,
+      "snippet": "In Germany, a baby was needed as an anchor to postpone deportation, and so I began as a clump of cells multiplying with fury  in my mother’s uterus. I"
+    },
+    {
+      "page_num": 33,
+      "x": -1.8852,
+      "y": 1.1492,
+      "cluster": 2,
+      "snippet": "MY PARENTS, YOU  understand, were doing okay in the other country. Karim fell in love with Anahita’s long black hair in a college chemistry class, and"
+    },
+    {
+      "page_num": 34,
+      "x": -1.4513,
+      "y": 0.9624,
+      "cluster": 2,
+      "snippet": "But exile makes you do the strangest things: When they arrived in Prague, border control forbade my mother from bringing in “foreign seeds.” Wordlessl"
+    },
+    {
+      "page_num": 35,
+      "x": -1.9961,
+      "y": -0.4266,
+      "cluster": 2,
+      "snippet": "MY MOTHER STARTED  working at the local retirement home under the euphemized title of “nurse,” though really she was just a maid for old people. My fa"
+    },
+    {
+      "page_num": 36,
+      "x": -1.5539,
+      "y": 1.0036,
+      "cluster": 2,
+      "snippet": "My parents coasted in and out of unemployment and took out loans to fund my schooling, keen to return to the social class from which they had been rip"
+    },
+    {
+      "page_num": 37,
+      "x": -1.8935,
+      "y": 1.2965,
+      "cluster": 2,
+      "snippet": "MY FATHER HAD  a good heart, the disposition of an artist. Too sensitive to face the cruelties of earth, his face lined with Nietzschean  Urschmerz.  "
+    },
+    {
+      "page_num": 38,
+      "x": -1.5184,
+      "y": 0.9004,
+      "cluster": 2,
+      "snippet": "THE LEBANESE PEOPLE  from apartment 12 bought a semi-detached. The Iranian girls snubbed me, called me  Gypsy Child  and  Jew Nose,  made fun of my pa"
+    },
+    {
+      "page_num": 39,
+      "x": -1.076,
+      "y": 1.81,
+      "cluster": -1,
+      "snippet": "You can’t trust anyone in this country,  my father said, always surveilling the door.  Look what they did to the Jews.  “But they aren’t Nazis,” my sc"
+    },
+    {
+      "page_num": 40,
+      "x": -1.847,
+      "y": 0.6801,
+      "cluster": 2,
+      "snippet": "“Your father is in prison,” teased the neighbors’ girls. Dilara’s father really was imprisoned, serving three years for the rape of a white girl. Sash"
+    },
+    {
+      "page_num": 41,
+      "x": -2.4527,
+      "y": 1.2453,
+      "cluster": 1,
+      "snippet": "Ash from barbecues in the park blackened our lungs. Poverty seeped and screeched from every corner, poverty and need—and I felt misunderstood, as if s"
+    },
+    {
+      "page_num": 42,
+      "x": -1.4916,
+      "y": 0.1225,
+      "cluster": -1,
+      "snippet": "We had a normal life once  was the refrain of my childhood. My parents were ashamed of their fate in this country with vandalized mosques and women wi"
+    },
+    {
+      "page_num": 43,
+      "x": -6.1727,
+      "y": 0.6036,
+      "cluster": 3,
+      "snippet": "Good Girl  Five  THE WEEK THAT  followed was devoid of communication. Marlowe didn’t text me, and mostly I was embarrassed by the crush I was developi"
+    },
+    {
+      "page_num": 44,
+      "x": -4.1158,
+      "y": -0.0198,
+      "cluster": -1,
+      "snippet": "Melanie, who was enrolled at the London College of Fashion, had emailed me a list of universities to apply to: four in London, one in Bristol, and two"
+    },
+    {
+      "page_num": 45,
+      "x": -4.0436,
+      "y": 2.154,
+      "cluster": 1,
+      "snippet": "I clicked through the scans of my photographs, the Portra 160 film texturing the faces of my friends from summer days. My mother holding an orange. I "
+    },
+    {
+      "page_num": 46,
+      "x": -4.1966,
+      "y": 2.069,
+      "cluster": 1,
+      "snippet": "Staging was easier with self-portraits, where I had unlimited attempts and full control. In one of my favorite pictures, I’m wearing all black, sittin"
+    },
+    {
+      "page_num": 47,
+      "x": -5.3093,
+      "y": 0.6997,
+      "cluster": 3,
+      "snippet": "FOR A WEEK , the only fresh air I breathed was the cold wind on the balcony, where I smoked when my father wasn’t home, watching the bus stop and boys"
+    },
+    {
+      "page_num": 48,
+      "x": -4.2949,
+      "y": 1.5741,
+      "cluster": -1,
+      "snippet": "After my seminar on French cathedrals the next day, I walked to the Alte Bibliothek. Colonial maple stain shone on wooden floors and spiny staircases,"
+    },
+    {
+      "page_num": 49,
+      "x": -2.0224,
+      "y": 0.7294,
+      "cluster": 2,
+      "snippet": "His mother had been a hippie—she tramped through America, bored with Illinois and her family on the outskirts of Champaign. Wore leather boots and eme"
+    },
+    {
+      "page_num": 50,
+      "x": -2.9174,
+      "y": 1.6112,
+      "cluster": 1,
+      "snippet": "From the first page, from the words  And then there was almost nothing left in my childhood bedroom, except for the blue tile my mother had given me f"
+    },
+    {
+      "page_num": 51,
+      "x": -3.5923,
+      "y": 0.8263,
+      "cluster": 1,
+      "snippet": "When I walked out of the library, I was febrile, as if carrying a wet and helpless animal in my hands. My breath quickened, and I walked into a café w"
+    },
+    {
+      "page_num": 52,
+      "x": -5.7109,
+      "y": 0.7955,
+      "cluster": 3,
+      "snippet": "Good Girl  Six  BECAUSE HE NEVER  texted me, I tried to engineer artificial run-ins with Marlowe: I went to every party, eyeliner caked on my lids, we"
+    },
+    {
+      "page_num": 53,
+      "x": -3.8455,
+      "y": -0.3164,
+      "cluster": -1,
+      "snippet": "Anna, on the other hand, was down to party. In school we had always been together, our companionship fastened by our mutual exclusion—she was a weirdo"
+    },
+    {
+      "page_num": 54,
+      "x": -5.4035,
+      "y": 1.8213,
+      "cluster": 4,
+      "snippet": "“Are you mad at me?” I asked on the train.  “No, oh my God, is this about your birthday? I’m sorry I forgot it! I’m not mad at you.” I was appalled by"
+    },
+    {
+      "page_num": 55,
+      "x": -3.7571,
+      "y": -0.1477,
+      "cluster": -1,
+      "snippet": "THEN I DRAGGED  Anna to the Bunker again, but she disappeared into the inky dark, dancing with a man with curly hair. It was the same old power dynami"
+    },
+    {
+      "page_num": 56,
+      "x": -4.989,
+      "y": 1.4612,
+      "cluster": -1,
+      "snippet": "My nipples hardened despite myself. It was a script, we were adhering to an ancient script, like when I was working in the café and imagining the men "
+    },
+    {
+      "page_num": 57,
+      "x": -4.7189,
+      "y": 1.3072,
+      "cluster": 3,
+      "snippet": "“Nila?” His voice, though intimate, startled me. “Nila,” Eli said again, this time more certain.  “Your voice is as annoying as ever,” I said.  He cam"
+    },
+    {
+      "page_num": 58,
+      "x": -4.1549,
+      "y": -1.1983,
+      "cluster": 0,
+      "snippet": "“I’m Doreen,” she said, and I suddenly felt overwhelmed by her physical presence: her clammy hand resting on my shoulder, the salt and sweat of her bo"
+    },
+    {
+      "page_num": 59,
+      "x": -5.0293,
+      "y": -0.6647,
+      "cluster": -1,
+      "snippet": "“She’s Eli’s old friend,” Doreen said of me. “She’s one of us.” She began humming the chant from  Freaks,  and although I desperately wanted to hate h"
+    },
+    {
+      "page_num": 60,
+      "x": -3.6206,
+      "y": 3.0001,
+      "cluster": -1,
+      "snippet": "“An exotic face,” his grandmother had said to me, perched at  the head of the large dining table. “Very sixties sense of fashion.” She loved speaking "
+    },
+    {
+      "page_num": 61,
+      "x": -5.1975,
+      "y": -0.9811,
+      "cluster": -1,
+      "snippet": "THE REST OF  the night was tinged with the blurry density of nostalgia. I observed Doreen, who spoke with ease about some book by Brecht during smoke "
+    },
+    {
+      "page_num": 62,
+      "x": -3.1757,
+      "y": 1.2624,
+      "cluster": 1,
+      "snippet": "I WAS SUBMERGED  in the sea of people in the strobing lights. Flash of white teeth, sickly sweet odor of marijuana ballooning from all directions. The"
+    },
+    {
+      "page_num": 63,
+      "x": -3.6551,
+      "y": -1.2284,
+      "cluster": 0,
+      "snippet": "“Yes,” she said. “But it’s complicated.” On her face a worried expression, or a warning, I couldn’t tell. What I knew, however,  was that I was not in"
+    },
+    {
+      "page_num": 64,
+      "x": -4.7116,
+      "y": -0.2123,
+      "cluster": -1,
+      "snippet": "“You deserve someone better,” I said, meaning it: Excitement and guilt mixed in me, and I sensed a perverse longing to right her  wrongs. It wasn’t to"
+    },
+    {
+      "page_num": 65,
+      "x": -4.5782,
+      "y": -1.5884,
+      "cluster": -1,
+      "snippet": "RICO LIVED IN  a shared apartment with thin walls, so the only room we could hang out in was the big kitchen. We lit taper candles dripping onto empty"
+    },
+    {
+      "page_num": 66,
+      "x": -4.6664,
+      "y": -1.4971,
+      "cluster": -1,
+      "snippet": "“No,” Tamara said, her voice hoarse from all the smoking. “It means you’re going through a transformation.” The conversation petered out, but I couldn"
+    },
+    {
+      "page_num": 67,
+      "x": -5.1619,
+      "y": -1.5651,
+      "cluster": -1,
+      "snippet": "OUTSIDE, TAMARA INVITED  the rest of us to grab food together. The pizza place had a ramshackle interior, plastic furniture and screeching yellow sign"
+    },
+    {
+      "page_num": 68,
+      "x": -4.9455,
+      "y": -1.303,
+      "cluster": -1,
+      "snippet": "“You can’t really do anything against it, can you,” Tamara said, with a curious grin. “People will have to move eventually.”  His face tensed up. Dore"
+    },
+    {
+      "page_num": 69,
+      "x": -5.0643,
+      "y": -0.612,
+      "cluster": -1,
+      "snippet": "“Anyway,” Eli said. He and Doreen looked at each other for what seemed like forever. When I asked Tamara what she was doing for work, she said she was"
+    },
+    {
+      "page_num": 70,
+      "x": -5.5317,
+      "y": 1.5781,
+      "cluster": 3,
+      "snippet": "He got off at Kottbusser Tor.  Bye,  I waved, confused and nervous as a grass stalk in the rain. Eli was still on the platform in his black jacket, en"
+    },
+    {
+      "page_num": 71,
+      "x": -1.8897,
+      "y": -0.904,
+      "cluster": 2,
+      "snippet": "Good Girl  Seven  TO AN OUTSIDER , it might look like I come from a family of hitters. But it was our love language. Sometimes the only way we touched"
+    },
+    {
+      "page_num": 72,
+      "x": -1.8734,
+      "y": -0.853,
+      "cluster": 2,
+      "snippet": "In contrast, my parents were soft. European, almost. They didn’t leave marks. And never hit each other, not that I know of. Of course, the belt was so"
+    },
+    {
+      "page_num": 73,
+      "x": -2.5489,
+      "y": -0.9363,
+      "cluster": -1,
+      "snippet": "She was openly humiliated that parent-teacher conferences could be held only in my presence. Her eyes turned a lighter color, her pupils small as need"
+    },
+    {
+      "page_num": 74,
+      "x": -1.9976,
+      "y": -0.8608,
+      "cluster": 2,
+      "snippet": "“Don’t do that,” my mother once reprimanded me when she caught me with the green bear between my legs. “That’s disgusting. Good girls don’t do such th"
+    },
+    {
+      "page_num": 75,
+      "x": -2.7888,
+      "y": -0.1482,
+      "cluster": -1,
+      "snippet": "On the way home, she stopped in front of the window of a closed antiques shop, mesmerized by the frosty lamp, the oblong golden mirror. The lamp irrad"
+    },
+    {
+      "page_num": 76,
+      "x": -2.2458,
+      "y": 0.4026,
+      "cluster": 2,
+      "snippet": "She sizzled with historical facts, snapshots about the city being rebuilt after the Second World War. Checkpoint Charlie, Berlin’s heart cut into four"
+    },
+    {
+      "page_num": 77,
+      "x": -2.25,
+      "y": -0.6017,
+      "cluster": -1,
+      "snippet": "When I came home, the apartment was dark, and a lurid odor lingered. The windows were thrown open, and two flies had made it inside, buzzing around th"
+    },
+    {
+      "page_num": 78,
+      "x": -1.7561,
+      "y": -0.4587,
+      "cluster": 2,
+      "snippet": "“She needs to go to the hospital,” I said, shaking my father awake. My father, grunting, accepted. Blood trickled between my mother’s slippers on the "
+    },
+    {
+      "page_num": 79,
+      "x": -2.1756,
+      "y": -0.6906,
+      "cluster": 2,
+      "snippet": "I pouted and played with my hair, convinced that a terrible darkness dwelt in my mother. I still yearned for her, but whenever she tried to be kind to"
+    },
+    {
+      "page_num": 80,
+      "x": -2.565,
+      "y": -0.0539,
+      "cluster": -1,
+      "snippet": "“Do you need help?” the woman asked me with urgency. She must’ve seen in me what I saw in the deformed dog that the neo-Nazis kept, or the beggar with"
+    },
+    {
+      "page_num": 81,
+      "x": -4.1419,
+      "y": 0.6109,
+      "cluster": -1,
+      "snippet": "Good Girl  Eight  THE SKY TURNED  a garish blue, and the entire city was busy shoveling snow and salting the streets. My nose hair froze on my way to "
+    },
+    {
+      "page_num": 82,
+      "x": -5.9809,
+      "y": 0.6047,
+      "cluster": 3,
+      "snippet": "“Hi,” Marlowe said, but barely even smiled. My insides turned to ice. I made small talk with Eli and the others, then observed Marlowe with fastidious"
+    },
+    {
+      "page_num": 83,
+      "x": -3.837,
+      "y": 0.2673,
+      "cluster": 1,
+      "snippet": "Tamara and I vanished into a toilet booth, and we dipped MDMA out of a purple baggie. The pure crystals still a novelty  back then, turning me mellow "
+    },
+    {
+      "page_num": 84,
+      "x": -5.0294,
+      "y": -0.9383,
+      "cluster": -1,
+      "snippet": "“You missed me,” I repeated, laughing, aware of Doreen sitting right next to him on one of the yellow chairs, her fingers  drumming against her thigh,"
+    },
+    {
+      "page_num": 85,
+      "x": -5.9037,
+      "y": -0.0052,
+      "cluster": 3,
+      "snippet": "We talked about things I barely recall—the Bunker’s architecture,  the DJ who played an hour ago, whom Marlowe once saw perform at a festival.  “Sorry"
+    },
+    {
+      "page_num": 86,
+      "x": -4.0189,
+      "y": 2.7331,
+      "cluster": -1,
+      "snippet": "“What are you, Robert Mapplethorpe? This is an amazing picture.”  “Very funny,” he said.  “I mean it. It’s a very good picture.” He showed me the phot"
+    },
+    {
+      "page_num": 87,
+      "x": -5.2412,
+      "y": 3.2783,
+      "cluster": 4,
+      "snippet": "He laughed and said, “You know it’s complicated. We’re not really in a relationship.” I was aware that he expected me to ask another question, that he"
+    },
+    {
+      "page_num": 88,
+      "x": -3.4461,
+      "y": 3.0582,
+      "cluster": -1,
+      "snippet": "“I was so young then. I had that one job in life, and afterward a great silence set in. This silence was both frightening and relieving. Like I was fr"
+    },
+    {
+      "page_num": 89,
+      "x": -2.6967,
+      "y": 0.6155,
+      "cluster": -1,
+      "snippet": "I told him a story I had heard in school: The mother of one of the girls had been given Tolstoy’s  Anna Karenina  by a young co-worker, and she read i"
+    },
+    {
+      "page_num": 90,
+      "x": -5.639,
+      "y": 2.7508,
+      "cluster": 4,
+      "snippet": "I started laughing at this, but he didn’t chime in. When I looked at him, I understood he was serious.  “I’m just kidding.” He smiled, widening his ey"
+    },
+    {
+      "page_num": 91,
+      "x": -3.683,
+      "y": -1.118,
+      "cluster": 0,
+      "snippet": "“Of course I think about her, but there’s never been a response, even after I sent her the book. She’s married now and lives somewhere in L.A., doing "
+    },
+    {
+      "page_num": 92,
+      "x": -5.5364,
+      "y": 2.9296,
+      "cluster": 4,
+      "snippet": "“Now you know what you’re getting yourself into.” He kissed me with unexpected force. I pulled away, unable to reconcile him with the man who had touc"
+    },
+    {
+      "page_num": 93,
+      "x": -5.0391,
+      "y": 2.829,
+      "cluster": 4,
+      "snippet": "For a while we just lay there on his mattress, dozing, and I thought I could feel the city’s loneliness—the exhaust fumes and mulled wine and dirty sn"
+    },
+    {
+      "page_num": 94,
+      "x": -1.6321,
+      "y": 0.6423,
+      "cluster": 2,
+      "snippet": "Good Girl  Nine  OF COURSE, I  had tried to be good. But the women in my family have always been misfits. My father’s side—the only one I knew and liv"
+    },
+    {
+      "page_num": 95,
+      "x": -1.9687,
+      "y": 0.1876,
+      "cluster": 2,
+      "snippet": "But her daughter became mentally ill, and her quasi-battered husband tried to hang himself from the shower with the belt she had given him for his bir"
+    },
+    {
+      "page_num": 96,
+      "x": -1.9766,
+      "y": 0.05,
+      "cluster": 2,
+      "snippet": "Eventually, my aunts picked her up at a gas station by the Czech border. She’d used the payphone to call home and asked explicitly for her mother, my "
+    },
+    {
+      "page_num": 97,
+      "x": -1.9559,
+      "y": 0.3747,
+      "cluster": 2,
+      "snippet": "I liked her, despite her preposterous soap-opera truisms—she had ruined the family honor. But now she was endowed with the glamour of tragedy, like st"
+    },
+    {
+      "page_num": 98,
+      "x": -1.845,
+      "y": 0.5839,
+      "cluster": 2,
+      "snippet": "WHEN I WAS  younger, younger even than when Nadia had run away—an occurrence so sharp in my memory that it marked a clear before and after of my life—"
+    },
+    {
+      "page_num": 99,
+      "x": -2.5285,
+      "y": 0.9826,
+      "cluster": 1,
+      "snippet": "My parents must’ve sensed the illness sprout in me, because they discouraged friendships but reinforced an infinite supply of books. But the real know"
+    },
+    {
+      "page_num": 100,
+      "x": -4.2168,
+      "y": 0.8677,
+      "cluster": -1,
+      "snippet": "Good Girl  Ten  I RETURNED HIS COAT , reluctantly. For a couple of weeks we met at parties, but also in private—as friends, walking through snowy stre"
+    },
+    {
+      "page_num": 101,
+      "x": -4.1239,
+      "y": 3.1095,
+      "cluster": 4,
+      "snippet": "“You should develop your own film.” The next time I saw him, he handed me a plastic tote with three rolls of black-and-white Neopan 400 Fujifilm, a re"
+    },
+    {
+      "page_num": 102,
+      "x": -5.4626,
+      "y": 3.3622,
+      "cluster": 4,
+      "snippet": "He called these dinners  reading time.  The MDMA would start kicking in after two drinks, during the main course, and I’d have to go to the bathroom a"
+    },
+    {
+      "page_num": 103,
+      "x": -5.0815,
+      "y": 3.3401,
+      "cluster": 4,
+      "snippet": "The moments when we entered his apartment and he took a few minutes to get ready were my favorite. I sat on the sofa, listening to my breath and the s"
+    },
+    {
+      "page_num": 104,
+      "x": -5.4271,
+      "y": 3.2772,
+      "cluster": 4,
+      "snippet": "“Don’t be so prudish,” he said when I looked at him in disbelief, and I followed him into the bathroom, and he knelt in front of me under the stream o"
+    },
+    {
+      "page_num": 105,
+      "x": -4.0418,
+      "y": 1.4822,
+      "cluster": 1,
+      "snippet": "Wilting in the stuffy air of the heaters, the oxygen thick between us, Marlowe and I laughed. He demanded I tell him the worst thing that had ever hap"
+    },
+    {
+      "page_num": 106,
+      "x": -5.269,
+      "y": 3.3291,
+      "cluster": 4,
+      "snippet": "I DIDN’T UNDERSTAND  the rules. I didn’t even fully comprehend it was a game—it seemed that we were waiting, and eventually I would be ushered through"
+    },
+    {
+      "page_num": 107,
+      "x": -6.5876,
+      "y": 0.6443,
+      "cluster": 3,
+      "snippet": "But perhaps the best picture of that time is of Marlowe: He’s lying on his mattress, wearing nothing but a watch and his necklace, the white sheet cov"
+    },
+    {
+      "page_num": 108,
+      "x": -4.1998,
+      "y": 2.1513,
+      "cluster": 1,
+      "snippet": "Developing pictures too was an act of chemistry and patience and precision. The darkened window, the exact temperature of water and solution, the fixe"
+    },
+    {
+      "page_num": 109,
+      "x": -5.2731,
+      "y": -1.5746,
+      "cluster": -1,
+      "snippet": "Good Girl  Eleven  THE QURBANI BAKERY  in our neighborhood was owned by two Afghan brothers, but they ran it more like a café: tables and chairs, a gl"
+    },
+    {
+      "page_num": 110,
+      "x": -3.5111,
+      "y": 2.8168,
+      "cluster": -1,
+      "snippet": "On one of the stools, the shop cat, Jackie, lounged. She was a mouser in the kiosk down the street but had chosen the bakery as her preferred home. Or"
+    },
+    {
+      "page_num": 111,
+      "x": -1.9211,
+      "y": 1.524,
+      "cluster": 2,
+      "snippet": "He was trying to shame me, in the slant Afghan way: Only a bad daughter would leave her widowed father alone on New Year’s  Eve. His civility was hypo"
+    },
+    {
+      "page_num": 112,
+      "x": -4.2202,
+      "y": 0.4937,
+      "cluster": -1,
+      "snippet": "I WOLFED DOWN  the Danish and coffee and walked the length of two bus stops, then left the bread with a homeless man at the corner. He bowed and pushe"
+    },
+    {
+      "page_num": 113,
+      "x": -5.082,
+      "y": -0.0567,
+      "cluster": -1,
+      "snippet": "ANNA AND ROMY  had invited me to a raclette dinner, but I decided at the last minute that the more interesting conversations would probably be happeni"
+    },
+    {
+      "page_num": 114,
+      "x": -4.1601,
+      "y": 2.6551,
+      "cluster": -1,
+      "snippet": "“What I mean: It’s gorgeous here. I can’t believe how beautiful the interior architecture is.” I had rehearsed what I wanted to say:  mention architec"
+    },
+    {
+      "page_num": 115,
+      "x": -5.1048,
+      "y": 0.1736,
+      "cluster": -1,
+      "snippet": "“Gabriela is not just an architect.” Doreen’s voice regained a common pitch. “Hasn’t Marlowe told you all about it? Gabriela’s family owns this hotel;"
+    },
+    {
+      "page_num": 116,
+      "x": -4.875,
+      "y": -0.3185,
+      "cluster": -1,
+      "snippet": "The DJ stopped the music, and a young woman in a black jumpsuit took the mic and mentioned the great accomplishment for the firm and the publisher and"
+    },
+    {
+      "page_num": 117,
+      "x": -5.1408,
+      "y": -0.7013,
+      "cluster": -1,
+      "snippet": "“Eli!” I shouted a little too loudly, startling Tamara. I stood up and ran over to him, hugged him and his cold coat. When we sat back down, Doreen to"
+    },
+    {
+      "page_num": 118,
+      "x": -3.7085,
+      "y": -1.0511,
+      "cluster": 0,
+      "snippet": "“Okay,” I relented. She stood very close to me, putting a hand on my shoulder.  “You’re cute,” she whispered. Her breath was warm, and she smelled of "
+    },
+    {
+      "page_num": 119,
+      "x": -4.9282,
+      "y": -0.2514,
+      "cluster": -1,
+      "snippet": "It wasn’t just the tone of condescension in her voice. It was the fact that she let me understand anew that she and Marlowe were talking about me. Tha"
+    },
+    {
+      "page_num": 120,
+      "x": -3.1466,
+      "y": -0.9825,
+      "cluster": -1,
+      "snippet": "I wasn’t dumb, I knew that her  I need only you  announced a threat, the way my family’s  I love you s were manipulation strategies with only one goal"
+    },
+    {
+      "page_num": 121,
+      "x": -3.2365,
+      "y": 0.2374,
+      "cluster": -1,
+      "snippet": "“Ta-da,” she said once we arrived, and the wind spanked our faces. The rooftop bar was closed, of course, but she said she knew the entrance because s"
+    },
+    {
+      "page_num": 122,
+      "x": -4.4576,
+      "y": -1.1463,
+      "cluster": 0,
+      "snippet": "“Yes, I’m sorry.” The abrasive speed trickled down my throat.  “You are sorry.”  “The whole thing is kind of an accident,” I said.  “An accident? You "
+    },
+    {
+      "page_num": 123,
+      "x": -1.93,
+      "y": -0.9076,
+      "cluster": 2,
+      "snippet": "Good Girl  Twelve  THE SPRING AFTER  I turned twelve, I jumped out of my grandmother’s second-floor apartment and into a row of bushes because she rep"
+    },
+    {
+      "page_num": 124,
+      "x": -1.755,
+      "y": -0.3073,
+      "cluster": 2,
+      "snippet": "I cried and hit my head against the wall, and my crying changed the air in the apartment. It made my father angry, and my mother begged me to stop; an"
+    },
+    {
+      "page_num": 125,
+      "x": -1.6566,
+      "y": -0.4492,
+      "cluster": 2,
+      "snippet": "THE PRINCIPAL FIGHT  of my home ensued shortly thereafter. My mother snubbed my father for days, locked herself up. Shrieking, crying, vowels muttered"
+    },
+    {
+      "page_num": 126,
+      "x": -1.5786,
+      "y": -0.5649,
+      "cluster": 2,
+      "snippet": "LATER, AFTER DELIVERING  a frantic litany of sorrows— Sabrina’s arrogance appalls me; she never even eats; has anyone seen her eat something besides t"
+    },
+    {
+      "page_num": 127,
+      "x": -2.6326,
+      "y": 1.4961,
+      "cluster": 1,
+      "snippet": "“Remember when you were in first grade and your teacher invited us over?”  “Frau Klein thought you had a German parent because your language skills we"
+    },
+    {
+      "page_num": 128,
+      "x": -2.5115,
+      "y": 0.9948,
+      "cluster": 1,
+      "snippet": "I PROTESTED AND  cried, but to no avail—my parents applied on my behalf, and I received a full ride. A check from Sabrina for cafeteria cards. It wasn"
+    },
+    {
+      "page_num": 129,
+      "x": -2.2865,
+      "y": 1.0576,
+      "cluster": 1,
+      "snippet": "BUT DESIRE CAN’T  be girdled, especially not the lavish, life-altering, catastrophic kind that girls feel for wildness. And thus my life at Rosenwald "
+    },
+    {
+      "page_num": 130,
+      "x": -3.4,
+      "y": 1.4325,
+      "cluster": 1,
+      "snippet": "Summers, I returned with a straighter back. The train ride made me retch, the sight of the building always, always, broke my heart. I couldn’t believe"
+    },
+    {
+      "page_num": 131,
+      "x": -2.6538,
+      "y": 0.2595,
+      "cluster": -1,
+      "snippet": "AT SCHOOL, THE  girls wore padded down jackets and boots I had seen only in equestrian ads. They knew how to ride horses and drank expensive water and"
+    },
+    {
+      "page_num": 132,
+      "x": -2.7477,
+      "y": 1.9819,
+      "cluster": 1,
+      "snippet": "Throughout the academic year, I lived in a room with a window looking out onto a Norway maple. I had written a quote from Goethe’s  Die Leiden des Jun"
+    },
+    {
+      "page_num": 133,
+      "x": -5.6582,
+      "y": 1.0147,
+      "cluster": 3,
+      "snippet": "Good Girl  Thirteen  I RAN OUT OF  the party after the confrontation, embarrassed and high, and walked home for three hours through the snow, promisin"
+    },
+    {
+      "page_num": 134,
+      "x": -5.0034,
+      "y": -1.1846,
+      "cluster": -1,
+      "snippet": "THE NEW SEMESTER  started in the middle of January, and I was enrolled in only one class, which was cross-listed for both graduate and undergraduate l"
+    },
+    {
+      "page_num": 135,
+      "x": -5.0725,
+      "y": -1.3143,
+      "cluster": -1,
+      "snippet": "The professor dimmed the lights and began class with an excursion into Kafka’s life. There was a photograph of Kafka projected onto the white screen, "
+    },
+    {
+      "page_num": 136,
+      "x": -4.822,
+      "y": -0.1678,
+      "cluster": -1,
+      "snippet": "AFTER CLASS, WE  walked to a café outside the university plaza, all dusky tiles and a plethora of plants hanging from the ceiling. I followed Doreen’s"
+    },
+    {
+      "page_num": 137,
+      "x": -4.3861,
+      "y": -0.6911,
+      "cluster": 0,
+      "snippet": "“Well, her name is Hannah, and I was friends with her—I met her at a party, like we did. There was tension between Marlowe and me from the beginning. "
+    },
+    {
+      "page_num": 138,
+      "x": -4.5028,
+      "y": 1.1179,
+      "cluster": -1,
+      "snippet": "I twitched, as if she were swirling the coffee spoon in the depths of my throat. I was embarrassed, remembering the first night with Marlowe, how long"
+    },
+    {
+      "page_num": 139,
+      "x": -3.8017,
+      "y": -1.0882,
+      "cluster": 0,
+      "snippet": "“Listen, everyone knows what love is. You will be swayed by it.” She took out one of her hoop earrings and placed it on the table. Then she stretched "
+    },
+    {
+      "page_num": 140,
+      "x": -3.5181,
+      "y": 1.2127,
+      "cluster": 1,
+      "snippet": "I walked to the left, and my ears hurt from the cold. A man ushered a woman with a purple hat into the back of his taxi—an older woman with skin so th"
+    },
+    {
+      "page_num": 141,
+      "x": -3.4004,
+      "y": 0.0031,
+      "cluster": -1,
+      "snippet": "Good Girl  Fourteen  DOREEN AND I  sat in silence on the train as we rode to the better part of Neukölln. For ten minutes we avoided looking directly "
+    },
+    {
+      "page_num": 142,
+      "x": -3.1406,
+      "y": 0.1958,
+      "cluster": -1,
+      "snippet": "Attached to her room was a balcony overlooking the street and adjacent buildings. The balcony, I imagined, elicited suicidal tendencies in Leon, becau"
+    },
+    {
+      "page_num": 143,
+      "x": -4.8643,
+      "y": 1.1626,
+      "cluster": 3,
+      "snippet": "“Thanks,” I said. “Your nose isn’t really prominent, though.”  She squinted at me. “Did I ever tell you that Eli helped me paint the kitchen last year"
+    },
+    {
+      "page_num": 144,
+      "x": -5.0395,
+      "y": 2.6413,
+      "cluster": 4,
+      "snippet": "“It’s not important.” He pulled his hood up and stared in the other direction, then leaned down to stroke the cat.  “If you say so.” The neighborhood "
+    },
+    {
+      "page_num": 145,
+      "x": -3.2033,
+      "y": 1.0948,
+      "cluster": 1,
+      "snippet": "Good Girl  Fifteen  THE SNOW WOULD  not melt. It glowed on rooftops and trash cans and set in our hair, and I was sure that spring would never come. I"
+    },
+    {
+      "page_num": 146,
+      "x": -2.2997,
+      "y": 2.2075,
+      "cluster": 1,
+      "snippet": "But the tone in his voice depressed me, and I did not want to or  could not bring myself to think of these instances for too long—the bombings in immi"
+    },
+    {
+      "page_num": 147,
+      "x": -5.2748,
+      "y": 2.7567,
+      "cluster": 4,
+      "snippet": "I felt newly shy around him. He, wearing his leather jacket,  leaning against a wall or his foot pressed on a chair, looked amused. In his gaze I felt"
+    },
+    {
+      "page_num": 148,
+      "x": -5.1176,
+      "y": -1.2853,
+      "cluster": -1,
+      "snippet": "THE PROFESSOR ASSIGNED  Kafka’s  Brief an den Vater,  and I read it on the train home, eyes fused to thin pages. Kafka begins by listing his father’s "
+    },
+    {
+      "page_num": 149,
+      "x": -3.4452,
+      "y": 0.809,
+      "cluster": 1,
+      "snippet": "“I’m sorry,” I muttered. It was a suffocating February evening; the radiator shrilled. A pot of tea stood on my nightstand, and I was too lazy to pour"
+    },
+    {
+      "page_num": 150,
+      "x": -4.5097,
+      "y": 2.0027,
+      "cluster": 1,
+      "snippet": "He laughed, but I really didn’t like him saying my most private nickname, which on top of it all, he mispronounced. I decided not to correct him; the "
+    },
+    {
+      "page_num": 151,
+      "x": -5.0428,
+      "y": -1.3106,
+      "cluster": -1,
+      "snippet": "“Well, now is the time. Sure, there might be darkness. And pain. And knives we will twist inside each other or whatever that emo Kafka was writing abo"
+    },
+    {
+      "page_num": 152,
+      "x": -5.0158,
+      "y": 0.4846,
+      "cluster": 3,
+      "snippet": "Good Girl  Sixteen  THE BUNKER WAS  housed in a former heating plant. Gray concrete, with narrow rectangular windows that resembled slits. It stood su"
+    },
+    {
+      "page_num": 153,
+      "x": -3.9075,
+      "y": 2.8535,
+      "cluster": -1,
+      "snippet": "“Will Doreen be here?” I asked. The snowmelt unveiled networks of grass. The earliest buds of spring emerged. I still hadn’t told him the truth, about"
+    },
+    {
+      "page_num": 154,
+      "x": -5.1372,
+      "y": -1.1709,
+      "cluster": -1,
+      "snippet": "DOREEN AND I  had become curiously close—we went to Kafka’s Minor Literature together and stayed for the length of several cigarettes in the courtyard"
+    },
+    {
+      "page_num": 155,
+      "x": -6.1763,
+      "y": 0.8369,
+      "cluster": 3,
+      "snippet": "When it was our turn, the bouncer looked at us for a moment too long. It wasn’t the guy with the face tattoos but another bullish creature. Thick lens"
+    },
+    {
+      "page_num": 156,
+      "x": -4.4528,
+      "y": -1.5161,
+      "cluster": -1,
+      "snippet": "Inside, Tamara was seated on a barstool, licking at a dark ice  cone. Her hair was clasped into a high ponytail, and she had an indefinable black smud"
+    },
+    {
+      "page_num": 157,
+      "x": -5.4618,
+      "y": -0.2922,
+      "cluster": -1,
+      "snippet": "“Here you are.” Marlowe pulled at my ponytail when I reached the bar. “Can you give me some cash? I spent mine on the entry fee.” I was happy to be he"
+    },
+    {
+      "page_num": 158,
+      "x": -5.3078,
+      "y": -0.3776,
+      "cluster": -1,
+      "snippet": "“Are you jealous?” Marlowe rammed an elbow into my ribs, and I realized I hadn’t said a single word yet.  Doreen beamed. “Do you want to steal Eli too"
+    },
+    {
+      "page_num": 159,
+      "x": -2.9874,
+      "y": 2.853,
+      "cluster": -1,
+      "snippet": "“Life is so crazy. Look how far we have come.”  “All the way from that garage where you practiced music and thought you’d become Nirvana.”  “And still"
+    },
+    {
+      "page_num": 160,
+      "x": -2.4259,
+      "y": 1.9841,
+      "cluster": 1,
+      "snippet": "I WOULD OFTEN  reminisce on this scene in the following years: how surprising it was, his blunt earnestness. Until that point, I believed all of us we"
+    },
+    {
+      "page_num": 161,
+      "x": -5.5627,
+      "y": 1.3457,
+      "cluster": 3,
+      "snippet": "BACK IN THE  club’s darkness, I rubbed the shit off in the bathroom, and Eli had to work the coat check for three hours. Although I was afraid of Marl"
+    },
+    {
+      "page_num": 162,
+      "x": -4.1712,
+      "y": -0.8235,
+      "cluster": 0,
+      "snippet": "“I just saw the meaning of life,” I said to Tamara, and sat down next to her. She was chewing gum and looked at her fingernails.  “I want acid,” she s"
+    },
+    {
+      "page_num": 163,
+      "x": -1.5673,
+      "y": -0.1756,
+      "cluster": 2,
+      "snippet": "“It’s like that bombing in Bremen.” Tamara took the cigarette out of my mouth and puffed on it. “Do you guys remember that? My mother was so scared.” "
+    },
+    {
+      "page_num": 164,
+      "x": -4.8306,
+      "y": 0.3344,
+      "cluster": -1,
+      "snippet": "As I poured myself another drink, Doreen brought up another topic: A German politician had recently published a book,  Germany Abolishes Itself,  whic"
+    },
+    {
+      "page_num": 165,
+      "x": -2.8337,
+      "y": 1.2748,
+      "cluster": 1,
+      "snippet": "I remembered the darkness that  Platform  had opened over my life. I loved the writing and had read it many years after it came  out, when I was datin"
+    },
+    {
+      "page_num": 166,
+      "x": -5.6595,
+      "y": 0.8733,
+      "cluster": 3,
+      "snippet": "“That’s not very Gatsby of you,” Doreen said. For the first week or two, our friends paid, but then Marlowe started handing it out for free again. And"
+    },
+    {
+      "page_num": 167,
+      "x": -5.0944,
+      "y": 3.0944,
+      "cluster": 4,
+      "snippet": "“Papa—” I stopped myself. “I was with Romy, you can call them. . . .”  “You make me sick,” he said. “You want to kill me.” And although he raised his "
+    },
+    {
+      "page_num": 168,
+      "x": -2.7156,
+      "y": 1.5928,
+      "cluster": 1,
+      "snippet": "I lay in the bathtub, combed out the cigarette smoke and dirt from my hair, saw the faintest fractal shapes in the air, but mostly I stared at a point"
+    },
+    {
+      "page_num": 169,
+      "x": -6.005,
+      "y": 1.3885,
+      "cluster": 3,
+      "snippet": "Good Girl  Seventeen  BIRDS STUDDED THE  canal, and groups of friends traipsed by my bike. That evening, I had drunk too much Aperol, and the alcohol "
+    },
+    {
+      "page_num": 170,
+      "x": -5.7816,
+      "y": 1.3743,
+      "cluster": 3,
+      "snippet": "Seated on the rug by his coffee table, we ate vegan sandwiches on sprouted rye and drank lemonade out of glass bottles. Then we snorted some speed, an"
+    },
+    {
+      "page_num": 171,
+      "x": -5.3116,
+      "y": 1.1949,
+      "cluster": 3,
+      "snippet": "Sometimes even this was not enough, and I yearned for more—spit and welts, for the glitter of skin and bites to accumulate in violent domination, to a"
+    },
+    {
+      "page_num": 172,
+      "x": -5.6542,
+      "y": 0.4176,
+      "cluster": 3,
+      "snippet": "We wandered through the meadow afterward, and sunset cracked the sky into a vehement orange. As Marlowe and Rico walked ahead, I stopped to light a ci"
+    },
+    {
+      "page_num": 173,
+      "x": -4.6729,
+      "y": -1.5276,
+      "cluster": -1,
+      "snippet": "Rico told us a story of his lover, the dancer who played Creon: He was in love with him, he said, but the dancer was still in love with Amelie, a woma"
+    },
+    {
+      "page_num": 174,
+      "x": -4.1195,
+      "y": 2.0045,
+      "cluster": 1,
+      "snippet": "A few photographs of that day still exist, but the film turned out blurry. My hands were shaky from the drugs, and the old Lomo had a faulty shutter, "
+    },
+    {
+      "page_num": 175,
+      "x": -5.7047,
+      "y": 0.2421,
+      "cluster": 3,
+      "snippet": "AFTER RICO’S ROOMMATE  kicked us out, Marlowe and I went home by bike. We tarried rather than cycled through the humid air on Geibelstraße, and perche"
+    },
+    {
+      "page_num": 176,
+      "x": -6.4622,
+      "y": 0.7637,
+      "cluster": 3,
+      "snippet": "We were stunned into silence for the rest of the ride. At home, Marlowe quickly drifted into sleep. I observed him with the lull of perverse fascinati"
+    },
+    {
+      "page_num": 177,
+      "x": -5.6645,
+      "y": 2.935,
+      "cluster": 4,
+      "snippet": "It unsettled me when he held me like this, as if he was suddenly afraid to hurt me. He kept brushing my hair with his fingers and telling me of Califo"
+    },
+    {
+      "page_num": 178,
+      "x": -2.9923,
+      "y": -0.4966,
+      "cluster": 0,
+      "snippet": "Good Girl  Eighteen  BUT MARLOWE WASN’T  the first person I loved. The first person was a girl I met the summer my mother would die, when I was back h"
+    },
+    {
+      "page_num": 179,
+      "x": -1.7151,
+      "y": -0.7912,
+      "cluster": 2,
+      "snippet": "A small iridescent spider crawled from underneath the apartment door to the hallway, and I shuddered as I carried the purple net bag of potatoes into "
+    },
+    {
+      "page_num": 180,
+      "x": -1.5727,
+      "y": 0.5319,
+      "cluster": 2,
+      "snippet": "The religious families seemed happier to me, calmer. Their homes were always clean. They looked like they didn’t fight, had mothers who were content w"
+    },
+    {
+      "page_num": 181,
+      "x": -1.7006,
+      "y": 0.9674,
+      "cluster": 2,
+      "snippet": "And I could’ve cooperated; I could have been content with those limitations. I could’ve learned from Nadia’s mistake and become like the other girls, "
+    },
+    {
+      "page_num": 182,
+      "x": -3.4299,
+      "y": 0.4302,
+      "cluster": -1,
+      "snippet": "So why was I plagued by some strange splinter, why did I have to snort every drug and go to every party, always running farther than everyone else, to"
+    },
+    {
+      "page_num": 183,
+      "x": -3.8695,
+      "y": -0.831,
+      "cluster": 0,
+      "snippet": "“Yes,” I said. “I’m okay, but I miss you.” And I’d babble on, waiting for her to tell me that she loved me too. Empty promises of coffee dates, of mov"
+    },
+    {
+      "page_num": 184,
+      "x": -3.3377,
+      "y": -0.5802,
+      "cluster": 0,
+      "snippet": "“I’m here for the summer.” A leggy, almost androgynously slim girl with raven-dark hair she wore in a French bob, with two strands falling into her ey"
+    },
+    {
+      "page_num": 185,
+      "x": -3.5193,
+      "y": -0.7292,
+      "cluster": 0,
+      "snippet": "NOW, THINKING OF  Setareh, she is water in my hands: cooling, elusive. An oceanic feeling seeps through my mind, and she is always there, those murky "
+    },
+    {
+      "page_num": 186,
+      "x": -3.9653,
+      "y": -0.248,
+      "cluster": -1,
+      "snippet": "ONE MONDAY, LABHAN  seemed unhappy that he had booked too many waitresses and sent us away “because of rain.” Setareh was in a particularly peculiar m"
+    },
+    {
+      "page_num": 187,
+      "x": -3.5739,
+      "y": -0.9106,
+      "cluster": 0,
+      "snippet": "She swam away with assertive, quick strokes. That entire afternoon she drifted far from me, absorbed in her own azure planet, drawing circles in the m"
+    },
+    {
+      "page_num": 188,
+      "x": -2.9014,
+      "y": -0.6015,
+      "cluster": 0,
+      "snippet": "We took the tram to her house. Absentmindedly, she stared out the window. Her eyes were a greenish brown, the color of clouds in the sky before it rai"
+    },
+    {
+      "page_num": 189,
+      "x": -3.7556,
+      "y": -1.3098,
+      "cluster": 0,
+      "snippet": "“I don’t know,” I said, placing the cup on the floor. Her bracelet gleamed. I lifted her hand to my face and kissed the bone of her wrist. Her breathi"
+    },
+    {
+      "page_num": 190,
+      "x": -2.9416,
+      "y": -0.7817,
+      "cluster": 0,
+      "snippet": "“Let’s go to my room,” she said. I followed her, stupefied, into the small room with the yellow satin curtains hanging from the window. The soothing s"
+    },
+    {
+      "page_num": 191,
+      "x": -1.6517,
+      "y": -0.2292,
+      "cluster": 2,
+      "snippet": "MY MOTHER DIED  a week later. “I feel very tired,” she said in the morning, and by 7:31 p.m. she was pronounced dead. She had a blood clot in her brai"
+    },
+    {
+      "page_num": 192,
+      "x": -1.628,
+      "y": -0.4853,
+      "cluster": 2,
+      "snippet": "“Headstones are expensive,” my father said, and walked back into the bedroom to sleep. In the end, Sabrina paid for a gravestone. She called me and, s"
+    },
+    {
+      "page_num": 193,
+      "x": -3.7421,
+      "y": -1.0536,
+      "cluster": 0,
+      "snippet": "“What does that even mean to people like us? There’s no such thing as official.” She cracked jokes for an hour, and then we fought. She wore a white d"
+    },
+    {
+      "page_num": 194,
+      "x": -4.412,
+      "y": 3.2281,
+      "cluster": 4,
+      "snippet": "“My heart feels like those green-plumed lovebirds who fall to the bottom of their cages when their partner passes away,” he said to me. I was moved by"
+    },
+    {
+      "page_num": 195,
+      "x": -3.3326,
+      "y": 2.8743,
+      "cluster": -1,
+      "snippet": "“Oh.”  “Do you want me to look up some numbers?”  For a long time I heard nothing, except for my father’s baby voice with the cat. Then he sighed. “Yo"
+    },
+    {
+      "page_num": 196,
+      "x": -2.3017,
+      "y": 1.1248,
+      "cluster": 1,
+      "snippet": "I STOOD INSIDE  the grassy expanse of Neukölln cemetery, by my mother’s grave, and I thought of this, of Setareh, and of the many  hours my father had"
+    },
+    {
+      "page_num": 197,
+      "x": -4.9225,
+      "y": 0.824,
+      "cluster": 3,
+      "snippet": "Good Girl  Nineteen  MARLOWE SHOWERED AND  put on Scriabin. He ironed his shirt over the edge of the coffee table, which he had padded with blankets. "
+    },
+    {
+      "page_num": 198,
+      "x": -3.1822,
+      "y": -0.3849,
+      "cluster": 0,
+      "snippet": "That humid evening, we were going to a fundraising dinner at the apartment of a girl with a delicate face. I had seen her at a party earlier. People a"
+    },
+    {
+      "page_num": 199,
+      "x": -3.9908,
+      "y": 1.9196,
+      "cluster": 1,
+      "snippet": "WHEN WE ARRIVED  at the apartment, I briefly forgot about the cause, as I was shocked by the interior architecture. It was one of those prewar buildin"
+    },
+    {
+      "page_num": 200,
+      "x": -6.5863,
+      "y": 0.4185,
+      "cluster": 3,
+      "snippet": "In one sweeping motion, Marlowe introduced me to a group of people as his friend, the aspiring photographer. They were wearing casual chic, and it was"
+    },
+    {
+      "page_num": 201,
+      "x": -5.9629,
+      "y": 0.3906,
+      "cluster": 3,
+      "snippet": "“It’s very special,” Lina said, and smiled at me without teeth. But I couldn’t stop exclaiming how beautiful everything was, as I feared I would lose "
+    },
+    {
+      "page_num": 202,
+      "x": -2.4276,
+      "y": 2.2467,
+      "cluster": 1,
+      "snippet": "“I think Nabokov is more poetic,” I said, without feeling the need to defend my choice. I had read only the most famous Baudelaire lines, but he seeme"
+    },
+    {
+      "page_num": 203,
+      "x": -2.4294,
+      "y": 0.1564,
+      "cluster": -1,
+      "snippet": "“Well, I know the women are suffering in unimaginable ways—really—and my mother has done a lot for Afghan women in the past,” said Lina. “There’s this"
+    },
+    {
+      "page_num": 204,
+      "x": -2.6287,
+      "y": -0.0124,
+      "cluster": -1,
+      "snippet": "I smiled to myself. Of course Lina was Iranian—the right Persian, not the barbarian breed from which I stemmed. Of course her mother would help. Their"
+    },
+    {
+      "page_num": 205,
+      "x": -4.9995,
+      "y": 0.0114,
+      "cluster": -1,
+      "snippet": "I wanted to excuse myself, but then Marlowe and a couple in matching linen stepped into the group and Gabriela asked me to explain more about my studi"
+    },
+    {
+      "page_num": 206,
+      "x": -5.0323,
+      "y": 2.1885,
+      "cluster": 4,
+      "snippet": "“What’s the matter with you?”  “Why? What’s the matter with you? You’re drunk.”  “Now, that’s very rich. You’re the one who’s drunk.” And then, lookin"
+    },
+    {
+      "page_num": 207,
+      "x": -5.443,
+      "y": 3.1662,
+      "cluster": 4,
+      "snippet": "It occurred to me that I should calm him down. It would have been the right thing to do. In one version of the night, I would have shut up, gone over "
+    },
+    {
+      "page_num": 208,
+      "x": -5.0654,
+      "y": 3.0004,
+      "cluster": 4,
+      "snippet": "He walked toward the other end of the hallway. Streetlights   filtered through the opaque window above the doorframe. He kicked the railing anew, with"
+    },
+    {
+      "page_num": 209,
+      "x": -5.5273,
+      "y": 2.5803,
+      "cluster": 4,
+      "snippet": "“Tell it to someone who cares.” He planted his hands firmly in his coat pockets. He looked handsome in his trench coat. I searched for that look in hi"
+    },
+    {
+      "page_num": 210,
+      "x": -4.9261,
+      "y": 3.2174,
+      "cluster": 4,
+      "snippet": "“You fell,” he repeated. Then stumbled back into the living room.  “You have mail,” he said. I still loved him, that sad beast. I followed  him into t"
+    },
+    {
+      "page_num": 211,
+      "x": -6.0454,
+      "y": 0.5725,
+      "cluster": 3,
+      "snippet": "Good Girl  Twenty  IT HAD BEEN  a week since the incident at the gala, and Marlowe told me he needed a break. All week I had lain in bed, wallowing in"
+    },
+    {
+      "page_num": 212,
+      "x": -5.6647,
+      "y": 1.6203,
+      "cluster": 3,
+      "snippet": "I TOLD MARLOWE  about London, but he didn’t react, besides a neutral  congratulations.  I finished work early and walked over to Eli’s, laughing about"
+    },
+    {
+      "page_num": 213,
+      "x": -4.8026,
+      "y": 1.0816,
+      "cluster": 3,
+      "snippet": "I CYCLED IN  the rain all the way from Eli’s apartment by Ankerklause to Marlowe’s house. I raced through Skalitzer Straße, all the world’s water stic"
+    },
+    {
+      "page_num": 214,
+      "x": -2.7707,
+      "y": 1.6802,
+      "cluster": 1,
+      "snippet": "“I fucking hate you,” I yelled, and other improbable things I do not like to recall anymore, but eventually embarrassment clarified my anger. Drained,"
+    },
+    {
+      "page_num": 215,
+      "x": -4.1461,
+      "y": -0.5032,
+      "cluster": 0,
+      "snippet": "“So what is wrong with you?” Romy asked, pouring more coffee  into our mugs. Anna had gone to buy groceries. They wanted to make pasta today and sushi"
+    },
+    {
+      "page_num": 216,
+      "x": -4.2549,
+      "y": -0.6053,
+      "cluster": 0,
+      "snippet": "“You know you have a problem, right? You’re addicted to him. Anna had the same thing with Erik. Thinking he could fill some void in her heart. All you"
+    },
+    {
+      "page_num": 217,
+      "x": -3.0766,
+      "y": 0.4666,
+      "cluster": -1,
+      "snippet": "“I am aware. I’m sorry.” I looked at her, infinitely removed. What was this sharp, acute twitch in my throat? A tear ran down my cheek. “I’m the worst"
+    },
+    {
+      "page_num": 218,
+      "x": -3.6785,
+      "y": -0.7185,
+      "cluster": 0,
+      "snippet": "She sat down opposite me and poured some sugar into her coffee, soy-milk creamer. The morning sun haloed her hair with an angelic crown. Her fingernai"
+    },
+    {
+      "page_num": 219,
+      "x": -4.188,
+      "y": -0.845,
+      "cluster": 0,
+      "snippet": "“What is that supposed to mean?” I tapped the ash into the metal ashtray we had stolen from a restaurant last summer.  “It means you’re going to be fi"
+    },
+    {
+      "page_num": 220,
+      "x": -5.0419,
+      "y": 0.6622,
+      "cluster": 3,
+      "snippet": "After dinner we went on a long stroll through Prenzlauer Berg, all the way to the big park with the wooden slide. I stopped at a Späti to buy a Diet C"
+    },
+    {
+      "page_num": 221,
+      "x": -4.2347,
+      "y": -0.6269,
+      "cluster": 0,
+      "snippet": "“Brunch tomorrow?” Anna asked when we got back to the apartment, cradling Taco in her arms.  “Yes,” I said. “I promise. And I will cook.”  “Hey,” Romy"
+    },
+    {
+      "page_num": 222,
+      "x": -4.0985,
+      "y": 2.031,
+      "cluster": 1,
+      "snippet": "Good Girl  Twenty-one  ON OUR TRIP  to Venice, I brought my Olympus and the heavy Nikkormat, as well as fifty euros’ worth of film—three rolls of blac"
+    },
+    {
+      "page_num": 223,
+      "x": -5.3604,
+      "y": 3.2457,
+      "cluster": 4,
+      "snippet": "We pushed our bags up bridges and down again, walking the length of the canal, and after unpacking and drinking limoncellos at a wooden bar with no ai"
+    },
+    {
+      "page_num": 224,
+      "x": -3.5719,
+      "y": 1.8231,
+      "cluster": 1,
+      "snippet": "I FOLLOWED HIM , but it was then as it is now: I was an uneasy tourist. I didn’t know how to behave normally. The school trips to Paris or Rome were m"
+    },
+    {
+      "page_num": 225,
+      "x": -4.9858,
+      "y": 1.7895,
+      "cluster": -1,
+      "snippet": "Venice burst and flared. We ascended, sweating, up cobblestoned streets, the Doge’s Palace: It was hard not to be blinded by  the light the domes coll"
+    },
+    {
+      "page_num": 226,
+      "x": -5.8154,
+      "y": 1.5219,
+      "cluster": 3,
+      "snippet": "“When you said something was ending, did you mean us?” I asked. He was walking a few steps in front of me.  He did not answer.  “Marlowe,” I said, “do"
+    },
+    {
+      "page_num": 227,
+      "x": -6.1445,
+      "y": 0.4241,
+      "cluster": 3,
+      "snippet": "Then it was time for Marlowe’s reading. I stood with my back against the wall, buoyed by the anonymity of the crowd. He stood  in the middle, his shoe"
+    },
+    {
+      "page_num": 228,
+      "x": -6.4431,
+      "y": 0.4475,
+      "cluster": 3,
+      "snippet": "After the reading, I dawdled in the corner. Observed him standing by the lectern. He was waiting for something, or someone, to come up to him, staring"
+    },
+    {
+      "page_num": 229,
+      "x": -6.2477,
+      "y": 1.2763,
+      "cluster": 3,
+      "snippet": "I SAW HIM  again in the afternoon, to drink a beer with Leon and Pauline, his friends from the firm. They hadn’t come to the reading, but everyone che"
+    },
+    {
+      "page_num": 230,
+      "x": -5.5627,
+      "y": 0.8241,
+      "cluster": 3,
+      "snippet": "Later in the evening, the heat of the city pulled through the windows of the hotel, and the light shone green, like a film of dust settling over walls"
+    },
+    {
+      "page_num": 231,
+      "x": -5.2341,
+      "y": 0.0421,
+      "cluster": -1,
+      "snippet": "Good Girl  Twenty-two  MARLOWE SHIELDED HIS  face and lit a cigarette. Then he loaded all the luggage into the trunk of the green cab. Leon and Paulin"
+    },
+    {
+      "page_num": 232,
+      "x": -2.7034,
+      "y": 2.7811,
+      "cluster": -1,
+      "snippet": "“Oh,” I said. “I did not know this.” His broken English turned into a singsongy lull, and the more he spoke, the more I was inclined to think that the"
+    },
+    {
+      "page_num": 233,
+      "x": -5.5252,
+      "y": 2.2421,
+      "cluster": 4,
+      "snippet": "The man regarded the shiny coins on his palm, and then he looked up at me and said, “They killed my brother,” and looked away again. “Ten months ago n"
+    },
+    {
+      "page_num": 234,
+      "x": -5.126,
+      "y": 2.1305,
+      "cluster": 4,
+      "snippet": "We had lemonades and gelato at the local gelateria, and when the check came, they said they didn’t accept credit cards. Marlowe shrugged and asked me "
+    },
+    {
+      "page_num": 235,
+      "x": -5.1939,
+      "y": 2.0473,
+      "cluster": 4,
+      "snippet": "“Then what do you mean?”  He laughed. “What do you think I mean? I mean this, the sincerity of this church. There’s no savagery here—I guess the gothi"
+    },
+    {
+      "page_num": 236,
+      "x": -6.0752,
+      "y": 0.4637,
+      "cluster": 3,
+      "snippet": "“You love a lot of things,” Marlowe said. “You need to learn to employ your critical-thinking faculties. Not everything is lovable.”  “You’re so borin"
+    },
+    {
+      "page_num": 237,
+      "x": -5.5496,
+      "y": 2.0865,
+      "cluster": 4,
+      "snippet": "“I’m not trying to hurt you. Don’t you love the Bible? Don’t you constantly want to give money to the church?”  I didn’t say anything. Tried to imagin"
+    },
+    {
+      "page_num": 238,
+      "x": -5.9451,
+      "y": 0.7887,
+      "cluster": 3,
+      "snippet": "Marlowe floated through the estate, leonine and determined. The gray in his hair collected the last rays of sunshine, and when we stood in the garden "
+    },
+    {
+      "page_num": 239,
+      "x": -2.5942,
+      "y": -0.879,
+      "cluster": -1,
+      "snippet": "Of course she wanted to humiliate me, the way old people love to injure the young. But I also saw in her condescension a version of myself; I understo"
+    },
+    {
+      "page_num": 240,
+      "x": -4.3018,
+      "y": 0.3021,
+      "cluster": -1,
+      "snippet": "“Eat one,” a waiter with red hair said, winking at me, and so I did. The smoky taste was foreign in my mouth. I remembered our ecstasy dinners, the sn"
+    },
+    {
+      "page_num": 241,
+      "x": -6.303,
+      "y": 0.1534,
+      "cluster": -1,
+      "snippet": "“Liszt’s piano,” Marlowe announced. “Isn’t it so incredible to see this piano right now?” I stared at the piano and nodded. It didn’t stir anything in"
+    },
+    {
+      "page_num": 242,
+      "x": -4.3879,
+      "y": 1.8961,
+      "cluster": 1,
+      "snippet": "Years later, when I developed the pictures, it wasn’t the one of him that struck me. It was mine. I sit there on the stairs, not entirely centered, in"
+    },
+    {
+      "page_num": 243,
+      "x": -6.2116,
+      "y": -0.6016,
+      "cluster": -1,
+      "snippet": "AS WE WALKED  back to the courtyard, I realized that taking ecstasy had been a bad idea. The fear that had overshadowed this trip hardened. The DJ acc"
+    },
+    {
+      "page_num": 244,
+      "x": -3.9149,
+      "y": 2.8585,
+      "cluster": -1,
+      "snippet": "“Well, I want to be an artist.” The rasp of my voice perturbed me. We stood facing the sea, looking out like two wives waiting for their husbands to r"
+    },
+    {
+      "page_num": 245,
+      "x": -4.8171,
+      "y": 1.8133,
+      "cluster": 1,
+      "snippet": "“Honey, are you okay?” the man asked me again, this time with more urgency.  I looked at the silhouette of the old ruins, lit up now by artificial yel"
+    },
+    {
+      "page_num": 246,
+      "x": -2.5167,
+      "y": 1.5402,
+      "cluster": 1,
+      "snippet": "LIFE FLUSHES THROUGH  me, and in return my soul is anguished to translate that movement. To make part of it real. It had little to do with me. I did n"
+    },
+    {
+      "page_num": 247,
+      "x": -5.3002,
+      "y": 3.2871,
+      "cluster": 4,
+      "snippet": "In the bathtub at the guesthouse, he combed my hair, brought me lemon tea. I sat there shivering like a child and couldn’t speak; the only words that "
+    },
+    {
+      "page_num": 248,
+      "x": -3.5709,
+      "y": 1.1087,
+      "cluster": 1,
+      "snippet": "Good Girl  Twenty-three  AFTER 9/11, EVERYTHING  burned. Not only did the towers go, the thousands of lives lost in those towers, office people and cl"
+    },
+    {
+      "page_num": 249,
+      "x": -1.0921,
+      "y": 1.7613,
+      "cluster": -1,
+      "snippet": "In the weeks following the attack, one of the buildings that housed asylum seekers on the outskirts of a Belgian town was burned down. The perpetrator"
+    },
+    {
+      "page_num": 250,
+      "x": -1.5081,
+      "y": -0.3051,
+      "cluster": 2,
+      "snippet": "But during the actual attack, my father was in California. We didn’t have papers yet, and for a month we didn’t hear from him, and my mother began sho"
+    },
+    {
+      "page_num": 251,
+      "x": -2.5323,
+      "y": 0.5188,
+      "cluster": -1,
+      "snippet": "SWASTIKAS TAGGED TO  our doors, the skinheads down the hall greeting us with predictable slurs. Their pink-gummed dogs on chains growled at us, techno"
+    },
+    {
+      "page_num": 252,
+      "x": -2.4027,
+      "y": 1.2821,
+      "cluster": 1,
+      "snippet": "EVERY DAY AT  school, an interrogation. I can still recall it, like a metallic, medical jolt—the first time I lied. A scene in the dim boarding school"
+    },
+    {
+      "page_num": 253,
+      "x": -1.8718,
+      "y": -0.1946,
+      "cluster": 2,
+      "snippet": "And then, when I was fifteen, my grandfather died, and instead of going to his funeral, I went to a rave. My body throbbing in a forest, the trees dec"
+    },
+    {
+      "page_num": 254,
+      "x": -5.7765,
+      "y": 0.2358,
+      "cluster": 3,
+      "snippet": "THE NEXT MORNING , a soft rain rippled the sky. I don’t know how much I had really revealed to Marlowe about my life. All day, I couldn’t speak. Our c"
+    },
+    {
+      "page_num": 255,
+      "x": -6.1238,
+      "y": -0.2883,
+      "cluster": -1,
+      "snippet": "Then, finally, our turn. I avoided looking at the driver. The trunk opened and I got into the car. Scent of pine cones, the furry sweater hanging over"
+    },
+    {
+      "page_num": 256,
+      "x": -3.0061,
+      "y": 1.3478,
+      "cluster": 1,
+      "snippet": "Good Girl  Twenty-four  AND YE SHALL  know the truth, and the truth shall make you free.  This is what the Bible says, what the priest once whispered "
+    },
+    {
+      "page_num": 257,
+      "x": -6.4713,
+      "y": 0.8784,
+      "cluster": 3,
+      "snippet": "RASHID HAD TOLD  me to stay in the car. “Who is this man?” Marlowe asked, then stared out the window, shaking his head, lips upturned into a light gri"
+    },
+    {
+      "page_num": 258,
+      "x": -2.6799,
+      "y": 2.3427,
+      "cluster": -1,
+      "snippet": "“Besharm hasti,”  he said, loudly and with confidence.  You have no shame.  How ironic, I wanted to respond; I do have shame, I am ashamed to be your "
+    },
+    {
+      "page_num": 259,
+      "x": -2.8113,
+      "y": 1.943,
+      "cluster": 1,
+      "snippet": "“You slut,” I whispered as I stroked its white tummy. My father’s and Rashid’s voices in the hallway sounded foreign, like I didn’t know them at all. "
+    },
+    {
+      "page_num": 260,
+      "x": -5.3694,
+      "y": 2.5214,
+      "cluster": 4,
+      "snippet": "He did not speak to me for four days. For the first two, he confiscated my phone and laptop. I was a child: I was grounded. Most of the day, I stayed "
+    },
+    {
+      "page_num": 261,
+      "x": -1.4889,
+      "y": -0.6699,
+      "cluster": 2,
+      "snippet": "Only Sabrina dared to really speak to me. Came over and sat by the foot of my bed and sighed. Brushed her fingers through my hair. She smelled of disi"
+    },
+    {
+      "page_num": 262,
+      "x": -2.1588,
+      "y": 0.7382,
+      "cluster": -1,
+      "snippet": "“There are things about her life—all our lives—you can’t really understand, so don’t make these grand pronouncements about strength and weakness. Did "
+    },
+    {
+      "page_num": 263,
+      "x": -2.677,
+      "y": 0.667,
+      "cluster": -1,
+      "snippet": "An astonishing image came to me, an image I had always taken for granted: the foreign books stacked in my parents’ living room, with their black and t"
+    },
+    {
+      "page_num": 264,
+      "x": -1.7657,
+      "y": 0.7146,
+      "cluster": 2,
+      "snippet": "I needed to understand, Sabrina said, that these people,  my people,  didn’t know better. They came from a country where girls are the caretakers of a"
+    },
+    {
+      "page_num": 265,
+      "x": -3.0687,
+      "y": 2.3698,
+      "cluster": -1,
+      "snippet": "“Or freer at least—out of everyone’s sight.” I thought of Werther shooting himself in the head at his desk,  Emilia Galotti  spread out in front of hi"
+    },
+    {
+      "page_num": 266,
+      "x": -4.6991,
+      "y": 2.3951,
+      "cluster": -1,
+      "snippet": "Good Girl  Twenty-five  IN JUNE MY  father lifted my house arrest so I could go to work again, but because I had not appeared for a month, I was fired"
+    },
+    {
+      "page_num": 267,
+      "x": -2.4989,
+      "y": 1.9442,
+      "cluster": 1,
+      "snippet": "But now, when I read about the RAF or other far-left terrorists, I flickered. I thought about Meena Keshwar Kamal—I brought out the portrait that was "
+    },
+    {
+      "page_num": 268,
+      "x": -5.1113,
+      "y": 2.267,
+      "cluster": 4,
+      "snippet": "He sighed. Took a gulp of his beer and lit a cigarette. He shook another one out of the pack and offered it to me, the long NIL lying flat in my palm."
+    },
+    {
+      "page_num": 269,
+      "x": -3.2577,
+      "y": 2.5595,
+      "cluster": -1,
+      "snippet": "“Everyone needs at least one dead parent.” The initial laughter dissipated into an awkward well of silence. Unsure what to do with my body, I went bac"
+    },
+    {
+      "page_num": 270,
+      "x": -2.0793,
+      "y": 1.7186,
+      "cluster": 2,
+      "snippet": "I wondered if he had always suspected my real heritage wasn’t Greek but was scared to ask. I remembered my mother saying,  I’m not crying,  while tear"
+    },
+    {
+      "page_num": 271,
+      "x": -2.7074,
+      "y": 2.9865,
+      "cluster": -1,
+      "snippet": "“So you’re Afghan. Like Osama bin Laden.” When he said the name, Rico appropriated an accent that I assumed he thought to be Arab—but it sounded Dutch"
+    },
+    {
+      "page_num": 272,
+      "x": -3.1801,
+      "y": 1.8026,
+      "cluster": 1,
+      "snippet": "I laughed, but my voice was still wobbly. I looked to the floor, remembering my father’s suspicions. Anna and Romy cuddling with such unabashed openne"
+    },
+    {
+      "page_num": 273,
+      "x": -3.9897,
+      "y": -1.3603,
+      "cluster": 0,
+      "snippet": "“There she is.” Doreen was laughing loudly in the upstairs hallway. She said she missed me. A large run in her tights exposed her pale, knobby knee. S"
+    },
+    {
+      "page_num": 274,
+      "x": -6.1011,
+      "y": 0.6749,
+      "cluster": 3,
+      "snippet": "“Really? I can bunny you all I want.” Marlowe reached out to touch my earring, a cheap, enamel-plated pinkish flower. “A peony.”  He stroked my earlob"
+    },
+    {
+      "page_num": 275,
+      "x": -5.1624,
+      "y": -0.8123,
+      "cluster": -1,
+      "snippet": "“We are not Spanish,” a girl shouted back after Rico complained about the sounds of their language. “We are Catalan.”  “Oh my God, I’m so sorry,” Dore"
+    },
+    {
+      "page_num": 276,
+      "x": -5.4877,
+      "y": 0.7492,
+      "cluster": 3,
+      "snippet": "MORE THAN TWENTY-FOUR  hours stretched and burst between the walls of the Bunker, time like the frail skin of a soap bubble. Ghouls rioted and licked,"
+    },
+    {
+      "page_num": 277,
+      "x": -4.2037,
+      "y": 1.2191,
+      "cluster": -1,
+      "snippet": "We were cattle; we had to be shepherded. I felt vulnerable and exposed, as if a burning lesion studied under a microscope. There was nowhere to hide—a"
+    },
+    {
+      "page_num": 278,
+      "x": -5.6998,
+      "y": 0.2833,
+      "cluster": 3,
+      "snippet": "Good Girl  Twenty-six  IN THE DUSKY  light of that Monday evening in June, Marlowe came out in a frenzy, dragging with him a girl—I had not noticed he"
+    },
+    {
+      "page_num": 279,
+      "x": -5.1582,
+      "y": 0.8218,
+      "cluster": 3,
+      "snippet": "“I don’t want to go home yet. Let’s stay here. Everyone, this is Lexi, and she will get us some booze, right?” A violent expression opened on his face"
+    },
+    {
+      "page_num": 280,
+      "x": -5.9319,
+      "y": 0.8021,
+      "cluster": 3,
+      "snippet": "“Men have once again proved their worthlessness,” Lexi said. Annoyed but entertained by the complications, we ambled through the backstreets to Marlow"
+    },
+    {
+      "page_num": 281,
+      "x": -6.4285,
+      "y": 1.4487,
+      "cluster": 3,
+      "snippet": "“And who are you?” American Football was looking straight at me. His pupils were like black planets ringed by a skinny band of green. There was a craz"
+    },
+    {
+      "page_num": 282,
+      "x": -3.8378,
+      "y": 0.561,
+      "cluster": 1,
+      "snippet": "I walked into the kitchen and knelt in front of the small fridge. The drugs in the freezer had multiplied. A giant rock of solidified speed. And a pla"
+    },
+    {
+      "page_num": 283,
+      "x": -5.1389,
+      "y": 0.6301,
+      "cluster": 3,
+      "snippet": "Lexi rolled her eyes and fished for another kiwi, and I wondered how much they had established in the few minutes I was gone. “You should calm down, d"
+    },
+    {
+      "page_num": 284,
+      "x": -6.4446,
+      "y": 1.6224,
+      "cluster": 3,
+      "snippet": "American Football nodded and grinned after snorting a line, evidently impressed. “How are you supposed to argue with that?”  I was laughing incredulou"
+    },
+    {
+      "page_num": 285,
+      "x": -2.8416,
+      "y": 2.8373,
+      "cluster": -1,
+      "snippet": "“There’s this amazing gun, vintage, with a silencer,” he said with a loud voice. “They sell them right down the block from here, actually. You could j"
+    },
+    {
+      "page_num": 286,
+      "x": -6.532,
+      "y": 1.5787,
+      "cluster": 3,
+      "snippet": "Rico muttered a recital of  fuck s, then put the headphones back on. Finally, he turned down the music.  “This plethora of drugs,” Young Elvis said as"
+    },
+    {
+      "page_num": 287,
+      "x": -4.4527,
+      "y": 1.8841,
+      "cluster": 1,
+      "snippet": "He threw a cigarette at me. Unaware of what to do or say, I lit it.  “What the fuck, man,” Eli said. “Don’t you have something else to talk about?”  “"
+    },
+    {
+      "page_num": 288,
+      "x": -6.5015,
+      "y": 0.6312,
+      "cluster": 3,
+      "snippet": "“I think it’s time to finish the evening,” Marlowe said quietly. Looking at him, I felt a sympathy so intense it was as if I became him, seeing the ro"
+    },
+    {
+      "page_num": 289,
+      "x": -5.2807,
+      "y": 0.5893,
+      "cluster": 3,
+      "snippet": "Good Girl  Twenty-seven  WITH THREE FEET  between us, Marlowe and I walked down Warschauer Straße, over Grünberger Straße, through the fizz of a summe"
+    },
+    {
+      "page_num": 290,
+      "x": -6.1221,
+      "y": 1.3348,
+      "cluster": 3,
+      "snippet": "We settled on an empty bar on Warschauer Straße and sat down at a table facing the street. Eighties pop murmured from the speakers, and a young man wi"
+    },
+    {
+      "page_num": 291,
+      "x": -2.9844,
+      "y": 1.0825,
+      "cluster": 1,
+      "snippet": "“Okay,” I said, but I was hurt. I gathered myself, my memories, into a tidy pile and arbitrarily fished for truths. Boarding school, the dark dome of "
+    },
+    {
+      "page_num": 292,
+      "x": -4.1667,
+      "y": 3.1386,
+      "cluster": 4,
+      "snippet": "“It’s the artist’s itch,” he said. He blew a few strands of hair out of his eyes and took my hand into his, fingers intertwined. “What you’re feeling,"
+    },
+    {
+      "page_num": 293,
+      "x": -6.1967,
+      "y": 1.3103,
+      "cluster": 3,
+      "snippet": "Marlowe nodded and breathed heavily. He went into the kitchen and returned with a drink of vodka, taking a sip before setting it down on the coffee ta"
+    },
+    {
+      "page_num": 294,
+      "x": -4.4121,
+      "y": 3.1614,
+      "cluster": 4,
+      "snippet": "“Everything is fucking broken.” He pulled at his sleeve and brushed his hands through his hair. The image of the thin man whom I had just photographed"
+    },
+    {
+      "page_num": 295,
+      "x": -4.6473,
+      "y": 1.9581,
+      "cluster": 1,
+      "snippet": "I felt cold and looked at my knees, studying the fine dark hair on my thighs. I wish I had been able to document this scene from above: the naked nine"
+    },
+    {
+      "page_num": 296,
+      "x": -5.9562,
+      "y": 0.0155,
+      "cluster": 3,
+      "snippet": "Good Girl  Twenty-eight  DOREEN PICKED US  up in her red Toyota, Eli asleep in the passenger seat, his hoodie pulled over his head. The car was full o"
+    },
+    {
+      "page_num": 297,
+      "x": -4.1861,
+      "y": 0.1195,
+      "cluster": -1,
+      "snippet": "A MONTH HAD  passed since I moved in with Marlowe. Instead of paying 430 euros for matriculation for the fall semester, I decided to contribute money "
+    },
+    {
+      "page_num": 298,
+      "x": -5.9311,
+      "y": 1.9328,
+      "cluster": -1,
+      "snippet": "“Maybe Adrienne will finally marry you now,” I said, and he  threw the glass ashtray at me. I collected bruises: on my arm, my thigh. A split lip he l"
+    },
+    {
+      "page_num": 299,
+      "x": -6.3415,
+      "y": -0.5511,
+      "cluster": -1,
+      "snippet": "Music boomed from various campsites, the competing soundwaves not canceling one another out but creating a disgusting tapestry that nestled in your ea"
+    },
+    {
+      "page_num": 300,
+      "x": -6.5836,
+      "y": 0.0443,
+      "cluster": -1,
+      "snippet": "THE MAN IN  red pants was still doing a handstand, only now he was also doing the splits. Marlowe pretended to be a tour guide, introducing each part "
+    },
+    {
+      "page_num": 301,
+      "x": -6.0114,
+      "y": -0.9717,
+      "cluster": -1,
+      "snippet": "We got beers and strolled westward, and I had the strange sensation that the festival was trapped under a bell jar: Mothers cradled their barefoot chi"
+    },
+    {
+      "page_num": 302,
+      "x": -3.6785,
+      "y": 1.6879,
+      "cluster": 1,
+      "snippet": "DOREEN KEPT TALKING  about how wonderful it was that there were no police allowed on-site because it was private property, and I was skeptical, though"
+    },
+    {
+      "page_num": 303,
+      "x": -2.9959,
+      "y": 2.547,
+      "cluster": -1,
+      "snippet": "“With Nikita? Am I not enough?” I tried to make it sound like a joke, but there was nothing funny about the way my voice trembled, the question hard l"
+    },
+    {
+      "page_num": 304,
+      "x": -6.2879,
+      "y": 1.0042,
+      "cluster": 3,
+      "snippet": "“Hey.” Marlowe put his hand on my neck. But I was made of stone, so he gathered the skin between two fingers and pinched it slowly, and when I still d"
+    },
+    {
+      "page_num": 305,
+      "x": -5.5117,
+      "y": 0.5518,
+      "cluster": 3,
+      "snippet": "Good Girl  Twenty-nine  OVERNIGHT, THE TENT  turned into a sweltering, suffocating container. Sweat pooled under the polyester sleeping bag. The light"
+    },
+    {
+      "page_num": 306,
+      "x": -4.2547,
+      "y": -1.2087,
+      "cluster": 0,
+      "snippet": "AFTER BREAKFAST, DOREEN  and I walked to the open-air shower stalls, where people lined up with towels under their arms to climb into adjacent curtain"
+    },
+    {
+      "page_num": 307,
+      "x": -3.8945,
+      "y": 1.4249,
+      "cluster": 1,
+      "snippet": "ALL WEEKEND I  had not seen a single skinhead. Still, there was darkness in the air; I could sense it in people’s eyes when I stared  for too long. Th"
+    },
+    {
+      "page_num": 308,
+      "x": -6.2759,
+      "y": 0.4944,
+      "cluster": 3,
+      "snippet": "The instructor crouched on a white platform and didn’t really move. She had a French accent and bleached hair. Marlowe picked a spot near the wall on "
+    },
+    {
+      "page_num": 309,
+      "x": -5.9578,
+      "y": -0.742,
+      "cluster": -1,
+      "snippet": "I WANDERED UNTIL  it got dark, but I liked getting lost: A punk show, where everyone seemed to be having the time of their lives and moshed like it wa"
+    },
+    {
+      "page_num": 310,
+      "x": -4.6557,
+      "y": 1.638,
+      "cluster": -1,
+      "snippet": "“Sorry,” I said to the anonymous crowds. “Sorry.” My words leapt, and I needed to make sure I wasn’t hallucinating, but people were having too much fu"
+    },
+    {
+      "page_num": 311,
+      "x": -2.5767,
+      "y": 1.8716,
+      "cluster": 1,
+      "snippet": "“Meena Street. Why? You don’t look too good; do you want to sit down?” What I needed was not to sit down but to be sick on the wet grass. Eli awkwardl"
+    },
+    {
+      "page_num": 312,
+      "x": -6.2588,
+      "y": -0.6302,
+      "cluster": -1,
+      "snippet": "BY THE TIME  it started to pour, we’d returned to the campsite, where the others had promised to wait with pizzas, but when we finally found the red T"
+    },
+    {
+      "page_num": 313,
+      "x": -5.3648,
+      "y": 1.0958,
+      "cluster": 3,
+      "snippet": "“I’m grateful that we lost the others,” I said. “Is that making me a bad person?”  Eli smiled. “It doesn’t make you a bad person, don’t worry. Besides"
+    },
+    {
+      "page_num": 314,
+      "x": -5.1333,
+      "y": 1.2563,
+      "cluster": 3,
+      "snippet": "“I think I regret the situation I’m in, and I’m sure there’s a way out, but sometimes you walk in the same direction for so long it seems impossible t"
+    },
+    {
+      "page_num": 315,
+      "x": -3.1416,
+      "y": 3.0421,
+      "cluster": -1,
+      "snippet": "“If I were to believe in fate, I would have to think it’s all fate, the macroscopic and the microscopic. There is no free will in a predeterminate uni"
+    },
+    {
+      "page_num": 316,
+      "x": -6.4981,
+      "y": 1.0174,
+      "cluster": 3,
+      "snippet": "“This tear is the saddest thing I have seen in my whole life,” he said, wiping it away, and it took a lot of restraint for me not to rupture. He said "
+    },
+    {
+      "page_num": 317,
+      "x": -5.9789,
+      "y": -0.1032,
+      "cluster": 3,
+      "snippet": "ON THE RIDE  back, Marlowe drove, and I sat shotgun. Eli was asleep in the back seat with his hood pulled over his head. Doreen chitchatted about this"
+    },
+    {
+      "page_num": 318,
+      "x": -5.5707,
+      "y": 0.9944,
+      "cluster": 3,
+      "snippet": "Good Girl  Thirty  THE FREEZER DOOR  hung open, and the drugs were gone, and Marlowe said he couldn’t imagine who on earth could have burglarized the "
+    },
+    {
+      "page_num": 319,
+      "x": -2.9662,
+      "y": 0.6294,
+      "cluster": -1,
+      "snippet": "A new co-worker, a Somali girl with glossy eyes, endured rotten jokes at work, and a dreadful love for her broke open in me. If I had it bad here, the"
+    },
+    {
+      "page_num": 320,
+      "x": -4.5533,
+      "y": 2.4139,
+      "cluster": -1,
+      "snippet": "“Inventory! Count the scrunchies,” they said, and I did. Twenty-three scrunchies. I folded shirts, rang up customers, smiled at them. I counted the ho"
+    },
+    {
+      "page_num": 321,
+      "x": -3.8734,
+      "y": 0.9164,
+      "cluster": 1,
+      "snippet": "Good Girl  Thirty-one  SEPTEMBER WOBBLED; OCTOBER  flitted by. By November, the news was all we talked about. It was too hot and windy, the sky too cl"
+    },
+    {
+      "page_num": 322,
+      "x": -3.2995,
+      "y": 2.973,
+      "cluster": -1,
+      "snippet": "“Nila. It’s okay. It’s okay.” He sounded very young on the other end.  “What happened?”  “They shot three people,” he said.  “Who?”  “They came to the"
+    },
+    {
+      "page_num": 323,
+      "x": -1.1731,
+      "y": 1.9913,
+      "cluster": -1,
+      "snippet": "THE NEWS REPORTS  said the shooter was a man in his thirties,  European-looking.  He loaded up one Astra P3 600 and a Walther M2, rode his black bicyc"
+    },
+    {
+      "page_num": 324,
+      "x": -1.2423,
+      "y": 1.9805,
+      "cluster": -1,
+      "snippet": "On Tuesday afternoon, Mirko H., a thirty-two-year-old unemployed accountant with wild, prematurely gray curls, green eyes, and a history of depression"
+    },
+    {
+      "page_num": 325,
+      "x": -1.0447,
+      "y": 1.8166,
+      "cluster": -1,
+      "snippet": "A few days later I was passing a newsstand near Rosenthaler Platz when I saw it on the front page of  Bild:  the Pink Panther smirking and pointing a "
+    },
+    {
+      "page_num": 326,
+      "x": -0.9476,
+      "y": 1.7968,
+      "cluster": -1,
+      "snippet": "TWO WEEKS LATER , a bank robbery went wrong outside Frankfurt, and they found the offenders—two men who also escaped on bicycles. They turned out to b"
+    },
+    {
+      "page_num": 327,
+      "x": -1.1003,
+      "y": 1.8866,
+      "cluster": -1,
+      "snippet": "MUCH WAS MADE  of their radicalization. Mirko H., the Neukölln shooter, was a late addition, their “dim-witted” cousin. They had grown up in the same "
+    },
+    {
+      "page_num": 328,
+      "x": -0.9696,
+      "y": 1.731,
+      "cluster": -1,
+      "snippet": "The trial for the woman took years. But her police confession corroborated the Pink Panther video: She claimed the group was responsible for all of th"
+    },
+    {
+      "page_num": 329,
+      "x": -3.2122,
+      "y": 1.0846,
+      "cluster": 1,
+      "snippet": "Good Girl  Thirty-two  SOMETHING BIG HAPPENS.  Something bigger than you. My mother marches at a student protest in 1984, wearing suede boots, the sun"
+    },
+    {
+      "page_num": 330,
+      "x": -3.6254,
+      "y": 1.4414,
+      "cluster": 1,
+      "snippet": "These thoughts passed through me as I stared for ten minutes at a photograph of my father; he is with his cousins, presumably, though these other men "
+    },
+    {
+      "page_num": 331,
+      "x": -6.2413,
+      "y": -0.7924,
+      "cluster": -1,
+      "snippet": "The protest was small, maybe only two hundred people gathered. At the few protests I had gone to before—most of them for environmental justice, attend"
+    },
+    {
+      "page_num": 332,
+      "x": -0.9189,
+      "y": 1.7341,
+      "cluster": -1,
+      "snippet": "MOSQUES WERE VANDALIZED,  death threats sent to synagogues, carefully typed up on the back side of postcards with Botticelli prints. A package of fece"
+    },
+    {
+      "page_num": 333,
+      "x": -6.3645,
+      "y": -0.6735,
+      "cluster": -1,
+      "snippet": "I WAS EXHAUSTED  by the time we were done with the march. Back at Alexanderplatz, trash filled the train station, fluorescent light bathing the commut"
+    },
+    {
+      "page_num": 334,
+      "x": -2.6733,
+      "y": 1.5628,
+      "cluster": 1,
+      "snippet": "I woke up with my hands balled into fists, feeling a hatred that  wasn’t mine exactly but a hatred inherited from other worlds and peoples moving thro"
+    },
+    {
+      "page_num": 335,
+      "x": -5.9158,
+      "y": 1.1774,
+      "cluster": 3,
+      "snippet": "Good Girl  Thirty-three  THE CAFÉ, LOCATED  on a busy street in Kreuzberg, had a glass front and was infamous for its vegan patisserie and the C-list "
+    },
+    {
+      "page_num": 336,
+      "x": -5.2665,
+      "y": 2.3775,
+      "cluster": 4,
+      "snippet": "I walked away and sat down at a table by the windows. I knew he needed my money to pay, since he spent his salary on music equipment and drugs, but I "
+    },
+    {
+      "page_num": 337,
+      "x": -6.116,
+      "y": 1.0559,
+      "cluster": 3,
+      "snippet": "When Marlowe returned with the cake and coffee, I barely listened to him. I was arrested by the conversation at the other table. From what I gathered,"
+    },
+    {
+      "page_num": 338,
+      "x": -4.4933,
+      "y": -0.1598,
+      "cluster": -1,
+      "snippet": "Good Girl  Thirty-four  THE PLAN FOR  that Sunday was for Romy to pick me up in the afternoon: Anna had left to study abroad in Madrid for a semester,"
+    },
+    {
+      "page_num": 339,
+      "x": -4.807,
+      "y": 0.8402,
+      "cluster": 3,
+      "snippet": "“We need to eat,” Romy said, and fiddled with the radio, and Leonard Cohen was singing of getting head in the Chelsea Hotel, and we both started laugh"
+    },
+    {
+      "page_num": 340,
+      "x": -3.8349,
+      "y": 1.9731,
+      "cluster": 1,
+      "snippet": "We drove to Ikea and purchased the cheapest of everything: a clothing rack, a nightstand, some bedsheets, and a lamp. It took only a few nights and th"
+    },
+    {
+      "page_num": 341,
+      "x": -3.6215,
+      "y": 2.0286,
+      "cluster": 1,
+      "snippet": "“You have a very good eye,” the Asian grandfather at the photo studio said to me when I picked up the negatives and asked for a print. “Like that woma"
+    },
+    {
+      "page_num": 342,
+      "x": -3.6551,
+      "y": 2.1924,
+      "cluster": 1,
+      "snippet": "All the pictures that had been taken since: Gerda Taro’s photographs, her shot of a high-heeled woman training for the militia, one knee on the ground"
+    },
+    {
+      "page_num": 343,
+      "x": -3.2023,
+      "y": 0.885,
+      "cluster": 1,
+      "snippet": "Good Girl  Thirty-five  IN MARCH, ON  a surprisingly sunny yet icy weekend, I met Eli at the Landwehrkanal, and after a long walk we climbed over the "
+    },
+    {
+      "page_num": 344,
+      "x": -3.3809,
+      "y": 2.4031,
+      "cluster": -1,
+      "snippet": "It felt urgent to tell him now. “When we were together there in that forest in the rain, there was something I tried to tell you. . . . I get that thi"
+    },
+    {
+      "page_num": 345,
+      "x": -2.8228,
+      "y": 2.8025,
+      "cluster": -1,
+      "snippet": "“I get it,” he said. “Technically, I believe I’m supposed to be Muslim too. Or my ancestors were, in the past. I am not sure if I ever told you that.”"
+    },
+    {
+      "page_num": 346,
+      "x": -4.6977,
+      "y": 1.2964,
+      "cluster": 3,
+      "snippet": "WE TOOK THE  U-Bahn to his and Doreen’s place, where we sat at the kitchen table he had brought over from his old apartment, that table I had sat at d"
+    },
+    {
+      "page_num": 347,
+      "x": -5.1378,
+      "y": -0.5094,
+      "cluster": -1,
+      "snippet": "“Oh, Doreen must have forgotten her keys,” Eli said, and  walked to the buzzer and sat back down. And through the heavy white door came Doreen, carryi"
+    },
+    {
+      "page_num": 349,
+      "x": -6.3838,
+      "y": -0.7459,
+      "cluster": -1,
+      "snippet": "IN APRIL, I  emailed the admissions offices at all three universities from the prior year and asked if, by some stroke of luck, my earlier application"
+    },
+    {
+      "page_num": 350,
+      "x": -1.7028,
+      "y": -0.0328,
+      "cluster": 2,
+      "snippet": "A FEW WEEKS  later, I went to the grave site of the Qurbanis and put down a bouquet of violet hydrangeas. The brothers were buried in a large internat"
+    },
+    {
+      "page_num": 351,
+      "x": -3.4208,
+      "y": 2.6955,
+      "cluster": -1,
+      "snippet": "IN THE LIVING  room, my father sat on the orange sofa, peeling mandarins. The cat slept next to him, on the arm of the couch. A wave of tenderness fil"
+    },
+    {
+      "page_num": 352,
+      "x": -2.6016,
+      "y": 2.9034,
+      "cluster": -1,
+      "snippet": "I couldn’t sense where he wanted to go with this question, and I yawned.  “We named you Nilab because the river in Kabul empties into the Indus—you kn"
+    },
+    {
+      "page_num": 353,
+      "x": -2.1747,
+      "y": 1.6958,
+      "cluster": 2,
+      "snippet": "Of course, I couldn’t tell him that I hadn’t forgotten where I  was from. That everything in my life had occurred exactly in this way because I couldn"
+    },
+    {
+      "page_num": 354,
+      "x": -3.9153,
+      "y": 1.6462,
+      "cluster": 1,
+      "snippet": "AFTER MY FATHER  fell asleep, I walked into the quiet of my room, shadows playing on my window. I thought of the history of this building, all the oth"
+    },
+    {
+      "page_num": 355,
+      "x": -3.3508,
+      "y": 2.5565,
+      "cluster": -1,
+      "snippet": "Nil,  like indigo, like Nile, and  ab,  like water. Water of the Nile. My name, a strange percussion on my tongue. Not so special after all. The  b  I"
+    },
+    {
+      "page_num": 356,
+      "x": -2.8886,
+      "y": 0.4193,
+      "cluster": -1,
+      "snippet": "Good Girl  Acknowledgments  Let me express gratitude to the following people and institutions:  To Bill Clegg, the genius, an angel of an agent, my fi"
+    },
+    {
+      "page_num": 357,
+      "x": -1.8817,
+      "y": 0.5784,
+      "cluster": 2,
+      "snippet": "To my parents and sister, Sima, Farid, and Nadine, for the relentless, infinite support and love. I would be no one without you."
+    },
+    {
+      "page_num": 358,
+      "x": -2.9357,
+      "y": 0.2659,
+      "cluster": -1,
+      "snippet": "Good Girl  About the Author  Aria Aber was born and raised in Germany and now lives in the United States. Her debut poetry collection,  Hard Damage,  "
+    },
+    {
+      "page_num": 359,
+      "x": -3.4031,
+      "y": -0.0645,
+      "cluster": -1,
+      "snippet": "Good Girl  CONTENTS  Cover  Halftitle Page  Dedication Page  Title Page  Contents  Part One  One  Two  Three  Four  Five  Six  Seven  Eight  Nine  Ten"
+    },
+    {
+      "page_num": 360,
+      "x": -3.4536,
+      "y": -0.1292,
+      "cluster": -1,
+      "snippet": "184  185  186  187  188  189  190  191  192  193  194  195  196  197  198  199  200  201  202  203  204  205  206  207  208  209  210  211  212  213  "
+    }
+  ],
+  "cluster_samples": {
+    "4": [
+      {
+        "page": 1,
+        "snippet": "Good Girl\n\nWas he an animal if music could move him so? He felt as if the path to the unknowable sustenance for which he yearned was coming to light.\n\nF\nRANZ\n\nKAFKA\n, \nThe Metamorphosis"
+      },
+      {
+        "page": 11,
+        "snippet": "“I’m sorry, it’s just so tight in here,” he said. Against the visual noise of stickers and tags, I studied the rest of him: V-neck of his green shirt, golden necklace with a coin that refracted the li"
+      },
+      {
+        "page": 13,
+        "snippet": "“You’re very beautiful,” he said. I started laughing and threw my head back, because I had never been beautiful. I had a strong, regal look to my face due to my high cheekbones and my almond-shaped ey"
+      },
+      {
+        "page": 17,
+        "snippet": "“I didn’t realize you could hear the floors move, even here, so high up.”\n\n“The building breathes. It’s alive,” he said as he walked into the kitchen.\n\n“Put on some music,” I shouted from the shag car"
+      },
+      {
+        "page": 18,
+        "snippet": "“You take pictures?” I asked when he returned carrying a blue tile with little white maids painted on it. He had put on a brown sweater, and his shoulders looked broader and bulkier than before. My de"
+      }
+    ],
+    "1": [
+      {
+        "page": 2,
+        "snippet": "Good Girl\n\nOne\n\nTHE TRAIN BACK\n to Berlin took seven hours, and the towel in my suitcase was still wet from my last swim in the lake, dampening the pages of my favorite books. I took the S-Bahn and th"
+      },
+      {
+        "page": 3,
+        "snippet": "Back then, I still wanted to be a photographer, a small Olympus point-and-shoot knocking around in my backpack. In my first days back, Berlin bloomed at the seams with rotten garbage. Ants crawled out"
+      },
+      {
+        "page": 4,
+        "snippet": "AUTUMN WAS SHORT\n and humid, and then, overnight, it was winter. On the news, I saw middle-aged men with pearlescent smiles and young blond TV anchors in starched suits reporting about the financial c"
+      },
+      {
+        "page": 19,
+        "snippet": "“No.” I smirked. “I’m just a student. Philosophy and art history.”\n\n“Hmm. And you’re a real Berliner, then?”\n\nI nodded.\n\n“How was it growing up here?” I recalled the broken elevator lamp with the cobw"
+      },
+      {
+        "page": 30,
+        "snippet": "AFTER I LOCKED\n myself in the bathroom, I installed three fingers into the cavern of my throat and immediately vomited the contents of the last wine into the ceramic bowl. It was an attempt to sober m"
+      }
+    ],
+    "3": [
+      {
+        "page": 10,
+        "snippet": "“Hey. I’m Marlowe.” Everybody knew who he was: the American writer who always carried speed. He had published a book in his early twenties, which was translated into a few languages. I had seen a pict"
+      },
+      {
+        "page": 14,
+        "snippet": "“Where were you?” I kissed her cheek. I introduced her to Marlowe, and she pointed at the group of people she came with, no one I recognized. She had a doll’s face, and the entire time she spoke, her "
+      },
+      {
+        "page": 43,
+        "snippet": "Good Girl\n\nFive\n\nTHE WEEK THAT\n followed was devoid of communication. Marlowe didn’t text me, and mostly I was embarrassed by the crush I was developing. In vain, I tried to google the photograph from"
+      },
+      {
+        "page": 47,
+        "snippet": "FOR A WEEK\n, the only fresh air I breathed was the cold wind on the balcony, where I smoked when my father wasn’t home, watching the bus stop and boys loitering outside the shisha bar. Otherwise, I st"
+      },
+      {
+        "page": 52,
+        "snippet": "Good Girl\n\nSix\n\nBECAUSE HE NEVER\n texted me, I tried to engineer artificial run-ins with Marlowe: I went to every party, eyeliner caked on my lids, wearing my old, oversized suede jacket with black co"
+      }
+    ],
+    "2": [
+      {
+        "page": 33,
+        "snippet": "MY PARENTS, YOU\n understand, were doing okay in the other country. Karim fell in love with Anahita’s long black hair in a college chemistry class, and a year later they were married behind the barbed "
+      },
+      {
+        "page": 34,
+        "snippet": "But exile makes you do the strangest things: When they arrived in Prague, border control forbade my mother from bringing in “foreign seeds.” Wordlessly, she ripped the dying petals off the stems and a"
+      },
+      {
+        "page": 35,
+        "snippet": "MY MOTHER STARTED\n working at the local retirement home under the euphemized title of “nurse,” though really she was just a maid for old people. My father applied for one job after the other, yet the "
+      },
+      {
+        "page": 36,
+        "snippet": "My parents coasted in and out of unemployment and took out loans to fund my schooling, keen to return to the social class from which they had been ripped. If they couldn’t do it, then perhaps I could—"
+      },
+      {
+        "page": 37,
+        "snippet": "MY FATHER HAD\n a good heart, the disposition of an artist. Too sensitive to face the cruelties of earth, his face lined with Nietzschean \nUrschmerz.\n And still he was a tyrant. \nI hate that everything"
+      }
+    ],
+    "0": [
+      {
+        "page": 58,
+        "snippet": "“I’m Doreen,” she said, and I suddenly felt overwhelmed by her physical presence: her clammy hand resting on my shoulder, the salt and sweat of her body odor mixed with a heavy perfume. I forgot my pl"
+      },
+      {
+        "page": 63,
+        "snippet": "“Yes,” she said. “But it’s complicated.” On her face a worried expression, or a warning, I couldn’t tell. What I knew, however,\n was that I was not invited to ask further questions. We sat on the stoo"
+      },
+      {
+        "page": 91,
+        "snippet": "“Of course I think about her, but there’s never been a response, even after I sent her the book. She’s married now and lives somewhere in L.A., doing media work. Her husband works at a bank, I think. "
+      },
+      {
+        "page": 118,
+        "snippet": "“Okay,” I relented. She stood very close to me, putting a hand on my shoulder.\n\n“You’re cute,” she whispered. Her breath was warm, and she smelled of sourdough bread and rosewater. “I love your freckl"
+      },
+      {
+        "page": 122,
+        "snippet": "“Yes, I’m sorry.” The abrasive speed trickled down my throat.\n\n“You are sorry.”\n\n“The whole thing is kind of an accident,” I said.\n\n“An accident? You slipped on the floor and fell on his dick? Repeate"
+      }
+    ]
+  },
+  "cluster_labels": {
+    "0": "Bodies & Intimate Encounters",
+    "1": "Berlin Homecoming",
+    "2": "Exile & Family Origins",
+    "3": "Marlowe & the Literary Scene",
+    "4": "Club Culture & Music"
+  }
+}
