@@ -17,3 +17,7 @@ Thumbs.db
 # Node
 node_modules/
 dist/
+
+# Stress-test generated files (mock-books.js output — do not commit)
+dashboard/public/data/*.stress.json
+dashboard/public/data/mock-*.json
