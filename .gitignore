@@ -1,0 +1,15 @@
+# Planning docs (local only)
+.planning/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Google credentials
+config/credentials.json
+config/token.json
+
+# OS
+.DS_Store
+Thumbs.db
