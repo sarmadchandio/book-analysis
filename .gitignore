@@ -29,3 +29,6 @@ HANDOFF.md
 # Local dev leftovers
 playwright.config.js
 tests/
+
+# Stray research PDFs dropped at repo root
+/*.pdf
